@@ -1,5 +1,5 @@
 {
- "count": 40,
+ "count": 42,
  "items": [
   {
    "author": "yedabinbinah",
@@ -187,6 +187,17 @@
    "title": "Meta 发布 Muse Ember 1.0：输入 $0.10/百万 token，同等任务成本约 Haiku 5.5 的三分之一",
    "url": "https://x.com/0xjackkk/status/2119871764058787966",
    "value": "低价小模型，API 重度用户可省约三分之二任务成本；无免费额度"
+  },
+  {
+   "author": "tantanyuli",
+   "category": "软件工具",
+   "expiry_date": "无截止日期（长期可用）",
+   "id": 42,
+   "notes": "来源20：常看号 tantanyuli；可验证25：GitHub akfamily/akshare 与 PyPI 均已核实，MIT 开源、pip install akshare 即用、无需注册或 API Key，2026-11-01 仍有提交、最新版 v1.20.23（11月3日）；价值12：免费开源工具，替代付费行情数据接口，对量化爱好者有实际节省；时效15：长期可用；风险10：开源免费、零门槛。注意：数据仅供学术研究、接口依赖上游网站改版可能失效。",
+   "score": 82,
+   "title": "AKShare 开源金融数据接口库：免费、无需注册或 API Key",
+   "url": "https://x.com/tantanyuli/status/2119873155342733805",
+   "value": "免费开源 Python 金融数据接口（股票/期货/基金/期权/外汇/债券/指数），一行调取 DataFrame；非 Python 用户可用 AKTools 走 HTTP"
   },
   {
    "author": "yedabinbinah",
@@ -398,6 +409,17 @@
    "value": "48 小时内填邀请码，双方各得 10 亿 token"
   },
   {
+   "author": "白嫖福利推送",
+   "category": "云服务器",
+   "expiry_date": "2026-11-13",
+   "id": 41,
+   "notes": "来源10：TG 频道转述 NodeSeek 论坛帖，非官方；可验证25：NodeSeek 原帖 post-1042788 已打开核实，抽奖与优惠码均与转发一致；价值12：抽奖奖品仅1份（TW-HiNet-NAT-P1 1个月免费），但全场月付7折、年付2–5折是实打实的折扣，按量购买年省数十美元量级；时效15：抽奖11月10日开始、11月13日开奖，进行中；风险5：抽奖参与方式为点站内链接，正文未写注册/KYC门槛，折扣需付费购买。注意：活动整体起止日期原帖未写明，只有抽奖起止时间；奖品只有1份，中奖率低。",
+   "score": 67,
+   "title": "NiiHost 双11：抽 TW-HiNet 主机1个月 + 全场月付7折/年付2–5折",
+   "url": "https://t.me/baipiaofl/64185",
+   "value": "抽奖：TW-HiNet-NAT-P1 基础版1个月免费（1C/512MB/6GB，500Mbps/3TB，1份）；折扣：月付7折码 Nii2611E1，年付2–5折码（如美国-BGP基础版3折$14.36）"
+  },
+  {
    "author": "Lovislexus",
    "category": "免费额度",
    "expiry_date": null,
@@ -445,5 +467,5 @@
  "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
  "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
  "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
- "updated_at": "2026-11-10T03:36:58+08:00"
+ "updated_at": "2026-11-10T05:14:53+08:00"
 }
