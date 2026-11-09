@@ -1,5 +1,5 @@
 {
- "count": 32,
+ "count": 37,
  "items": [
   {
    "author": "yedabinbinah",
@@ -55,6 +55,17 @@
    "title": "Simular Box免费云电脑：4核8G Ubuntu，每日1000 credits免费用",
    "url": "https://x.com/Lovislexus/status/2119725396023545953",
    "value": "免费得一台4核8G云电脑（Agent专用沙箱），长期有效；每日额度刷新"
+  },
+  {
+   "id": 36,
+   "title": "Articul8 Bivia 免费领 10 亿 Token：前 10000 名，免绑卡",
+   "url": "https://x.com/yedabinbinah/status/2119047941101109491",
+   "author": "yedabinbinah",
+   "category": "免费额度",
+   "score": 87,
+   "expiry_date": "前10000名先到先得（官网未写截止日；作者称90天有效，未证实）",
+   "value": "免费 10 亿决策 tokens（约 42 美元），免绑卡，API 可用",
+   "notes": "原帖与官网 articul8.ai/bivia 均已核实：Bivia 决策模型首发优惠，前 10000 名免费领 10 亿 tokens（10亿=1B），免订阅；定价 $0.042/百万输入 tokens、输出 $0；Articul8 为 Intel 背景 AI 公司，Bivia 2026-10-28 发布。注意：①“90天有效”是作者后续帖说法，官网未写截止日与有效期；②链接指向 app.articul8.ai 登录页，需注册领 API Key；③这是决策模型（只做判断、不生成文本），不是通用大模型，适合接 Agent/工作流。"
   },
   {
    "author": "tantanyuli",
@@ -167,6 +178,28 @@
    "value": "每天免费5000积分用AI模型（GLM-5.3-Flash等），另可领10000邀请积分"
   },
   {
+   "id": 33,
+   "title": "开源 Seedance 2.0 Skill OS：把视频生成拉到影视工作流",
+   "url": "https://x.com/tantanyuli/status/2119819301171417233",
+   "author": "tantanyuli",
+   "category": "软件工具",
+   "score": 80,
+   "expiry_date": "长期有效",
+   "value": "开源免费技能包；模型调用费另计",
+   "notes": "原帖与 GitHub 均已核实：Emily2040/seedance-2.0，开源 MIT，28 个模块化 agent skills，把 Seedance 2.0 提示词做到导演级工作流（分镜、多语言提示词、IP 安全改写），支持 OpenClaw/Hermes 等。注意：这只是提示词技能包，Seedance 2.0 模型本身调用要花钱；另有 LeoYeAI/seedance-skills 打包版。"
+  },
+  {
+   "id": 35,
+   "title": "开源 Short-Video-Factory：AI 批量自动混剪短视频",
+   "url": "https://x.com/tantanyuli/status/2119825340574949759",
+   "author": "tantanyuli",
+   "category": "软件工具",
+   "score": 80,
+   "expiry_date": "长期有效",
+   "value": "开源免费批量剪辑工具；模型调用费另计",
+   "notes": "原帖与 GitHub 均已核实：YILS-LIN/short-video-factory，开源 AGPL-3.0，约 6000 star，提示词+分镜素材自动出片（文案、配音、剪辑、字幕特效），本地运行，Windows/Mac/Linux 可用。注意：工具本身免费，但文案配音等 AI 功能需自备模型 API（费用另计）；视频处理本地跑，AI 服务调用仍需联网。"
+  },
+  {
    "author": "Lovislexus",
    "category": "免费额度",
    "expiry_date": null,
@@ -244,6 +277,17 @@
    "value": "Pro 一年约 72 美元，先到先得，名额未证实"
   },
   {
+   "id": 37,
+   "title": "腾讯 WorkBuddy Hy4 限时免费：每天免费额度，11 月 15 日截止",
+   "url": "https://x.com/leeking420/status/2118535721942499357",
+   "author": "leeking420",
+   "category": "免费额度",
+   "score": 77,
+   "expiry_date": "2026-11-15 23:59",
+   "value": "旗舰模型 Hy4 限时免费试用，11 月 15 日截止",
+   "notes": "原帖与腾讯官方口径、多方报道均已核实：11 月 4 日至 15 日 23:59，WorkBuddy 与 CodeBuddy 内 Hy4/Hy3 免费，每天发免费额度，模型消耗倍率 0.00x；Hy3 限免同步延至同一天。注意：①免费额度按天发，用完后继续用会正常扣积分；②11 月 4 日首日曾因排队扩容 10 倍，高峰可能排队；③需登录 WorkBuddy 客户端使用。"
+  },
+  {
    "author": "Lovislexus",
    "category": "免费额度",
    "expiry_date": null,
@@ -297,6 +341,17 @@
    "title": "Muse 免费 AI 基建合集：Simular Box、Kaggle、Codespaces 等 6 项",
    "url": "https://x.com/0xjackkk/status/2119658436006952998",
    "value": "6 项免费资源合集，4 项已核实，2 个免费节点未核实"
+  },
+  {
+   "id": 34,
+   "title": "OpenDesign Go：首月 8 美元享 220 美元 DeepSeek V4.1 Flash Eco 额度",
+   "url": "https://x.com/leeking420/status/2118687029903151578",
+   "author": "leeking420",
+   "category": "订阅优惠",
+   "score": 72,
+   "expiry_date": "进行中（首月优惠每账号一次）",
+   "value": "8 美元换 220 美元模型额度（宣传值，实际或有折扣）",
+   "notes": "原帖与官方定价页、多方博客均已核实：Go 套餐首月 $8、之后 $10/月，DeepSeek V4.1 Flash Eco 每月 $220 额度，支持 Codex/Claude Code/OpenCode/Hermes。注意：①额度说明页仍写每月 $120，与定价卡 $220 对不上，官方未解释；②Eco 倍率未单独公布，旧档实测可用量约宣传额度的三分之二；③额度按月发放、用不完不结转，有 5 小时/7 天/每月三层窗口；④这是付费订阅，非免费，需先付费。"
   },
   {
    "author": "Lovislexus",
@@ -357,5 +412,5 @@
  "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
  "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
  "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
- "updated_at": "2026-11-10T00:34:08+08:00"
+ "updated_at": "2026-11-10T01:40:38+08:00"
 }
