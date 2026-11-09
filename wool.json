@@ -1,5 +1,5 @@
 {
- "count": 38,
+ "count": 40,
  "items": [
   {
    "author": "yedabinbinah",
@@ -165,6 +165,28 @@
    "title": "Firefox免费内置VPN：每月50GB，安卓+桌面可用",
    "url": "https://x.com/Lovislexus/status/2119780645727830137",
    "value": "Mozilla官方免费VPN，每月50GB流量；另附作者自测的Muse候补绕过法（未证实）"
+  },
+  {
+   "author": "0xjackkk",
+   "category": "其他",
+   "expiry_date": null,
+   "id": 39,
+   "notes": "Anthropic 官方 11 月 9 日发布 Claude Fable 5.2，价格与帖子一致：输入 $8/百万 token、输出 $40/百万 token，比 5.1 的 $10/$50 降 20%，输出快约 30%；另有可选 fast mode（$16/$80，提速至多 2.5 倍）。付费 API，按量计费，无免费额度；需 API 账号并绑支付方式。",
+   "score": 82,
+   "title": "Claude Fable 5.2 上线：降价 20%，输入 $8/百万 token、输出 $40/百万 token",
+   "url": "https://x.com/0xjackkk/status/2119872732699799868",
+   "value": "旗舰模型 API 降价 20%，重度 API 用户年省可观；无免费额度"
+  },
+  {
+   "author": "0xjackkk",
+   "category": "其他",
+   "expiry_date": null,
+   "id": 40,
+   "notes": "Meta 官方 11 月 9 日发布 Muse Ember 1.0（research.meta.ai 官方博客确认）：输入 $0.10/百万 token、输出 $0.50/百万 token、缓存输入 $0.004/百万 token，模型 id muse-ember-1.0，1M 上下文；Artificial Analysis 称同等任务成本约 Claude Haiku 5.5 的三分之一。付费 API，按量计费，无免费额度；需 Meta Model API 账号并绑支付方式。",
+   "score": 82,
+   "title": "Meta 发布 Muse Ember 1.0：输入 $0.10/百万 token，同等任务成本约 Haiku 5.5 的三分之一",
+   "url": "https://x.com/0xjackkk/status/2119871764058787966",
+   "value": "低价小模型，API 重度用户可省约三分之二任务成本；无免费额度"
   },
   {
    "author": "yedabinbinah",
@@ -423,5 +445,5 @@
  "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
  "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
  "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
- "updated_at": "2026-11-10T02:38:35+08:00"
+ "updated_at": "2026-11-10T03:36:58+08:00"
 }
