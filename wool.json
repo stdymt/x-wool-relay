@@ -1,5 +1,5 @@
 {
- "count": 26,
+ "count": 32,
  "items": [
   {
    "author": "yedabinbinah",
@@ -46,6 +46,17 @@
    "value": "永久免费 2 核 12GB ARM 云主机 + 300 美元试用金"
   },
   {
+   "author": "Lovislexus",
+   "category": "云服务器",
+   "expiry_date": "长期有效",
+   "id": 27,
+   "notes": "原帖与多个独立来源核实一致：Simular Box免费档约4核8G/40GB Ubuntu云电脑，给AI Agent用（MCP接入），每日1000免费credits，免绑卡，Google/GitHub登录即可；帖子说的2核4G偏保守，实测约4核8G。注意：无公网入口、闲置休眠，不能当VPS/节点用；模型调用耗每日额度，用完次日刷新。",
+   "score": 88,
+   "title": "Simular Box免费云电脑：4核8G Ubuntu，每日1000 credits免费用",
+   "url": "https://x.com/Lovislexus/status/2119725396023545953",
+   "value": "免费得一台4核8G云电脑（Agent专用沙箱），长期有效；每日额度刷新"
+  },
+  {
    "author": "tantanyuli",
    "category": "软件工具",
    "expiry_date": null,
@@ -66,6 +77,17 @@
    "title": "开源 ccteam：把 Claude Code、Codex、Grok、Kimi 编成一队派活",
    "url": "https://x.com/tantanyuli/status/2119662014465532370",
    "value": "开源免费工具；各家模型订阅费另计"
+  },
+  {
+   "author": "Lovislexus",
+   "category": "免费额度",
+   "expiry_date": "长期有效",
+   "id": 28,
+   "notes": "阿里云官方文档确认：ESA免费Entrance套餐永久免费、不限流量，1个免费站点；大陆加速需发帖解锁。腾讯EdgeOne免费版0元/月、免费SSL/CDN/WAF。注意：大陆节点需实名+备案，海外加速默认可用。",
+   "score": 85,
+   "title": "阿里云ESA+腾讯EdgeOne免费CDN：永久免费套餐，1个免费站点",
+   "url": "https://x.com/Lovislexus/status/2119745142727074087",
+   "value": "免费CDN加速个人站/NAS面板，省去CDN费用；永久免费档"
   },
   {
    "author": "Lovislexus",
@@ -124,6 +146,28 @@
   },
   {
    "author": "Lovislexus",
+   "category": "软件工具",
+   "expiry_date": "长期（分阶段推送）",
+   "id": 29,
+   "notes": "Mozilla官方博客确认：Firefox内置免费VPN，每月50GB，仅限Firefox内流量，需免费Mozilla账号；新加坡在支持地区名单内。注意：帖子中“切新加坡节点绕过Muse候补名单”是作者自测说法，未经官方证实；且该功能分阶段推送，部分用户暂不可用。",
+   "score": 82,
+   "title": "Firefox免费内置VPN：每月50GB，安卓+桌面可用",
+   "url": "https://x.com/Lovislexus/status/2119780645727830137",
+   "value": "Mozilla官方免费VPN，每月50GB流量；另附作者自测的Muse候补绕过法（未证实）"
+  },
+  {
+   "author": "yedabinbinah",
+   "category": "免费额度",
+   "expiry_date": "进行中（活动随时可能调整）",
+   "id": 30,
+   "notes": "讯飞Loomy官网确认是讯飞AI助手客户端；每日登录送5000积分（GLM-5.3-Flash等模型可用）经多方来源佐证，另有邀请码可再领10000积分。浏览器实测aidaxue训练营页：仅一项报名福利5000积分（兑换码），未见第二个5000；注册送的5000是Loomy账号注册奖励。注意：登录需+86手机号验证码；每日积分当天有效、次日刷新。",
+   "score": 80,
+   "title": "讯飞Loomy免费领积分：每日登录送5000，邀请码再领10000",
+   "url": "https://x.com/yedabinbinah/status/2119807386294817083",
+   "value": "每天免费5000积分用AI模型（GLM-5.3-Flash等），另可领10000邀请积分"
+  },
+  {
+   "author": "Lovislexus",
    "category": "免费额度",
    "expiry_date": null,
    "id": 16,
@@ -132,6 +176,17 @@
    "title": "Kaggle免费GPU双T4跑30B编程大模型",
    "url": "https://x.com/Lovislexus/status/2119595831036960924",
    "value": "每周约30小时免费GPU，双T4合计32GB显存，不用绑卡；可跑Qwen3-Coder 30B量化版"
+  },
+  {
+   "author": "Lniosytest",
+   "category": "免费额度",
+   "expiry_date": "限时免费（官方未公布截止日）",
+   "id": 32,
+   "notes": "OpenCode官方免费模型表实测确认：LongCat 2.5 Free在列，longcat-2.5-free，输入/输出/缓存全免费，每天限100次请求，零数据保留、托管在中国，限时免费但未写截止日。注意：帖子写的模型ID（opencode/longcat-2.5-free、longcat-2.5-preview-free）是旧写法，当前官方标识为longcat-2.5-free；9月底那轮两周免费已结束，这是新开的一轮；需在OpenCode内使用。",
+   "score": 79,
+   "title": "美团LongCat 2.5在OpenCode限时免费：每天100次，零数据保留",
+   "url": "https://x.com/Lniosytest/status/2119805912919515271",
+   "value": "免费用的旗舰级模型（100万上下文、支持看图），每天100次请求"
   },
   {
    "author": "Lovislexus",
@@ -266,6 +321,17 @@
    "value": "免费GPU云端跑模型，本地Agent调用；与本轮Kaggle双T4帖同一玩法"
   },
   {
+   "author": "yedabinbinah",
+   "category": "订阅优惠",
+   "expiry_date": "2026-11-09闪购（限2000名，先到先得）",
+   "id": 31,
+   "notes": "路径：京东App→秒杀→午夜场→搜百度小宝；作者本人在回复里证实自己已0.01元买到。注意：需+86手机号，海外无法支付；2000个名额，帖子称“还有”，随时可能抢完；百度口碑一般，按需领取。",
+   "score": 63,
+   "title": "百度AI Pro首月0.01元：含25000积分，京东秒杀限2000名",
+   "url": "https://x.com/yedabinbinah/status/2119794042842333687",
+   "value": "0.01元得百度AI Pro首月+25000积分（原价首月9.9元）"
+  },
+  {
    "author": "BlockInsight214",
    "category": "免费额度",
    "expiry_date": null,
@@ -291,5 +357,5 @@
  "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
  "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
  "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
- "updated_at": "2026-11-09T20:42:45+08:00"
+ "updated_at": "2026-11-09T23:45:12+08:00"
 }
