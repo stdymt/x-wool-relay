@@ -1,5 +1,5 @@
 {
-  "count": 111,
+  "count": 113,
   "items": [
     {
       "author": "yedabinbinah",
@@ -165,6 +165,17 @@
       "title": "ClipSeek：一句话搜无版权免费视频、照片、插画素材",
       "url": "https://x.com/tantanyuli/status/2119646663044157466",
       "value": "免费搜无版权素材；桌面端超 5 GiB 导入需付费 Pro"
+    },
+    {
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "expiry_date": "无固定截止日（开源项目长期有效）",
+      "id": 113,
+      "notes": "84分（来源22/可验证25/价值12/时效15/风险10）：X 原帖 + GitHub 官方仓库 NousResearch/hermes-agent 浏览器只读核实：公开仓库、MIT 协议、262.4k stars、58.6k forks，最新版 v0.23.1（约 19 小时前发布）；自带学习循环的 AI Agent，可从经验中创建并改进技能，支持多步任务执行、工具调用与记忆。注意：README 另提到可选的 Nous Portal 订阅（一份订阅覆盖多项服务），属可选服务，仓库本身免费；跑起来须自备模型 API 或本地模型。",
+      "score": 84,
+      "title": "Hermes Agent：会越用越懂你的开源 AI Agent（NousResearch，MIT 免费）",
+      "url": "https://x.com/tantanyuli/status/2120234285034856479",
+      "value": "免费开源 AI Agent（MIT），262k stars；可自学/自部署，带记忆与技能自改进"
     },
     {
       "author": "NodeSeek官方频道",
@@ -429,6 +440,17 @@
       "title": "Google Colab 免费版可用 16GB 显存 T4（另有 TPU）",
       "url": "https://x.com/Lovislexus/status/2119465791674540075",
       "value": "免费云端 GPU/TPU 算力，按需分配不保证"
+    },
+    {
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "expiry_date": "无固定截止日（开源合集长期有效，持续更新）",
+      "id": 112,
+      "notes": "82分（来源22/可验证25/价值10/时效15/风险10）：X 原帖 + GitHub 官方仓库 Shubhamsaboo/awesome-llm-apps 浏览器只读核实：公开仓库、Apache-2.0 协议、144.4k stars、21.2k forks，最新提交 2026-11-10；100+ 开源 AI Agent、Agent Skills 与 RAG 应用实例，均经端到端实测，支持 Claude、Gemini、GPT、DeepSeek、Llama、Qwen 等模型。注意：合集是学习参考与复现素材，不是开箱即用的免费服务；跑示例须自备相应模型 API 或本地模型。",
+      "score": 82,
+      "title": "awesome-llm-apps：100+ 免费开源 LLM 应用实例合集（Agent/RAG 可复现）",
+      "url": "https://x.com/tantanyuli/status/2120219185619804632",
+      "value": "100+ 免费开源 LLM 应用实例（Agent/RAG），可对照复现练手"
     },
     {
       "author": "tantanyuli",
@@ -1226,5 +1248,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-11T03:49:18+08:00"
+  "updated_at": "2026-11-11T04:42:21+08:00"
 }
