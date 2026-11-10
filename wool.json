@@ -1,5 +1,5 @@
 {
-  "count": 109,
+  "count": 110,
   "items": [
     {
       "author": "yedabinbinah",
@@ -728,6 +728,17 @@
       "value": "每周 500 万 Ondo 积分 + USDC 池（约 17.5–25 万美元），按交易量与持仓分配；需入金交易"
     },
     {
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "expiry_date": "无固定截止日（开源课程长期有效）",
+      "id": 110,
+      "notes": "75分（来源25/可验证25/价值5/时效15/风险5）：微软官方 GitHub 仓库 microsoft/AI-Agents-for-Beginners 直接核实：公开仓库、MIT 协议、79,358 stars；18 节课（帖子称 12 节已过时，现为 18 节），每课含文字课+视频+Python 代码示例，50+ 语言翻译含简体中文。注意：①帖子称 12 节课已过时，仓库现为 18 节；②文字课与视频免费自学无门槛，跑代码示例须配 Microsoft Foundry（需 Azure 账号）或 MiniMax 等 OpenAI 兼容服务；③与已在册 id 76（Anthropic 官方技能包）同为官方开源学习资源、内容不同，不重复。",
+      "score": 75,
+      "title": "微软 AI Agents 免费开源课程：18 节课从零学做 AI 智能体（中文翻译全）",
+      "url": "https://x.com/tantanyuli/status/2120203834370707476",
+      "value": "免费学做 AI Agent 的完整课程（18 节课+视频+代码，中文翻译全）；跑代码示例须 Azure 账号或兼容服务"
+    },
+    {
       "author": "Lovislexus",
       "category": "免费额度",
       "expiry_date": null,
@@ -1202,7 +1213,7 @@
     }
   ],
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
-  "source": "X 羊毛收集册（st3/st8 扫描羊毛号时间线 + TG 频道，本侧审计打分）",
-  "sync": "单向同步：本侧推送，另一侧只读；每小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-11T01:36:27+08:00"
+  "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
+  "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
+  "updated_at": "2026-11-11T02:41:37+08:00"
 }
