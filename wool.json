@@ -1,5 +1,5 @@
 {
-  "count": 70,
+  "count": 73,
   "items": [
     {
       "author": "yedabinbinah",
@@ -255,6 +255,17 @@
       "value": "每月 3 条 15 秒 AI 视频免费（API 价约 3.15 美元/月），无需绑卡"
     },
     {
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "expiry_date": "无固定截止日",
+      "id": 71,
+      "notes": "82分（来源20/可验证25/价值12/时效15/风险10）：dev.to 官方发布文 + Firefox 附加组件页多方核实：Mimik（github.com/westpoint-io/mimik）为免费开源浏览器插件（MIT 协议），2026 年 5 月发布，Chrome 用户 4000+、GitHub 1600+ stars；录制浏览器操作后自动生成带标注截图的分步教程，可导出 Markdown/PDF/HTML/DOCX/GIF/视频，本地运行、无需注册、无订阅、无后端服务器。注意：①AI 步骤描述为可选项，需自配 OpenAI/Anthropic/DeepSeek/OpenRouter Key；②可替代 Scribe、Tango、Guidde 等付费教程工具；③支持 Chrome/Firefox/Edge。",
+      "score": 82,
+      "title": "Mimik：免费开源浏览器插件，操作一遍自动生成带截图的分步教程",
+      "url": "https://x.com/tantanyuli/status/2120041766690881862",
+      "value": "免费开源（MIT），本地运行无需注册；可替代付费教程制作工具；AI 描述需自配 Key"
+    },
+    {
       "author": "yedabinbinah",
       "category": "免费额度",
       "expiry_date": "进行中（活动随时可能调整）",
@@ -475,6 +486,17 @@
       "value": "免费建个人小应用/网站，省服务器与搭建成本；仅限 Muse 应用内使用"
     },
     {
+      "author": "KOF97AI",
+      "category": "软件工具",
+      "expiry_date": "无固定截止日",
+      "id": 72,
+      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）：GitHub README + 多家评测核实：rea-video（github.com/JuneYaooo/rea-video）为免费开源（Apache-2.0）视频逆向拆解工具，5.5k stars；逐镜头判断实拍/AI 生成/数字人/3D/代码动画等 10 种类型，并给出复刻方案（分镜、反推提示词、生成次数与模型建议），离线模式免费、无需 API Key，只需 ffmpeg + Python 3.10+，为 Claude Code/Codex 等 agent 环境设计。注意：①平台压缩过的下载视频离线准确率会下降（实测某开箱视频 35% 误判为 AI，需视觉模型或人工复核）；②作者自测准确率样本较小；③接视觉模型（Gemini/豆包等）改善判断但按服务商计费；④只做结构拆解学习，用自己的素材复刻。",
+      "score": 77,
+      "title": "rea-video：免费开源视频逆向拆解，逐镜头判断实拍/AI/3D 并给复刻方案",
+      "url": "https://x.com/KOF97AI/status/2120034172349878758",
+      "value": "免费开源（Apache-2.0），离线模式免 Key；做 AI 短视频/复刻对标视频的免费工具；接视觉模型需自付费"
+    },
+    {
       "author": "AllForAirdrop",
       "category": "免费额度",
       "expiry_date": "进行中（每周结算，无公布结束日；11月3–9日那周25万USDC池已结束）",
@@ -594,6 +616,17 @@
       "title": "流畅阅读：免费开源翻译插件，网页/文档/视频/论文全包",
       "url": "https://x.com/Ylj158852/status/2120007951012507895",
       "value": "免费开源翻译插件，可替代付费翻译会员；AI 功能需自配 Key"
+    },
+    {
+      "author": "SecJack96",
+      "category": "金融卡券",
+      "expiry_date": "2026-11-30",
+      "id": 73,
+      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）：浏览器只读核实：帖内短链只跳回原帖本身，未通向官方活动页；但帖子附图为众安 APP 内“淘宝购物专区”截图，满 HKD 99 减 10 / 满 HKD 180 减 20、每档每人最多 1 次、合计最多省 HKD 30、活动期 11 月 1 日－11 月 30 日，均与正文一致。注意：①“两档各 48,000 个名额”仅见于发帖人正文，附图只写“名额有限，先到先得，额满即止”，未核实；②与 AlipayHK 通用“淘宝加码赏”（满 300 减 10 / 满 1000 减 20、不限次数）是两个不同活动，不要混淆，本条只记 ZA 卡专属档；③须有 ZA Bank 账户并完成 KYC，用 AlipayHK 绑定 ZA Card 付款，手机淘宝须改香港地区、港币结算；④帖内还提到淘宝 0 手续费（每次最高免 HKD 10，每人最多 2 次，全场 50,000 次）与 AlipayHK A. Point 40 倍返（须先在专区登记），这两项未单独核实细则。",
+      "score": 72,
+      "title": "众安 ZA Bank × AlipayHK：淘宝满 99 减 10 / 满 180 减 20，11 月 30 日截止",
+      "url": "https://x.com/SecJack96/status/2120038243265839549",
+      "value": "满99减10、满180减20，每档每人限1次，合计最多省30港币；另有淘宝0手续费与A. Point 40倍返"
     },
     {
       "author": "0xjackkk",
@@ -775,5 +808,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-10T15:14:58+08:00"
+  "updated_at": "2026-11-10T15:39:47+08:00"
 }
