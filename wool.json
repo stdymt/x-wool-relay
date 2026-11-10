@@ -1,5 +1,5 @@
 {
-  "count": 114,
+  "count": 115,
   "items": [
     {
       "author": "yedabinbinah",
@@ -55,6 +55,17 @@
       "title": "ZCode 周末又送 5 亿 token（11 月 9 日 09:00 到期）",
       "url": "https://x.com/leeking420/status/2118974450972651918",
       "value": "5 亿 GLM-5.3-Flash Tokens，仅限客户端内使用"
+    },
+    {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": "2026-12-10 14:00 PT 前使用",
+      "id": 115,
+      "notes": "90分（来源28/可验证25/价值15/时效15/风险7）：Anthropic 官方 2026-11-10 21:59 UTC（@ClaudeDevs）宣布：所有 Pro、Max、Ultra、Team 付费用户获一次免费完整重置，覆盖全部模型与额度（5小时+每周），设置→用量→Limit resets 里点 Reset for free，或 clau.de/reset；须在 2026-12-10 14:00 PT 前使用。注意与 Fable 5.2 上线送的 Fable 重置（已收录 id 114，Pro 卡 11 月 16 日到期）是两张不同的卡，这张是全额度重置。免费版用户无份。NodeSeek 原帖未读到（browser.open 403、浏览器 live 也撞 Cloudflare 验证未绕过），以 TG 转发引用的官方消息 + 两家独立重置追踪站（agentresets、clauderesets）交叉证实。",
+      "score": 90,
+      "title": "Claude 又送一张重置卡：Pro/Max/Ultra/Team 全员一次免费完整重置，12 月 10 日前可用",
+      "url": "https://t.me/baipiaofl/64295",
+      "value": "付费订阅用户可免费拿回全部已用额度，相当于多一周用量；免费版无份，须已有 Pro/Max/Ultra/Team 订阅"
     },
     {
       "author": "Lovislexus",
@@ -1259,5 +1270,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-11T06:46:09+08:00"
+  "updated_at": "2026-11-11T07:48:08+08:00"
 }
