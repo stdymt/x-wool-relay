@@ -1,5 +1,5 @@
 {
-  "count": 68,
+  "count": 70,
   "items": [
     {
       "author": "yedabinbinah",
@@ -242,6 +242,17 @@
       "title": "Cloady 免费云服务：0.5 vCPU + 1GB 内存 + 5GB SSD，免绑卡",
       "url": "https://x.com/Lovislexus/status/2119920471131267248",
       "value": "0.5 vCPU + 1GB 内存 + 5GB SSD，每月 10GB 流量、100 万次 HTTP 请求，长期免费，适合养小项目、AI 小工具、Webhook"
+    },
+    {
+      "author": "KOF97AI",
+      "category": "免费额度",
+      "expiry_date": "无固定截止日（每月3条，月初重置）",
+      "id": 69,
+      "notes": "82分（来源20/可验证25/价值12/时效15/风险10）：Google 官方 2026-11-05 公告（blog.google）+ 多家媒体证实：任何 Google 账号或 Workspace 订阅用户在 Google Vids 里每月可免费生成 3 条 15 秒 AI 视频（Gemini Omni 1.2 Flash，3–15 秒可选，720p/1080p），无需绑卡、无试用倒计时。注意：①每月额度月初重置（太平洋时间每月 1 日 0 点），用完即止，Vids 内不售卖额外额度；②帖子称“Gemini Omni 1.2 在 Arena 盲测排名第一”未独立核实，不以此为准；③免费档为个人账号 60 秒/月口径与公告 3 条 15 秒口径并存，按 3 条计、第四条当 bonus；④生成内容带 SynthID 隐形水印；⑤帖子另提 Adobe Firefly 为第二款工具，未展开条款，本条只记 Google Vids。",
+      "score": 82,
+      "title": "Google Vids 免费每月 3 条 15 秒 AI 视频（Gemini Omni 1.2 Flash）",
+      "url": "https://x.com/KOF97AI/status/2120015305347108962",
+      "value": "每月 3 条 15 秒 AI 视频免费（API 价约 3.15 美元/月），无需绑卡"
     },
     {
       "author": "yedabinbinah",
@@ -640,6 +651,17 @@
       "value": "抽奖：TW-HiNet-NAT-P1 基础版1个月免费（1C/512MB/6GB，500Mbps/3TB，1份）；折扣：月付7折码 Nii2611E1，年付2–5折码（如美国-BGP基础版3折$14.36）"
     },
     {
+      "author": "NodeSeek官方频道",
+      "category": "免费额度",
+      "expiry_date": "券自兑换成功之日起10日内有效；帖内截图显示“兑换达上限”，名额可能已满",
+      "id": 70,
+      "notes": "67分（来源20/可验证20/价值12/时效10/风险5）：NodeSeek 帖子（juneliu，2026-11-10 13:35）附京东截图核实：京东PLUS会员用 1 积分兑换智谱AI会员周卡权益，兑换后得 39.8 元立减券，再花 0.1 元购得周卡；周卡含 5,000 积分，预计可用约 2,150 万至 4,350 万 Tokens（因模型与场景而异）。注意：①仅限智谱 BigModel 账号当前无生效中 Coding Plan 的用户（历史开通但已到期者可用），活动期间每位 PLUS 会员限兑 1 次；②券自兑换成功之日起 10 日内有效；③帖内截图 2 按钮显示“兑换达上限”，名额可能已满，先到先得，去了可能兑不到；④评论称 glm-5.3 效果一般，介意者慎换；⑤需京东PLUS会员身份 + 注册智谱账号。",
+      "score": 67,
+      "title": "京东PLUS 1积分+0.1元兑智谱AI会员周卡（5000积分，约2000万+tokens）",
+      "url": "https://t.me/nodeseekc/999068",
+      "value": "1积分+0.1元得价值39.8元的智谱周卡，约2000万+ tokens；须京东PLUS会员"
+    },
+    {
       "author": "Lovislexus",
       "category": "免费额度",
       "expiry_date": null,
@@ -753,5 +775,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-10T13:40:58+08:00"
+  "updated_at": "2026-11-10T15:14:58+08:00"
 }
