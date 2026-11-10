@@ -1,5 +1,5 @@
 {
-  "count": 51,
+  "count": 64,
   "items": [
     {
       "author": "yedabinbinah",
@@ -121,6 +121,17 @@
       "title": "MLH 开发者周免费领 1 个月 X Premium（含 Grok 与 Cursor Pro）",
       "url": "https://t.me/baipiaofl/64202",
       "value": "免费领 1 个月 X Premium + Grok、Cursor Pro（帖称价值约 30 美元/月）；需 MLH 老号（注册满 30 天）+ GitHub 关联满 30 天"
+    },
+    {
+      "author": "NodeSeek官方频道",
+      "category": "金融卡券",
+      "expiry_date": "无固定截止日（AI返现为常驻会员权益）",
+      "id": 54,
+      "notes": "85分（来源20/可验证25/价值20/时效15/风险5）：Infini 官方帮助中心已核实（help.infini.money 会员等级与选卡页，2026-11-05 更新）：AI 商户直付订阅返现 Standard 30%、Professional/Elite 50%，Standard 每月上限 $10（Elite $100）；约 60 家 AI 商户（OpenAI、Anthropic、Cursor、GitHub Copilot、Midjourney、Perplexity、Gemini 等），App Store/Google Play 代扣不算；一般消费返现 1.5%。注意：①需 KYC + 首卡充值至少 $10 USDT/USDC；②Lite 卡非美元消费收 3% 外汇费，Lite Plus（0% 外汇费）需 Professional 等级（近 30 天日均持仓 2000U）；③U 卡为小牌照预付产品，返现常为噱头、资金有冻结风险，只以官方条款为准；④返现次月 2 日左右到账；⑤Lite Plus 首购抽奖 11 月 6–20 日另有活动，中奖才返。原帖为 NodeSeek 论坛转述帖，条款以 Infini 官方帮助中心为准；带邀请码的同主题帖子未作入口。",
+      "score": 85,
+      "title": "Infini 卡 AI 订阅返现 30%，每月最多返 10 美元",
+      "url": "https://t.me/nodeseekc/998874",
+      "value": "AI 订阅每月最多返 $10，一年最多 $120；一般消费 1.5% 返现；首卡免费（需充值 $10 U）"
     },
     {
       "author": "Lovislexus",
@@ -365,6 +376,72 @@
       "value": "已有 Claude 付费订阅用户免费试用新模型 Fable 5.2 一周 + 1 次额度重置；API 降价 20%（$10/$50 降至 $8/$40 每百万 tokens）"
     },
     {
+      "author": "duola_eth",
+      "category": "免费额度",
+      "expiry_date": "2026-11-10 23:30（北京时间）",
+      "id": 52,
+      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）：多方来源一致（Bitrue、CoinGabbar、airdrops.io 等）：INFI 空投登记仅限 Season 1/2 赚过积分的钱包，快照已完成，新活动不计入；登记截止 2026-11-10 15:30 UTC（北京时间 23:30）；官方登记入口 app.infinifi.xyz/infi；TGE 预计 2026 年 Q4，具体日期未公布；首日至少 500 INFI 可流通（按分配量）。注意：①新钱包/没积分的钱包登记不了；②代币价格、总量分配未公布，价值未定；③只认官方域名，谨防假冒领取网站。同帖另提 Saturn 注册（截止 16 号）、Squeekchain 创世等任务未逐项核实，不记入本条。",
+      "score": 77,
+      "title": "infiniFi 空投登记今晚 23:30 截止（仅 Season 1/2 有积分的钱包）",
+      "url": "https://x.com/duola_eth/status/2119956829795233855",
+      "value": "Season 1/2 积分钱包登记后等 TGE 发 INFI，首日至少 500 枚可流通；价值未定"
+    },
+    {
+      "author": "OnlyJettTian",
+      "category": "免费额度",
+      "expiry_date": "2026-12-31（领取截止；额度自领取起 1 年有效）",
+      "id": 53,
+      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）：多方来源 + 腾讯云官方文档（cloud.tencent.com/document/product/1823/130053）核实：语言模型与多模态理解模型每模型 100 万 Tokens，DeepSeek、Kimi、GLM、MiniMax、MiMo、混元等均在内；领取截止 2026-12-31，额度自领取起 1 年有效；每账号每模型限领一次。注意：①需注册腾讯云 + 完成实名认证 + 开通 TokenHub；②只领近期要用的模型，过期未用自动失效；③额度用完且未开后付费会停服，不会偷偷扣费；④Hy4 另有 5 折至 12 月 31 日。",
+      "score": 77,
+      "title": "腾讯云 TokenHub 新用户免费体验：每模型 100 万 Tokens，有效期 1 年",
+      "url": "https://x.com/OnlyJettTian/status/2119780432728506524",
+      "value": "每模型 100 万免费 Tokens，多模型合计价值数十元；OpenAI 兼容接口"
+    },
+    {
+      "author": "yedabinbinah",
+      "category": "免费额度",
+      "expiry_date": "20元券自到账60天内有效；每月10元券当月有效",
+      "id": 55,
+      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）：蚂蚁百灵官方升级说明（developer.ant-ling.com）核实：新用户注册后立即得 20 元 Token 消费券（60 天内有效）；每月 1 日向计费账户发 1 张 10 元 Token 抵扣券（仅当月有效，不结转）；原每日 50 万 Token 免费额度已于 2026-10-31 停发。注意：①需绑定支付宝账号；②抵扣券仅抵模型调用消费，不可提现转让；③Ling-3.2-flash 上线前两周 API 限时免费（约至 11 月 19 日），与月度券不是同一项；④OpenAI 兼容接口 api.ant-ling.com/v1，QPS 限制约 2。",
+      "score": 77,
+      "title": "蚂蚁百灵新用户送 20 元 Token 券，每月 1 日再领 10 元券",
+      "url": "https://x.com/yedabinbinah/status/2119967057173491836",
+      "value": "新用户 20 元 + 每月 10 元 Token 券；另有 Ling-3.2-flash 限时免费约至 11 月 19 日"
+    },
+    {
+      "author": "hejushang8",
+      "category": "金融卡券",
+      "expiry_date": "2027-01-03",
+      "id": 56,
+      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）：星岛头条（2026-11-06）+ 八达通官网活动页 + 奶昔论坛多方核实：2026-11-05 至 2027-01-03，新加入/转移实体卡至手机八达通（iPhone/Apple Watch/Android 版等），完成一次 $100 或以上单笔消费并网上登记，得 $150 增值额 + 免费自选卡面（卡面须 2027-01-10 前领取）。注意：①须先登记再消费，登记时填完整手机八达通号码（含括号内数字）；②八达通 App 注册需香港手机号（可用易博通等），+86 手机号只能注册旅客版，可能领不到本优惠；③消费可用拼多多/淘宝等支持八达通支付的渠道；④帖子称“7 天后到账”，官方未写到账时间，以 App 通知为准。",
+      "score": 77,
+      "title": "八达通手机版新用户：单笔消费 $100 返 $150，另送自选卡面",
+      "url": "https://x.com/hejushang8/status/2119280120200679562",
+      "value": "消费 $100 港币返 $150 增值额（约 137 元人民币），另送自选卡面"
+    },
+    {
+      "author": "Javary324",
+      "category": "免费额度",
+      "expiry_date": "2027-11-15（福利可兑换截止日）",
+      "id": 57,
+      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）：The Points Guy、RewardsGuru 与 GigSky 条款多方核实：美国发行的 Visa Infinite 卡免费 3GB、Visa Signature 卡免费 1GB，15 天有效，每年可领一次，覆盖 175+ 国家和地区；另享后续套餐 7–8 折；福利可兑换至 2027-11-15。注意：①仅限美国发行（另含加拿大/拉美部分地区）的合资格 Signature/Infinite 卡，普通 Visa 卡没有；②须在 GigSky App 内验证卡片并设为默认付款方式，走 Apple Pay 结账会失去免费价；③多张合资格卡可分别领取；④领后 1 年内须激活，激活后 15 天倒计时。",
+      "score": 77,
+      "title": "Visa 持卡人免费领旅行 eSIM：Infinite 3GB / Signature 1GB，15 天有效",
+      "url": "https://x.com/Javary324/status/2119320165665898571",
+      "value": "免费 1–3GB 国际流量（约值 25 美元），每年可领一次"
+    },
+    {
+      "author": "SecJack96",
+      "category": "金融卡券",
+      "expiry_date": "2026-11-12 23:59 UTC",
+      "id": 58,
+      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）：Plasma 官方条款（plasma.org Singles Day Cashback Boost，2026-11-03 生效）核实：Core/Platinum 会员在淘宝、天猫、京东、AliExpress、Lazada、Shopee、TikTok Shop 等指定商城结账消费享 11% 返现，整个活动期每卡上限 $30，以 XPL 支付。注意：①活动期 2026-11-03 14:00 UTC 至 11-12 23:59 UTC，不限于 11 月 11 日当天；②返现须 45 天 hold + Plasma 审核后才到账，退货/退款/拒付作废；③仅限 Core/Platinum 会员，Lite 会员不享受；④此前“Core 免费升级 Premium”说法不实，本条只记返现活动本身。",
+      "score": 77,
+      "title": "Plasma One 双十一：淘宝/京东等商城消费 11% 返现，上限 $30",
+      "url": "https://x.com/SecJack96/status/2119386255532364258",
+      "value": "指定商城消费 11% 返现，每卡上限 $30（以 XPL 发放，45 天后到账）"
+    },
+    {
       "author": "AllForAirdrop",
       "category": "免费额度",
       "expiry_date": "进行中（每周结算，无公布结束日；11月3–9日那周25万USDC池已结束）",
@@ -464,6 +541,17 @@
       "value": "圣何塞云机 $4.95（原价$9.9），新加坡 $3.5（原价$7），续费同价；优惠码 SJCLOUD50 / SGCLOUD50 / HKGOLD30 / LAE52660，限购2台"
     },
     {
+      "author": "Javary324",
+      "category": "金融卡券",
+      "expiry_date": "无固定截止日",
+      "id": 59,
+      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）：UCard Observer 对照 KEM 官方条款核实：开卡免费、0 月费；返现以 Tether Gold（XAUT）发放，基础 2%，指定商户最高 5%（Talabat、Keeta、Noon），出行/航空类最高 3%（Careem、Uber、卡塔尔航空等）。注意：①需 KYC（政府身份证件）；②返现以 XAUT 发放、不是现金；③USDT 转 USD 收 1%，非美元/跨境交易最高 3% 外汇费；④不同人卡 BIN 可能不同；⑤U 卡为小牌照预付产品，资金有冻结风险，只以官方条款为准。KEM 与 Interlace 合作推出。",
+      "score": 72,
+      "title": "KEM U卡：最高 5% 黄金返现（XAUT），开卡免费 0 月费",
+      "url": "https://x.com/Javary324/status/2119631931021443504",
+      "value": "消费返现 2–5%（以 XAUT 发放）；开卡免费"
+    },
+    {
       "author": "0xjackkk",
       "category": "软件工具",
       "expiry_date": "长期有效",
@@ -530,6 +618,28 @@
       "value": "免费GPU云端跑模型，本地Agent调用；与本轮Kaggle双T4帖同一玩法"
     },
     {
+      "author": "Javary324",
+      "category": "订阅优惠",
+      "expiry_date": "无固定截止日（2026-08-25 起常驻福利）",
+      "id": 62,
+      "notes": "65分（来源20/可验证25/价值5/时效10/风险5）：VPN Super 官方支持文章核实：美加地区购买 Premium 可免费得 2nd Line 第二手机号 + 每周通话积分，号码与积分随 Premium 有效期走，订阅到期即失效；另送旅行 eSIM 流量（每续费周期 500MB）。注意：①这不是黑五专属，是 2026-08-25 起的常驻福利，帖子“黑五福利”说法不准确；②须付费订阅 Premium（仅限美加地区购买），免费用户没有；③第二号码仅限美国、加拿大，其他地区不包含；④2nd Line 号码口碑参差（有用户反映银行验证不认、需保持余额才能打电话）。",
+      "score": 65,
+      "title": "VPN Super Premium 送免费第二手机号 + 每周通话积分（美加限定）",
+      "url": "https://x.com/Javary324/status/2119956542179197109",
+      "value": "付费 Premium 附赠第二手机号 + 每周积分 + 500MB eSIM/周期"
+    },
+    {
+      "author": "Ylj158852",
+      "category": "金融卡券",
+      "expiry_date": "无固定截止日",
+      "id": 63,
+      "notes": "65分（来源20/可验证20/价值5/时效15/风险5）：BiyaPay 官网与第三方评测（vccfinder、CardFi）核实：速捷卡（EasyCard）为 Mastercard 虚拟卡，无年费，USD 计价，开卡费 $2/笔，充值费 1.8%，单笔交易手续费 $0.5；中国身份证 + 人脸核验可开；卡段 555659790 只支持指定 AI 平台消费；ChatGPT、Claude、Midjourney 等有成功扣款记录。注意：①这是付费开卡、无返现，价值在于解决无外卡用户的 AI 订阅支付问题；②首刷返现 50%（最高 10 USDT）已于 2026-09-15 结束；③“美国地址平台自动匹配”指发卡方生成账单地址，不做 AVS 校验；④需先充值 USDT 才能用卡；⑤小平台，资金风险自担，先小额试用。",
+      "score": 65,
+      "title": "BiyaPay 虚拟卡解 AI 订阅：身份证可开，平台自动匹配美国地址",
+      "url": "https://x.com/Ylj158852/status/2119972643462111698",
+      "value": "无外卡时可用于 ChatGPT/Claude 等 AI 订阅；开卡 $2 + 充值费 1.8%"
+    },
+    {
       "author": "yedabinbinah",
       "category": "订阅优惠",
       "expiry_date": "2026-11-09闪购（限2000名，先到先得）",
@@ -552,6 +662,28 @@
       "value": "免费调 deepseek-v4-flash 与 glm-5.3-flash，条款未核实，先小量试用。"
     },
     {
+      "author": "hejushang8",
+      "category": "金融卡券",
+      "expiry_date": "无固定截止日（每月赠送说法未证实）",
+      "id": 61,
+      "notes": "62分（来源20/可验证10/价值12/时效15/风险5）：dtcpay 为新加坡金管局持牌支付机构（MAS MPI），其 App 内 eSIM 免费领活动有第三方核实（simdirs 2026-10 核查：$10 eSIM 可 $0 领取，有效期可达 10 年）。注意：①“每月白送 5G、连送 6 个月”仅为作者个人体验，官方未公布条款，App 内活动随时可变；②须开卡并完成 KYC，护照 + 海外地址；③eSIM 仅数据、无号码；④国行 iPhone 可能不支持 eSIM；⑤上月到期后本月又自动给了 5G，属作者单方说法，未独立核实。",
+      "score": 62,
+      "title": "DtcPay U卡每月白送 5G 新加坡流量（作者称连送 6 个月）",
+      "url": "https://x.com/hejushang8/status/2119704450600460371",
+      "value": "每月 5G 新加坡流量（约值 8 美元/月），作者称连送 6 个月"
+    },
+    {
+      "author": "Javary324",
+      "category": "免费额度",
+      "expiry_date": "2026-11-11 14:30（北京时间）开抢",
+      "id": 64,
+      "notes": "62分（来源20/可验证10/价值12/时效15/风险5）：Trip.com 11.11 大促真实进行中（11 月 11–14 日，多家媒体证实），eSIM 在列；但“₹1 抢 eSIM、新加坡 5 天 10GB/中国大陆 7 天 5GB/泰国 7 天 10GB、11 月 11 日 14:30 开抢”未在 Trip 官网逐项核对。注意：①印度站活动，每账户限购 1 次，数量有限，其他地区账户能否参与待验证；②约人民币 0.08 元，实际以抢购页为准；③eSIM 本身价值约 20–40 元，抢到即赚，抢不到不亏。",
+      "score": 62,
+      "title": "Trip 双 11：₹1 抢 eSIM（新加坡 5 天 10GB 等），11 月 11 日 14:30 开抢",
+      "url": "https://x.com/Javary324/status/2119743639903690844",
+      "value": "₹1（约 0.08 元）抢 5–10GB 旅行 eSIM；印度站、限购 1 次"
+    },
+    {
       "author": "Lovislexus",
       "category": "免费额度",
       "expiry_date": null,
@@ -561,10 +693,21 @@
       "title": "Eskimo eSIM 免费流量，邀请双方各得 500MB（流量不过期）",
       "url": "https://x.com/Lovislexus/status/2119629726683963850",
       "value": "免费 eSIM 流量，邀请得 500MB（官网另处写 250MB，存疑），不用绑卡"
+    },
+    {
+      "author": "duola_eth",
+      "category": "免费额度",
+      "expiry_date": "无固定截止日",
+      "id": 60,
+      "notes": "60分（来源20/可验证15/价值5/时效10/风险10）：Circle 官方 Arc House + Architects 计划真实存在（arc.io 官方博客）：注册 Arc House 做任务攒积分，满 500 分可加入 Architects 计划；课程完成 200 分等规则有多方来源佐证。注意：①“完成训练营得 300 分”未在官方规则里逐项核对，以 Arc House 内实际规则为准；②官方规则明确积分不保证代币资格，Arc 至今无已确认的空投（无快照、无日期、无分配规模）；③帖子建议“把问题都扔给 AI 直接选答案”，属刷分行为，有封号/清分风险，不建议照搬；④需用 Arc House 同一邮箱登录。",
+      "score": 60,
+      "title": "Arc 训练营可拿 300 分（Arc House 积分，朝 500 分建筑师门槛）",
+      "url": "https://x.com/duola_eth/status/2119598144556240959",
+      "value": "训练营 300 分，离 500 分建筑师门槛更近一步；积分本身未定价、无空投承诺"
     }
   ],
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-10T11:45:47+08:00"
+  "updated_at": "2026-11-10T12:47:39+08:00"
 }
