@@ -1,5 +1,5 @@
 {
-  "count": 49,
+  "count": 50,
   "items": [
     {
       "author": "yedabinbinah",
@@ -110,6 +110,17 @@
       "title": "Uppcoder 免费云容器：2GB 内存 + 2GB 存储，1 应用 + 1 数据库，免绑卡无到期日",
       "url": "https://x.com/Lovislexus/status/2119913672755810628",
       "value": "2GB 内存 + 2GB 存储 + PostgreSQL 数据库 + 在线 VS Code + SSH + 每晚备份，免绑卡、无固定到期日，适合部署网站、API 和个人小项目"
+    },
+    {
+      "author": "白嫖福利推送",
+      "category": "订阅优惠",
+      "expiry_date": "活动 2026-11-12 结束，兑换有效期至 2026-11-30",
+      "id": 50,
+      "notes": "85分（来源25/可验证20/价值20/时效15/风险5）：NodeSeek 原帖 post-1042965（作者 mikusaka，2026-11-10 09:33）已打开核实；MLH 官方活动页 events.mlh.com/events/14729-global-hack-week-builders-week 已打开核实，Global Hack Week: Builders Week 真实进行中。领取：注册 MLH 活动→参与挑战并签到→等 MLH 促销邮件（约 20 小时）→兑换。注意：①要求 MLH 账户注册满 30 天以上且 GitHub 账户关联满 30 天以上，新号领不到；②活动 11 月 12 日结束，兑换有效期至 11 月 30 日；③权益含 X Premium 1 个月 + Grok、Grok Bot 和 Cursor Pro（帖称价值 30 美元/月），X Premium 兑换细节只在论坛帖内、活动页未逐项列出。",
+      "score": 85,
+      "title": "MLH 开发者周免费领 1 个月 X Premium（含 Grok 与 Cursor Pro）",
+      "url": "https://t.me/baipiaofl/64202",
+      "value": "免费领 1 个月 X Premium + Grok、Cursor Pro（帖称价值约 30 美元/月）；需 MLH 老号（注册满 30 天）+ GitHub 关联满 30 天"
     },
     {
       "author": "Lovislexus",
@@ -544,5 +555,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-10T09:41:33+08:00"
+  "updated_at": "2026-11-10T10:54:09+08:00"
 }
