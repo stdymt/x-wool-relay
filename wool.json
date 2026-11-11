@@ -1,5 +1,5 @@
 {
-  "count": 125,
+  "count": 127,
   "items": [
     {
       "author": "yedabinbinah",
@@ -816,6 +816,17 @@
       "value": "Kaggle、Colab免费GPU + GitHub Actions、Supabase、OpenRouter、Cloudflare Workers/R2等免费额度合集"
     },
     {
+      "author": "Lovislexus",
+      "category": "云服务器",
+      "expiry_date": "无明确截止日（常驻特价，以官网 Specials 页为准；RAKsmart 闪购 11 月 11–17 日另见 id79）",
+      "id": 126,
+      "notes": "74分（来源20/可验证25/价值12/时效12/风险5）：Lovislexus 原帖 + 多方交叉核实：RackNerd 官网 Specials 页 1GB KVM（1核/20GB SSD/每月 3TB/1Gbps/1 个 IPv4）年付 $21.99，终身同价续费（多家 2026-11 评测复核一致）；RAKsmart 硅谷 2核2G 闪购 $1.99/月（11 月 11–17 日、11 月 25–30 日两档，闪购价续费同价）已收录 id79，本条不再重复。注意：①RackNerd 为年付预付、退款窗口短；②特价机房库存有限、部分地区延迟较高；③RAKsmart 闪购库存有限，错过等 11 月 25 日第二档。",
+      "score": 74,
+      "title": "RackNerd 年付 $21.99：1核1G/20G SSD/每月3TB 流量 KVM（续费同价）",
+      "url": "https://x.com/Lovislexus/status/2120371448170881199",
+      "value": "RackNerd 1核1G KVM 年付 $21.99（约 ¥155/年，续费同价），适合轻量建站、API 与自动化脚本。"
+    },
+    {
       "author": "fwqgo_com",
       "category": "云服务器",
       "expiry_date": "无明确截止日（促销库存，以结算页为准）",
@@ -1023,6 +1034,17 @@
       "title": "国内 7 大 AI 平台免费额度汇总：国家超算 1000 万 Token、魔搭每天 2000 次调用、百炼每模型 100 万 Token 等",
       "url": "https://x.com/Lovislexus/status/2120328156666085688",
       "value": "7 个平台免费额度一次领齐：超算 1000 万 Token、百炼每模型 100 万、千帆 100 万+、EdgeOne 每月 50 万、魔搭每天 2000 次调用；适合测 Agent、跑自动化。"
+    },
+    {
+      "author": "Lovislexus",
+      "category": "其他",
+      "expiry_date": "无明确截止日（以 Club SIM 官网套餐页为准）",
+      "id": 127,
+      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）：Lovislexus 原帖 + 多方指南交叉核实：Club SIM（HKT/CSL 预付品牌）无月费，365 天内任意买一个服务包即续号一年，最便宜续号包约 6–15 港币（短信包 6 港币/亚太漫游日包 15 港币）；csl 58 港币 20GB 本地流量包与官网套餐一致。注意：①“15 港币续一年”是续号成本，首次开卡最低消费 50 港币（例 38 港币中澳漫游 1GB + 15 港币日包 = 53 港币）；②香港法律要求实名登记，须护照、不支持内地身份证；③内地收验证码实测可行但不保证所有平台、须备备用验证方式；④eSIM 免费发卡、一年内多次换 eSIM 收 40 港币/次；⑤与在册 id101（CSL 任纵横卡）不同产品。",
+      "score": 72,
+      "title": "香港 Club SIM 保号：15 港币续一年（首开最低 50 港币）；csl 58 港币 20GB",
+      "url": "https://x.com/Lovislexus/status/2120370935454674989",
+      "value": "香港 +852 号码保号成本约 6–15 港币/年（首开约 50 港币起），内地可收验证码；csl 58 港币含 20GB 香港本地流量。"
     },
     {
       "author": "白嫖福利推送",
@@ -1380,5 +1402,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-11T11:45:12+08:00"
+  "updated_at": "2026-11-11T12:47:40+08:00"
 }
