@@ -1,5 +1,5 @@
 {
-  "count": 117,
+  "count": 124,
   "items": [
     {
       "author": "yedabinbinah",
@@ -783,6 +783,17 @@
       "value": "每周 500 万 Ondo 积分 + USDC 池（约 17.5–25 万美元），按交易量与持仓分配；需入金交易"
     },
     {
+      "author": "KOF97AI",
+      "category": "免费额度",
+      "expiry_date": "无明确截止日（每日 5000 积分以活动页为准）",
+      "id": 118,
+      "notes": "75分（来源20/可验证20/价值12/时效15/风险8）：KOF97AI 原帖 + 多方搜索交叉证实：科大讯飞客户端 Loomy 送免费 Token——新用户登录即送 10000 积分（价值约 40 元），每日签到再送 5000 积分（当日有效），可调 GLM-5.3-Flash（x0.8 倍率）等模型，支持 Magpie/CC Switch 接入，Windows/macOS 双端。注意：①每日 5000 积分当日有效、不累积；②注册须手机号；③邀请码可再领 10000 积分（第三方教程口径，未核实）；④Loomy 内另有 Spark 模型限时免费。",
+      "score": 75,
+      "title": "科大讯飞 Loomy 送免费 Token：新用户 10000 积分 + 每天签到 5000 积分调 GLM-5.3-Flash 等",
+      "url": "https://x.com/KOF97AI/status/2120327105766711683",
+      "value": "每天 5000 积分免费调模型（GLM-5.3-Flash 等），新用户另送 10000 积分。"
+    },
+    {
       "author": "Lovislexus",
       "category": "免费额度",
       "expiry_date": null,
@@ -992,6 +1003,17 @@
       "value": "6 项免费资源一次收齐，Kaggle GPU 与 Codespaces 最实在。"
     },
     {
+      "author": "Lovislexus",
+      "category": "免费额度",
+      "expiry_date": "无明确统一截止日（各平台以活动页为准；百炼通常 90 天有效）",
+      "id": 121,
+      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）：Lovislexus 原帖 + 作者跟帖浏览器只读核实全文：7 个平台免费额度——国家超算新用户 1000 万 Token、0.1 元加购 5000 万（跟帖称最高 6000 万）；魔搭 ModelScope 每天最高 2000 次免费 API 调用；Qoder Qoduck 每日额度内 0 积分；阿里百炼新用户每符合条件模型约 100 万 Token；腾讯 EdgeOne Makers 每月 50 万 Token；火山方舟新人免费推理额度；百度千帆新客最高 100 万+ Token。注意：①超算、EdgeOne、魔搭三项与在册 id 77、id 85、id 91 部分重叠，本条新增 Qoder/百炼/火山/千帆 4 项，作汇总收录；②超算赠送额度用完可能继续扣账户余额；③百炼须实名、北京地域、通常 90 天有效，建议开“仅使用免费额度”；④火山建议用“安心体验模式”；⑤Qoder 目前 IDE/CLI 不参与活动；⑥各平台具体数字以活动页为准。",
+      "score": 72,
+      "title": "国内 7 大 AI 平台免费额度汇总：国家超算 1000 万 Token、魔搭每天 2000 次调用、百炼每模型 100 万 Token 等",
+      "url": "https://x.com/Lovislexus/status/2120328156666085688",
+      "value": "7 个平台免费额度一次领齐：超算 1000 万 Token、百炼每模型 100 万、千帆 100 万+、EdgeOne 每月 50 万、魔搭每天 2000 次调用；适合测 Agent、跑自动化。"
+    },
+    {
       "author": "白嫖福利推送",
       "category": "免费额度",
       "expiry_date": "Pro/Team 标准席位 2026-11-16 23:59 PT 到期（北京时间 11 月 17 日 15:59）；Max/Ultra 等 2027-03-08 到期",
@@ -1124,6 +1146,17 @@
       "value": "48 小时内填邀请码，双方各得 10 亿 token"
     },
     {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": "双十一/黑五秒杀券，无明确截止日，以结算页为准",
+      "id": 122,
+      "notes": "67分（来源20/可验证15/价值12/时效15/风险5）：fwqgo_com 原帖浏览器只读核实全文：RakSmart 美西硅谷精品网 2 核/2GB/50GB HDD/1TB 流量（Enterprise CN2 G），电信 CN2 4809/移动 CMIN2/联通 CU19174，附 1 个 IPv4，原价 $12.99/月，页面内置秒杀券立减 $9，月付 $3.99 且续费同价。注意：①价格未向 RakSmart 官网核实，以结算页为准；②帖内链接含推广参数 aff=5734；③50GB 为 HDD 非 SSD；④双十一+黑五秒杀券，库存有限。",
+      "score": 67,
+      "title": "RakSmart 硅谷精品 CN2：2核2G/1TB 月付 $3.99（原价 $12.99，续费同价）",
+      "url": "https://x.com/fwqgo_com/status/2120328155386741140",
+      "value": "硅谷精品 CN2 月付 $3.99（续费同价），2核2G/1TB 流量，适合轻量建站与自动化脚本。"
+    },
+    {
       "author": "NodeSeek官方频道",
       "category": "其他",
       "expiry_date": "无截止日（经验分享；150 天后可转 $3 套餐）",
@@ -1190,6 +1223,39 @@
       "value": "免费GPU云端跑模型，本地Agent调用；与本轮Kaggle双T4帖同一玩法"
     },
     {
+      "author": "lovethelife2333",
+      "category": "免费额度",
+      "expiry_date": "帖称 2026-11-11 为最后一天（未独立核实，以 DTMaaS 平台页为准）",
+      "id": 119,
+      "notes": "65分（来源20/可验证20/价值8/时效12/风险5）：lovethelife2333 原帖 + 搜索交叉证实：蚂蚁数科决策模型 LingDT-Decision-1.0（4B 版）在 DTMaaS 平台限时免费试用，2026-10-23 发布，适合分类/路由等多选决策场景。注意：①“今天最后一天免费”为帖子说法，截止日未独立核实，以 DTMaaS 平台页为准；②小众决策专用模型，不适合通用聊天/编程；③DTMaaS 可能须企业实名；④官方公布的省 Token/提速数据未经独立验证。",
+      "score": 65,
+      "title": "蚂蚁 LingDT-Decision-1.0 决策模型今天最后一天免费（DTMaaS 限时试用）",
+      "url": "https://x.com/lovethelife2333/status/2120334224465002648",
+      "value": "蚂蚁决策模型 4B 版限时免费试用（分类/路由等决策场景）。"
+    },
+    {
+      "author": "Lovislexus",
+      "category": "软件工具",
+      "expiry_date": "无固定截止日（均为公开免费层，以各平台套餐页为准）",
+      "id": 120,
+      "notes": "65分（来源20/可验证15/价值5/时效15/风险10）：Lovislexus 原帖浏览器只读核实全文：白嫖建站路线——Claude/GPT 一句话生成网站，Cloudflare Pages/GitHub Pages 免费上线，Supabase/Neon 免费数据库，Workers 免费额度内跑后端，pages/github 提供网址。注意：①均为各平台公开免费层，无具体新权益、无价格无截止日，作方法汇总收录；②免费额度有用量上限，超量会收费或停服，以各平台套餐页为准。",
+      "score": 65,
+      "title": "个人网站全程白嫖路线：Pages 免费上线 + Supabase/Neon 免费数据库 + Workers 跑后端",
+      "url": "https://x.com/Lovislexus/status/2120313056664469755",
+      "value": "零成本搭个人博客/工具导航/作品集：免费托管 + 免费数据库 + 免费后端额度。"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": "无明确截止日（以结算页为准）",
+      "id": 123,
+      "notes": "64分（来源20/可验证15/价值12/时效12/风险5）：fwqgo_com 原帖浏览器只读核实全文：DotDotNetworks 美国机房 AMD EPYC 2 核/1GB DDR4/20GB NVMe/50Mbps/500GB 流量，电信双程 CN2 GIA + 移动双程 CMIN2 + 联通去程 4837 回程 CN2 GIA，1 个 IPv4，年付 $29.90。注意：①价格未向官网核实，以结算页为准；②正文未写商家名，链接域名 dotdotnetworks.com，含推广参数 aff=73；③商家小众、新西兰 ASN 属性，不承诺流媒体解锁；④须年付预付。",
+      "score": 64,
+      "title": "DotDotNetworks 美国 CN2 GIA：2核1G/20G NVMe 年付 $29.90",
+      "url": "https://x.com/fwqgo_com/status/2120313054583988549",
+      "value": "美国 CN2 GIA 年付 $29.90（约 ¥200/年），2核1G/20G NVMe，适合轻量建站与 API 中转。"
+    },
+    {
       "author": "yedabinbinah",
       "category": "订阅优惠",
       "expiry_date": "2026-11-09闪购（限2000名，先到先得）",
@@ -1199,6 +1265,17 @@
       "title": "百度AI Pro首月0.01元：含25000积分，京东秒杀限2000名",
       "url": "https://x.com/yedabinbinah/status/2119794042842333687",
       "value": "0.01元得百度AI Pro首月+25000积分（原价首月9.9元）"
+    },
+    {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": "兑换后有效期约 1 年（论坛口径，以 App 内为准）",
+      "id": 124,
+      "notes": "63分（来源15/可验证20/价值5/时效15/风险8）：白嫖福利推送转发 NodeSeek 帖 + 搜索交叉证实：Red Bull MOBILE Data（奥地利 A1 旗下旅行 eSIM）App 注册后在 ReferralCode 填 TRAVELDEALZ，再领 TRAVELDEALZ1GB，共得 1.1GB 免费流量（首 100MB 官方免费 + 邀请码 1GB）。注意：①1GB 邀请码奖励为论坛长期流传口径，官方未公布奖励，以 App 内显示为准；②流量有效期据论坛说法为 1 年；③须装 App 注册、设备须支持 eSIM；④奥地利/漫游数据包，覆盖 100+ 国家地区，网速无 5G。",
+      "score": 63,
+      "title": "Red Bull eSIM 免费 1.1G 流量：下 App 填邀请码 TRAVELDEALZ（奥地利 A1 旗下）",
+      "url": "https://t.me/baipiaofl/64316",
+      "value": "免费 1.1GB 境外漫游 eSIM 流量（App 注册 + 填码 TRAVELDEALZ），适合出境备用。"
     },
     {
       "author": "0xjackkk",
@@ -1292,5 +1369,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-11T09:44:40+08:00"
+  "updated_at": "2026-11-11T10:53:27+08:00"
 }
