@@ -1,5 +1,5 @@
 {
-  "count": 127,
+  "count": 130,
   "items": [
     {
       "author": "yedabinbinah",
@@ -198,6 +198,17 @@
       "title": "Hermes Agent：会越用越懂你的开源 AI Agent（NousResearch，MIT 免费）",
       "url": "https://x.com/tantanyuli/status/2120234285034856479",
       "value": "免费开源 AI Agent（MIT），262k stars；可自学/自部署，带记忆与技能自改进"
+    },
+    {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": "无明确截止日（以 chat.qwen.ai 内模型列表为准）",
+      "id": 125,
+      "notes": "82分（来源25/可验证20/价值12/时效15/风险10）：白嫖福利推送转发 LINUX DO 帖（2026-11-11 02:31，楼主称“一打开发现能用了，Qoder也同步上线了”）+ 新浪科技 2026-11-11 上午消息交叉证实：阿里千问官方宣布新一代 Qwen4 即将发布，Qwen4-Max 预览版已首发上线阿里 Token Plan（限时最低 1 折），千问办公、Qoder、千问 App、Qwen Studio 已第一时间接入新模型；LINUX DO 另有“Qwen4在qoder里可以用了”帖佐证。注意：①chat.qwen.ai（Qwen Studio）App 本身免费、无订阅，免费档有每日用量上限，以 App 内显示为准；②API 侧预览版在 Token Plan 限时 1 折，属付费体验；③Qwen4 参数/上下文/价格与是否开源尚未公布，以官方为准；④此前 11 月 5 日前官方口径仍为“训练中”，本次为 11 月 11 日当天上线。",
+      "score": 82,
+      "title": "Qwen4 上线 chat.qwen.ai 可免费使用：新一代旗舰模型，Qoder 同步接入",
+      "url": "https://t.me/baipiaofl/64331",
+      "value": "新一代旗舰 Qwen4 在千问网页/App 免费试用（Qoder 同步接入），无需绑卡；API 预览版 Token Plan 限时 1 折。"
     },
     {
       "author": "tantanyuli",
@@ -475,17 +486,6 @@
       "value": "免费云端 GPU/TPU 算力，按需分配不保证"
     },
     {
-      "author": "白嫖福利推送",
-      "category": "免费额度",
-      "expiry_date": "无明确截止日（以 chat.qwen.ai 内模型列表为准）",
-      "id": 125,
-      "notes": "82分（来源25/可验证20/价值12/时效15/风险10）：白嫖福利推送转发 LINUX DO 帖（2026-11-11 02:31，楼主称“一打开发现能用了，Qoder也同步上线了”）+ 新浪科技 2026-11-11 上午消息交叉证实：阿里千问官方宣布新一代 Qwen4 即将发布，Qwen4-Max 预览版已首发上线阿里 Token Plan（限时最低 1 折），千问办公、Qoder、千问 App、Qwen Studio 已第一时间接入新模型；LINUX DO 另有“Qwen4在qoder里可以用了”帖佐证。注意：①chat.qwen.ai（Qwen Studio）App 本身免费、无订阅，免费档有每日用量上限，以 App 内显示为准；②API 侧预览版在 Token Plan 限时 1 折，属付费体验；③Qwen4 参数/上下文/价格与是否开源尚未公布，以官方为准；④此前 11 月 5 日前官方口径仍为“训练中”，本次为 11 月 11 日当天上线。",
-      "score": 82,
-      "title": "Qwen4 上线 chat.qwen.ai 可免费使用：新一代旗舰模型，Qoder 同步接入",
-      "url": "https://t.me/baipiaofl/64331",
-      "value": "新一代旗舰 Qwen4 在千问网页/App 免费试用（Qoder 同步接入），无需绑卡；API 预览版 Token Plan 限时 1 折。"
-    },
-    {
       "author": "tantanyuli",
       "category": "软件工具",
       "expiry_date": "长期有效",
@@ -539,6 +539,28 @@
       "title": "Kaggle免费GPU双T4跑30B编程大模型",
       "url": "https://x.com/Lovislexus/status/2119595831036960924",
       "value": "每周约30小时免费GPU，双T4合计32GB显存，不用绑卡；可跑Qwen3-Coder 30B量化版"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": "双11活动，结束时间以官网为准",
+      "id": 130,
+      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）：fwqgo_com 原帖 + 多家独立博客交叉核实（uvps.org、ittellyou、fwqgo.com、zhuji.gd、rakvps），与官网 uuuvps.hk 双11活动页价格一致：LA GTT S1 双 ISP 住宅 IP，1核1G/10G SSD/800G流量/300Mbps，年付¥388（三年付第三年半价，折合¥26.94/月）；同系列 LA 9929 S1 原生 IDC IP 年付¥288、LA TK/NTT S1 同价¥388。注意：①小众商家（2019年成立，三優雲），须年付、限量库存以官网为准；②双 ISP 家宽属性以实际分配 IP 与第三方检测为准，交付后被标记为 IDC 不负责更换；③支持支付宝/PayPal，3天内可退款；④无 IPv6、仅1个 IPv4。",
+      "score": 77,
+      "title": "UUUVPS 七周年×双11：洛杉矶 LA GTT S1 双 ISP 住宅 IP 年付¥388（1核1G/800G/300Mbps）",
+      "url": "https://x.com/fwqgo_com/status/2120364189026070693",
+      "value": "洛杉矶双 ISP 住宅 IP + 联通 9929 回程，年付¥388；三年付第三年半价折合¥26.94/月"
+    },
+    {
+      "author": "Lovislexus",
+      "category": "软件工具",
+      "expiry_date": "无固定截止日",
+      "id": 129,
+      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）：Lovislexus 原帖 + GitHub 官方仓库已核实：OpenMili/aimili-vpngate，2383 stars、91 次提交、2026-05-25 创建，README 确认功能——在 Linux VPS 上管理 VPNGate 节点，提供 Web 后台 + HTTP/HTTPS/SOCKS5 代理（127.0.0.1:7928），支持源码/Docker 部署。注意：①须自有 VPS + 开启 TUN/TAP；②VPNGate 节点由第三方志愿者运营，速度、稳定性、隐私均无保证，勿传账号密码、金融信息等敏感数据；③部署前确认所在地法律与 VPS 服务商条款允许使用 VPN/TUN；④代理端口默认无公网认证，勿直接暴露。",
+      "score": 77,
+      "title": "AimiliVPNGate：开源免费 VPN 网关，用 VPNGate 节点让 VPS 干净 IP 出站",
+      "url": "https://x.com/Lovislexus/status/2120343253371564144",
+      "value": "自有 VPS 上部署即可用免费 VPNGate 节点出站，省 VPN 订阅费；带 Web 后台与 HTTP/SOCKS5 代理"
     },
     {
       "author": "NodeSeek官方频道",
@@ -761,6 +783,17 @@
       "value": "首月免费，约 10 美元；.env 外用法有风险"
     },
     {
+      "author": "KOF97AI",
+      "category": "免费额度",
+      "expiry_date": "无明确截止日（每日 5000 积分以活动页为准）",
+      "id": 118,
+      "notes": "75分（来源20/可验证20/价值12/时效15/风险8）：KOF97AI 原帖 + 多方搜索交叉证实：科大讯飞客户端 Loomy 送免费 Token——新用户登录即送 10000 积分（价值约 40 元），每日签到再送 5000 积分（当日有效），可调 GLM-5.3-Flash（x0.8 倍率）等模型，支持 Magpie/CC Switch 接入，Windows/macOS 双端。注意：①每日 5000 积分当日有效、不累积；②注册须手机号；③邀请码可再领 10000 积分（第三方教程口径，未核实）；④Loomy 内另有 Spark 模型限时免费。",
+      "score": 75,
+      "title": "科大讯飞 Loomy 送免费 Token：新用户 10000 积分 + 每天签到 5000 积分调 GLM-5.3-Flash 等",
+      "url": "https://x.com/KOF97AI/status/2120327105766711683",
+      "value": "每天 5000 积分免费调模型（GLM-5.3-Flash 等），新用户另送 10000 积分。"
+    },
+    {
       "author": "tantanyuli",
       "category": "软件工具",
       "expiry_date": "无固定截止日（开源课程长期有效）",
@@ -794,15 +827,15 @@
       "value": "每周 500 万 Ondo 积分 + USDC 池（约 17.5–25 万美元），按交易量与持仓分配；需入金交易"
     },
     {
-      "author": "KOF97AI",
-      "category": "免费额度",
-      "expiry_date": "无明确截止日（每日 5000 积分以活动页为准）",
-      "id": 118,
-      "notes": "75分（来源20/可验证20/价值12/时效15/风险8）：KOF97AI 原帖 + 多方搜索交叉证实：科大讯飞客户端 Loomy 送免费 Token——新用户登录即送 10000 积分（价值约 40 元），每日签到再送 5000 积分（当日有效），可调 GLM-5.3-Flash（x0.8 倍率）等模型，支持 Magpie/CC Switch 接入，Windows/macOS 双端。注意：①每日 5000 积分当日有效、不累积；②注册须手机号；③邀请码可再领 10000 积分（第三方教程口径，未核实）；④Loomy 内另有 Spark 模型限时免费。",
-      "score": 75,
-      "title": "科大讯飞 Loomy 送免费 Token：新用户 10000 积分 + 每天签到 5000 积分调 GLM-5.3-Flash 等",
-      "url": "https://x.com/KOF97AI/status/2120327105766711683",
-      "value": "每天 5000 积分免费调模型（GLM-5.3-Flash 等），新用户另送 10000 积分。"
+      "author": "Lovislexus",
+      "category": "云服务器",
+      "expiry_date": "无明确截止日（常驻特价，以官网 Specials 页为准；RAKsmart 闪购 11 月 11–17 日另见 id79）",
+      "id": 126,
+      "notes": "74分（来源20/可验证25/价值12/时效12/风险5）：Lovislexus 原帖 + 多方交叉核实：RackNerd 官网 Specials 页 1GB KVM（1核/20GB SSD/每月 3TB/1Gbps/1 个 IPv4）年付 $21.99，终身同价续费（多家 2026-11 评测复核一致）；RAKsmart 硅谷 2核2G 闪购 $1.99/月（11 月 11–17 日、11 月 25–30 日两档，闪购价续费同价）已收录 id79，本条不再重复。注意：①RackNerd 为年付预付、退款窗口短；②特价机房库存有限、部分地区延迟较高；③RAKsmart 闪购库存有限，错过等 11 月 25 日第二档。",
+      "score": 74,
+      "title": "RackNerd 年付 $21.99：1核1G/20G SSD/每月3TB 流量 KVM（续费同价）",
+      "url": "https://x.com/Lovislexus/status/2120371448170881199",
+      "value": "RackNerd 1核1G KVM 年付 $21.99（约 ¥155/年，续费同价），适合轻量建站、API 与自动化脚本。"
     },
     {
       "author": "Lovislexus",
@@ -817,14 +850,25 @@
     },
     {
       "author": "Lovislexus",
-      "category": "云服务器",
-      "expiry_date": "无明确截止日（常驻特价，以官网 Specials 页为准；RAKsmart 闪购 11 月 11–17 日另见 id79）",
-      "id": 126,
-      "notes": "74分（来源20/可验证25/价值12/时效12/风险5）：Lovislexus 原帖 + 多方交叉核实：RackNerd 官网 Specials 页 1GB KVM（1核/20GB SSD/每月 3TB/1Gbps/1 个 IPv4）年付 $21.99，终身同价续费（多家 2026-11 评测复核一致）；RAKsmart 硅谷 2核2G 闪购 $1.99/月（11 月 11–17 日、11 月 25–30 日两档，闪购价续费同价）已收录 id79，本条不再重复。注意：①RackNerd 为年付预付、退款窗口短；②特价机房库存有限、部分地区延迟较高；③RAKsmart 闪购库存有限，错过等 11 月 25 日第二档。",
-      "score": 74,
-      "title": "RackNerd 年付 $21.99：1核1G/20G SSD/每月3TB 流量 KVM（续费同价）",
-      "url": "https://x.com/Lovislexus/status/2120371448170881199",
-      "value": "RackNerd 1核1G KVM 年付 $21.99（约 ¥155/年，续费同价），适合轻量建站、API 与自动化脚本。"
+      "category": "其他",
+      "expiry_date": "无明确截止日（以 Club SIM 官网套餐页为准）",
+      "id": 127,
+      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）：Lovislexus 原帖 + 多方指南交叉核实：Club SIM（HKT/CSL 预付品牌）无月费，365 天内任意买一个服务包即续号一年，最便宜续号包约 6–15 港币（短信包 6 港币/亚太漫游日包 15 港币）；csl 58 港币 20GB 本地流量包与官网套餐一致。注意：①“15 港币续一年”是续号成本，首次开卡最低消费 50 港币（例 38 港币中澳漫游 1GB + 15 港币日包 = 53 港币）；②香港法律要求实名登记，须护照、不支持内地身份证；③内地收验证码实测可行但不保证所有平台、须备备用验证方式；④eSIM 免费发卡、一年内多次换 eSIM 收 40 港币/次；⑤与在册 id101（CSL 任纵横卡）不同产品。",
+      "score": 72,
+      "title": "香港 Club SIM 保号：15 港币续一年（首开最低 50 港币）；csl 58 港币 20GB",
+      "url": "https://x.com/Lovislexus/status/2120370935454674989",
+      "value": "香港 +852 号码保号成本约 6–15 港币/年（首开约 50 港币起），内地可收验证码；csl 58 港币含 20GB 香港本地流量。"
+    },
+    {
+      "author": "Lovislexus",
+      "category": "免费额度",
+      "expiry_date": "无明确统一截止日（各平台以活动页为准；百炼通常 90 天有效）",
+      "id": 121,
+      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）：Lovislexus 原帖 + 作者跟帖浏览器只读核实全文：7 个平台免费额度——国家超算新用户 1000 万 Token、0.1 元加购 5000 万（跟帖称最高 6000 万）；魔搭 ModelScope 每天最高 2000 次免费 API 调用；Qoder Qoduck 每日额度内 0 积分；阿里百炼新用户每符合条件模型约 100 万 Token；腾讯 EdgeOne Makers 每月 50 万 Token；火山方舟新人免费推理额度；百度千帆新客最高 100 万+ Token。注意：①超算、EdgeOne、魔搭三项与在册 id 77、id 85、id 91 部分重叠，本条新增 Qoder/百炼/火山/千帆 4 项，作汇总收录；②超算赠送额度用完可能继续扣账户余额；③百炼须实名、北京地域、通常 90 天有效，建议开“仅使用免费额度”；④火山建议用“安心体验模式”；⑤Qoder 目前 IDE/CLI 不参与活动；⑥各平台具体数字以活动页为准。",
+      "score": 72,
+      "title": "国内 7 大 AI 平台免费额度汇总：国家超算 1000 万 Token、魔搭每天 2000 次调用、百炼每模型 100 万 Token 等",
+      "url": "https://x.com/Lovislexus/status/2120328156666085688",
+      "value": "7 个平台免费额度一次领齐：超算 1000 万 Token、百炼每模型 100 万、千帆 100 万+、EdgeOne 每月 50 万、魔搭每天 2000 次调用；适合测 Agent、跑自动化。"
     },
     {
       "author": "fwqgo_com",
@@ -1025,28 +1069,6 @@
       "value": "6 项免费资源一次收齐，Kaggle GPU 与 Codespaces 最实在。"
     },
     {
-      "author": "Lovislexus",
-      "category": "免费额度",
-      "expiry_date": "无明确统一截止日（各平台以活动页为准；百炼通常 90 天有效）",
-      "id": 121,
-      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）：Lovislexus 原帖 + 作者跟帖浏览器只读核实全文：7 个平台免费额度——国家超算新用户 1000 万 Token、0.1 元加购 5000 万（跟帖称最高 6000 万）；魔搭 ModelScope 每天最高 2000 次免费 API 调用；Qoder Qoduck 每日额度内 0 积分；阿里百炼新用户每符合条件模型约 100 万 Token；腾讯 EdgeOne Makers 每月 50 万 Token；火山方舟新人免费推理额度；百度千帆新客最高 100 万+ Token。注意：①超算、EdgeOne、魔搭三项与在册 id 77、id 85、id 91 部分重叠，本条新增 Qoder/百炼/火山/千帆 4 项，作汇总收录；②超算赠送额度用完可能继续扣账户余额；③百炼须实名、北京地域、通常 90 天有效，建议开“仅使用免费额度”；④火山建议用“安心体验模式”；⑤Qoder 目前 IDE/CLI 不参与活动；⑥各平台具体数字以活动页为准。",
-      "score": 72,
-      "title": "国内 7 大 AI 平台免费额度汇总：国家超算 1000 万 Token、魔搭每天 2000 次调用、百炼每模型 100 万 Token 等",
-      "url": "https://x.com/Lovislexus/status/2120328156666085688",
-      "value": "7 个平台免费额度一次领齐：超算 1000 万 Token、百炼每模型 100 万、千帆 100 万+、EdgeOne 每月 50 万、魔搭每天 2000 次调用；适合测 Agent、跑自动化。"
-    },
-    {
-      "author": "Lovislexus",
-      "category": "其他",
-      "expiry_date": "无明确截止日（以 Club SIM 官网套餐页为准）",
-      "id": 127,
-      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）：Lovislexus 原帖 + 多方指南交叉核实：Club SIM（HKT/CSL 预付品牌）无月费，365 天内任意买一个服务包即续号一年，最便宜续号包约 6–15 港币（短信包 6 港币/亚太漫游日包 15 港币）；csl 58 港币 20GB 本地流量包与官网套餐一致。注意：①“15 港币续一年”是续号成本，首次开卡最低消费 50 港币（例 38 港币中澳漫游 1GB + 15 港币日包 = 53 港币）；②香港法律要求实名登记，须护照、不支持内地身份证；③内地收验证码实测可行但不保证所有平台、须备备用验证方式；④eSIM 免费发卡、一年内多次换 eSIM 收 40 港币/次；⑤与在册 id101（CSL 任纵横卡）不同产品。",
-      "score": 72,
-      "title": "香港 Club SIM 保号：15 港币续一年（首开最低 50 港币）；csl 58 港币 20GB",
-      "url": "https://x.com/Lovislexus/status/2120370935454674989",
-      "value": "香港 +852 号码保号成本约 6–15 港币/年（首开约 50 港币起），内地可收验证码；csl 58 港币含 20GB 香港本地流量。"
-    },
-    {
       "author": "白嫖福利推送",
       "category": "免费额度",
       "expiry_date": "Pro/Team 标准席位 2026-11-16 23:59 PT 到期（北京时间 11 月 17 日 15:59）；Max/Ultra 等 2027-03-08 到期",
@@ -1124,6 +1146,17 @@
       "value": "免费浏览器插件，解决 X 首页刷新丢帖的问题；不省钱，省时间"
     },
     {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": "双十一/黑五秒杀券，无明确截止日，以结算页为准",
+      "id": 124,
+      "notes": "67分（来源20/可验证15/价值12/时效15/风险5）：fwqgo_com 原帖浏览器只读核实全文：RakSmart 美西硅谷精品网 2 核/2GB/50GB HDD/1TB 流量（Enterprise CN2 G），电信 CN2 4809/移动 CMIN2/联通 CU19174，附 1 个 IPv4，原价 $12.99/月，页面内置秒杀券立减 $9，月付 $3.99 且续费同价。注意：①价格未向 RakSmart 官网核实，以结算页为准；②帖内链接含推广参数 aff=5734；③50GB 为 HDD 非 SSD；④双十一+黑五秒杀券，库存有限。",
+      "score": 67,
+      "title": "RakSmart 硅谷精品 CN2：2核2G/1TB 月付 $3.99（原价 $12.99，续费同价）",
+      "url": "https://x.com/fwqgo_com/status/2120328155386741140",
+      "value": "硅谷精品 CN2 月付 $3.99（续费同价），2核2G/1TB 流量，适合轻量建站与自动化脚本。"
+    },
+    {
       "author": "mjjwiki",
       "category": "金融卡券",
       "expiry_date": "会员调整 2026-11-11 生效；免费 Core 2026-11-16 到期后降为 Lite/Standard；双 11 返现 11 月 12 日 23:59 UTC 截止",
@@ -1179,15 +1212,37 @@
       "value": "48 小时内填邀请码，双方各得 10 亿 token"
     },
     {
-      "author": "fwqgo_com",
+      "author": "Lovislexus",
       "category": "云服务器",
-      "expiry_date": "双十一/黑五秒杀券，无明确截止日，以结算页为准",
-      "id": 122,
-      "notes": "67分（来源20/可验证15/价值12/时效15/风险5）：fwqgo_com 原帖浏览器只读核实全文：RakSmart 美西硅谷精品网 2 核/2GB/50GB HDD/1TB 流量（Enterprise CN2 G），电信 CN2 4809/移动 CMIN2/联通 CU19174，附 1 个 IPv4，原价 $12.99/月，页面内置秒杀券立减 $9，月付 $3.99 且续费同价。注意：①价格未向 RakSmart 官网核实，以结算页为准；②帖内链接含推广参数 aff=5734；③50GB 为 HDD 非 SSD；④双十一+黑五秒杀券，库存有限。",
-      "score": 67,
-      "title": "RakSmart 硅谷精品 CN2：2核2G/1TB 月付 $3.99（原价 $12.99，续费同价）",
-      "url": "https://x.com/fwqgo_com/status/2120328155386741140",
-      "value": "硅谷精品 CN2 月付 $3.99（续费同价），2核2G/1TB 流量，适合轻量建站与自动化脚本。"
+      "expiry_date": "无固定截止日",
+      "id": 128,
+      "notes": "65分（来源20/可验证15/价值5/时效15/风险10）：Lovislexus 原帖浏览器只读核实全文：7 个 VPS 情报站——比价 vpsls.com（收录数十家服务商、每日更新价格）、低价捡漏 dash.fuckip.me、优化线路库存 vhost.fans、热门 VPS 补货 vpskucun.com、历史延迟丢包 vps789.com、国内 Ping 路由 itdog.cn、全球连通性 ping.pe。注意：①这只是情报入口清单、本身不是优惠，促销价格与退款规则仍须去官网核实；②部分测速需实际 IP，历史数据未必覆盖目标机器；③itdog、ping.pe 为知名站，其余站点未逐个打开核实。",
+      "score": 65,
+      "title": "7 个 VPS 情报来源：比价、低价捡漏、补货监控、延迟与连通性一站查",
+      "url": "https://x.com/Lovislexus/status/2120305507697107283",
+      "value": "找低价 VPS 与补货情报的入口清单：比价、捡漏、库存、延迟、连通性"
+    },
+    {
+      "author": "Lovislexus",
+      "category": "软件工具",
+      "expiry_date": "无固定截止日（均为公开免费层，以各平台套餐页为准）",
+      "id": 120,
+      "notes": "65分（来源20/可验证15/价值5/时效15/风险10）：Lovislexus 原帖浏览器只读核实全文：白嫖建站路线——Claude/GPT 一句话生成网站，Cloudflare Pages/GitHub Pages 免费上线，Supabase/Neon 免费数据库，Workers 免费额度内跑后端，pages/github 提供网址。注意：①均为各平台公开免费层，无具体新权益、无价格无截止日，作方法汇总收录；②免费额度有用量上限，超量会收费或停服，以各平台套餐页为准。",
+      "score": 65,
+      "title": "个人网站全程白嫖路线：Pages 免费上线 + Supabase/Neon 免费数据库 + Workers 跑后端",
+      "url": "https://x.com/Lovislexus/status/2120313056664469755",
+      "value": "零成本搭个人博客/工具导航/作品集：免费托管 + 免费数据库 + 免费后端额度。"
+    },
+    {
+      "author": "lovethelife2333",
+      "category": "免费额度",
+      "expiry_date": "帖称 2026-11-11 为最后一天（未独立核实，以 DTMaaS 平台页为准）",
+      "id": 119,
+      "notes": "65分（来源20/可验证20/价值8/时效12/风险5）：lovethelife2333 原帖 + 搜索交叉证实：蚂蚁数科决策模型 LingDT-Decision-1.0（4B 版）在 DTMaaS 平台限时免费试用，2026-10-23 发布，适合分类/路由等多选决策场景。注意：①“今天最后一天免费”为帖子说法，截止日未独立核实，以 DTMaaS 平台页为准；②小众决策专用模型，不适合通用聊天/编程；③DTMaaS 可能须企业实名；④官方公布的省 Token/提速数据未经独立验证。",
+      "score": 65,
+      "title": "蚂蚁 LingDT-Decision-1.0 决策模型今天最后一天免费（DTMaaS 限时试用）",
+      "url": "https://x.com/lovethelife2333/status/2120334224465002648",
+      "value": "蚂蚁决策模型 4B 版限时免费试用（分类/路由等决策场景）。"
     },
     {
       "author": "NodeSeek官方频道",
@@ -1256,28 +1311,6 @@
       "value": "免费GPU云端跑模型，本地Agent调用；与本轮Kaggle双T4帖同一玩法"
     },
     {
-      "author": "lovethelife2333",
-      "category": "免费额度",
-      "expiry_date": "帖称 2026-11-11 为最后一天（未独立核实，以 DTMaaS 平台页为准）",
-      "id": 119,
-      "notes": "65分（来源20/可验证20/价值8/时效12/风险5）：lovethelife2333 原帖 + 搜索交叉证实：蚂蚁数科决策模型 LingDT-Decision-1.0（4B 版）在 DTMaaS 平台限时免费试用，2026-10-23 发布，适合分类/路由等多选决策场景。注意：①“今天最后一天免费”为帖子说法，截止日未独立核实，以 DTMaaS 平台页为准；②小众决策专用模型，不适合通用聊天/编程；③DTMaaS 可能须企业实名；④官方公布的省 Token/提速数据未经独立验证。",
-      "score": 65,
-      "title": "蚂蚁 LingDT-Decision-1.0 决策模型今天最后一天免费（DTMaaS 限时试用）",
-      "url": "https://x.com/lovethelife2333/status/2120334224465002648",
-      "value": "蚂蚁决策模型 4B 版限时免费试用（分类/路由等决策场景）。"
-    },
-    {
-      "author": "Lovislexus",
-      "category": "软件工具",
-      "expiry_date": "无固定截止日（均为公开免费层，以各平台套餐页为准）",
-      "id": 120,
-      "notes": "65分（来源20/可验证15/价值5/时效15/风险10）：Lovislexus 原帖浏览器只读核实全文：白嫖建站路线——Claude/GPT 一句话生成网站，Cloudflare Pages/GitHub Pages 免费上线，Supabase/Neon 免费数据库，Workers 免费额度内跑后端，pages/github 提供网址。注意：①均为各平台公开免费层，无具体新权益、无价格无截止日，作方法汇总收录；②免费额度有用量上限，超量会收费或停服，以各平台套餐页为准。",
-      "score": 65,
-      "title": "个人网站全程白嫖路线：Pages 免费上线 + Supabase/Neon 免费数据库 + Workers 跑后端",
-      "url": "https://x.com/Lovislexus/status/2120313056664469755",
-      "value": "零成本搭个人博客/工具导航/作品集：免费托管 + 免费数据库 + 免费后端额度。"
-    },
-    {
       "author": "fwqgo_com",
       "category": "云服务器",
       "expiry_date": "无明确截止日（以结算页为准）",
@@ -1289,6 +1322,17 @@
       "value": "美国 CN2 GIA 年付 $29.90（约 ¥200/年），2核1G/20G NVMe，适合轻量建站与 API 中转。"
     },
     {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": "兑换后有效期约 1 年（论坛口径，以 App 内为准）",
+      "id": 122,
+      "notes": "63分（来源15/可验证20/价值5/时效15/风险8）：白嫖福利推送转发 NodeSeek 帖 + 搜索交叉证实：Red Bull MOBILE Data（奥地利 A1 旗下旅行 eSIM）App 注册后在 ReferralCode 填 TRAVELDEALZ，再领 TRAVELDEALZ1GB，共得 1.1GB 免费流量（首 100MB 官方免费 + 邀请码 1GB）。注意：①1GB 邀请码奖励为论坛长期流传口径，官方未公布奖励，以 App 内显示为准；②流量有效期据论坛说法为 1 年；③须装 App 注册、设备须支持 eSIM；④奥地利/漫游数据包，覆盖 100+ 国家地区，网速无 5G。",
+      "score": 63,
+      "title": "Red Bull eSIM 免费 1.1G 流量：下 App 填邀请码 TRAVELDEALZ（奥地利 A1 旗下）",
+      "url": "https://t.me/baipiaofl/64316",
+      "value": "免费 1.1GB 境外漫游 eSIM 流量（App 注册 + 填码 TRAVELDEALZ），适合出境备用。"
+    },
+    {
       "author": "yedabinbinah",
       "category": "订阅优惠",
       "expiry_date": "2026-11-09闪购（限2000名，先到先得）",
@@ -1298,17 +1342,6 @@
       "title": "百度AI Pro首月0.01元：含25000积分，京东秒杀限2000名",
       "url": "https://x.com/yedabinbinah/status/2119794042842333687",
       "value": "0.01元得百度AI Pro首月+25000积分（原价首月9.9元）"
-    },
-    {
-      "author": "白嫖福利推送",
-      "category": "免费额度",
-      "expiry_date": "兑换后有效期约 1 年（论坛口径，以 App 内为准）",
-      "id": 124,
-      "notes": "63分（来源15/可验证20/价值5/时效15/风险8）：白嫖福利推送转发 NodeSeek 帖 + 搜索交叉证实：Red Bull MOBILE Data（奥地利 A1 旗下旅行 eSIM）App 注册后在 ReferralCode 填 TRAVELDEALZ，再领 TRAVELDEALZ1GB，共得 1.1GB 免费流量（首 100MB 官方免费 + 邀请码 1GB）。注意：①1GB 邀请码奖励为论坛长期流传口径，官方未公布奖励，以 App 内显示为准；②流量有效期据论坛说法为 1 年；③须装 App 注册、设备须支持 eSIM；④奥地利/漫游数据包，覆盖 100+ 国家地区，网速无 5G。",
-      "score": 63,
-      "title": "Red Bull eSIM 免费 1.1G 流量：下 App 填邀请码 TRAVELDEALZ（奥地利 A1 旗下）",
-      "url": "https://t.me/baipiaofl/64316",
-      "value": "免费 1.1GB 境外漫游 eSIM 流量（App 注册 + 填码 TRAVELDEALZ），适合出境备用。"
     },
     {
       "author": "0xjackkk",
@@ -1402,5 +1435,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-11T12:47:40+08:00"
+  "updated_at": "2026-11-11T13:56:35+08:00"
 }
