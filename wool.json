@@ -1,5 +1,5 @@
 {
-  "count": 136,
+  "count": 141,
   "items": [
     {
       "id": 6,
@@ -8,7 +8,7 @@
       "author": "yedabinbinah",
       "category": "免费额度",
       "score": 95,
-      "expiry_date": null,
+      "expiry_date": "",
       "value": "每月约 20 美元额度，全年约 240 美元",
       "notes": "评分 95 分（来源25/可验证25/价值20/时效15/风险10）。原帖与官网均已核实：Perch AI 官网文档证实 Starter 免费档每月 20000 PT（约 20 美元）、不用绑卡，网页/桌面/命令行三端通用。注意：免费额度默认参与 Starter Data Program（用量数据可能用于训练，可退出）；模型阵容每月轮换。"
     },
@@ -19,7 +19,7 @@
       "author": "白嫖福利推送",
       "category": "免费额度",
       "score": 90,
-      "expiry_date": null,
+      "expiry_date": "",
       "value": "每天 5 条免费 AI 视频（5–15 秒、768p、带同步音频），超出按 $0.08/秒计费",
       "notes": "90分（来源25/可验证25/价值15/时效15/风险10）：fal.ai 官方指南（fal.ai/learn/tools/how-to-use-minimax-h3-max）直接证实：MiniMax H3 Max 工具页每天 5 次免费生成，免账号；登录 Sandbox 后每天另加 5 次、单段最长 15 秒；768p、带同步音频，滚动 24 小时重置；超出按 $0.08/秒计费。第三方 aifree.dev 2026-10-12 复核一致。注意：①免账号工具页的免费片段为 5 秒，15 秒须登录 Sandbox；②免费的是 fal 自训的 H3 Max 变体（768p），非 MiniMax 官方 H3 的 2K；③无截止日、长期有效。"
     },
@@ -63,7 +63,7 @@
       "author": "BlockInsight214",
       "category": "云服务器",
       "score": 90,
-      "expiry_date": null,
+      "expiry_date": "",
       "value": "永久免费 2 核 12GB ARM 云主机 + 300 美元试用金",
       "notes": "评分 90 分（来源25/可验证25/价值20/时效15/风险5）。原帖与 Oracle 官方免费档规则均已核实：Always Free 含 Ampere A1（2 OCPU/12GB）+ 两台 AMD 微实例 + 200GB 存储，另有 300 美元/30 天试用金。注意：注册需绑卡验证（临时预授权、会退回）；一人只能开一个免费账号；闲置实例可能被回收；home region 选定后锁定，热门区常遇容量不足。"
     },
@@ -101,6 +101,17 @@
       "notes": "评分88分（来源25/可验证25/价值15/时效15/风险8）。原帖与多个独立来源核实一致：Simular Box免费档约4核8G/40GB Ubuntu云电脑，给AI Agent用（MCP接入），每日1000免费credits，免绑卡，Google/GitHub登录即可；帖子说的2核4G偏保守，实测约4核8G。注意：无公网入口、闲置休眠，不能当VPS/节点用；模型调用耗每日额度，用完次日刷新。"
     },
     {
+      "id": 144,
+      "title": "MiniMax H3-Image 开源权重发布：4K 生图 10 秒，API 首周 16MP 以上 5 折",
+      "url": "https://x.com/KOF97AI/status/2120453113723359648",
+      "author": "KOF97AI",
+      "category": "免费额度",
+      "score": 87,
+      "expiry_date": "2026-11-17",
+      "value": "开源权重免费下载自用；API 首周 16MP 以上生图 5 折（约 $0.069/张 4K 变半价）",
+      "notes": "87分（来源25/可验证25/价值12/时效15/风险10）：MiniMax 官方博客 2026-11-10 发布核实：H3-Image 开源权重模型，4K（4096×4096）生图 10 秒内，33.1B 参数，支持 16 张参考图与图片编辑；权重经 Hugging Face 开放，可用 SGLang/vLLM/ComfyUI 部署；同步上架 MiniMax API、MiniMax Code 与海螺 AI，首周 16MP 以上生图 5 折。注意：①自托管需约 135GB 权重（含文本编码器），普通电脑跑不动，普通用户走 API/海螺 AI 体验；②社区许可证排除美/欧/英/韩使用，中国用户不在排除之列；③首周 5 折结束日以官方为准，约 11 月 17 日。"
+    },
+    {
       "id": 133,
       "title": "AssemblyAI 新账号送 $50 免费额度：语音转写约 185 小时，不过期、免绑卡",
       "url": "https://x.com/lovethelife2333/status/2120377899224121773",
@@ -118,7 +129,7 @@
       "author": "",
       "category": "云服务器",
       "score": 87,
-      "expiry_date": null,
+      "expiry_date": "",
       "value": "",
       "notes": "87分（来源25/可验证25/价值12/时效15/风险10）：官网 free-hosting.org 实测核实：终身免费、无试用期、无需信用卡；每账号最多 3 个主机账户、5GB 磁盘空间、不限流量、cPanel、PHP 8.2、最多 400 个 MySQL 数据库、免费 SSL、Softaculous 一键装 WordPress/Joomla 等 400+ 脚本；免费子域名（如 yourname.yzz.me），自有域名可接入；官网称已运营 5 年、20 万+站长。注意：①免费主机非 VPS：无 root、不能当服务器跑任意程序，只能放网站；②账号须保持网站合理活跃并遵守 fair use，否则可能停用；③“不限流量”以官网 fair use 为准，大流量站仍可能被限；④免费子域名为共享后缀，正式项目建议接自有域名；⑤与已在册 id 90（Cloady 免费工作区）不同产品：本条是传统虚拟主机（cPanel/PHP/MySQL），不重复。NodeSeek 论坛同帖（post-1044333-1）为同一条，已去重。补充（NodeSeek 原帖全文核实，2026-11-10 20:39）：帖内另写每日 50,000 Hits 限制、CPU 等服务器资源受限、长期不活跃账户可能被清理，建议只用于学习建站/个人博客/轻量站、重要业务别全押免费主机；评论区有人质疑是 byet 分销（myownfreehost.net），未证实。"
     },
@@ -206,7 +217,7 @@
       "author": "tantanyuli",
       "category": "软件工具",
       "score": 85,
-      "expiry_date": null,
+      "expiry_date": "",
       "value": "开源免费工具；各家模型订阅费另计",
       "notes": "85分（来源25/可验证25/价值10/时效15/风险10）。原帖与 GitHub 均已核实：ccteam（firstintent/ccteam）是开源 MIT 项目，644 星，最新版 v0.13.2（2026-11-08），可把 Claude Code、Codex、Grok、Kimi、DeepSeek 等编程 agent 编成一支队伍，跨厂商、跨机器派活收成果，可用 Telegram、Lark、Slack 或浏览器远程指挥，附 approve/deny 按钮。注意：工具本身免费，但需自备各家 CLI 并登录，各家模型/订阅费用另计。"
     },
@@ -217,7 +228,7 @@
       "author": "tantanyuli",
       "category": "软件工具",
       "score": 85,
-      "expiry_date": null,
+      "expiry_date": "",
       "value": "免费搜无版权素材；桌面端超 5 GiB 导入需付费 Pro",
       "notes": "85分（来源25/可验证25/价值10/时效15/风险10）。原帖与 clipseek.ai 官网均已核实：ClipSeek 可用自然语言搜无版权免费素材（视频、照片、插画），Free media 页明确写明 royalty-free；桌面应用 Free 版 $0、本地运行、不用登录不用绑卡，可导入最多 5 GiB。注意：桌面端超过 5 GiB 导入量需 Pro（一次性付费、早鸟价 $15，原价 $29，终身使用、14 天退款）。"
     },
@@ -231,6 +242,17 @@
       "expiry_date": "无固定截止日（开源项目长期有效）",
       "value": "免费开源 AI Agent（MIT），262k stars；可自学/自部署，带记忆与技能自改进",
       "notes": "84分（来源22/可验证25/价值12/时效15/风险10）：X 原帖 + GitHub 官方仓库 NousResearch/hermes-agent 浏览器只读核实：公开仓库、MIT 协议、262.4k stars、58.6k forks，最新版 v0.23.1（约 19 小时前发布）；自带学习循环的 AI Agent，可从经验中创建并改进技能，支持多步任务执行、工具调用与记忆。注意：README 另提到可选的 Nous Portal 订阅（一份订阅覆盖多项服务），属可选服务，仓库本身免费；跑起来须自备模型 API 或本地模型。"
+    },
+    {
+      "id": 141,
+      "title": "RAKsmart 双11/黑五闪购：硅谷裸机云 E5/32G/1TB 月付 $45.90（活动价 $89）",
+      "url": "https://x.com/fwqgo_com/status/2120443329959866490",
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "score": 82,
+      "expiry_date": "2026-11-17",
+      "value": "闪购价每月省约 $43（相对 $89 活动价）；32G 大内存裸机云",
+      "notes": "82分（来源20/可验证25/价值12/时效15/风险10）：ittellyou 与 fwqgo 活动汇总交叉核实 RAKsmart 双11/黑五活动页：硅谷裸机云 E5-2620/32G 内存/1TB HDD/100M 大陆优化 VIP/不限流量，闪购价 $45.90/月（活动价 $89/月，标价 $139/月）；另有香港同款 20M 带宽同价。注意：①闪购价只在 11 月 11–17 日与 11 月 25–30 日两个窗口有，活动 11 月 30 日结束，库存有限；②帖子称“续费同价”，但汇总站提醒续费价以下单页为准，别直接按闪购价推算；③1TB 为 HDD，磁盘 IO 有限。"
     },
     {
       "id": 125,
@@ -437,7 +459,7 @@
       "author": "0xjackkk",
       "category": "其他",
       "score": 82,
-      "expiry_date": null,
+      "expiry_date": "",
       "value": "低价小模型，API 重度用户可省约三分之二任务成本；无免费额度",
       "notes": "82分（来源25/可验证25/价值12/时效15/风险5）。Meta 官方 11 月 9 日发布 Muse Ember 1.0（research.meta.ai 官方博客确认）：输入 $0.10/百万 token、输出 $0.50/百万 token、缓存输入 $0.004/百万 token，模型 id muse-ember-1.0，1M 上下文；Artificial Analysis 称同等任务成本约 Claude Haiku 5.5 的三分之一。付费 API，按量计费，无免费额度；需 Meta Model API 账号并绑支付方式。"
     },
@@ -448,7 +470,7 @@
       "author": "0xjackkk",
       "category": "其他",
       "score": 82,
-      "expiry_date": null,
+      "expiry_date": "",
       "value": "旗舰模型 API 降价 20%，重度 API 用户年省可观；无免费额度",
       "notes": "82分（来源25/可验证25/价值12/时效15/风险5）。Anthropic 官方 11 月 9 日发布 Claude Fable 5.2，价格与帖子一致：输入 $8/百万 token、输出 $40/百万 token，比 5.1 的 $10/$50 降 20%，输出快约 30%；另有可选 fast mode（$16/$80，提速至多 2.5 倍）。付费 API，按量计费，无免费额度；需 API 账号并绑支付方式。"
     },
@@ -470,7 +492,7 @@
       "author": "BlockInsight214",
       "category": "免费额度",
       "score": 82,
-      "expiry_date": null,
+      "expiry_date": "",
       "value": "免费 API，旗舰级模型，额度数值未公布",
       "notes": "82分（来源25/可验证20/价值12/时效15/风险10）。原帖与 LG AI Research 官方 Medium 文章均已核实：K-EXAONE 2.5 API 通过 EXAONE API Platform（docs.exaone.ai）免费开放，领 API Key 即可用于开发和研究，对标 DeepSeek-V4.1-Flash 与 GLM-5.3（注意：原帖写的是 V4.1，不是 V3.1）；内部评测 AutomationBench-Openset 74.6、SWE-Bench Pro 59.2、BrowseComp 78.0、Claw-Eval 77.3。未核实：是否需绑卡、具体额度数值、截止时间——官方文档只设 Rate Limits 页，称超限返 429、额度见响应头，未公布数字。"
     },
@@ -492,7 +514,7 @@
       "author": "BlockInsight214",
       "category": "免费额度",
       "score": 82,
-      "expiry_date": null,
+      "expiry_date": "",
       "value": "免费调 GPT 5.6 Luna 等模型，每分钟 1 次，适合轻量调用。",
       "notes": "82分（来源25/可验证20/价值12/时效15/风险10）。原帖已核实存在；UnoRouter 免费 :free 端点经第三方评测证实：免绑卡、每模型每分钟 1 次、走 OpenAI 兼容接口 api.unorouter.com/v1；“GPT 5.6 Luna 在列、共 8 个新端点”未在官方渠道逐一核对。"
     },
@@ -503,7 +525,7 @@
       "author": "Lovislexus",
       "category": "免费额度",
       "score": 82,
-      "expiry_date": null,
+      "expiry_date": "",
       "value": "每周 30 小时免费 GPU，可跑 Qwen3 等开源模型。",
       "notes": "82分（来源25/可验证25/价值12/时效15/风险5）。原帖已核实；Kaggle 官方文档证实：T4×2、每张 16GB、每周约 30 小时、单会话最长 12 小时；需手机验证，不用绑卡；高峰期可能排队。"
     },
@@ -514,7 +536,7 @@
       "author": "Lovislexus",
       "category": "免费额度",
       "score": 82,
-      "expiry_date": null,
+      "expiry_date": "",
       "value": "免费云端 GPU/TPU 算力，按需分配不保证",
       "notes": "评分 82 分（来源20/可验证25/价值12/时效15/风险10）。原帖与 Google Colab 官方 FAQ 及多方实测均已核实：免费档常分到 NVIDIA T4（16GB 显存），也可分到 TPU v5e。注意：Google 不保证型号与可用性，高峰可能分不到 GPU；单会话最长约 12 小时、闲置约 90 分钟断开；属长期免费档，不是限时活动。"
     },
@@ -569,9 +591,20 @@
       "author": "Lovislexus",
       "category": "免费额度",
       "score": 79,
-      "expiry_date": null,
+      "expiry_date": "",
       "value": "每周约30小时免费GPU，双T4合计32GB显存，不用绑卡；可跑Qwen3-Coder 30B量化版",
       "notes": "79分（来源22/可验证20/价值15/时效15/风险7）。已核实：Kaggle官方文档确认T4 x2（2×16GB）、每周约30小时、单次最长12小时、需手机验证、无需绑卡。注意：Kaggle可接受使用政策把与机器学习无关的跑服务列为滥用，长期挂Ollama对外提供接口有封号风险；30B量化版需自行调显存。"
+    },
+    {
+      "id": 140,
+      "title": "Notchet 剪贴板管理器终身版限时 0 元（原价 $9.99，App Store 内购）",
+      "url": "https://x.com/KOF97AI/status/2120448095427469734",
+      "author": "KOF97AI",
+      "category": "软件工具",
+      "score": 77,
+      "expiry_date": "",
+      "value": "省 $9.99 终身版费用；一次购买覆盖 iPhone/iPad/Mac",
+      "notes": "77分（来源20/可验证25/价值12/时效10/风险10）：App Store 页面与 newmobilelife 2026-11-11 报道核实：Notchet 剪贴板管理器（Mac 刘海悬浮窗；iPhone/iPad 同 App）终身版内购原价 $9.99，现限时免费——下载后在收费墙看到 Lifetime 显示 $0 即可免费收下（若不是 $0 说明限免已结束，不要点付费确认）。一次购买覆盖同 Apple ID 下 iPhone、iPad 与 Mac，本地离线运行不上传剪贴板。注意：限时免费无公布截止日，先到先得；需 macOS 14 或 iOS 18 以上。"
     },
     {
       "id": 130,
@@ -767,7 +800,7 @@
       "author": "Lovislexus",
       "category": "免费额度",
       "score": 77,
-      "expiry_date": null,
+      "expiry_date": "",
       "value": "Pro 一年约 72 美元，先到先得，名额未证实",
       "notes": "77分（来源25/可验证20/价值12/时效10/风险10）。原帖与 havetml.com 官网条款页均已核实：HaveTML Founder offer——前 500 个领取的账号可获 Pro 计划 $0 用 12 个月（自领取日起），每账号一次、不可转让；Pro 平时 $6/月或 $60/年。Free 档本身 $0，无限 artifacts、永久链接，MCP 与 REST API 各计划均免费，不用绑卡。注意：是否仍有剩余名额页面上未公布，无法核实，先到先得。同帖的 Perch AI 与 Kiro 已在收集册（id 6、7），本条只记 HaveTML。"
     },
@@ -789,7 +822,7 @@
       "author": "yedabinbinah",
       "category": "云服务器",
       "score": 77,
-      "expiry_date": null,
+      "expiry_date": "",
       "value": "200 元券可抵 6 个月国内服务器或 7 个月新加坡服务器。",
       "notes": "77分（来源25/可验证20/价值12/时效10/风险10）。原帖已核实，链接指向作者 10 月 21 日教程文章；活动本身真实（用户此前已通过该文章领到 200 元券），“有货了”为作者单方说法，未独立核对库存。提醒：用户已持有该券（有效期至 2027-01-14），此条仅为补货提醒。"
     },
@@ -800,7 +833,7 @@
       "author": "tantanyuli",
       "category": "软件工具",
       "score": 77,
-      "expiry_date": null,
+      "expiry_date": "",
       "value": "开源免费工具；模型调用费另计",
       "notes": "评分 77 分（来源20/可验证20/价值12/时效15/风险10）。原帖与 GitHub 均已核实：Toonflow 是开源（MIT）AI 短剧工作站（HBAI-Ltd/Toonflow-app，约 2.1 万 star），小说/剧本一键生成分镜与视频。注意：工具本身免费，但模型调用需自备 API（要花钱）；原帖“成本 120 块”未证实，属作者个人说法。"
     },
@@ -811,7 +844,7 @@
       "author": "yedabinbinah",
       "category": "免费额度",
       "score": 77,
-      "expiry_date": null,
+      "expiry_date": "",
       "value": "首月免费，约 10 美元；.env 外用法有风险",
       "notes": "评分 77 分（来源25/可验证20/价值12/时效15/风险5）。原帖与多方来源均已核实：腾讯 LightVela（轻量云云端 Agent）新用户首单免费 1 个月启航 AI 套餐，每月含 4500 AI 积分，平时标价 10 美元/月；国内站需实名认证，国际站免 KYC。注意两点：①原帖“4500积分3个月”未证实，官方口径是首月免费、每月 4500 积分；②原帖教的“从云存储下载 .env 文件当 API key 外用”属非官方用法，有被封号风险，不建议照搬。"
     },
@@ -877,7 +910,7 @@
       "author": "Lovislexus",
       "category": "免费额度",
       "score": 74,
-      "expiry_date": null,
+      "expiry_date": "",
       "value": "Kaggle、Colab免费GPU + GitHub Actions、Supabase、OpenRouter、Cloudflare Workers/R2等免费额度合集",
       "notes": "74分（来源22/可验证12/价值15/时效15/风险10）。清单里的Kaggle、Colab免费GPU已按官方口径核实；Simular Box、Cloady、Sakupa等其余免费额度未逐项核实，以各家官网为准。"
     },
@@ -1075,7 +1108,7 @@
       "author": "0xjackkk",
       "category": "免费额度",
       "score": 72,
-      "expiry_date": null,
+      "expiry_date": "",
       "value": "6 项免费资源合集，4 项已核实，2 个免费节点未核实",
       "notes": "72分（来源20/可验证15/价值12/时效15/风险10）。原帖已核实存在，全文无官方链接。清单 6 项中 Simular Box、Kaggle、GitHub Codespaces、Cloudflare Workers 已在收集册核实过（id 12、10、15）；Pxxl 台湾免费节点、Cloady 西雅图免费节点仅一句话，未逐项核实，免费节点安全性不明，谨慎使用。"
     },
@@ -1086,7 +1119,7 @@
       "author": "Aisiverto",
       "category": "免费额度",
       "score": 72,
-      "expiry_date": null,
+      "expiry_date": "",
       "value": "免费模型，1M 上下文，$0 输入/$0 输出，写代码可用",
       "notes": "72分（来源25/可验证20/价值12/时效10/风险5）。原帖与 OpenRouter 官网均已核实：stealth/crouton-alpha 真实存在、$0 输入/$0 输出、1M 上下文，2026-11-03 上线；“不限量”无官方依据，未见限额与结束时间；第三方匿名提供方运营，prompt 可能被保留，别放核心业务代码。"
     },
@@ -1097,7 +1130,7 @@
       "author": "leeking420",
       "category": "云服务器",
       "score": 72,
-      "expiry_date": null,
+      "expiry_date": "",
       "value": "免费小服务器（0.5 核/1G/5G），可跑青龙面板等脚本",
       "notes": "72分（来源25/可验证15/价值12/时效10/风险10）。原帖与 cloady.com 官网均已核实：免费档真实（0.5 核/1G 内存/5G 硬盘/每月 10G 出站流量，每人一个免费工作区，不绑卡）。注意：帖文说“选日本、不限时间”与官方不符——永久免费层只限德国、美国东部、美国西部；日本是 1 个月免费试用，到期应用停止、数据保留。另“不认证”不准确，Google 登录本身就是认证。部署青龙面板：docker-compose 装 whyour/qinglong，端口 5700，面板公网可见、装完立即设强密码。"
     },
@@ -1108,9 +1141,20 @@
       "author": "Lovislexus",
       "category": "免费额度",
       "score": 72,
-      "expiry_date": null,
+      "expiry_date": "",
       "value": "6 项免费资源一次收齐，Kaggle GPU 与 Codespaces 最实在。",
       "notes": "72分（来源20/可验证20/价值12/时效15/风险5）。原帖已核实；Simular Box 免费档、Kaggle 每周约 30 小时 GPU、Codespaces 每月 120 核小时、Cloudflare Workers 每天 10 万次请求均已证实；Pxxl 台湾免费节点、Cloady 西雅图免费节点未核实，免费节点安全性不明，谨慎使用。"
+    },
+    {
+      "id": 142,
+      "title": "Nexo Card 双模式万事达卡：最高 2% 返现（仅欧洲，需 $5000 以上持仓）",
+      "url": "https://x.com/Javary324/status/2120409730543915252",
+      "author": "Javary324",
+      "category": "金融卡券",
+      "score": 70,
+      "expiry_date": "",
+      "value": "无年费；符合条件者消费最高返 2%（NEXO 代币），但大陆用户办不了",
+      "notes": "70分（来源20/可验证25/价值5/时效15/风险5）：多家 2026 年 11 月评测交叉核实 Nexo 官方条款：Nexo Card 为双模式万事达卡（Debit 直接花余额无返现；Credit 抵押数字资产借币消费才有返现），返现 0.5%–2% 以 NEXO 代币发放（BTC 返现 0.1%–0.5%）；无年费/月费，换汇 0.2% 起。注意：①仅限欧洲经济区、英国、瑞士等欧洲地区申请，需欧洲身份证件 KYC，中国大陆用户办不了；②返现须账户数字资产超 $5000，低于则 0 返现，最高 2% 档还须 NEXO 持仓占组合 10%；③实体卡自 2025 年 1 月起暂停办理，现只有虚拟卡；④Credit 模式本质是抵押借贷，抵押物大跌有追缴风险。"
     },
     {
       "id": 114,
@@ -1141,7 +1185,7 @@
       "author": "",
       "category": "云服务器",
       "score": 70,
-      "expiry_date": null,
+      "expiry_date": "",
       "value": "明天10点开抢共13场；38元是每天秒杀价，截图里档位是58/88/298元",
       "notes": "70分（来源20/可验证20/价值5/时效15/风险10）：腾讯云双11大促真实进行中（活动期至11月30日）：轻量4核4G秒杀38元/年、2核2G年付68元等，腾讯云官方文章多篇证实（38元为每日10:00/15:00限时秒杀价，个人首单、限1台、不支持同价续费，日常价780元；68元为2核2G专区首单价）。11月11日10点开抢、每整点1场共13场，已由官方活动截图证实（NodeSeek帖1043994-1转的官方活动截图原文“每整点1场，合计13场，轮番开抢”）。注意：①官方活动页链接已经公开（https://cloud.tencent.com/act/pro/ms2026），“链接11号才公布”的说法已过时；②截图能看清的明天场次档位是2核2G5M 58元/1年、2核4G5M 88元/1年、4核8G12M 298元/1年等，4核4G 38元这一档不在截图可见部分，它是每天10:00/15:00的限时秒杀价，进没进明天13场未证实，别只盯38元；③续费按原价，抢之前先看续费价；④仅新购优惠，老用户别空跑；⑤同事件的NodeSeek帖（tg 999518）为同一条，已去重。"
     },
@@ -1174,7 +1218,7 @@
       "author": "白嫖福利推送",
       "category": "软件工具",
       "score": 70,
-      "expiry_date": null,
+      "expiry_date": "",
       "value": "免费开源 MIT，本地 Docker 部署，自动聚合多站免费领取/限时优惠，支持搜索、筛选、收藏、标记已领，也可丢给 Muse/Grok bot 定时推送",
       "notes": "70分（来源15/可验证20/价值10/时效15/风险10）：NodeSeek 原帖全文已核实（作者 luobinger971207，2026-11-10 07:09），GitHub 仓库 luobinger/PerkRadar 真实存在（MIT 开源，2026-11-08 建库，README 逐项核实）。注意：只聚合线索、不核验活动有效性，领之前务必以原文页面为准；7 个固定来源：LINUX DO、V2EX、Epic、NodeSeek、小众软件、果核剥壳、异次元软件世界；每 2 小时自动抓一轮。"
     },
@@ -1199,6 +1243,17 @@
       "expiry_date": "无明确截止日（以 Pionex 官方页为准）",
       "value": "免开卡费/年费的 U 卡，Visa 返现 1%、卡内 USDT 5% 年化；大陆 +86 无法注册/KYC，仅限海外身份参考。",
       "notes": "68分（来源20/可验证20/价值8/时效15/风险5）：Javary324 原帖 + 两家第三方指南交叉核实（均整理自 Pionex 官方 Help Center，2026-10-28 核对）：Pionex Card（派网卡）虚拟卡免开卡费/年费/闲置费；Visa 消费手续费 1%、返现 1% 基本相抵；卡内 USDT 享 5% 年化、每小时派息。注意：①中国大陆 +86 无法注册手机、无法完成 KYC、办不了，仅限海外身份读者参考；②实体卡申请已关闭，目前只有虚拟卡；③长期不用的卡会被批量注销且无法恢复；④发起拒付须主账户备足 650 USDT 保证金、申诉费每件 50 USDT；⑤马来西亚证监会 2026 年 1 月已把 Pionex 列入投资者警示名单；⑥卡片账户为交易所托管、无链上地址。"
+    },
+    {
+      "id": 143,
+      "title": "Goodnotes 极速版特别会员又能领：手机号登录，笔记本不限本数",
+      "url": "https://x.com/yedabinbinah/status/2120410235844362377",
+      "author": "yedabinbinah",
+      "category": "软件工具",
+      "score": 67,
+      "expiry_date": "",
+      "value": "特别会员约等于永久：笔记本不限本数、PDF 导入不限大小、3 本同步",
+      "notes": "67分（来源20/可验证15/价值12/时效10/风险10）：yedabinbinah 2026-11-11 称“又能领了”，链接直达的领取页 m.goodnotes-app.cn/growth/member-claim 实测可打开（200）；10 月 14–15 日小米官方活动窗口已过，但 10 月 23 日 LINUX DO 同机制帖仍有人领到。领取方式：中国区 App Store 下 Goodnotes 极速版，手机号登录，或 App 内设置菜单左下角海报输入兑换码“永久会员”；领到后显示“特别会员”，权益为笔记本不限本数、PDF 导入不限大小、全平台 3 本同步。注意：①个别网友反馈兑换码报错/网页 404，领不到勿强求；②特别会员非完整付费会员，同步只限 3 本；③极速版为国区独立版本，与国际版数据不互通。"
     },
     {
       "id": 124,
@@ -1262,7 +1317,7 @@
       "author": "Lovislexus",
       "category": "免费额度",
       "score": 67,
-      "expiry_date": null,
+      "expiry_date": "",
       "value": "48 小时内填邀请码，双方各得 10 亿 token",
       "notes": "评分 67 分（来源20/可验证15/价值12/时效15/风险5）。原帖已核实存在且内容相符，但说法需打折：多方 10 月实测证实邮箱注册是主流程、部分用户确实免手机号免绑卡通过，但年龄验证（绑卡 1 美元预授权或关联 IG/FB）与美国 IP 地区风控仍在，“门槛消失”只对部分用户成立，且原帖作者自己也用“好像”表述。另：注册后 48 小时内兑换邀请码双方各得 10 亿 token；同号另一条帖子的邀请码 YXEARY（先到先得，名额无法核实）。"
     },
@@ -1361,7 +1416,7 @@
       "author": "Lovislexus",
       "category": "免费额度",
       "score": 65,
-      "expiry_date": null,
+      "expiry_date": "",
       "value": "免费GPU云端跑模型，本地Agent调用；与本轮Kaggle双T4帖同一玩法",
       "notes": "65分（来源22/可验证10/价值10/时效15/风险8）。与本轮另一条Kaggle帖同源，属于同一玩法的概念版，无具体步骤；核心事实（T4 x2、每周约30小时）已按Kaggle官方文档核实。"
     },
@@ -1460,7 +1515,7 @@
       "author": "BlockInsight214",
       "category": "免费额度",
       "score": 62,
-      "expiry_date": null,
+      "expiry_date": "",
       "value": "免费调 deepseek-v4-flash 与 glm-5.3-flash，条款未核实，先小量试用。",
       "notes": "62分（来源20/可验证15/价值12/时效10/风险5）。原帖已核实；crowllm.com 注册页真实存在（链接含推广参数 aff=PJuk），但站内免费条款未核实，“不限速”与所有免费档均有限流的常识不符，存疑；两个模型在别家确有免费路线。建议先小量试用。"
     },
@@ -1493,12 +1548,12 @@
       "author": "Lovislexus",
       "category": "免费额度",
       "score": 60,
-      "expiry_date": null,
+      "expiry_date": "",
       "value": "免费 eSIM 流量，邀请得 500MB（官网另处写 250MB，存疑），不用绑卡",
       "notes": "60分（来源25/可验证15/价值5/时效10/风险5）。原帖与 eskimo.travel 官网均已核实：邀请双方各得 500MB、不绑卡、流量本身不过期属实；但官网同一页面自相矛盾——首屏写免费 250MB、FAQ 写 500MB，实际可领额度存疑；“真正的家宽 IP”无官方依据，配图本身就是移动网络；“稳定注册 Muse”只是作者个人经历。仅限新用户、需 eSIM 兼容设备，免费试用随时可能结束。"
     }
   ],
-  "updated_at": "2026-11-11T17:52:35+08:00",
   "scoring": "满分100（来源30/可验证25/价值20/时效15/风险10），60分以上入册，85分以上立即推送",
-  "sync": "单向同步：本侧写，另一台 Muse 只读；每轮审计完重写"
+  "sync": "单向同步：本侧写，另一台 Muse 只读；每轮审计完重写",
+  "updated_at": "2026-11-11T19:19:55+08:00"
 }
