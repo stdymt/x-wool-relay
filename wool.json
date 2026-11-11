@@ -1,5 +1,5 @@
 {
-  "count": 149,
+  "count": 151,
   "items": [
     {
       "author": "yedabinbinah",
@@ -253,6 +253,17 @@
       "title": "Hermes Agent：会越用越懂你的开源 AI Agent（NousResearch，MIT 免费）",
       "url": "https://x.com/tantanyuli/status/2120234285034856479",
       "value": "免费开源 AI Agent（MIT），262k stars；可自学/自部署，带记忆与技能自改进"
+    },
+    {
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "expiry_date": "无固定截止日",
+      "id": 155,
+      "notes": "82分（来源20/可验证25/价值12/时效15/风险10）：浏览器只读核实原帖全文 + GitHub 官方仓库核实：OpenCut-app/OpenCut，MIT 协议开源，浏览器打开即用、无水印、无付费墙；帖称 55k stars 已过时，核实时为 98.1k stars；opencut.app 跑的是经典版（早期 beta，功能不及剪映）。注意：①帖称“麻省理工开发者”有误，MIT 指开源许可证；②“MCP 服务端/手机版/API 插件”是 Rust 重构版的规划，尚未发布，当前可用版无此功能；③“剪辑功能全乎”夸大，官方提示为早期 beta、不少功能缺失；④重构版在 new.opencut.app，尚不稳定。",
+      "score": 82,
+      "title": "OpenCut 开源剪映平替：免费无水印，MIT 协议，GitHub 约 9.8 万 stars（早期 beta）",
+      "url": "https://x.com/tantanyuli/status/2120643984733479022",
+      "value": "免费开源视频剪辑，免订阅、免绑卡；可省剪映会员费，但当前为早期 beta、功能不及剪映"
     },
     {
       "author": "fwqgo_com",
@@ -961,6 +972,17 @@
     {
       "author": "fwqgo_com",
       "category": "云服务器",
+      "expiry_date": "无固定截止日",
+      "id": 154,
+      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）：浏览器只读核实原帖全文 + 商家 joysol.net 产品页核实：洛杉矶 A-TCS 16Cores，16核 Xeon Platinum 8269CY / 16GB DDR4 / 60~200GB SSD / 100Mbps 端口 / 1TB 月流量 / 1 个美国原生 IPv4 / 20Gbps DDoS 防护，¥124.99/月、安装费 ¥0，年付 -16.7%（约 83 折），页面显示剩余 20 台。注意：①CN2/CMIN2/9929 三网精品仅为帖文说法，商家产品页正文未见该字样，未印证；②商家 JoysolData（悅陽科技，香港）为小众商家，知名度低，月付试水为宜；③帖内直达链接带 aff 返佣参数；④流量计费型（1TB/月），超量须另购（10 元/500G）。",
+      "score": 72,
+      "title": "JoysolData 洛杉矶高配：16核铂金/16G/60G SSD 月付¥124.99（年付约83折，剩20台）",
+      "url": "https://x.com/fwqgo_com/status/2120645244069016062",
+      "value": "16核16G 洛杉矶月付 ¥124.99（年付约 ¥104/月）；同配置大厂通常 2 核 4G 起步价"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
       "expiry_date": null,
       "id": 151,
       "notes": "72分（来源20/可验证20/价值12/时效15/风险5）。fwqgo 黑五全文 + ittellyou/gwvpsceping 交叉核实：圣何塞黑五-L 4核/6G/120G NVMe/1Gbps/4096G 年付 ¥2529（月均 ¥210.75），比标准月付 ¥260 省约 ¥591/年；电信双程 CN2、联通双程 9929、移动双程 CMIN2；商家称续费同价。注意：IP 是广播 IP，页面明写“德国 IP 用于美国”，需地区一致性判定的业务避开；流量用完限速 1KB≈断网；每账户限购 1 台；活动款预付一年，24 小时内退款须 IP 未被墙且流量 <5GB。",
@@ -1644,5 +1666,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-12T06:45:29+08:00"
+  "updated_at": "2026-11-12T07:49:29+08:00"
 }
