@@ -1,5 +1,5 @@
 {
-  "count": 144,
+  "count": 148,
   "items": [
     {
       "id": 6,
@@ -585,6 +585,17 @@
       "notes": "评分80分（来源20/可验证25/价值10/时效15/风险10）。原帖与 GitHub 均已核实：YILS-LIN/short-video-factory，开源 AGPL-3.0，约 6000 star，提示词+分镜素材自动出片（文案、配音、剪辑、字幕特效），本地运行，Windows/Mac/Linux 可用。注意：工具本身免费，但文案配音等 AI 功能需自备模型 API（费用另计）；视频处理本地跑，AI 服务调用仍需联网。"
     },
     {
+      "author": "404jsh",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 149,
+      "notes": "80分（来源20/可验证25/价值20/时效10/风险5）。官方定价博客（instabox.sh/blog/instabox-pricing，2026-10-19）核实：Free 档一台 4 vCPU/8GB 机器、用量不限，空闲 30 分钟暂停、最长连续运行 8 小时，20GB 数据盘、每月 100GB 出站流量；多家中文博客交叉核实。注意：新账号须排队等激活码（邮件发放，需几天，不保证当天开通）；免费政策为 beta 期“free until we figure it out”，随时可能调整或取消；原帖是让 AI 用口令在免费机上部署 ComfyUI 出图台的教程，领机本身免费；注册须 Google 登录。",
+      "score": 80,
+      "title": "InstaBox 免费送一台 4核8G 云电脑（免费用量不限）",
+      "url": "https://x.com/404jsh/status/2120543207901790367",
+      "value": "免费 4核8G 云电脑一台，用量不限（同档 Pro 付费 $20/月），约合年省 $240"
+    },
+    {
       "id": 16,
       "title": "Kaggle免费GPU双T4跑30B编程大模型",
       "url": "https://x.com/Lovislexus/status/2119595831036960924",
@@ -1168,6 +1179,28 @@
       "notes": "72分（来源20/可验证20/价值12/时效15/风险5）：Lovislexus 原帖（浏览器只读核实全文）+ yesss.at 套餐页核实：奥地利 yesss! SIMpure 开卡 0 欧、eSIM 0 欧、月租 0 欧（官网套餐页可见 Vertrag 合同制 €0.00/月、Wertkarte 预付卡两档）。两条路：①预付费：0 月租、不用 IBAN，但每 12 个月要充值一次保号；②合同制：0 月租、需支持 SEPA 扣款的 IBAN，省去每年充值。注意：①eSIM 免费下载，实体 SIM 需 €1.99；②预付卡官网要求在奥地利完成注册（作者称可试奥地利 VPN，属灰色操作）；③合同制须有 SEPA 扣款账户，多数国内用户没有；④奥地利法律要求预付卡实名登记，收验证码能力须实测。"
     },
     {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 150,
+      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）。fwqgo 秋季促销全表（2026-10-31 更新）核实：伦敦 FCF26-LON-S 1核/1G/20G NVMe/2.5Gbps/4TB 年付 ¥129，M 档 2核2G/40G/5Gbps/8TB ¥229，L 档 4核4G/80G/10Gbps/16TB ¥359，CPU 为 AMD EPYC 7763、英国原生 IP；官方黑五页 bitsflow.cloud/26-bf-ll.html 已上线（原秋季活动页已跳转至黑五页）。注意：全部年付、无月付；价格以订购页实时价为准；小商家。",
+      "score": 72,
+      "title": "BitsFlow 伦敦黑五：英国原生IP/EPYC 年付¥129起（1核1G/20G NVMe/4TB）",
+      "url": "https://x.com/fwqgo_com/status/2120525100755882278",
+      "value": "伦敦年付 ¥129 起（约 $19/年），英国原生 IP；M 档 ¥229、L 档 ¥359"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 151,
+      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）。fwqgo 黑五全文 + ittellyou/gwvpsceping 交叉核实：圣何塞黑五-L 4核/6G/120G NVMe/1Gbps/4096G 年付 ¥2529（月均 ¥210.75），比标准月付 ¥260 省约 ¥591/年；电信双程 CN2、联通双程 9929、移动双程 CMIN2；商家称续费同价。注意：IP 是广播 IP，页面明写“德国 IP 用于美国”，需地区一致性判定的业务避开；流量用完限速 1KB≈断网；每账户限购 1 台；活动款预付一年，24 小时内退款须 IP 未被墙且流量 <5GB。",
+      "score": 72,
+      "title": "NoSLA 圣何塞黑五L型：4核6G/120G NVMe/1Gbps 年付¥2529（三网双程精品线）",
+      "url": "https://x.com/fwqgo_com/status/2120534745788592316",
+      "value": "年付 ¥2529（月均 ¥210.75），比标准月付省约 ¥591/年"
+    },
+    {
       "id": 43,
       "title": "Rewind for X：自动记录刷过的 X 帖子，侧栏回看可搜索（免费浏览器插件）",
       "url": "https://x.com/0xjackkk/status/2119875886984077621",
@@ -1454,6 +1487,17 @@
       "notes": "65分（来源20/可验证15/价值5/时效15/风险10）：Lovislexus 原帖浏览器只读核实全文：7 个 VPS 情报站——比价 vpsls.com（收录数十家服务商、每日更新价格）、低价捡漏 dash.fuckip.me、优化线路库存 vhost.fans、热门 VPS 补货 vpskucun.com、历史延迟丢包 vps789.com、国内 Ping 路由 itdog.cn、全球连通性 ping.pe。注意：①这只是情报入口清单、本身不是优惠，促销价格与退款规则仍须去官网核实；②部分测速需实际 IP，历史数据未必覆盖目标机器；③itdog、ping.pe 为知名站，其余站点未逐个打开核实。"
     },
     {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 152,
+      "notes": "65分（来源20/可验证20/价值5/时效15/风险5）。fwqgo 黑五全文 + ittellyou/gwvpsceping 交叉核实：东京黑五-S 1核/2G/30G NVMe/500Mbps/500G 半年付 ¥1059（月均 ¥176.50），比标准月付 ¥189 仅低 7%，半年省约 ¥75；电信双程 CN2、联通双程 9929、移动双程 CMIN2；商家称续费同价。注意：fwqgo 原文提醒——东京只付半年、折扣最薄，长期用优势基本可忽略，不如标准版月付随时可停；IP 是德国 IP 用于日本，机房在东京但归属显示德国；流量用完限速 1KB；半年后需再付一次。",
+      "score": 65,
+      "title": "NoSLA 东京黑五S型：1核2G/30G NVMe 半年付¥1059（三网双程精品线）",
+      "url": "https://x.com/fwqgo_com/status/2120532455002386942",
+      "value": "半年付 ¥1059（月均 ¥176.50），比标准月付仅省约 ¥75/半年"
+    },
+    {
       "id": 123,
       "title": "DotDotNetworks 美国 CN2 GIA：2核1G/20G NVMe 年付 $29.90",
       "url": "https://x.com/fwqgo_com/status/2120313054583988549",
@@ -1589,5 +1633,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-11T23:44:13+08:00"
+  "updated_at": "2026-11-12T00:55:16+08:00"
 }
