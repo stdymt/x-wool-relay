@@ -13,6 +13,28 @@
       "value": "每月约 20 美元额度，全年约 240 美元"
     },
     {
+      "author": "Lovislexus",
+      "category": "免费额度",
+      "expiry_date": "2026-12-31",
+      "id": 117,
+      "notes": "90分（来源25/可验证25/价值20/时效15/风险5）：Google 官方学生页 gemini.google/students 只读核实（2026-11-11 08:37–08:45）：美国高校学生 18+，免费 12 个月 Google AI Pro（Gemini 4 倍额度、5TB 存储、Gemini Spark/Omni），2026-12-31 前领取；FAQ 原文确认 2025 年已过期试用者可再领；须 SheerID 验证学生身份、绑支付方式；到期后 $19.99/月自动续费，可随时取消。注意：仅限美国高校学生（香港、澳门等除外），不可用学校发的 Workspace for Education 账号，须个人 Google 账号；家庭群组成员、企业购买者、受监管账号不符合资格。",
+      "score": 90,
+      "title": "Google AI Pro 学生免费 12 个月：2025 年已过期试用也能再领一年（2026-12-31 前领取）",
+      "url": "https://x.com/Lovislexus/status/2120290405191200808",
+      "value": "美国高校学生 18+ 免费 12 个月 Google AI Pro（价值约 $240）；2025 年已过期试用可再领；须 SheerID 验证+绑支付方式，到期后 $19.99/月自动续费，须提前取消。"
+    },
+    {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": "2026-12-10",
+      "id": 115,
+      "notes": "90分。Anthropic 官方 2026-11-10 21:59 UTC（@ClaudeDevs）宣布：所有 Pro、Max、Ultra、Team 付费用户获一次免费完整重置，覆盖全部模型与额度（5小时+每周），设置→用量→Limit resets 里点 Reset for free，或 clau.de/reset；须在 2026-12-10 14:00 PT 前使用。注意与 Fable 5.2 上线送的 Fable 重置（已收录 id 114，Pro 卡 11 月 16 日到期）是两张不同的卡，这张是全额度重置。免费版用户无份。NodeSeek 原帖未读到（browser.open 403、浏览器 live 也撞 Cloudflare 验证未绕过），以 TG 转发引用的官方消息 + 两家独立重置追踪站（agentresets、clauderesets）交叉证实。",
+      "score": 90,
+      "title": "Claude 又送一张重置卡：Pro/Max/Ultra/Team 全员一次免费完整重置，12 月 10 日前可用",
+      "url": "https://t.me/baipiaofl/64295",
+      "value": "付费订阅用户可免费拿回全部已用额度，相当于多一周用量；免费版无份，须已有 Pro/Max/Ultra/Team 订阅。"
+    },
+    {
       "author": "Ylj158852",
       "category": "免费额度",
       "expiry_date": "帖称 12 月底截止（官方活动页未见明确截止日，以活动页为准）",
@@ -55,28 +77,6 @@
       "title": "ZCode 周末又送 5 亿 token（11 月 9 日 09:00 到期）",
       "url": "https://x.com/leeking420/status/2118974450972651918",
       "value": "5 亿 GLM-5.3-Flash Tokens，仅限客户端内使用"
-    },
-    {
-      "author": "白嫖福利推送",
-      "category": "免费额度",
-      "expiry_date": "2026-12-10 14:00 PT 前使用",
-      "id": 115,
-      "notes": "90分（来源28/可验证25/价值15/时效15/风险7）：Anthropic 官方 2026-11-10 21:59 UTC（@ClaudeDevs）宣布：所有 Pro、Max、Ultra、Team 付费用户获一次免费完整重置，覆盖全部模型与额度（5小时+每周），设置→用量→Limit resets 里点 Reset for free，或 clau.de/reset；须在 2026-12-10 14:00 PT 前使用。注意与 Fable 5.2 上线送的 Fable 重置（已收录 id 114，Pro 卡 11 月 16 日到期）是两张不同的卡，这张是全额度重置。免费版用户无份。NodeSeek 原帖未读到（browser.open 403、浏览器 live 也撞 Cloudflare 验证未绕过），以 TG 转发引用的官方消息 + 两家独立重置追踪站（agentresets、clauderesets）交叉证实。",
-      "score": 90,
-      "title": "Claude 又送一张重置卡：Pro/Max/Ultra/Team 全员一次免费完整重置，12 月 10 日前可用",
-      "url": "https://t.me/baipiaofl/64295",
-      "value": "付费订阅用户可免费拿回全部已用额度，相当于多一周用量；免费版无份，须已有 Pro/Max/Ultra/Team 订阅"
-    },
-    {
-      "author": "Lovislexus",
-      "category": "免费额度",
-      "expiry_date": "2026-12-31",
-      "id": 117,
-      "notes": "90分（来源25/可验证25/价值20/时效15/风险5）：Google 官方学生页 gemini.google/students 只读核实（2026-11-11 08:37–08:45）：美国高校学生 18+，免费 12 个月 Google AI Pro（Gemini 4 倍额度、5TB 存储、Gemini Spark/Omni），2026-12-31 前领取；FAQ 原文确认 2025 年已过期试用者可再领；须 SheerID 验证学生身份、绑支付方式；到期后 $19.99/月自动续费，可随时取消。注意：仅限美国高校学生（香港、澳门等除外），不可用学校发的 Workspace for Education 账号，须个人 Google 账号；家庭群组成员、企业购买者、受监管账号不符合资格。",
-      "score": 90,
-      "title": "Google AI Pro 学生免费 12 个月：2025 年已过期试用也能再领一年（2026-12-31 前领取）",
-      "url": "https://x.com/Lovislexus/status/2120290405191200808",
-      "value": "美国高校学生 18+ 免费 12 个月 Google AI Pro（价值约 $240）；2025 年已过期试用可再领；须 SheerID 验证+绑支付方式，到期后 $19.99/月自动续费，须提前取消。"
     },
     {
       "author": "Lovislexus",
@@ -198,6 +198,17 @@
       "title": "Hermes Agent：会越用越懂你的开源 AI Agent（NousResearch，MIT 免费）",
       "url": "https://x.com/tantanyuli/status/2120234285034856479",
       "value": "免费开源 AI Agent（MIT），262k stars；可自学/自部署，带记忆与技能自改进"
+    },
+    {
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "expiry_date": "无固定截止日（开源合集长期有效，持续更新）",
+      "id": 112,
+      "notes": "82分（来源22/可验证25/价值10/时效15/风险10）：X 原帖 + GitHub 官方仓库 Shubhamsaboo/awesome-llm-apps 浏览器只读核实：公开仓库、Apache-2.0 协议、144.4k stars、21.2k forks，最新提交 2026-11-10；100+ 开源 AI Agent、Agent Skills 与 RAG 应用实例，均经端到端实测，支持 Claude、Gemini、GPT、DeepSeek、Llama、Qwen 等模型。注意：合集是学习参考与复现素材，不是开箱即用的免费服务；跑示例须自备相应模型 API 或本地模型。",
+      "score": 82,
+      "title": "awesome-llm-apps：100+ 免费开源 LLM 应用实例合集（Agent/RAG 可复现）",
+      "url": "https://x.com/tantanyuli/status/2120219185619804632",
+      "value": "100+ 免费开源 LLM 应用实例（Agent/RAG），可对照复现练手"
     },
     {
       "author": "NodeSeek官方频道",
@@ -462,17 +473,6 @@
       "title": "Google Colab 免费版可用 16GB 显存 T4（另有 TPU）",
       "url": "https://x.com/Lovislexus/status/2119465791674540075",
       "value": "免费云端 GPU/TPU 算力，按需分配不保证"
-    },
-    {
-      "author": "tantanyuli",
-      "category": "软件工具",
-      "expiry_date": "无固定截止日（开源合集长期有效，持续更新）",
-      "id": 112,
-      "notes": "82分（来源22/可验证25/价值10/时效15/风险10）：X 原帖 + GitHub 官方仓库 Shubhamsaboo/awesome-llm-apps 浏览器只读核实：公开仓库、Apache-2.0 协议、144.4k stars、21.2k forks，最新提交 2026-11-10；100+ 开源 AI Agent、Agent Skills 与 RAG 应用实例，均经端到端实测，支持 Claude、Gemini、GPT、DeepSeek、Llama、Qwen 等模型。注意：合集是学习参考与复现素材，不是开箱即用的免费服务；跑示例须自备相应模型 API 或本地模型。",
-      "score": 82,
-      "title": "awesome-llm-apps：100+ 免费开源 LLM 应用实例合集（Agent/RAG 可复现）",
-      "url": "https://x.com/tantanyuli/status/2120219185619804632",
-      "value": "100+ 免费开源 LLM 应用实例（Agent/RAG），可对照复现练手"
     },
     {
       "author": "tantanyuli",
@@ -750,6 +750,17 @@
       "value": "首月免费，约 10 美元；.env 外用法有风险"
     },
     {
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "expiry_date": "无固定截止日（开源课程长期有效）",
+      "id": 110,
+      "notes": "75分（来源25/可验证25/价值5/时效15/风险5）：微软官方 GitHub 仓库 microsoft/AI-Agents-for-Beginners 直接核实：公开仓库、MIT 协议、79,358 stars；18 节课（帖子称 12 节已过时，现为 18 节），每课含文字课+视频+Python 代码示例，50+ 语言翻译含简体中文。注意：①帖子称 12 节课已过时，仓库现为 18 节；②文字课与视频免费自学无门槛，跑代码示例须配 Microsoft Foundry（需 Azure 账号）或 MiniMax 等 OpenAI 兼容服务；③与已在册 id 76（Anthropic 官方技能包）同为官方开源学习资源、内容不同，不重复。",
+      "score": 75,
+      "title": "微软 AI Agents 免费开源课程：18 节课从零学做 AI 智能体（中文翻译全）",
+      "url": "https://x.com/tantanyuli/status/2120203834370707476",
+      "value": "免费学做 AI Agent 的完整课程（18 节课+视频+代码，中文翻译全）；跑代码示例须 Azure 账号或兼容服务"
+    },
+    {
       "author": "lovethelife2333",
       "category": "免费额度",
       "expiry_date": "无固定截止日（免费版为限时扶持，商业化后配额可能调整）",
@@ -772,17 +783,6 @@
       "value": "每周 500 万 Ondo 积分 + USDC 池（约 17.5–25 万美元），按交易量与持仓分配；需入金交易"
     },
     {
-      "author": "tantanyuli",
-      "category": "软件工具",
-      "expiry_date": "无固定截止日（开源课程长期有效）",
-      "id": 110,
-      "notes": "75分（来源25/可验证25/价值5/时效15/风险5）：微软官方 GitHub 仓库 microsoft/AI-Agents-for-Beginners 直接核实：公开仓库、MIT 协议、79,358 stars；18 节课（帖子称 12 节已过时，现为 18 节），每课含文字课+视频+Python 代码示例，50+ 语言翻译含简体中文。注意：①帖子称 12 节课已过时，仓库现为 18 节；②文字课与视频免费自学无门槛，跑代码示例须配 Microsoft Foundry（需 Azure 账号）或 MiniMax 等 OpenAI 兼容服务；③与已在册 id 76（Anthropic 官方技能包）同为官方开源学习资源、内容不同，不重复。",
-      "score": 75,
-      "title": "微软 AI Agents 免费开源课程：18 节课从零学做 AI 智能体（中文翻译全）",
-      "url": "https://x.com/tantanyuli/status/2120203834370707476",
-      "value": "免费学做 AI Agent 的完整课程（18 节课+视频+代码，中文翻译全）；跑代码示例须 Azure 账号或兼容服务"
-    },
-    {
       "author": "Lovislexus",
       "category": "免费额度",
       "expiry_date": null,
@@ -792,6 +792,28 @@
       "title": "10个免费工具凑一套AI工作室",
       "url": "https://x.com/Lovislexus/status/2119610928572350576",
       "value": "Kaggle、Colab免费GPU + GitHub Actions、Supabase、OpenRouter、Cloudflare Workers/R2等免费额度合集"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": "无明确截止日（促销库存，以结算页为准）",
+      "id": 116,
+      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）：DediRock 商店页（vncoupon 2026-10-31 更新的商店价镜像，2026-11-11 08:38 复核）核实：洛杉矶 Promo VPS Special 1 vCore/2GB/30GB SSD/2TB 流量/1Gbps 年付 $10.88，帖子写的 $11.88 报高了 $1，实际更便宜；在册 id 87 是同款纽约版，洛杉矶版是另一机房。注意：促销库存有限，续费价以结算页为准；洛杉矶线路为普通国际线路，非三网优化。",
+      "score": 72,
+      "title": "DediRock 洛杉矶促销款：1 核 2G/30G SSD 年付 $10.88（帖称 $11.88，实测更便宜）",
+      "url": "https://x.com/fwqgo_com/status/2120282860967932115",
+      "value": "洛杉矶 1 核 2G/30G SSD/2TB 流量年付 $10.88，约人民币 73 元/年；适合轻量建站、测试、自动化任务。"
+    },
+    {
+      "author": "NodeSeek官方频道",
+      "category": "金融卡券",
+      "expiry_date": "Lite Plus 抽奖 2026-11-20 截止；$10 新人福利限时、无明确截止日（以 App 内为准）",
+      "id": 111,
+      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）：NodeSeek 论坛帖 post-1045071-1（楼主 加密货币银行卡专家，2026-11-11 03:03）浏览器只读核实全文：Infini 三卡费率对比——Lite（VISA，3% 外汇费，支持 Google/Apple Pay，适合 AI 订阅）、Max（Mastercard，0% 外汇费，＜$50 收 $0.3/笔，适合大额海淘）、Pro（VISA，1% 外汇费，不支持手机钱包，适合高频小额）；首卡免开卡费（原价 $10），一般消费返 1.5%。$10 新人福利经第三方评测站交叉证实（getquids/bitboni，2026-11-07 核实）：邀请注册、首卡充值至少 $10 USDT/USDC、累计消费满 $100 后 App 内领 $10；另有 Lite Plus 首刷抽奖（11-06–11-20，两轮各抽 5 名返开卡费、3 名 AI 订阅免单）。注意：①与已在册 id 54（Infini AI 订阅返现 30%，85 分）同产品不同权益：id 54 是 AI 商户返现，本条是 $10 新人福利+三卡费率对比；②帖子含 AFF 邀请链接，福利须经邀请注册，收集册不收录邀请链接；③须 KYC（护照+海外地址证明），Infini 官方称不在中国大陆与美国提供服务，大陆身份开户受限，领前须在 App 内核对资格；④U 卡为小牌照预付产品，资金有冻结风险，只以官方条款为准；⑤帖称返现最高 5%，第三方指南称 11 月 1 日起三卡均为 1.5%、依等级最高 2.5%，以官方口径为准。",
+      "score": 72,
+      "title": "Infini 三卡费率对比：首卡免费，邀请注册消费满 $100 返 $10（Lite Plus 抽奖至 11 月 20 日）",
+      "url": "https://t.me/nodeseekc/1000499",
+      "value": "邀请注册、消费满 $100 返 $10；首卡免开卡费（原价 $10）；AI 订阅返现 30% 另见 id 54"
     },
     {
       "author": "SecJack96",
@@ -970,26 +992,15 @@
       "value": "6 项免费资源一次收齐，Kaggle GPU 与 Codespaces 最实在。"
     },
     {
-      "author": "NodeSeek官方频道",
-      "category": "金融卡券",
-      "expiry_date": "Lite Plus 抽奖 2026-11-20 截止；$10 新人福利限时、无明确截止日（以 App 内为准）",
-      "id": 111,
-      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）：NodeSeek 论坛帖 post-1045071-1（楼主 加密货币银行卡专家，2026-11-11 03:03）浏览器只读核实全文：Infini 三卡费率对比——Lite（VISA，3% 外汇费，支持 Google/Apple Pay，适合 AI 订阅）、Max（Mastercard，0% 外汇费，＜$50 收 $0.3/笔，适合大额海淘）、Pro（VISA，1% 外汇费，不支持手机钱包，适合高频小额）；首卡免开卡费（原价 $10），一般消费返 1.5%。$10 新人福利经第三方评测站交叉证实（getquids/bitboni，2026-11-07 核实）：邀请注册、首卡充值至少 $10 USDT/USDC、累计消费满 $100 后 App 内领 $10；另有 Lite Plus 首刷抽奖（11-06–11-20，两轮各抽 5 名返开卡费、3 名 AI 订阅免单）。注意：①与已在册 id 54（Infini AI 订阅返现 30%，85 分）同产品不同权益：id 54 是 AI 商户返现，本条是 $10 新人福利+三卡费率对比；②帖子含 AFF 邀请链接，福利须经邀请注册，收集册不收录邀请链接；③须 KYC（护照+海外地址证明），Infini 官方称不在中国大陆与美国提供服务，大陆身份开户受限，领前须在 App 内核对资格；④U 卡为小牌照预付产品，资金有冻结风险，只以官方条款为准；⑤帖称返现最高 5%，第三方指南称 11 月 1 日起三卡均为 1.5%、依等级最高 2.5%，以官方口径为准。",
-      "score": 72,
-      "title": "Infini 三卡费率对比：首卡免费，邀请注册消费满 $100 返 $10（Lite Plus 抽奖至 11 月 20 日）",
-      "url": "https://t.me/nodeseekc/1000499",
-      "value": "邀请注册、消费满 $100 返 $10；首卡免开卡费（原价 $10）；AI 订阅返现 30% 另见 id 54"
-    },
-    {
-      "author": "fwqgo_com",
-      "category": "云服务器",
-      "expiry_date": "无明确截止日（促销库存，以结算页为准）",
-      "id": 116,
-      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）：DediRock 商店页（vncoupon 2026-10-31 更新的商店价镜像，2026-11-11 08:38 复核）核实：洛杉矶 Promo VPS Special 1 vCore/2GB/30GB SSD/2TB 流量/1Gbps 年付 $10.88，帖子写的 $11.88 报高了 $1，实际更便宜；在册 id 87 是同款纽约版，洛杉矶版是另一机房。注意：促销库存有限，续费价以结算页为准；洛杉矶线路为普通国际线路，非三网优化。",
-      "score": 72,
-      "title": "DediRock 洛杉矶促销款：1 核 2G/30G SSD 年付 $10.88（帖称 $11.88，实测更便宜）",
-      "url": "https://x.com/fwqgo_com/status/2120282860967932115",
-      "value": "洛杉矶 1 核 2G/30G SSD/2TB 流量年付 $10.88，约人民币 73 元/年；适合轻量建站、测试、自动化任务"
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": "Pro/Team 标准席位 2026-11-16 23:59 PT 到期（北京时间 11 月 17 日 15:59）；Max/Ultra 等 2027-03-08 到期",
+      "id": 114,
+      "notes": "70分（来源15/可验证20/价值12/时效15/风险8）：TG 频道转发 LINUX DO 帖（2026-11-11 06:32），称 Claude 又送了一个完全重置；LINUX DO 原文未读到正文，但多方搜索交叉证实：Anthropic 2026-11-09 随 Claude Fable 5.2 上线推出免费额度重置——付费订阅按时长送 1–3 次（不满 6 个月 1 次、6–12 个月 2 次、满 1 年以上 3 次），在设置→用量→Limit resets 里点 Reset for free；每周额度只退还 Fable 模型消耗的用量，5 小时额度窗口则整窗补满。注意：①仅限 2026-11-09 10:00 PT 前已生效的付费订阅（Pro/Max/Ultra/Team），免费版无份；②Pro 与 Team 标准席位的重置 2026-11-16 23:59 PT 到期，过期作废；③重置不提高额度上限，只是退还已用额度；④帖子说的“又送”与 Fable 上线福利的对应关系为合理推断，未由官方逐条确认。",
+      "score": 70,
+      "title": "Claude 又送重置卡了：Fable 5.2 上线福利，付费订阅可免费重置用量额度 1–3 次（Pro 版 11 月 16 日到期）",
+      "url": "https://t.me/baipiaofl/64294",
+      "value": "已有 Claude 付费订阅者可在设置→用量免费重置一次额度（按订阅时长 1–3 次）；免费用户无份"
     },
     {
       "author": "tantanyuli",
@@ -1056,17 +1067,6 @@
       "title": "Rewind for X：自动记录刷过的 X 帖子，侧栏回看可搜索（免费浏览器插件）",
       "url": "https://x.com/0xjackkk/status/2119875886984077621",
       "value": "免费浏览器插件，解决 X 首页刷新丢帖的问题；不省钱，省时间"
-    },
-    {
-      "author": "白嫖福利推送",
-      "category": "免费额度",
-      "expiry_date": "Pro/Team 标准席位 2026-11-16 23:59 PT 到期（北京时间 11 月 17 日 15:59）；Max/Ultra 等 2027-03-08 到期",
-      "id": 114,
-      "notes": "70分（来源15/可验证20/价值12/时效15/风险8）：TG 频道转发 LINUX DO 帖（2026-11-11 06:32），称 Claude 又送了一个完全重置；LINUX DO 原文未读到正文，但多方搜索交叉证实：Anthropic 2026-11-09 随 Claude Fable 5.2 上线推出免费额度重置——付费订阅按时长送 1–3 次（不满 6 个月 1 次、6–12 个月 2 次、满 1 年以上 3 次），在设置→用量→Limit resets 里点 Reset for free；每周额度只退还 Fable 模型消耗的用量，5 小时额度窗口则整窗补满。注意：①仅限 2026-11-09 10:00 PT 前已生效的付费订阅（Pro/Max/Ultra/Team），免费版无份；②Pro 与 Team 标准席位的重置 2026-11-16 23:59 PT 到期，过期作废；③重置不提高额度上限，只是退还已用额度；④帖子说的“又送”与 Fable 上线福利的对应关系为合理推断，未由官方逐条确认。",
-      "score": 70,
-      "title": "Claude 又送重置卡了：Fable 5.2 上线福利，付费订阅可免费重置用量额度 1–3 次（Pro 版 11 月 16 日到期）",
-      "url": "https://t.me/baipiaofl/64294",
-      "value": "已有 Claude 付费订阅者可在设置→用量免费重置一次额度（按订阅时长 1–3 次）；免费用户无份"
     },
     {
       "author": "mjjwiki",
@@ -1292,5 +1292,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-11T08:46:35+08:00"
+  "updated_at": "2026-11-11T09:44:40+08:00"
 }
