@@ -1,5 +1,5 @@
 {
-  "count": 124,
+  "count": 125,
   "items": [
     {
       "author": "yedabinbinah",
@@ -473,6 +473,17 @@
       "title": "Google Colab 免费版可用 16GB 显存 T4（另有 TPU）",
       "url": "https://x.com/Lovislexus/status/2119465791674540075",
       "value": "免费云端 GPU/TPU 算力，按需分配不保证"
+    },
+    {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": "无明确截止日（以 chat.qwen.ai 内模型列表为准）",
+      "id": 125,
+      "notes": "82分（来源25/可验证20/价值12/时效15/风险10）：白嫖福利推送转发 LINUX DO 帖（2026-11-11 02:31，楼主称“一打开发现能用了，Qoder也同步上线了”）+ 新浪科技 2026-11-11 上午消息交叉证实：阿里千问官方宣布新一代 Qwen4 即将发布，Qwen4-Max 预览版已首发上线阿里 Token Plan（限时最低 1 折），千问办公、Qoder、千问 App、Qwen Studio 已第一时间接入新模型；LINUX DO 另有“Qwen4在qoder里可以用了”帖佐证。注意：①chat.qwen.ai（Qwen Studio）App 本身免费、无订阅，免费档有每日用量上限，以 App 内显示为准；②API 侧预览版在 Token Plan 限时 1 折，属付费体验；③Qwen4 参数/上下文/价格与是否开源尚未公布，以官方为准；④此前 11 月 5 日前官方口径仍为“训练中”，本次为 11 月 11 日当天上线。",
+      "score": 82,
+      "title": "Qwen4 上线 chat.qwen.ai 可免费使用：新一代旗舰模型，Qoder 同步接入",
+      "url": "https://t.me/baipiaofl/64331",
+      "value": "新一代旗舰 Qwen4 在千问网页/App 免费试用（Qoder 同步接入），无需绑卡；API 预览版 Token Plan 限时 1 折。"
     },
     {
       "author": "tantanyuli",
@@ -1369,5 +1380,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-11T10:53:27+08:00"
+  "updated_at": "2026-11-11T11:45:12+08:00"
 }
