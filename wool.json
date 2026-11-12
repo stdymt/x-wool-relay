@@ -1,5 +1,5 @@
 {
-  "count": 187,
+  "count": 188,
   "items": [
     {
       "author": "yedabinbinah",
@@ -286,6 +286,17 @@
       "title": "ClipSeek：一句话搜无版权免费视频、照片、插画素材",
       "url": "https://x.com/tantanyuli/status/2119646663044157466",
       "value": "免费搜无版权素材；桌面端超 5 GiB 导入需付费 Pro"
+    },
+    {
+      "author": "Aisiverto",
+      "category": "免费额度",
+      "expiry_date": "无固定截止日（免费档随时可能调整）",
+      "id": 192,
+      "notes": "84分（来源22/可验证25/价值12/时效15/风险10）：官方定价页 bolt.new/pricing 直接核实：Free $0、“Free forever, no card required”，每天 30 万 token、每月 100 万 token，每月 1 号重置、不结转；Pro $25/月 10M token。注意：①长期免费档、非新活动，帖子只是复述官方定价；②免费额度约合 Pro 价 $2.5/月；③免费托管限 10GB 带宽/每月 333,333 次请求，发布站点带 Bolt 标识；④免费 token 用完当月不再补，只能等次月 1 号。",
+      "score": 84,
+      "title": "Bolt.new 免费档：每天 30 万 token、每月 100 万 token，免绑卡",
+      "url": "https://x.com/Aisiverto/status/2120958557348847806",
+      "value": "免费 1M token/月（日限 300K），无需绑卡；AI 生成网站/应用+托管"
     },
     {
       "author": "tantanyuli",
@@ -2062,5 +2073,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-13T02:55:09+08:00"
+  "updated_at": "2026-11-13T04:48:20+08:00"
 }
