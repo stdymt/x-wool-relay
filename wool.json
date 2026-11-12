@@ -1,5 +1,5 @@
 {
-  "count": 166,
+  "count": 167,
   "items": [
     {
       "author": "yedabinbinah",
@@ -638,6 +638,17 @@
       "title": "讯飞Loomy免费领积分：每日登录送5000，邀请码再领10000",
       "url": "https://x.com/yedabinbinah/status/2119807386294817083",
       "value": "每天免费5000积分用AI模型（GLM-5.3-Flash等），另可领10000邀请积分"
+    },
+    {
+      "author": "NodeSeek官方频道",
+      "category": "免费额度",
+      "expiry_date": "无固定截止日（新用户 $300 额度 90 天有效）",
+      "id": 171,
+      "notes": "80分（来源20/可验证20/价值20/时效15/风险5）：NodeSeek 原帖正文两通道均被 IP 屏蔽未读到（browser.open 403、live 浏览器“You are blocked”），指南具体配置步骤未逐项核实；底层权益已在官方/多方来源核实：Google Cloud 官方免费试用新用户送 $300 额度、90 天有效；gemini-4-argon（2026-10-13 GA）、gemini-3.8-flash（2026-09-02 GA）均为 Vertex AI 真实模型 ID，多方来源交叉证实。注意：①Argon 不在 Gemini API 免费档，须付费密钥/计费账户，用 $300 额度抵扣；②GCP 试用须绑卡验证（试用期内不扣费）；③Argon 优惠价 $2/$10 每百万 token 只到 11 月 30 日，12 月 1 日起涨至 $4/$20；④额度 90 天过期、用完即止，须从未注册过免费试用。",
+      "score": 80,
+      "title": "GCP $300 免费额度玩 Gemini 4 Argon / 3.8 Flash：接入 OpenCode 与 Codex 配置指南",
+      "url": "https://t.me/nodeseekc/1003547",
+      "value": "$300 谷歌云免费额度（90 天），可用于 Vertex AI 前沿模型"
     },
     {
       "author": "Lniosytest",
@@ -1831,5 +1842,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-12T12:53:53+08:00"
+  "updated_at": "2026-11-12T13:47:35+08:00"
 }
