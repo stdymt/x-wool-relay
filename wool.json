@@ -1,5 +1,5 @@
 {
-  "count": 157,
+  "count": 165,
   "items": [
     {
       "author": "yedabinbinah",
@@ -253,6 +253,17 @@
       "title": "ClipSeek：一句话搜无版权免费视频、照片、插画素材",
       "url": "https://x.com/tantanyuli/status/2119646663044157466",
       "value": "免费搜无版权素材；桌面端超 5 GiB 导入需付费 Pro"
+    },
+    {
+      "author": "lovethelife2333",
+      "category": "免费额度",
+      "expiry_date": "无固定截止日",
+      "id": 165,
+      "notes": "85分（来源20/可验证25/价值20/时效10/风险10）：Deepgram 官网定价页核实：新账号 $200 免费额度、免绑卡、无最低消费，约 43,000 分钟 Nova-3 转写，覆盖语音转文字/TTS/Voice Agent。注意：①定价页称额度不过期，但开发者文档称免费推广额度自注册起 1 年后过期，口径不一致；②无持续免费档，额度用完后按量付费；③开发者向，需注册账号。",
+      "score": 85,
+      "title": "Deepgram 新账号白送 $200 免费额度：免绑卡、约 43,000 分钟转写",
+      "url": "https://x.com/lovethelife2333/status/2120695389712011587",
+      "value": "$200 免费语音 AI 额度（约 43,000 分钟转写），免绑卡"
     },
     {
       "author": "tantanyuli",
@@ -572,6 +583,17 @@
       "title": "Google Colab 免费版可用 16GB 显存 T4（另有 TPU）",
       "url": "https://x.com/Lovislexus/status/2119465791674540075",
       "value": "免费云端 GPU/TPU 算力，按需分配不保证"
+    },
+    {
+      "author": "lovethelife2333",
+      "category": "软件工具",
+      "expiry_date": "无固定截止日",
+      "id": 163,
+      "notes": "82分（来源20/可验证25/价值12/时效15/风险10）：网易 UU远程官网 FAQ 与多方实测核实：全功能免费、无付费会员、无时长限制，4K/144Hz/4:4:4 真彩，Windows/Mac/安卓/iOS/TV 全平台。注意：①被控端为 Windows/Mac，不支持 Linux 被控；②远控软件需在被控电脑安装客户端，介意权限者慎用；③跨境连接延迟以实测为准。",
+      "score": 82,
+      "title": "网易 UU远程全功能免费：4K/144Hz 远控，不限时长、无广告",
+      "url": "https://x.com/lovethelife2333/status/2120702767983460507",
+      "value": "免费远程控制全功能，省 ToDesk/向日葵会员费"
     },
     {
       "author": "404jsh",
@@ -906,6 +928,17 @@
     {
       "author": "Lovislexus",
       "category": "其他",
+      "expiry_date": "2026-11-30",
+      "id": 164,
+      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）：3HK 旗下 SoSIM，HK$33/30 天 50GB 本地数据+1500 分钟通话，支持 eSIM 线上办，百佳/屈臣氏有售；新开卡另送 50GB（截至 11 月 30 日，首月共 100GB）。注意：①须护照或港澳通行证实名；②帖称“内地激活”仅为“支持尝试”，未证实；③保号成本为 HK$33/30 天，纯保号不如 Club SIM 等低价卡；④“连开卡钱薅回来”说法含糊，未核实具体返还路径。",
+      "score": 77,
+      "title": "香港 SoSIM eSIM：HK$33/30天 50GB+1500分钟，护照实名可线上办",
+      "url": "https://x.com/Lovislexus/status/2120705644265107482",
+      "value": "HK$33 得香港号码+50GB/30天（新开卡首月 100GB）"
+    },
+    {
+      "author": "Lovislexus",
+      "category": "其他",
       "expiry_date": null,
       "id": 157,
       "notes": "75分；Dialog 官网在线办 eSIM（外国人凭护照+自拍认证）已有多方证实；“1 FOR 1 Plan 免费开卡、400卢比（约¥8）充值保号180天”为帖文说法，线上充值有效期须实际确认；国内漫游收码、平台是否接受+94号码以实际使用为准。需上传护照与自拍给境外运营商。",
@@ -990,6 +1023,17 @@
       "title": "10个免费工具凑一套AI工作室",
       "url": "https://x.com/Lovislexus/status/2119610928572350576",
       "value": "Kaggle、Colab免费GPU + GitHub Actions、Supabase、OpenRouter、Cloudflare Workers/R2等免费额度合集"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 168,
+      "notes": "74分（来源20/可验证25/价值12/时效12/风险5）：商家 vps.taxi 官网核实：新加坡 ISP 线路 SG 1G，1核1G/15G SSD/4TB/1000Mbps，年付 $40（原价 $50），限时优惠、续费同价，7 天退款。注意：①新加坡 NTT 线路、部分 IP 库识别为 ISP；②商家未与大陆运营商直连，延迟丢包以实测为准；③新商家；④支持支付宝/微信/USDT。",
+      "score": 74,
+      "title": "VPS.Taxi 新加坡 ISP VPS：1核1G/4TB 年付$40（续费同价）",
+      "url": "https://x.com/fwqgo_com/status/2120709533999968354",
+      "value": "新加坡 ISP 年付$40，续费同价"
     },
     {
       "author": "fwqgo_com",
@@ -1254,6 +1298,39 @@
       "title": "AI 免费资源清单：Simular Box、Kaggle、Codespaces 等 6 项",
       "url": "https://x.com/Lovislexus/status/2119565631079219294",
       "value": "6 项免费资源一次收齐，Kaggle GPU 与 Codespaces 最实在。"
+    },
+    {
+      "author": "Lovislexus",
+      "category": "其他",
+      "expiry_date": "无固定截止日",
+      "id": 162,
+      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）：格鲁吉亚 Cellfie 官网 Number Maintenance 服务每 30 天 0.10 拉里，年保号约¥3；0 元开卡、可自选号码，全程线上办。注意：①须护照+人脸实名；②开卡默认带 7 天免费 All Unlimited 套餐，须 7 天内取消否则扣费；③部分靓号要 50 拉里（约¥130），非全部 0 元；④可能是二手号，个别平台（如 TG）验证可能失败；⑤独立测评称 90 天无活动每天扣 0.50 拉里、漫游收第三方短信实测不达，国内收码以实际为准。",
+      "score": 72,
+      "title": "格鲁吉亚 Cellfie +995 号码：0.1拉里/30天保号，年约¥3",
+      "url": "https://x.com/Lovislexus/status/2120698096330137668",
+      "value": "年约¥3 保一个 +995 海外号码"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 166,
+      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）：多家主机测评博客交叉核实：丽萨主机洛杉矶 9929 精品网，1核1G/10G/200G/50Mbps，原价 199 元/年，9折码 TS-CBP205DQJE 后 179.1 元/年，48 小时退款。注意：①价格以结算页为准，特价能否叠加 9 折以实际结算为准；②流量双向计算；③小商家，线路以实际为准；④无公开测试 IP/Looking Glass。",
+      "score": 72,
+      "title": "丽萨主机洛杉矶 9929 精品网 VPS：年付¥179.1（9折码后）",
+      "url": "https://x.com/fwqgo_com/status/2120705642344390826",
+      "value": "洛杉矶 9929 年付¥179.1，约¥15/月"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 167,
+      "notes": "72分（来源20/可验证25/价值12/时效10/风险5）：商家 uuuvps.hk 配置页核实：三優雲 LA tk s1，1核1G/10G SSD/300Mbps/800GB，年付¥388，三年付第三年半价（三年共¥970）；双 ISP 美国本土家宽 IP，电信/联通回程 9929、移动 CMIN2，七周年双 11 限量款。注意：①无明确截止日，限量出售，同系列 LA ntt s1 已缺货；②小商家，帖内直达链接带 aff 参数；③仅 1 个 IPv4、无 IPv6；④流量 800GB/月，超量政策未核实。",
+      "score": 72,
+      "title": "三優雲 LA tk s1 双ISP家宽 VPS：9929+CMIN2 年付¥388（双11限量）",
+      "url": "https://x.com/fwqgo_com/status/2120690542614806918",
+      "value": "双 ISP 家宽 IP 洛杉矶 VPS 年付¥388"
     },
     {
       "author": "Javary324",
@@ -1685,6 +1762,17 @@
       "value": "免费调 deepseek-v4-flash 与 glm-5.3-flash，条款未核实，先小量试用。"
     },
     {
+      "author": "hejushang8",
+      "category": "金融卡券",
+      "expiry_date": null,
+      "id": 169,
+      "notes": "62分（来源20/可验证15/价值12/时效10/风险5）：NALA 官网 2026 推荐计划条款核实：推荐计划真实存在，新用户用邀请码首笔汇款可得奖励；£10/£50 的具体数额见第三方攻略页，官网条款称金额以 App/FAQ 为准、按地区浮动，未逐项核实当前英区数额。注意：①须英国 IP+英国时区+英国手机号注册、国内护照 KYC；②奖励进 Rewards Wallet，仅限 NALA 内消费、到账 30 天内有效，不可直接提现到英国银行；③帖内含作者邀请码，属推荐返利；④“秒到账”“立刻转到 Maya”以实际为准。TG 转发的 NodeSeek 同活动帖按同一活动计，不另立条目。",
+      "score": 62,
+      "title": "NALA 汇£50送£10：新用户首笔汇款奖励（需英区手机号+护照KYC）",
+      "url": "https://x.com/hejushang8/status/2120706862786232761",
+      "value": "首笔汇£50 得£10 奖励（限 NALA 内使用 30 天）"
+    },
+    {
       "author": "Aisiverto",
       "category": "软件工具",
       "expiry_date": null,
@@ -1732,5 +1820,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-12T10:47:03+08:00"
+  "updated_at": "2026-11-12T11:58:47+08:00"
 }
