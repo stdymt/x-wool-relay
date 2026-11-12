@@ -1,5 +1,5 @@
 {
-  "count": 151,
+  "count": 156,
   "items": [
     {
       "author": "yedabinbinah",
@@ -99,6 +99,17 @@
       "title": "Simular Box免费云电脑：4核8G Ubuntu，每日1000 credits免费用",
       "url": "https://x.com/Lovislexus/status/2119725396023545953",
       "value": "免费得一台4核8G云电脑（Agent专用沙箱），长期有效；每日额度刷新"
+    },
+    {
+      "author": "Lovislexus",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 159,
+      "notes": "87分；官网 ur.io/products 与 FAQ 核实：免费档 30 GiB/天、无需绑卡、非试用、开源；多国住宅 IP 出口，支持全平台。注意：去中心化 P2P 网络，流量经成员住宅网络出口，免费档含托管代理额度，敏感操作慎用。",
+      "score": 87,
+      "title": "URnetwork 免费领每天 30GB 住宅 IP：多国出口、不绑卡",
+      "url": "https://x.com/Lovislexus/status/2120652793786794405",
+      "value": "免费版每天30GB（月约900GB），不绑卡"
     },
     {
       "author": "Javary324",
@@ -893,6 +904,17 @@
       "value": "首月免费，约 10 美元；.env 外用法有风险"
     },
     {
+      "author": "Lovislexus",
+      "category": "其他",
+      "expiry_date": null,
+      "id": 157,
+      "notes": "75分；Dialog 官网在线办 eSIM（外国人凭护照+自拍认证）已有多方证实；“1 FOR 1 Plan 免费开卡、400卢比（约¥8）充值保号180天”为帖文说法，线上充值有效期须实际确认；国内漫游收码、平台是否接受+94号码以实际使用为准。需上传护照与自拍给境外运营商。",
+      "score": 75,
+      "title": "斯里兰卡 Dialog +94 手机号：¥8 保号 180 天，可 eSIM、国内漫游收短信",
+      "url": "https://x.com/Lovislexus/status/2120660343974478196",
+      "value": "400卢比（约¥8）充值保号180天，平均每月¥1.4"
+    },
+    {
       "author": "Aisiverto",
       "category": "免费额度",
       "expiry_date": "无固定截止日",
@@ -1344,6 +1366,28 @@
       "value": "免开卡费/年费的 U 卡，Visa 返现 1%、卡内 USDT 5% 年化；大陆 +86 无法注册/KYC，仅限海外身份参考。"
     },
     {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": "2026-11-30",
+      "id": 160,
+      "notes": "67分；RAKsmart 双11+黑五活动（10月15日–11月30日）已证实；东京 2C2G $2.99/月续费同价为帖文说法，未打开结算页逐项核对，价格以结算页为准；国际BGP线路、无大陆优化；同日有用户投诉丢包，介意者慎用。",
+      "score": 67,
+      "title": "RAKsmart 东京 2核2G VPS：$2.99/月，续费同价（双11+黑五）",
+      "url": "https://x.com/fwqgo_com/status/2120677604487540961",
+      "value": "原价$8.81/月，现$2.99/月续费同价，年省约$70"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 158,
+      "notes": "67分；丽萨主机官网配置页已打开核实产品存在（年付特价版香港三网直连CMI/CU2/CN2精品网络ISP VPS）；价格与9折码 TS-CBP205DQJE 为帖文说法，未下单核对；48小时不满意退款为帖文说法；小商家，线路以实际为准。",
+      "score": 67,
+      "title": "丽萨主机香港三网直连 ISP VPS：年付约 ¥509（9折码后）",
+      "url": "https://x.com/fwqgo_com/status/2120660343256969383",
+      "value": "折后约¥509.4/年，约¥42/月，香港ISP IP"
+    },
+    {
       "author": "yedabinbinah",
       "category": "软件工具",
       "expiry_date": null,
@@ -1630,6 +1674,17 @@
       "value": "免费调 deepseek-v4-flash 与 glm-5.3-flash，条款未核实，先小量试用。"
     },
     {
+      "author": "Aisiverto",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 156,
+      "notes": "60分；帖内无申请链接，需自行在 Muse 内申请；“已开通”说法仅凭作者对话截图，未经官方渠道核实；功能为 AI 替用户拨打美国商家电话（自称 my phone agent），首次使用需选声音。",
+      "score": 60,
+      "title": "Muse AI 代打（替你给美国商家打电话）可申请内测，人少易过",
+      "url": "https://x.com/Aisiverto/status/2120671311177589034",
+      "value": "免费新功能内测申请，无费用"
+    },
+    {
       "author": "白嫖福利推送",
       "category": "免费额度",
       "expiry_date": "无固定截止日（注册送 $10 进行中，以平台页为准）",
@@ -1666,5 +1721,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-12T08:44:43+08:00"
+  "updated_at": "2026-11-12T09:56:44+08:00"
 }
