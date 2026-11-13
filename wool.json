@@ -1,5 +1,5 @@
 {
-  "count": 199,
+  "count": 200,
   "items": [
     {
       "author": "yedabinbinah",
@@ -198,6 +198,17 @@
       "title": "Articul8 Bivia 免费领 10 亿 Token：前 10000 名，免绑卡",
       "url": "https://x.com/yedabinbinah/status/2119047941101109491",
       "value": "免费 10 亿决策 tokens（约 42 美元），免绑卡，API 可用"
+    },
+    {
+      "author": "NodeSeek官方频道",
+      "category": "金融卡券",
+      "expiry_date": "无固定截止日（常驻权益，随时可能调整）",
+      "id": 204,
+      "notes": "85分（来源25/可验证25/价值15/时效15/风险5）：Gate 官方帮助中心《AI Card Exclusive Benefits》（2026-11-02 发布、11-04 更新）原文核实：AI 卡专属权益，每月首笔合规 AI 订阅返 50%、上限 10 USDT，以现金券形式发放；适用 ChatGPT/Codex/OpenAI、Claude/Anthropic、Gemini、Cursor、Perplexity；T1 及以上才有返现，T0 无资格。注意：①帖子标题“新活动”说法不准：2026-08-28 至 09-27 的 50% 限时活动已结束，现在是 11 月 2 日上线的常驻 AI 卡权益；②T1 达标门槛该页面未写明，须在 Gate App 内查看自己的卡等级；③中国大陆在 Gate 用户协议受限地区名单内（第三方评测口径），境内用户大概率办不了卡；④返现为现金券、仅限卡内消费或充值抵扣，退款会扣回；⑤经第三方支付（如应用商店内购）付款不算。",
+      "score": 85,
+      "title": "Gate AI 卡：AI 订阅每月返 50%、上限 10 USDT（ChatGPT/Claude/Gemini/Cursor/Perplexity）",
+      "url": "https://t.me/nodeseekc/1005636",
+      "value": "每月首笔 AI 订阅返 50%（上限 10 USDT），全年最高约 120 USDT；须 AI 卡 + T1 等级"
     },
     {
       "author": "lovethelife2333",
@@ -2194,5 +2205,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-13T10:53:40+08:00"
+  "updated_at": "2026-11-13T11:46:05+08:00"
 }
