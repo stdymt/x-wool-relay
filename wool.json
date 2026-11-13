@@ -1,5 +1,5 @@
 {
-  "count": 189,
+  "count": 191,
   "items": [
     {
       "author": "yedabinbinah",
@@ -673,6 +673,17 @@
       "value": "免费云端 GPU/TPU 算力，按需分配不保证"
     },
     {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": "无固定截止日（免费档随时可能调整）",
+      "id": 195,
+      "notes": "80分（来源20/可验证25/价值12/时效15/风险8）：Google 11月12日发布 Gemini 4 Hydrogen（Gemini 4 家族的快速款，替代 3.8 Flash，速度约 2.5 倍），Google 官方 Gemini API 定价页标为免费档（Free of charge），付费价 $1.50/$7.50 每百万 token；多家独立报道交叉证实 AI Studio、Gemini API 免费层、Gemini App（自动选模型）、Google Search 均已上线。注意：①免费档有速率限制，免费层提示词可能被用于改进产品、人工审阅者可读（欧洲经济区/瑞士/英国除外）；②App 免费用户靠自动选模型触达，不一定每次都分到 Hydrogen，想指定模型须付费档；③AI Studio 定位开发者工具、18+、非消费者用途；④LINUX DO 原帖 topic/3167414 未单独打开，以官方定价页 + 多家报道为准；⑤与在册 id189（Antigravity 科研免费 6 个月，含 Gemini 4 Argon）是不同模型、不同入口，别混淆。",
+      "score": 80,
+      "title": "Gemini 4 Hydrogen 上线 AI Studio 免费档：免绑卡可用，API 也有免费层",
+      "url": "https://t.me/baipiaofl/64554",
+      "value": "最新 Gemini 4 快速模型免绑卡用，AI Studio 与 API 免费层均已上线（付费价 $1.50/$7.50 每百万 token）"
+    },
+    {
       "author": "lovethelife2333",
       "category": "免费额度",
       "expiry_date": "公测期无硬截止日（付费档即将上线，随时可能收口）",
@@ -1199,6 +1210,17 @@
       "title": "10个免费工具凑一套AI工作室",
       "url": "https://x.com/Lovislexus/status/2119610928572350576",
       "value": "Kaggle、Colab免费GPU + GitHub Actions、Supabase、OpenRouter、Cloudflare Workers/R2等免费额度合集"
+    },
+    {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": "2026-11-30",
+      "id": 194,
+      "notes": "73分（来源20/可验证20/价值15/时效13/风险5）：Anthropic 帮助中心《Get started with Claude Duet》原文证实：入选 Duet 研究预览的账号得一次完整额度重置（Full reset），5小时额度与周额度同时回满，在设置→用量→Limit resets 里点 Reset for free；卡面写明 11月30日到期（美东 11月30日 23:59，北京时间 12月1日 12:59）。Duet 10月21日宣布，属主动型助手 App（每天发简报、后台自己干活），研究预览期包含在 Pro/Max 订阅内、不额外收费。注意：①帖称“送了四个重置”未证实，官方口径是入选得一张完整重置卡，帖主账上多出的卡可能来自其他活动（11月11日全员完整重置 id115、Fable 重置 id114 是另外两张卡），别按四张算；②仅限美国 Pro/Max 用户，候补名单分批放行，排队不保证入选、入选时间不定，免费版/Team/Enterprise 无份；③Duet 的后台任务（早报、定时检查）与 Claude 共用同一额度池，会更快触顶；④与 11月11日全员重置（12月10日前可用，id115）是两回事，两张卡各有各的截止日，别混淆；⑤NodeSeek 原帖 post-1050277-1 因本站 IP 被封禁未读到，以 TG 转发全文 + 官方帮助中心 + 重置追踪站交叉证实。",
+      "score": 73,
+      "title": "Claude Duet 研究预览入选送一次完整额度重置：5小时+周额度全满，11月30日前可用",
+      "url": "https://t.me/baipiaofl/64552",
+      "value": "入选 Duet 预览得一次完整额度重置（5小时+周额度全满），11月30日前可用；研究预览期不额外收费"
     },
     {
       "author": "yedabinbinah",
@@ -2084,5 +2106,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-13T08:59:18+08:00"
+  "updated_at": "2026-11-13T09:47:50+08:00"
 }
