@@ -1,5 +1,5 @@
 {
-  "count": 188,
+  "count": 189,
   "items": [
     {
       "author": "yedabinbinah",
@@ -781,6 +781,17 @@
       "title": "Kaggle免费GPU双T4跑30B编程大模型",
       "url": "https://x.com/Lovislexus/status/2119595831036960924",
       "value": "每周约30小时免费GPU，双T4合计32GB显存，不用绑卡；可跑Qwen3-Coder 30B量化版"
+    },
+    {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 193,
+      "notes": "77分。核实：MOSS API 官网 platform.moss.cn 首页有 nex-n2.6 模型卡（文本/图片/视频理解+流式输出）；第三方文章（赛博鸡蛋 2026-11-11）证实创建 API Key 即可调用、每次请求 0 Credits、限时免费、未公布结束日期；OpenRouter 证实模型 2026-11-10 上架、基于 GLM-5.3-Flash、约 321B 参数。NodeSeek 原帖 post-1050222-1 因本站 IP 被封禁未读到，以官网与第三方文章为准。注意：OpenRouter 上同模型为付费价（输入 $0.12/百万 token、输出 $0.40/百万 token），免费仅限 MOSS API 渠道；模型无公开 benchmark，质量未验证。",
+      "score": 77,
+      "title": "Nex-N2.6 模型免费用（MOSS API 限时免费）",
+      "url": "https://t.me/baipiaofl/64549",
+      "value": "免费调用 321B 参数多模态智能体模型，文本/图片/视频理解+函数调用，兼容 OpenAI/Anthropic 接口；限时免费，结束日期未公布；OpenRouter 同模型付费价 $0.12/$0.40 每百万 token"
     },
     {
       "author": "Lniosytest",
@@ -2073,5 +2084,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-13T07:49:20+08:00"
+  "updated_at": "2026-11-13T08:59:18+08:00"
 }
