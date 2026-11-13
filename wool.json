@@ -1,5 +1,5 @@
 {
-  "count": 209,
+  "count": 213,
   "items": [
     {
       "author": "yedabinbinah",
@@ -363,6 +363,17 @@
       "title": "Hermes Agent：会越用越懂你的开源 AI Agent（NousResearch，MIT 免费）",
       "url": "https://x.com/tantanyuli/status/2120234285034856479",
       "value": "免费开源 AI Agent（MIT），262k stars；可自学/自部署，带记忆与技能自改进"
+    },
+    {
+      "author": "lovethelife2333",
+      "category": "免费额度",
+      "expiry_date": "无固定截止日（免费档持续有效，以官方文档为准）",
+      "id": 217,
+      "notes": "83分（来源20/可验证25/价值15/时效15/风险8；Coarena 官方文档 coarena.ai/docs 直接核实：免费档每天 $5 模型额度、Coarena 买单，免绑卡，OpenAI 兼容 coarena.ai/api/v1、Anthropic 兼容 coarena.ai/api；22 个模型任选，含 claude-opus-5-5、claude-fable-5-2、gpt-6-1-sol、gemini-4-carbon、gemini-4-argon、grok-4-7、kimi-k3-1-pro、deepseek-v4-1-flash 等。注意：①每分钟 30 次、同时 2 路并发，账号可能另有每日请求上限；②超额后可一键申请提到每天 $10；③第三方网关中转，请求经其服务器转发，敏感内容慎用；④官网自称 YC 支持的计算机使用基准平台，API 业务较新，免费政策随时可能调整）",
+      "score": 83,
+      "title": "Coarena 每天 $5 免费调 22 个模型：含 Opus 5.5、GPT-6.1 Sol、Gemini 4 Carbon，免绑卡",
+      "url": "https://x.com/lovethelife2333/status/2121106000249827689",
+      "value": "每天 $5 免费模型额度，22 个旗舰模型任选，OpenAI/Anthropic 双接口兼容；超额可申请提到每天 $10"
     },
     {
       "author": "SecJack96",
@@ -739,6 +750,17 @@
       "value": "免费云端 GPU/TPU 算力，按需分配不保证"
     },
     {
+      "author": "lovethelife2333",
+      "category": "免费额度",
+      "expiry_date": "约2026-11-19（发布后一周内免费，以 OpenRouter 显示为准）",
+      "id": 216,
+      "notes": "80分（来源20/可验证25/价值12/时效13/风险10；Perplexity 11月12日官方博客发布 Decider v1.3 与 Flash v1.3，OpenRouter 模型页核实：perplexity/pplx-decider-v1.3:free 与 flash 版输入输出均为 $0/M，262K 上下文，11月12日上架。注意：①只做判定、不生成文本：一次调用对同一份材料答是非/选择/打分题、返回概率与置信度；②新加 Locate 功能，可按描述定位原文片段并返回位置；③免费窗口约一周（11月12日起，约11月19日截止），过期后按量计费；④走 OpenRouter Decisions API，普通 chat completions SDK 不直接适用；⑤权重 Hugging Face 开源（Apache 2.0），可自部署）",
+      "score": 80,
+      "title": "Perplexity Decider v1.3 免费一周：OpenRouter 上 $0 调用判定模型（新加 Locate）",
+      "url": "https://x.com/lovethelife2333/status/2121106000249827689",
+      "value": "一周内免费调用 Perplexity 判定模型，输入输出均为 $0；权重 HF 开源"
+    },
+    {
       "author": "duola_eth",
       "category": "免费额度",
       "expiry_date": "2026-11-18（11月18日 09:00 UTC 开领；11月26日 17:00 前须确认领取方式）",
@@ -869,6 +891,17 @@
       "title": "Kaggle免费GPU双T4跑30B编程大模型",
       "url": "https://x.com/Lovislexus/status/2119595831036960924",
       "value": "每周约30小时免费GPU，双T4合计32GB显存，不用绑卡；可跑Qwen3-Coder 30B量化版"
+    },
+    {
+      "author": "lovethelife2333",
+      "category": "免费额度",
+      "expiry_date": "长期免费（每月 5 CPU 小时，随时可能调整）",
+      "id": 215,
+      "notes": "78分（来源20/可验证25/价值8/时效15/风险10；Upstash 官网 upstash.com/box 与定价页直接核实：免费档每月 5 CPU 小时、最多 10 个并发 Box，每个 Box 2 vCPU/4GB 内存/10GB 存储，内置 Claude Code、Codex、OpenCode、Cursor，文件系统持久、支持 Git 与无头浏览器，闲置 1 小时自动暂停不计费；注册免绑卡。注意：①免费的是沙箱算力、不是模型额度，模型调用须自带 Provider Key（Anthropic/OpenAI/OpenRouter 等）；②5 小时/月只够轻量任务，按量价 $0.10/活跃 CPU 小时（Small），超额自费；③目前仅 AWS us-east-1 区域；④存储 $0.10/GB/月，含快照）",
+      "score": 78,
+      "title": "Upstash Box 免费层：每月 5 小时 AI Agent 云端电脑，内置 Claude Code（免绑卡）",
+      "url": "https://x.com/lovethelife2333/status/2121106000249827689",
+      "value": "每月免费 5 CPU 小时、最多 10 个并发 Box：2 vCPU/4GB/10GB，内置 Claude Code/Codex"
     },
     {
       "author": "白嫖福利推送",
@@ -1971,6 +2004,17 @@
       "value": "48 小时内填邀请码，双方各得 10 亿 token"
     },
     {
+      "author": "Javary324",
+      "category": "金融卡券",
+      "expiry_date": "无固定截止日（返现规则随时可能调整，以 MEXC 官方 FAQ 为准）",
+      "id": 214,
+      "notes": "65分（来源20/可验证20/价值8/时效12/风险5；MEXC 官方教程页与多家评测交叉证实：Global 卡 2026年8月31日上线，Visa 白金虚拟卡，返现按 VVIP 等级：Standard（M-Score 350-599）4%、Premier（600-799）6%、Elite（800+）10%，以 USDT 发放；原帖截图为 Premier 高级档、返现率 6%、月上限 150 USDT，与官方 FAQ（2026-11-02）一致。注意：①6% 须 M-Score 600+（靠交易量、活跃度、安全分攒），新用户默认 Standard 4%；②月上限口径有出入：FAQ 称 150 USDT，部分评测写 300 USDT，以 App 内显示为准；③2026年10月1日起每笔消费收 1% 交易费；④中国大陆不在 Global 卡服务地区内，境内用户大概率办不了；⑤2026年11月6日美国 FinCEN 将 MEXC 列为主要洗钱关切对象、限制美资机构与其资金往来，资金有冻结/划转受限风险；⑥返现到账 T+3，退款会扣回返现且不恢复当月额度；⑦部分商户类别（金融、博彩、预付充值等）不返现）",
+      "score": 65,
+      "title": "MEXC 全球卡：VVIP Premier 档 6% 返现、月上限 150 USDT（须 M-Score 600+）",
+      "url": "https://x.com/Javary324/status/2121106706793115939",
+      "value": "Premier 档 6% USDT 返现（月上限 150 USDT），Standard 4%、Elite 10%；Visa 白金虚拟卡，免年费"
+    },
+    {
       "author": "SecJack96",
       "category": "订阅优惠",
       "expiry_date": "2026-11-30（Cyber Month活动期，以官网条款为准）",
@@ -2304,5 +2348,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-13T14:46:21+08:00"
+  "updated_at": "2026-11-13T15:57:07+08:00"
 }
