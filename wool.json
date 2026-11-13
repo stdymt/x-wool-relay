@@ -1,5 +1,5 @@
 {
-  "count": 220,
+  "count": 221,
   "items": [
     {
       "author": "yedabinbinah",
@@ -352,6 +352,17 @@
       "title": "ClipSeek：一句话搜无版权免费视频、照片、插画素材",
       "url": "https://x.com/tantanyuli/status/2119646663044157466",
       "value": "免费搜无版权素材；桌面端超 5 GiB 导入需付费 Pro"
+    },
+    {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 225,
+      "notes": "85分（来源25/可验证25/价值12/时效15/风险8；OpenRouter 11月12日新上免费端点 particle-ai/particle-1:free，overfeed 11-13 价格日报与 llmperks 免费模型目录、aimap 11-13 核验三方交叉证实：输入输出 $0，1M 上下文，支持工具调用；模型本身是 Particle AI 在 DeepSeek V4.1 Flash 基础上后训练的 agent 编程模型，付费版 $0.25/$1 每百万 token；免费档限额：每分钟 20 次、每天 50 次，一次性充 $10 后每天 1000 次；免费模型请求可能被用于训练，敏感代码慎用）",
+      "score": 85,
+      "title": "OpenRouter 新增免费模型 Particle-1:free",
+      "url": "https://t.me/baipiaofl/64641",
+      "value": "免费编码模型：1M 上下文、支持工具调用，基于 DeepSeek V4.1 Flash 后训练；免费档每天 50 次请求（充 $10 后 1000 次/天）"
     },
     {
       "author": "Aisiverto",
@@ -2425,5 +2436,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-13T19:42:59+08:00"
+  "updated_at": "2026-11-13T20:44:29+08:00"
 }
