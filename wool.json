@@ -1,5 +1,5 @@
 {
-  "count": 215,
+  "count": 218,
   "items": [
     {
       "author": "yedabinbinah",
@@ -198,6 +198,17 @@
       "title": "Articul8 Bivia 免费领 10 亿 Token：前 10000 名，免绑卡",
       "url": "https://x.com/yedabinbinah/status/2119047941101109491",
       "value": "免费 10 亿决策 tokens（约 42 美元），免绑卡，API 可用"
+    },
+    {
+      "author": "lovethelife2333",
+      "category": "免费额度",
+      "expiry_date": "限时免费（结束日未公布，以官方定价页为准）",
+      "id": 220,
+      "notes": "85分（来源25/可验证25/价值12/时效15/风险8；小米 MiMo 开放平台官方定价页 + 多家独立站交叉证实：三款 TTS 模型 mimo-v2.5-tts / mimo-v2.5-tts-voiceclone / mimo-v2.5-tts-voicedesign 正在限时免费，按量付费调用不扣余额、Token Plan 调用不耗额度；单次最多 8K token、每分钟 100 次；国内站与海外站均可用，OpenAI 兼容端点 api.xiaomimimo.com/v1。注意：①须在 platform.xiaomimimo.com 注册账号领 API Key；②免费期结束日未公布，随时可能恢复计费；③声音克隆须用自己或已获授权的声音，别拿他人声音做克隆；④同平台语音识别与大语言模型照常计费，只有 TTS 系列免费）",
+      "score": 85,
+      "title": "小米 MiMo TTS 三款模型限时免费：标准合成、声音克隆、音色设计全免费",
+      "url": "https://x.com/lovethelife2333/status/2121132670184763642",
+      "value": "三款 TTS 模型免费调用：标准合成、声音克隆、音色设计；不扣余额、不耗 Token Plan 额度"
     },
     {
       "author": "白嫖福利推送",
@@ -750,6 +761,17 @@
       "value": "免费云端 GPU/TPU 算力，按需分配不保证"
     },
     {
+      "author": "白嫖福利推送",
+      "category": "其他",
+      "expiry_date": "长期招募（无固定截止日，以小程序内显示为准）",
+      "id": 219,
+      "notes": "80分（来源25/可验证15/价值20/时效15/风险5；腾讯旗下混元智囊团（ExpertHub）真实存在：腾讯企鹅智讯生态、微信小程序，服务于混元大模型专业问答/评估/标注，第三方对比文章证实。注意：①奖励金额（认证100元、首题通过200元、每题200-2000元）引自 LINUX DO 帖子转述的官方文案，原帖 3170621 与 3170894 均已 404（删帖或设私密），未能在官方公开页独立核实，以小程序内任务包显示为准；②官网未列统一价目表，单价按任务包显示；③须实名认证并上传学历或职业资格证明，提供真实专业经验出题/评测，门槛高、非人人可领；④免费使用最新模型和 agent 工具。）",
+      "score": 80,
+      "title": "腾讯智囊团 ExpertHub 专家招募：认证奖100元、首题通过再奖200元、每题200-2000元",
+      "url": "https://t.me/baipiaofl/64606",
+      "value": "认证奖励100元、首题通过再奖200元，每题任务酬劳200-2000元；腾讯官方认证专家身份及证书"
+    },
+    {
       "author": "lovethelife2333",
       "category": "免费额度",
       "expiry_date": "约2026-11-19（发布后一周内免费，以 OpenRouter 显示为准）",
@@ -860,17 +882,6 @@
       "value": "每天免费5000积分用AI模型（GLM-5.3-Flash等），另可领10000邀请积分"
     },
     {
-      "author": "白嫖福利推送",
-      "category": "其他",
-      "expiry_date": "长期招募（无固定截止日，以小程序内显示为准）",
-      "id": 219,
-      "notes": "80分（来源25/可验证15/价值20/时效15/风险5；腾讯旗下混元智囊团（ExpertHub）真实存在：腾讯企鹅智讯生态、微信小程序，服务于混元大模型专业问答/评估/标注，第三方对比文章证实。注意：①奖励金额（认证100元、首题通过200元、每题200-2000元）引自 LINUX DO 帖子转述的官方文案，原帖 3170621 与 3170894 均已 404（删帖或设私密），未能在官方公开页独立核实，以小程序内任务包显示为准；②官网未列统一价目表，单价按任务包显示；③须实名认证并上传学历或职业资格证明，提供真实专业经验出题/评测，门槛高、非人人可领；④免费使用最新模型和 agent 工具。）",
-      "score": 80,
-      "title": "腾讯智囊团 ExpertHub 专家招募：认证奖100元、首题通过再奖200元、每题200-2000元",
-      "url": "https://t.me/baipiaofl/64606",
-      "value": "认证奖励100元、首题通过再奖200元，每题任务酬劳200-2000元；腾讯官方认证专家身份及证书"
-    },
-    {
       "author": "lovethelife2333",
       "category": "免费额度",
       "expiry_date": "2026-11-30",
@@ -904,17 +915,6 @@
       "value": "每周约30小时免费GPU，双T4合计32GB显存，不用绑卡；可跑Qwen3-Coder 30B量化版"
     },
     {
-      "author": "lovethelife2333",
-      "category": "免费额度",
-      "expiry_date": "长期免费（每月 5 CPU 小时，随时可能调整）",
-      "id": 215,
-      "notes": "78分（来源20/可验证25/价值8/时效15/风险10；Upstash 官网 upstash.com/box 与定价页直接核实：免费档每月 5 CPU 小时、最多 10 个并发 Box，每个 Box 2 vCPU/4GB 内存/10GB 存储，内置 Claude Code、Codex、OpenCode、Cursor，文件系统持久、支持 Git 与无头浏览器，闲置 1 小时自动暂停不计费；注册免绑卡。注意：①免费的是沙箱算力、不是模型额度，模型调用须自带 Provider Key（Anthropic/OpenAI/OpenRouter 等）；②5 小时/月只够轻量任务，按量价 $0.10/活跃 CPU 小时（Small），超额自费；③目前仅 AWS us-east-1 区域；④存储 $0.10/GB/月，含快照）",
-      "score": 78,
-      "title": "Upstash Box 免费层：每月 5 小时 AI Agent 云端电脑，内置 Claude Code（免绑卡）",
-      "url": "https://x.com/lovethelife2333/status/2121106000249827689",
-      "value": "每月免费 5 CPU 小时、最多 10 个并发 Box：2 vCPU/4GB/10GB，内置 Claude Code/Codex"
-    },
-    {
       "author": "白嫖福利推送",
       "category": "免费额度",
       "expiry_date": "常驻免费试用（1GB/2天，以 Kolet 官方为准）",
@@ -924,6 +924,17 @@
       "title": "Kolet 免费1GB eSIM：新用户免费试用2天，大陆可用（多地区）",
       "url": "https://t.me/baipiaofl/64616",
       "value": "新用户免费 1GB 流量、2 天有效，覆盖 190+ 国家/地区、含中国大陆；免绑卡、无自动续费"
+    },
+    {
+      "author": "lovethelife2333",
+      "category": "免费额度",
+      "expiry_date": "长期免费（每月 5 CPU 小时，随时可能调整）",
+      "id": 215,
+      "notes": "78分（来源20/可验证25/价值8/时效15/风险10；Upstash 官网 upstash.com/box 与定价页直接核实：免费档每月 5 CPU 小时、最多 10 个并发 Box，每个 Box 2 vCPU/4GB 内存/10GB 存储，内置 Claude Code、Codex、OpenCode、Cursor，文件系统持久、支持 Git 与无头浏览器，闲置 1 小时自动暂停不计费；注册免绑卡。注意：①免费的是沙箱算力、不是模型额度，模型调用须自带 Provider Key（Anthropic/OpenAI/OpenRouter 等）；②5 小时/月只够轻量任务，按量价 $0.10/活跃 CPU 小时（Small），超额自费；③目前仅 AWS us-east-1 区域；④存储 $0.10/GB/月，含快照）",
+      "score": 78,
+      "title": "Upstash Box 免费层：每月 5 小时 AI Agent 云端电脑，内置 Claude Code（免绑卡）",
+      "url": "https://x.com/lovethelife2333/status/2121106000249827689",
+      "value": "每月免费 5 CPU 小时、最多 10 个并发 Box：2 vCPU/4GB/10GB，内置 Claude Code/Codex"
     },
     {
       "author": "白嫖福利推送",
@@ -1685,6 +1696,17 @@
       "value": "6 项免费资源一次收齐，Kaggle GPU 与 Codespaces 最实在。"
     },
     {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": "常驻权益（Pro/Ultra 订阅期间每月发放，额度 12 个月后过期）",
+      "id": 221,
+      "notes": "70分（来源15/可验证25/价值10/时效15/风险5；Google Developer Program 官方 Benefits FAQ 直接证实：Google AI Pro 每月 $10 GenAI 与 Google Cloud 开发者额度，Ultra 5x 每月 $40、Ultra 20x 每月 $100；LINUX DO 教程称正价/学生/JIO 订阅 Pro 均可领。注意：①这不是白送：须先付费订阅 Google AI Pro/Ultra（Google One AI 计划），额度是订阅权益；②须在开发者权益页认领并关联一个 Google Cloud 结算账号；③AI Studio 预付费模式须先充至少 $5 才能解锁付费层、让 $10 额度优先抵扣，Vertex 里可直接用；④每月额度 12 个月后过期、不累计；⑤GCP 风控有时会要求先预扣 $10 或 $50；⑥$300 新户试用金 11 月 16 日起收紧、且不能用于 AI Studio，别和这 $10 混淆）",
+      "score": 70,
+      "title": "Google AI Pro 每月 $10 开发者额度：可用于 AI Studio / Vertex（须付费订阅 Pro）",
+      "url": "https://t.me/baipiaofl/64627",
+      "value": "AI Pro 订阅用户每月 $10 开发者额度，可用于 AI Studio/Vertex 调 Gemini；Ultra 档 $40/$100"
+    },
+    {
       "author": "0xjackkk",
       "category": "金融卡券",
       "expiry_date": "无固定截止日（2026-11-11 改版后档位，随时可能调整）",
@@ -1700,7 +1722,7 @@
       "category": "免费额度",
       "expiry_date": "无固定截止日（免费额度随时可能调整）",
       "id": 208,
-      "notes": "70分（来源20/可验证15/价值12/时效15/风险8）：AMD 官方平台 notebooks.amd.com/tokenlab（AMD AI Notebooks，TokenLab）已确认存在；帖内截图显示 API 配置 url https://api.tokenlab.amd.com/v1、模型 DeepSeek-V4.1-Flash；帖称 DeepSeek V4.1 Flash、Qwen3.8-27B 等 10 个大模型免费调，邮箱注册、无实名无绑卡、速度实测 10–25 TPS。注意：①目标页为登录墙，模型清单、额度与免绑卡均未能在目标页独立验证，以帖子截图与说法为准；②别和 AMD 国区混淆：作者 11 月 1 日旧帖称国区 15 个模型免费（DeepSeek V4.1 Flash、GLM-5.3 Flash、Qwen3.8、MiMo 等、每天 0 点重置），国际版 10 个是另一套；③OpenAI 兼容接口，可直接调 API。",
+      "notes": "70分（来源20/可验证15/价值12/时效15/风险8）：AMD 官方平台 notebooks.amd.com/tokenlab（AMD AI Notebooks，TokenLab）已确认存在；帖内截图显示 API 配置 url https://api.tokenlab.amd.com/v1、模型 DeepSeek-V4.1-Flash；帖称 DeepSeek V4.1 Flash、Qwen3.8-27B 等 10 个大模型免费调，邮箱注册、无实名无绑卡、速度实测 10–25 TPS。注意：①目标页为登录墙，模型清单、额度与免绑卡均未能在目标页独立验证，以帖子截图与说法为准；②别和 AMD 国区混淆：作者 11 月 1 日旧帖称国区 15 个模型免费（DeepSeek V4.1 Flash、GLM-5.3 Flash、Qwen3.8、MiMo 等、每天 0 点重置），国际版 10 个是另一套；③OpenAI 兼容接口，可直接调 API。【2026-11-13 17:40轮补充：LINUX DO 帖称注册后在 Member Perks → Cloud Credits 里可领 TokenLab 的 $10 额度、做任务可攒更多积分，领法路径未独立验证。】",
       "score": 70,
       "title": "AMD TokenLab 国际版：DeepSeek V4.1 Flash 等 10 个模型免费调（邮箱注册）",
       "url": "https://x.com/yedabinbinah/status/2121070041890181625",
@@ -2195,11 +2217,22 @@
       "category": "订阅优惠",
       "expiry_date": "2026-11-09闪购（限2000名，先到先得）",
       "id": 31,
-      "notes": "评分63分（来源20/可验证15/价值10/时效10/风险8）。路径：京东App→秒杀→午夜场→搜百度小宝；作者本人在回复里证实自己已0.01元买到。注意：需+86手机号，海外无法支付；2000个名额，帖子称“还有”，随时可能抢完；百度口碑一般，按需领取。",
+      "notes": "评分63分（来源20/可验证15/价值10/时效10/风险8）。路径：京东App→秒杀→午夜场→搜百度小宝；作者本人在回复里证实自己已0.01元买到。注意：需+86手机号，海外无法支付；2000个名额，帖子称“还有”，随时可能抢完；百度口碑一般，按需领取。【2026-11-13 16:40轮更新：同活动 LINUX DO 新帖（11-13 07:23）称 2000份已抢完、今晚 20:00 还有一批；路径为京东App→秒杀→月黑风高→搜百度搭子；多账号同手机号可叠加时长（官方称不可叠加），反代使用有封号风险。】",
       "score": 63,
       "title": "百度AI Pro首月0.01元：含25000积分，京东秒杀限2000名",
       "url": "https://x.com/yedabinbinah/status/2119794042842333687",
       "value": "0.01元得百度AI Pro首月+25000积分（原价首月9.9元）"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": "限量 66 台（帖称剩余不多，以商家页库存为准）",
+      "id": 222,
+      "notes": "62分（来源20/可验证15/价值10/时效12/风险5；原帖全文经 live 浏览器只读打开核实：1 核/1GB/15GB 系统盘、1000Mbps 大端口/月流量 800GB、1 个独立 IPv4（美西 NTT 区域 ISP 地址池）、美国西海岸机房、测试 IP 216.167.43.254；年付 ¥199（约 ¥16.58/月）、续费同价，帖内商品截图与正文一致。注意：①商家 666clouds.com 为小商家、口碑未核实，链接带 aff 参数；②限量 66 台、帖称剩余不多，库存以商家页为准；③15GB 系统盘偏小，只够轻量应用；④支持支付宝扫码付款）",
+      "score": 62,
+      "title": "美西年付特价机：1核1G/800GB NTT ISP IP，年付 ¥199、续费同价（限量66台）",
+      "url": "https://x.com/fwqgo_com/status/2121160060739231775",
+      "value": "美西 NTT 线路 1核1G 年付 ¥199（约 ¥16.58/月），1000Mbps/800GB 流量，ISP 属性 IP，续费同价"
     },
     {
       "author": "fwqgo_com",
@@ -2370,5 +2403,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-13T16:48:53+08:00"
+  "updated_at": "2026-11-13T17:45:19+08:00"
 }
