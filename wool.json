@@ -1,5 +1,5 @@
 {
-  "count": 200,
+  "count": 205,
   "items": [
     {
       "author": "yedabinbinah",
@@ -198,6 +198,28 @@
       "title": "Articul8 Bivia 免费领 10 亿 Token：前 10000 名，免绑卡",
       "url": "https://x.com/yedabinbinah/status/2119047941101109491",
       "value": "免费 10 亿决策 tokens（约 42 美元），免绑卡，API 可用"
+    },
+    {
+      "author": "Lovislexus",
+      "category": "云服务器",
+      "expiry_date": "长期免费（前 7 天 4GB，之后永久 1GB；免费名额视供应而定）",
+      "id": 207,
+      "notes": "85分（来源25/可验证25/价值12/时效15/风险8）：官网 weeny.cloud 与 /pricing 直接核实：永久免费档，先 7 天 4GB、之后永久 1GB；1 核/1GB/10GB 持久化存储、root+SSH、独立 HTTPS 地址、应用日志与异地备份、一台机可部署多个应用；免绑卡，npx weeny-cloud login/create/push 部署，Claude Code 可直接调用 CLI 部署。注意：①免费机闲置 30 分钟自动休眠、访问唤醒，不适合长期挂 Bot、定时任务与持续监控；②1GB 内存别硬塞大型项目，最好本地构建再上传；③免费名额有限、以官网为准；④自定义域名须付费（付费档 $3/$8/$20 每月起）。",
+      "score": 85,
+      "title": "Weeny Cloud 免费 VPS：1 核 1GB 永久免费，带 root+SSH（前 7 天 4GB）",
+      "url": "https://x.com/Lovislexus/status/2121060481020399656",
+      "value": "永久免费 Linux 服务器：1 核 1GB、root+SSH、独立 HTTPS，免绑卡"
+    },
+    {
+      "author": "KOF97AI",
+      "category": "免费额度",
+      "expiry_date": "无固定截止日（免费档随时可能调整）",
+      "id": 205,
+      "notes": "85分（来源25/可验证25/价值12/时效15/风险8）：Google 11月11日发布 Gemini Decision 1（gemini-decision-1），多家独立站（apidog/hokai/metarix/cellcog，均引 Google 官方定价与限速页，11月12日读）交叉证实：免费层每天 1 万请求（200 请求/分钟、5 万 token/分钟），输入免费、输出恒 0 token 不收费；单请求最多 1000 个 Yes/No/选择/打分题，支持文本/图像/音频/视频/PDF 多模态输入；付费价 $0.10/百万输入 token。注意：①只做判定、不生成文本，适合分类/打分/筛选类任务，不是通用聊天模型；②免费层内容或被 Google 用于改进产品，敏感内容走付费层；③目前仅 Gemini Developer API v1beta 与 AI Studio 可用，Vertex AI 标注即将上线。",
+      "score": 85,
+      "title": "Gemini Decision 1 上线：判定类模型免费层每天 1 万请求，单次最多 1000 题",
+      "url": "https://x.com/KOF97AI/status/2121052567748891075",
+      "value": "免费判定 1 万次/天（Yes/No/选择/打分），输入免费、输出不收费"
     },
     {
       "author": "NodeSeek官方频道",
@@ -1588,6 +1610,28 @@
     {
       "author": "yedabinbinah",
       "category": "免费额度",
+      "expiry_date": "无固定截止日（免费额度随时可能调整）",
+      "id": 208,
+      "notes": "70分（来源20/可验证15/价值12/时效15/风险8）：AMD 官方平台 notebooks.amd.com/tokenlab（AMD AI Notebooks，TokenLab）已确认存在；帖内截图显示 API 配置 url https://api.tokenlab.amd.com/v1、模型 DeepSeek-V4.1-Flash；帖称 DeepSeek V4.1 Flash、Qwen3.8-27B 等 10 个大模型免费调，邮箱注册、无实名无绑卡、速度实测 10–25 TPS。注意：①目标页为登录墙，模型清单、额度与免绑卡均未能在目标页独立验证，以帖子截图与说法为准；②别和 AMD 国区混淆：作者 11 月 1 日旧帖称国区 15 个模型免费（DeepSeek V4.1 Flash、GLM-5.3 Flash、Qwen3.8、MiMo 等、每天 0 点重置），国际版 10 个是另一套；③OpenAI 兼容接口，可直接调 API。",
+      "score": 70,
+      "title": "AMD TokenLab 国际版：DeepSeek V4.1 Flash 等 10 个模型免费调（邮箱注册）",
+      "url": "https://x.com/yedabinbinah/status/2121070041890181625",
+      "value": "AMD 官方平台免费调 10 个大模型：DeepSeek V4.1 Flash、Qwen3.8-27B 等，OpenAI 兼容接口"
+    },
+    {
+      "author": "Javary324",
+      "category": "金融卡券",
+      "expiry_date": "无固定截止日",
+      "id": 206,
+      "notes": "70分（来源20/可验证20/价值10/时效15/风险5）：多家评测（ucard.observer/cryptocardselect/cryptocardbasics 等，均引官方 FAQ/条款）交叉证实：Lava Card 是 Visa Infinite 担保卡（预存 USD 余额消费、非授信额度），免年费、0 外汇费与 0 跨境费；合作商户（Amazon/Apple/Netflix 等）最高 5% BTC 返现，美国用户其他消费 3%、非美用户 1%；支持稳定币充值；发卡方 Third National（Visa 授权）。注意：①非美用户日常消费多为 1%，5% 只是合作商户上限，别按 5% 算账；②返现以 BTC 发放、到账后须满 10 万聪才可提取；③Lava 不是银行，抵押品在“清算事件”（欠款超 1 天或抵押不足）时可被清算；④须完整 KYC，国际条款要求声明非美国公民。",
+      "score": 70,
+      "title": "Lava Card：Visa Infinite 担保卡，合作商户 5% BTC 返现、免年费（非美日常 1%）",
+      "url": "https://x.com/Javary324/status/2121039617877324175",
+      "value": "免年费 U 卡：合作商户 5% BTC 返现，非美用户其他消费 1%，稳定币充值"
+    },
+    {
+      "author": "yedabinbinah",
+      "category": "免费额度",
       "expiry_date": "2026-12-13（30天有效期，约12月13日，以账号内显示为准）",
       "id": 203,
       "notes": "70分（来源20/可验证20/价值12/时效13/风险5）：重置追踪站证实：北京时间 11 月 13 日 05:59，Codex 负责人 Tibo 发帖确认新一轮可储存重置（banked reset）已发放，分批到账；兑现了他前天“周四很适合发一次可储存重置”的预告。注意：①仅限付费套餐（Plus/Pro/Business），免费用户无份——原帖“免费用户也有”说法与追踪站口径不符，别按免费用户算；②可储存重置 30 天有效，过期作废，在 Codex 设置→用量→Limit resets 里查看；③11 月 1 日那批（28 天活动收官）约 11 月 30 日/12 月 1 日到期，别和这批混淆。",
@@ -2048,6 +2092,17 @@
       "value": "0.01元得百度AI Pro首月+25000积分（原价首月9.9元）"
     },
     {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": "无固定截止日（商家常规售价；年付 83 折，另有循环 9 折码 10%OFF）",
+      "id": 209,
+      "notes": "62分（来源20/可验证15/价值10/时效12/风险5）：VMISS 东京优化 IIJ 线路 Core 款：1 核/1GB/15GB SSD/500Mbps 端口/800GB 月流量、1 个 IPv4，月付 CAD 10、年付 CAD 100（立省 17%，折合每月约 CAD 8.3，约人民币 39 元/月），另有循环 9 折码 10%OFF 可叠加；同系列 Basic CAD 5/月起。注意：①价格以帖文与帖内商家截图为准，VMISS 官网页因 Cloudflare 人机验证未通过、未能直接核实，第三方文章（ivpsr/fwqgo）交叉证实 VMISS 的定价结构与年付 83 折；②为商家常规售价、非限时秒杀，库存有限；③价格为加元，约 4.7 人民币/加元；④三网回程走 IIJ 优化线路，适合日本/亚太方向建站与轻量应用。",
+      "score": 62,
+      "title": "VMISS 东京 IIJ 优化 VPS：1 核 1G 年付 CAD 100，折合每月约 8.3 加元",
+      "url": "https://x.com/fwqgo_com/status/2121083128941072860",
+      "value": "东京 IIJ 优化线路 VPS 年付 CAD 100（约人民币 39 元/月），另有循环 9 折码"
+    },
+    {
       "author": "KOF97AI",
       "category": "金融卡券",
       "expiry_date": "无固定截止日",
@@ -2205,5 +2260,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-13T11:46:05+08:00"
+  "updated_at": "2026-11-13T13:17:38+08:00"
 }
