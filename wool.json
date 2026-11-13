@@ -1,5 +1,5 @@
 {
-  "count": 219,
+  "count": 220,
   "items": [
     {
       "author": "yedabinbinah",
@@ -937,6 +937,17 @@
       "value": "每月免费 5 CPU 小时、最多 10 个并发 Box：2 vCPU/4GB/10GB，内置 Claude Code/Codex"
     },
     {
+      "author": "NodeSeek官方频道",
+      "category": "云服务器",
+      "expiry_date": "无固定截止日（促销价随时可能调整，以 LET 官方帖与官网为准）",
+      "id": 223,
+      "notes": "77分（来源20/可验证25/价值12/时效15/风险5；NodeSeek 转述 + DediRock 官方 LowEndTalk 商家帖直接核实：LET 官方帖 2026-11-13 发布，全新 High-RAM VPS 系列：Core 8GB 内存/1 核/20GB HDD/2TB 流量 $24.99/年，Plus 16GB $59.99/年、Power 32GB $89.99/年；同帖 Storage Wars Power 2TB 存储 $29.88/年、4K Write 256GB SSD $28.99/年、VPS Star 纽约 $10.88/年均逐项对上。注意：①$10.88 促销款在册已有 id87（纽约）与 id116（洛杉矶），本条立项的是今日新发的 High-RAM 大内存系列；②8GB 配 1 核 + 20GB HDD，官方明说只适合内存型应用与缓存、不适合重磁盘 IO 与持续高 CPU；③年付须绑卡付费；④商家为美国小商家（Atlas Cloud LLC），水牛城机房、线路非中国优化，国内访问别指望；⑤促销库存有限、价格随时可能调整，下单前以官网结算页为准；⑥买后可找商家翻倍带宽并免费加 IPv6）",
+      "score": 77,
+      "title": "DediRock 新出 High-RAM VPS：8GB 内存年付 $24.99（另有 2TB 存储 $29.88/年）",
+      "url": "https://t.me/nodeseekc/1006589",
+      "value": "8GB 内存年付 $24.99（约 $2/月），另有 16GB $59.99、32GB $89.99；2TB 存储款 $29.88/年、256GB SSD 款 $28.99/年"
+    },
+    {
       "author": "白嫖福利推送",
       "category": "订阅优惠",
       "expiry_date": null,
@@ -1265,17 +1276,6 @@
       "title": "腾讯 LightVela 新用户首月免费：4500 AI 积分",
       "url": "https://x.com/yedabinbinah/status/2119462302240121289",
       "value": "首月免费，约 10 美元；.env 外用法有风险"
-    },
-    {
-      "author": "NodeSeek官方频道",
-      "category": "云服务器",
-      "expiry_date": "无固定截止日（促销价随时可能调整，以 LET 官方帖与官网为准）",
-      "id": 223,
-      "notes": "77分（来源20/可验证25/价值12/时效15/风险5；NodeSeek 转述 + DediRock 官方 LowEndTalk 商家帖直接核实：LET 官方帖 2026-11-13 发布，全新 High-RAM VPS 系列：Core 8GB 内存/1 核/20GB HDD/2TB 流量 $24.99/年，Plus 16GB $59.99/年、Power 32GB $89.99/年；同帖 Storage Wars Power 2TB 存储 $29.88/年、4K Write 256GB SSD $28.99/年、VPS Star 纽约 $10.88/年均逐项对上。注意：①$10.88 促销款在册已有 id87（纽约）与 id116（洛杉矶），本条立项的是今日新发的 High-RAM 大内存系列；②8GB 配 1 核 + 20GB HDD，官方明说只适合内存型应用与缓存、不适合重磁盘 IO 与持续高 CPU；③年付须绑卡付费；④商家为美国小商家（Atlas Cloud LLC），水牛城机房、线路非中国优化，国内访问别指望；⑤促销库存有限、价格随时可能调整，下单前以官网结算页为准；⑥买后可找商家翻倍带宽并免费加 IPv6）",
-      "score": 77,
-      "title": "DediRock 新出 High-RAM VPS：8GB 内存年付 $24.99（另有 2TB 存储 $29.88/年）",
-      "url": "https://t.me/nodeseekc/1006589",
-      "value": "8GB 内存年付 $24.99（约 $2/月），另有 16GB $59.99、32GB $89.99；2TB 存储款 $29.88/年、256GB SSD 款 $28.99/年"
     },
     {
       "author": "lovethelife2333",
@@ -2059,6 +2059,17 @@
       "value": "48 小时内填邀请码，双方各得 10 亿 token"
     },
     {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": "常驻免费开源工具（无固定截止日）",
+      "id": 224,
+      "notes": "65分（来源20/可验证10/价值12/时效15/风险8；白嫖福利推送转述 LINUX DO 11月13日开源自荐帖：会译 HuiYi，完全免费的 Windows 本地会议助手，支持实时语音、字幕翻译和会议纪要，作者声明完整开源、无未开源部分。注意：①LINUX DO 原帖正文未读到（只返回站点反 AI 声明），GitHub 仓库链接未能独立核实，以转述为准；②Edge 商店里同名“会译”翻译插件是浏览器插件，与本帖的 Windows 会议助手不是同一产品形态，别混淆；③同类免费本地字幕工具有 Mimi、译声等，装前先看仓库 README 确认安装方式与模型下载量；④仅 Windows）",
+      "score": 65,
+      "title": "会译 HuiYi：完全免费的 Windows 本地会议助手（实时语音、字幕翻译、会议纪要）",
+      "url": "https://t.me/baipiaofl/64636",
+      "value": "完全免费的本地会议助手：实时语音识别、字幕翻译、会议纪要，可替代付费会议转写工具；开源、本地运行"
+    },
+    {
       "author": "Javary324",
       "category": "金融卡券",
       "expiry_date": "无固定截止日（返现规则随时可能调整，以 MEXC 官方 FAQ 为准）",
@@ -2414,5 +2425,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-13T18:58:55+08:00"
+  "updated_at": "2026-11-13T19:42:59+08:00"
 }
