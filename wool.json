@@ -1,5 +1,5 @@
 {
-  "count": 205,
+  "count": 207,
   "items": [
     {
       "author": "yedabinbinah",
@@ -858,6 +858,17 @@
       "title": "Kaggle免费GPU双T4跑30B编程大模型",
       "url": "https://x.com/Lovislexus/status/2119595831036960924",
       "value": "每周约30小时免费GPU，双T4合计32GB显存，不用绑卡；可跑Qwen3-Coder 30B量化版"
+    },
+    {
+      "author": "白嫖福利推送",
+      "category": "订阅优惠",
+      "expiry_date": null,
+      "id": 210,
+      "notes": "77分（来源25/可验证20/价值12/时效15/风险5；Cognition 11月12日升级 Devin Teams 计划公告：Desktop 与 CLI 中的免费 SWE-2 成为 Teams、Pro、Max 套餐永久权益，不再只到 11 月 30 日；Teams 每用户 2 个免费并发会话、免 Desktop 座位费；注意仅限付费套餐，免费套餐用户只能用 SWE-1.6，云端会话不适用；SWE-2 按量价 $3/$15 每百万 token）",
+      "score": 77,
+      "title": "Devin SWE-2 永久免费（Pro/Max/Teams 套餐）",
+      "url": "https://t.me/baipiaofl/64584",
+      "value": "Pro $20/月起用户永久免 SWE-2 按量费"
     },
     {
       "author": "Ylj158852",
@@ -1806,6 +1817,17 @@
       "value": "免开卡费/年费的 U 卡，Visa 返现 1%、卡内 USDT 5% 年化；大陆 +86 无法注册/KYC，仅限海外身份参考。"
     },
     {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 211,
+      "notes": "67分（来源20/可验证15/价值12/时效15/风险5；Hark Pro 免费版据报配置标签显示主助手为 Claude Opus 5.5，Opus 5.5 本身是真实模型、2026-09-22 发布、API 价 $4/$20 每百万 token；但 Hark 官方未公开确认实际回答的是哪个模型，标签不等于实测；Hark 2026-10-06 上线、全功能免费、付费档只加用量；需年满 18 岁、接邮箱与应用，数据经第三方）",
+      "score": 67,
+      "title": "Hark 免费体验 Opus 5.5（额度尚可）",
+      "url": "https://t.me/baipiaofl/64586",
+      "value": "免费体验 Opus 级别 AI 助手，相当于省 $20/月 Claude Pro"
+    },
+    {
       "author": "Lniosytest",
       "category": "其他",
       "expiry_date": "2028-10-31（产品有效期 24 个月）",
@@ -2260,5 +2282,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-13T13:17:38+08:00"
+  "updated_at": "2026-11-13T13:45:18+08:00"
 }
