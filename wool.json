@@ -1,5 +1,5 @@
 {
-  "count": 260,
+  "count": 263,
   "items": [
     {
       "author": "yedabinbinah",
@@ -407,6 +407,17 @@
       "title": "Pulsar Money 11月返现提到4%：Pro用户前$3000消费全按4%返积分（到11月30日）",
       "url": "https://x.com/SecJack96/status/2120889366524698761",
       "value": "11月内Pro用户前$3000消费返4%积分（最高约$120积分）"
+    },
+    {
+      "author": "lovethelife2333",
+      "category": "免费额度",
+      "expiry_date": "2026-11-28",
+      "id": 269,
+      "notes": "82分（来源20/可验证25/价值12/时效15/风险10）。原帖经 live 浏览器只读打开核实全文 + OpenRouter 官方模型页直接证实：recraft/recraft-v4.1-flash-v2:free，文生图 $0/张，2026-11-13 上线，2026-11-28 下线（官方页原文 Going away November 28, 2026）；中位延迟约 1.46 秒；支持 1:1、4:3、3:4、16:9、9:16 五种比例，单次最多 6 张。注意：①只支持纯文生图，不支持图生图、风格与风格参考；②免费端点有限速（20 RPM、每天 50 次，充 $10 一次提到 1000 次/天）；③别与付费版 V4.1 Flash（$0.007/张）搞混；④图内文字渲染加强为作者说法，未独立核实。",
+      "score": 82,
+      "title": "Recraft V4.1 Flash V2 免费生图：OpenRouter $0/张，11 月 28 日下线",
+      "url": "https://x.com/lovethelife2333/status/2121570442129399827",
+      "value": "免费文生图：$0/张，5 种比例、单次最多 6 张；11 月 28 日下线，仅文生图"
     },
     {
       "author": "白嫖福利推送",
@@ -990,6 +1001,17 @@
       "title": "Upstash Box 免费层：每月 5 小时 AI Agent 云端电脑，内置 Claude Code（免绑卡）",
       "url": "https://x.com/lovethelife2333/status/2121106000249827689",
       "value": "每月免费 5 CPU 小时、最多 10 个并发 Box：2 vCPU/4GB/10GB，内置 Claude Code/Codex"
+    },
+    {
+      "author": "BlockInsight214",
+      "category": "免费额度",
+      "expiry_date": "2026-11-19（作者判断；OpenRouter 免费页未标截止）",
+      "id": 267,
+      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）。OpenRouter 官方模型页直接证实：inclusionai/ling-3.2-flash:free，输入/输出均为 $0，1M 上下文，2026-11-13 上线，服务方 Ant Digital；免费档限流 20 RPM、每天 50 次，充 $10（一次）提到每天 1000 次。注意：①“免费到 11 月 19 日左右”是作者判断：Ant 官网定价页称 Ling 3.2 Flash 上线后前两周免费（11 月 5 日上线、约 11 月 19 日结束），但 OpenRouter :free 页未标截止，以 OpenRouter 为准；②560B MoE、25B 激活，支持文本+图片输入；③免费档 provider 饱和时会 429。",
+      "score": 77,
+      "title": "Ling 3.2 Flash 560B 免费上 OpenRouter：1M 上下文、$0 调用（免费到约 11 月 19 日）",
+      "url": "https://x.com/BlockInsight214/status/2121557213001269483",
+      "value": "560B 旗舰模型免费调用：1M 上下文、$0，OpenAI 兼容接口；每天 50 次免费（充 $10 一次提到 1000 次/天）"
     },
     {
       "author": "Lovislexus",
@@ -2268,6 +2290,17 @@
       "value": "免开卡费/年费的 U 卡，Visa 返现 1%、卡内 USDT 5% 年化；大陆 +86 无法注册/KYC，仅限海外身份参考。"
     },
     {
+      "author": "BlockInsight214",
+      "category": "免费额度",
+      "expiry_date": "长期免费（以官网为准）",
+      "id": 268,
+      "notes": "67分（来源20/可验证15/价值12/时效10/风险10）。作者自述截至 2026-10-22：免绑卡持续免费层 8 家——Google Gemini、Groq、OpenRouter、Mistral、Cloudflare Workers AI、NVIDIA、Cohere、SambaNova；另 6 家只有新手额度（未具名）。注意：①限流与是否 OpenAI 兼容作者自认“没公布/查不到”，未核实；②数据为 10 月 22 日快照，各家免费层以官网现行定价为准；③汇总帖、无单项新权益，作免绑卡选型参考。",
+      "score": 67,
+      "title": "免绑卡免费 API 清单：Gemini/Groq/OpenRouter 等 8 家持续免费层",
+      "url": "https://x.com/BlockInsight214/status/2121572351804424558",
+      "value": "8 家免绑卡持续免费 API 层汇总（Gemini/Groq/OpenRouter/Mistral/Cloudflare/NVIDIA/Cohere/SambaNova），作选型参考；限流与兼容性未核实"
+    },
+    {
       "author": "白嫖福利推送",
       "category": "云服务器",
       "expiry_date": "永久免费（以官网为准）",
@@ -2865,5 +2898,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-14T19:42:41+08:00"
+  "updated_at": "2026-11-14T20:45:19+08:00"
 }
