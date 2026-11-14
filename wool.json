@@ -1003,6 +1003,39 @@
       "notes": "78分（来源20/可验证25/价值8/时效15/风险10；Upstash 官网 upstash.com/box 与定价页直接核实：免费档每月 5 CPU 小时、最多 10 个并发 Box，每个 Box 2 vCPU/4GB 内存/10GB 存储，内置 Claude Code、Codex、OpenCode、Cursor，文件系统持久、支持 Git 与无头浏览器，闲置 1 小时自动暂停不计费；注册免绑卡。注意：①免费的是沙箱算力、不是模型额度，模型调用须自带 Provider Key（Anthropic/OpenAI/OpenRouter 等）；②5 小时/月只够轻量任务，按量价 $0.10/活跃 CPU 小时（Small），超额自费；③目前仅 AWS us-east-1 区域；④存储 $0.10/GB/月，含快照）"
     },
     {
+      "id": 273,
+      "title": "Google Flow 免费号每天 50 积分：够跑两条高精视频，不用充值",
+      "url": "https://x.com/KOF97AI/status/2121644967823323583",
+      "author": "KOF97AI",
+      "category": "免费额度",
+      "score": 77,
+      "expiry_date": "常驻免费（以 Google 官方为准）",
+      "value": "每天 50 免费积分：约 2 条 Veo 3.1 Fast 或 5 条 Lite 视频；不用充值",
+      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）。原帖经 live 浏览器只读打开核实全文 + 多家来源引述 Google Flow 官方 credits 帮助页原文证实：无订阅每天送 50 Flow 积分（With no subscription, you receive only 50 Google Flow credits per day），Veo 3.1 Fast 每条 20 积分、Lite 每条 10 积分，50 积分约够 2 条 Fast 或 5 条 Lite；完全不用充值。注意：①每日额度不结转，当天首次生成后开始刷新；②高峰时段（约 14:00–17:00 UTC）免费用户可能无法生成视频；③免费档无 1080p 放大，单条 Quality（100 积分）超出一日额度；④Flow 不在中国等地区提供，须 18 岁以上、所在地区在支持名单内；⑤Google 入门页与 credits 页对是否须订阅表述不一致，以 credits 页与实际账号内积分为准。原帖：x.com/KOF97AI/status/2121644967823323583"
+    },
+    {
+      "id": 272,
+      "title": "Zoom AI Launchpad：初创团队最高领 15 万美元 AI 额度（三档 5000/5万/15万）",
+      "url": "https://x.com/KOF97AI/status/2121600658621259855",
+      "author": "KOF97AI",
+      "category": "免费额度",
+      "score": 77,
+      "expiry_date": "名额有限（滚动审核；额度有效期12个月）",
+      "value": "最高 15 万美元 Zoom AI Services 额度（语音转文字/翻译/摘要/语音智能体），有效期 12 个月；仅限初创团队申请、名额有限",
+      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）。Zoom 官方页 zoom.ai/ai-launchpad 与 2026-11-10 GlobeNewswire 通稿直接证实：AI Launchpad 是面向 AI 初创团队的额度资助计划，最高 15 万美元 Zoom AI Services 额度，三档 Launch $5,000 / Scale $50,000 / Propel $150,000，无股权要求，申请已开放、滚动审核、名额有限，额度自发放起有效期 12 个月。用途：语音转文字、翻译、摘要、Decisions 决策、Voice Agent 语音智能体接口。注意：①仅限做 AI 语音/对话类产品的初创团队，普通个人用户不符合；②入围后约 20 分钟电话沟通；③全球可申请（受美国出口管制地区除外），已融资也不影响；④额度用完后超出部分按价付费，申请须绑定有效付款方式。原帖：x.com/KOF97AI/status/2121600658621259855；官方：zoom.ai/ai-launchpad"
+    },
+    {
+      "id": 271,
+      "title": "Google AI Ultra 每月 $40 Gemini API 额度：可领可累加（Ultra 5x；20x 为 $100）",
+      "url": "https://x.com/KOF97AI/status/2121630085979709914",
+      "author": "KOF97AI",
+      "category": "免费额度",
+      "score": 77,
+      "expiry_date": "长期（额度每月发放、有效期1年）",
+      "value": "Ultra 5x 每月 $40 云额度（20x 为 $100），可抵 Gemini API 调用，12 个月有效、可累加；须预付 $5 才能领取使用",
+      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）。多家来源与 Google Developer Program 计划表证实：Google AI Ultra 订阅附带每月 GenAI & Cloud 额度——Ultra 5x（20TB）每月 $40、Ultra 20x（30TB）每月 $100，Pro 每月 $10；额度可抵 Gemini API 调用（AI Studio / Vertex AI），每月发放、有效期 1 年、当月用不完自动累加。注意：①须是 Ultra 付费订阅用户（Ultra 5x 约 $99.99/月），不是免费领；②领取使用前须先预付 $5（预付金另计，额度优先抵扣）；③仅主订阅人可用，家庭成员不共享；④须在 Google Developer Program 里手动把额度关联到 Cloud 账单账户；⑤原帖“直接提取 API Key 接入 Cursor、Dify”指额度可抵 API 调用、再接第三方客户端，以官方账单文档为准。原帖：x.com/KOF97AI/status/2121630085979709914；在册 id221 为同款 Pro 每月 $10 额度（70 分）。"
+    },
+    {
       "id": 267,
       "title": "Ling 3.2 Flash 560B 免费上 OpenRouter：1M 上下文、$0 调用（免费到约 11 月 19 日）",
       "url": "https://x.com/BlockInsight214/status/2121557213001269483",
@@ -1432,39 +1465,6 @@
       "notes": "评分 77 分（来源25/可验证20/价值12/时效15/风险5）。原帖与多方来源均已核实：腾讯 LightVela（轻量云云端 Agent）新用户首单免费 1 个月启航 AI 套餐，每月含 4500 AI 积分，平时标价 10 美元/月；国内站需实名认证，国际站免 KYC。注意两点：①原帖“4500积分3个月”未证实，官方口径是首月免费、每月 4500 积分；②原帖教的“从云存储下载 .env 文件当 API key 外用”属非官方用法，有被封号风险，不建议照搬。"
     },
     {
-      "author": "KOF97AI",
-      "category": "免费额度",
-      "expiry_date": "名额有限（滚动审核；额度有效期12个月）",
-      "id": 272,
-      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）。Zoom 官方页 zoom.ai/ai-launchpad 与 2026-11-10 GlobeNewswire 通稿直接证实：AI Launchpad 是面向 AI 初创团队的额度资助计划，最高 15 万美元 Zoom AI Services 额度，三档 Launch $5,000 / Scale $50,000 / Propel $150,000，无股权要求，申请已开放、滚动审核、名额有限，额度自发放起有效期 12 个月。用途：语音转文字、翻译、摘要、Decisions 决策、Voice Agent 语音智能体接口。注意：①仅限做 AI 语音/对话类产品的初创团队，普通个人用户不符合；②入围后约 20 分钟电话沟通；③全球可申请（受美国出口管制地区除外），已融资也不影响；④额度用完后超出部分按价付费，申请须绑定有效付款方式。原帖：x.com/KOF97AI/status/2121600658621259855；官方：zoom.ai/ai-launchpad",
-      "score": 77,
-      "title": "Zoom AI Launchpad：初创团队最高领 15 万美元 AI 额度（三档 5000/5万/15万）",
-      "url": "https://x.com/KOF97AI/status/2121600658621259855",
-      "value": "最高 15 万美元 Zoom AI Services 额度（语音转文字/翻译/摘要/语音智能体），有效期 12 个月；仅限初创团队申请、名额有限"
-    },
-    {
-      "author": "KOF97AI",
-      "category": "免费额度",
-      "expiry_date": "长期（额度每月发放、有效期1年）",
-      "id": 271,
-      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）。多家来源与 Google Developer Program 计划表证实：Google AI Ultra 订阅附带每月 GenAI & Cloud 额度——Ultra 5x（20TB）每月 $40、Ultra 20x（30TB）每月 $100，Pro 每月 $10；额度可抵 Gemini API 调用（AI Studio / Vertex AI），每月发放、有效期 1 年、当月用不完自动累加。注意：①须是 Ultra 付费订阅用户（Ultra 5x 约 $99.99/月），不是免费领；②领取使用前须先预付 $5（预付金另计，额度优先抵扣）；③仅主订阅人可用，家庭成员不共享；④须在 Google Developer Program 里手动把额度关联到 Cloud 账单账户；⑤原帖“直接提取 API Key 接入 Cursor、Dify”指额度可抵 API 调用、再接第三方客户端，以官方账单文档为准。原帖：x.com/KOF97AI/status/2121630085979709914；在册 id221 为同款 Pro 每月 $10 额度（70 分）。",
-      "score": 77,
-      "title": "Google AI Ultra 每月 $40 Gemini API 额度：可领可累加（Ultra 5x；20x 为 $100）",
-      "url": "https://x.com/KOF97AI/status/2121630085979709914",
-      "value": "Ultra 5x 每月 $40 云额度（20x 为 $100），可抵 Gemini API 调用，12 个月有效、可累加；须预付 $5 才能领取使用"
-    },
-    {
-      "author": "KOF97AI",
-      "category": "免费额度",
-      "expiry_date": "常驻免费（以 Google 官方为准）",
-      "id": 273,
-      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）。原帖经 live 浏览器只读打开核实全文 + 多家来源引述 Google Flow 官方 credits 帮助页原文证实：无订阅每天送 50 Flow 积分（With no subscription, you receive only 50 Google Flow credits per day），Veo 3.1 Fast 每条 20 积分、Lite 每条 10 积分，50 积分约够 2 条 Fast 或 5 条 Lite；完全不用充值。注意：①每日额度不结转，当天首次生成后开始刷新；②高峰时段（约 14:00–17:00 UTC）免费用户可能无法生成视频；③免费档无 1080p 放大，单条 Quality（100 积分）超出一日额度；④Flow 不在中国等地区提供，须 18 岁以上、所在地区在支持名单内；⑤Google 入门页与 credits 页对是否须订阅表述不一致，以 credits 页与实际账号内积分为准。原帖：x.com/KOF97AI/status/2121644967823323583",
-      "score": 77,
-      "title": "Google Flow 免费号每天 50 积分：够跑两条高精视频，不用充值",
-      "url": "https://x.com/KOF97AI/status/2121644967823323583",
-      "value": "每天 50 免费积分：约 2 条 Veo 3.1 Fast 或 5 条 Lite 视频；不用充值"
-    },
-    {
       "id": 252,
       "title": "阿里云 99计划 ECS 变配 CDT：99元/年实付不足50元，带宽 3M 升 100M 峰值（续费锁至2029年）",
       "url": "https://x.com/KOF97AI/status/2121389366396514452",
@@ -1650,6 +1650,17 @@
       "expiry_date": "2026-11-30",
       "value": "入选 Duet 预览得一次完整额度重置（5小时+周额度全满），11月30日前可用；研究预览期不额外收费",
       "notes": "73分（来源20/可验证20/价值15/时效13/风险5）：Anthropic 帮助中心《Get started with Claude Duet》原文证实：入选 Duet 研究预览的账号得一次完整额度重置（Full reset），5小时额度与周额度同时回满，在设置→用量→Limit resets 里点 Reset for free；卡面写明 11月30日到期（美东 11月30日 23:59，北京时间 12月1日 12:59）。Duet 10月21日宣布，属主动型助手 App（每天发简报、后台自己干活），研究预览期包含在 Pro/Max 订阅内、不额外收费。注意：①帖称“送了四个重置”未证实，官方口径是入选得一张完整重置卡，帖主账上多出的卡可能来自其他活动（11月11日全员完整重置 id115、Fable 重置 id114 是另外两张卡），别按四张算；②仅限美国 Pro/Max 用户，候补名单分批放行，排队不保证入选、入选时间不定，免费版/Team/Enterprise 无份；③Duet 的后台任务（早报、定时检查）与 Claude 共用同一额度池，会更快触顶；④与 11月11日全员重置（12月10日前可用，id115）是两回事，两张卡各有各的截止日，别混淆；⑤NodeSeek 原帖 post-1050277-1 因本站 IP 被封禁未读到，以 TG 转发全文 + 官方帮助中心 + 重置追踪站交叉证实。"
+    },
+    {
+      "id": 270,
+      "title": "GCP $300 赠金 11 月 16 日起不再抵扣 Vertex AI：须在截止前注册并升级付费",
+      "url": "https://x.com/KOF97AI/status/2121627082858106965",
+      "author": "KOF97AI",
+      "category": "免费额度",
+      "score": 72,
+      "expiry_date": "2026-11-16",
+      "value": "保住 $300 赠金抵扣 Vertex AI/Gemini 的最后窗口：11 月 16 日前注册并升级付费，额度 90 天有效",
+      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）。多家来源（dev.to、agentstacklist、hashnode、medium）引述 Google Cloud 官方文档原文证实：自 2026 年 11 月 16 日起，新注册免费试用或升级为付费账号的 $300 迎新赠金将不再抵扣 Gemini platform（Vertex AI）服务；关键在“注册+升级”都要在 11 月 16 日前完成——11 月 16 日前注册、但之后才点升级付费的，同样失去抵扣资格；升级不扣掉赠金，$300 仍保留 90 天有效期、优先抵扣。注意：①AI Studio 里的 Gemini API 本来就不在 $300 覆盖内（2026 年 3 月起排除），只走 Vertex AI 这条路；②仅限从未付费的新用户；③试用期不能加 GPU、用 Marketplace、提配额；④本轮未直接打开 Google Cloud 官方免费条款页原文，以上引述以官方页为准。原帖：x.com/KOF97AI/status/2121627082858106965"
     },
     {
       "id": 265,
@@ -2013,17 +2024,6 @@
       "expiry_date": null,
       "value": "6 项免费资源一次收齐，Kaggle GPU 与 Codespaces 最实在。",
       "notes": "72分（来源20/可验证20/价值12/时效15/风险5）。原帖已核实；Simular Box 免费档、Kaggle 每周约 30 小时 GPU、Codespaces 每月 120 核小时、Cloudflare Workers 每天 10 万次请求均已证实；Pxxl 台湾免费节点、Cloady 西雅图免费节点未核实，免费节点安全性不明，谨慎使用。"
-    },
-    {
-      "author": "KOF97AI",
-      "category": "免费额度",
-      "expiry_date": "2026-11-16",
-      "id": 270,
-      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）。多家来源（dev.to、agentstacklist、hashnode、medium）引述 Google Cloud 官方文档原文证实：自 2026 年 11 月 16 日起，新注册免费试用或升级为付费账号的 $300 迎新赠金将不再抵扣 Gemini platform（Vertex AI）服务；关键在“注册+升级”都要在 11 月 16 日前完成——11 月 16 日前注册、但之后才点升级付费的，同样失去抵扣资格；升级不扣掉赠金，$300 仍保留 90 天有效期、优先抵扣。注意：①AI Studio 里的 Gemini API 本来就不在 $300 覆盖内（2026 年 3 月起排除），只走 Vertex AI 这条路；②仅限从未付费的新用户；③试用期不能加 GPU、用 Marketplace、提配额；④本轮未直接打开 Google Cloud 官方免费条款页原文，以上引述以官方页为准。原帖：x.com/KOF97AI/status/2121627082858106965",
-      "score": 72,
-      "title": "GCP $300 赠金 11 月 16 日起不再抵扣 Vertex AI：须在截止前注册并升级付费",
-      "url": "https://x.com/KOF97AI/status/2121627082858106965",
-      "value": "保住 $300 赠金抵扣 Vertex AI/Gemini 的最后窗口：11 月 16 日前注册并升级付费，额度 90 天有效"
     },
     {
       "id": 221,
@@ -2942,5 +2942,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-15T04:44:54+08:00"
+  "updated_at": "2026-11-15T06:44:45+08:00"
 }
