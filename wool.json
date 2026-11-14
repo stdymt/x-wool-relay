@@ -1,5 +1,5 @@
 {
-  "count": 258,
+  "count": 259,
   "items": [
     {
       "author": "yedabinbinah",
@@ -1597,6 +1597,17 @@
       "value": "入选 Duet 预览得一次完整额度重置（5小时+周额度全满），11月30日前可用；研究预览期不额外收费"
     },
     {
+      "author": "Lovislexus",
+      "category": "云服务器",
+      "expiry_date": "长期免费（以官网为准）",
+      "id": 265,
+      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）。Lovislexus 原帖经 live 浏览器只读打开核实全文 + FreeHosting 官网免费页 freehosting.com/free-hosting.html 直接证实：$0/月、10GB 磁盘、免绑卡（No credit card）、无试用期、流量不限（Unmetered，须守 Fair Use）、1 个 MySQL 数据库（含 phpMyAdmin）。注意：①帖子称“每台 5GB”与官网 10GB 不符（实际更大）；②“一账号开 3 台”官网未证实、页面写限 1 个网站；③SSL 不免费、$29.95 一次性；④免费二级域名不含，须自备注册域名（.TK/.ML/.GA 等免费域名不接受）；⑤WordPress、Cloudflare CDN 在免费页未明确出现，官网只写 Apache+PHP、400+ 应用安装器；⑥脚本发邮件默认禁用；⑦不向巴西、古巴、伊朗、苏丹、叙利亚、越南用户提供服务。",
+      "score": 72,
+      "title": "FreeHosting 免费虚拟主机：$0/月、10GB、免绑卡（须自备域名）",
+      "url": "https://x.com/Lovislexus/status/2121451447145656641",
+      "value": "免费虚拟主机：10GB 空间、流量不限、1 个 MySQL 库、免绑卡；须自备域名，SSL $29.95 一次性"
+    },
+    {
       "author": "白嫖福利推送",
       "category": "金融卡券",
       "expiry_date": "2026-11-30（£10 注册奖励 11 月 30 日截止，平时 £5）",
@@ -2843,5 +2854,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-14T16:48:39+08:00"
+  "updated_at": "2026-11-14T17:46:26+08:00"
 }
