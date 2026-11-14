@@ -1,5 +1,5 @@
 {
-  "count": 266,
+  "count": 267,
   "items": [
     {
       "id": 6,
@@ -1452,6 +1452,17 @@
       "title": "Google AI Ultra 每月 $40 Gemini API 额度：可领可累加（Ultra 5x；20x 为 $100）",
       "url": "https://x.com/KOF97AI/status/2121630085979709914",
       "value": "Ultra 5x 每月 $40 云额度（20x 为 $100），可抵 Gemini API 调用，12 个月有效、可累加；须预付 $5 才能领取使用"
+    },
+    {
+      "author": "KOF97AI",
+      "category": "免费额度",
+      "expiry_date": "常驻免费（以 Google 官方为准）",
+      "id": 273,
+      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）。原帖经 live 浏览器只读打开核实全文 + 多家来源引述 Google Flow 官方 credits 帮助页原文证实：无订阅每天送 50 Flow 积分（With no subscription, you receive only 50 Google Flow credits per day），Veo 3.1 Fast 每条 20 积分、Lite 每条 10 积分，50 积分约够 2 条 Fast 或 5 条 Lite；完全不用充值。注意：①每日额度不结转，当天首次生成后开始刷新；②高峰时段（约 14:00–17:00 UTC）免费用户可能无法生成视频；③免费档无 1080p 放大，单条 Quality（100 积分）超出一日额度；④Flow 不在中国等地区提供，须 18 岁以上、所在地区在支持名单内；⑤Google 入门页与 credits 页对是否须订阅表述不一致，以 credits 页与实际账号内积分为准。原帖：x.com/KOF97AI/status/2121644967823323583",
+      "score": 77,
+      "title": "Google Flow 免费号每天 50 积分：够跑两条高精视频，不用充值",
+      "url": "https://x.com/KOF97AI/status/2121644967823323583",
+      "value": "每天 50 免费积分：约 2 条 Veo 3.1 Fast 或 5 条 Lite 视频；不用充值"
     },
     {
       "id": 252,
@@ -2931,5 +2942,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-15T00:52:41+08:00"
+  "updated_at": "2026-11-15T02:55:05+08:00"
 }
