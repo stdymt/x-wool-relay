@@ -1,5 +1,5 @@
 {
-  "count": 252,
+  "count": 253,
   "items": [
     {
       "author": "yedabinbinah",
@@ -979,6 +979,17 @@
       "title": "Upstash Box 免费层：每月 5 小时 AI Agent 云端电脑，内置 Claude Code（免绑卡）",
       "url": "https://x.com/lovethelife2333/status/2121106000249827689",
       "value": "每月免费 5 CPU 小时、最多 10 个并发 Box：2 vCPU/4GB/10GB，内置 Claude Code/Codex"
+    },
+    {
+      "author": "NodeSeek官方频道",
+      "category": "云服务器",
+      "expiry_date": "2027-01-01（VPS 每天补货 1 台至该日；独服限量 20 台）",
+      "id": 259,
+      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）。NodeSeek 原帖 post-1053220-1 未读到正文：Cloudflare Turnstile 验证两浏览器环境共 7 次均未通过（IP 屏蔽持续），帖子标题与细节未在原帖当面核对；底层活动已独立核实：nuyek.com 官方条款页写明黑五 2026年11月14日 12:30 CST 开始，VPS 1核/2GB DDR4/25GB NVMe/100Mbps 端口/8TB 流量 $11/年（首批 15 台，之后每天补 1 台至 2027年1月1日），独服 i5-10500/16GB DDR4/2×256GB NVMe/100Mbps 端口/33TB 流量 $15/月（限量 20 台、仅月付）。注意：①机房位置、订购链接、优惠码未在官方快照中核实，以官网为准；②小商家、限量抢购，续费价未公布；③超量计费与退款政策未核实。",
+      "score": 77,
+      "title": "Nuyek 黑五：VPS $11/年（1核2G/25G NVMe/8TB，限量），独服 $15/月",
+      "url": "https://t.me/nodeseekc/1007949",
+      "value": "黑五 VPS $11/年：1核2G/25G NVMe/8TB 流量；独服 i5-10500/16G/2×256G NVMe $15/月；限量抢购"
     },
     {
       "author": "Ciciyingying",
@@ -2777,5 +2788,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-14T13:46:07+08:00"
+  "updated_at": "2026-11-14T14:52:23+08:00"
 }
