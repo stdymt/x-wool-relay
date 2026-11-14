@@ -1,5 +1,5 @@
 {
-  "count": 256,
+  "count": 258,
   "items": [
     {
       "author": "yedabinbinah",
@@ -407,6 +407,17 @@
       "title": "Pulsar Money 11月返现提到4%：Pro用户前$3000消费全按4%返积分（到11月30日）",
       "url": "https://x.com/SecJack96/status/2120889366524698761",
       "value": "11月内Pro用户前$3000消费返4%积分（最高约$120积分）"
+    },
+    {
+      "author": "白嫖福利推送",
+      "category": "云服务器",
+      "expiry_date": "长期免费（以官网为准）",
+      "id": 263,
+      "notes": "82分（来源20/可验证25/价值12/时效15/风险10）。白嫖福利推送转述 NodeSeek 帖 post-1053452-1《长期免费BaaS 留档》；PingCAP 官方文档直接证实：TiDB Cloud Starter 每组织前 5 个实例免费，各 5GiB 行存 + 5GiB 列存 + 5000 万 RU/月，无需绑卡，超额只拒新连接、不扣费（未设 spending limit 时）；空闲缩零、次月重置。注意：①原帖另列 MariaDB Cloud（原 SkySQL）部分在 TG 转述中被截断，未核实，只按 TiDB 部分计分；②免费实例单查询内存限 256MiB、RU 有节流；③帖子称 ≤400 并发连接、公网端点空闲 340 秒断开，见官方限制文档，以官网为准。原帖：nodeseek.com/post-1053452-1；官方：docs.pingcap.com/tidbcloud/serverless-faqs/",
+      "score": 82,
+      "title": "长期免费BaaS：TiDB Cloud Starter 每组织5个实例免费（5GiB行存+5GiB列存+5000万RU/月）",
+      "url": "https://t.me/baipiaofl/64714",
+      "value": "MySQL 兼容托管库：每组织每月免费 25GiB行存+25GiB列存+2.5亿RU，免绑卡；超额不扣费只限流"
     },
     {
       "author": "KOF97AI",
@@ -2632,6 +2643,17 @@
     },
     {
       "author": "白嫖福利推送",
+      "category": "云服务器",
+      "expiry_date": "免费体验30天（以官网为准）",
+      "id": 264,
+      "notes": "62分（来源15/可验证20/价值12/时效10/风险5）。白嫖福利推送转述大佬论坛商家帖 thread-66097；大佬论坛双十一汇总与 cnblogs 公益云文章交叉证实：慈云数据公益云亚太基础版 CDN 首次体验 30 天，支持 10 个加速站点。注意：①“每天开放 100 个名额、凌晨 0 点重置”仅见商家帖，未独立核实；②11.11 专题活动已于 11 月 12 日结束，公益云是否延续以官网 free_cloud 页为准；③CDN 域名需 ICP 备案；④小商家，30 天后回收，可做任务续期；⑤基础版标价 ¥49.5/月（10Mbps/500GB）。原帖：dalao.net/thread-66097.htm；公益云入口：ciyundata.com/plugin/189/free_cloud.htm",
+      "score": 62,
+      "title": "慈云数据公益云：亚太基础版 CDN 免费体验30天（10个站点，每天100名额）",
+      "url": "https://t.me/baipiaofl/64718",
+      "value": "基础版 CDN（10Mbps/500GB，标价¥49.5/月）免费体验30天，支持10个站点"
+    },
+    {
+      "author": "白嫖福利推送",
       "category": "其他",
       "expiry_date": null,
       "id": 257,
@@ -2821,5 +2843,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-14T16:10:13+08:00"
+  "updated_at": "2026-11-14T16:48:39+08:00"
 }
