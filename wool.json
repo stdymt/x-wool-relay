@@ -1,5 +1,5 @@
 {
-  "count": 298,
+  "count": 299,
   "items": [
     {
       "id": 6,
@@ -1817,6 +1817,17 @@
       "notes": "73分（来源20/可验证20/价值15/时效13/风险5）：Anthropic 帮助中心《Get started with Claude Duet》原文证实：入选 Duet 研究预览的账号得一次完整额度重置（Full reset），5小时额度与周额度同时回满，在设置→用量→Limit resets 里点 Reset for free；卡面写明 11月30日到期（美东 11月30日 23:59，北京时间 12月1日 12:59）。Duet 10月21日宣布，属主动型助手 App（每天发简报、后台自己干活），研究预览期包含在 Pro/Max 订阅内、不额外收费。注意：①帖称“送了四个重置”未证实，官方口径是入选得一张完整重置卡，帖主账上多出的卡可能来自其他活动（11月11日全员完整重置 id115、Fable 重置 id114 是另外两张卡），别按四张算；②仅限美国 Pro/Max 用户，候补名单分批放行，排队不保证入选、入选时间不定，免费版/Team/Enterprise 无份；③Duet 的后台任务（早报、定时检查）与 Claude 共用同一额度池，会更快触顶；④与 11月11日全员重置（12月10日前可用，id115）是两回事，两张卡各有各的截止日，别混淆；⑤NodeSeek 原帖 post-1050277-1 因本站 IP 被封禁未读到，以 TG 转发全文 + 官方帮助中心 + 重置追踪站交叉证实。"
     },
     {
+      "id": 305,
+      "title": "vPhone Workstation：Mac 上免费跑虚拟 iPhone（开源）",
+      "url": "https://x.com/tantanyuli/status/2122070383428059313",
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "score": 72,
+      "expiry_date": null,
+      "value": "免费开源工具；需 Apple Silicon Mac + macOS 15+，另需研究虚拟机许可（csrutil allow-research-guests）与绕过 AMFI，门槛较高",
+      "notes": "评分 72 分（来源22/可验证25/价值10/时效10/风险5）。独立浏览器核实原帖全文完整：GitHub zqxwce/vphone-ws 公开仓库，MIT 开源，1.2k stars，brew install zqxwce/tap/vphone-ws 安装；最新版 v0.0.3（2026-08-13），约 3 个月未更新，无下架迹象；未在 Mac 上实测安装运行。帖子只列普通/开发者/越狱 3 种模式，README 实际 5 种（另有 Less、Experimental）。"
+    },
+    {
       "id": 297,
       "title": "MiniMax 开源 H3-Image：原生 4K 文生图+多图编辑合一模型（HF 权重免费下载）",
       "url": "https://x.com/KOF97AI/status/2121957860045377605",
@@ -3283,5 +3294,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-16T04:45:01+08:00"
+  "updated_at": "2026-11-16T06:49:10+08:00"
 }
