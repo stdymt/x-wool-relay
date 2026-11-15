@@ -1,5 +1,5 @@
 {
-  "count": 293,
+  "count": 298,
   "items": [
     {
       "id": 6,
@@ -1047,6 +1047,17 @@
       "notes": "78分（来源20/可验证25/价值8/时效15/风险10；Upstash 官网 upstash.com/box 与定价页直接核实：免费档每月 5 CPU 小时、最多 10 个并发 Box，每个 Box 2 vCPU/4GB 内存/10GB 存储，内置 Claude Code、Codex、OpenCode、Cursor，文件系统持久、支持 Git 与无头浏览器，闲置 1 小时自动暂停不计费；注册免绑卡。注意：①免费的是沙箱算力、不是模型额度，模型调用须自带 Provider Key（Anthropic/OpenAI/OpenRouter 等）；②5 小时/月只够轻量任务，按量价 $0.10/活跃 CPU 小时（Small），超额自费；③目前仅 AWS us-east-1 区域；④存储 $0.10/GB/月，含快照）"
     },
     {
+      "id": 303,
+      "title": "Ydisks 闲鱼助手开源：自动发货/AI回复/多账号管理",
+      "url": "https://x.com/tantanyuli/status/2121995893159117086",
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "score": 77,
+      "expiry_date": null,
+      "value": "免费开源闲鱼卖家自动化工具；AI 回复需自带 API Key",
+      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）。GitHub 仓库 Christ9038/Ydisks-Xianyu-Helper 核实：Apache-2.0 开源，约 2.4k stars，最新提交 2026-11-15，发布 1.0.15；功能多账号管理、自动发货、消息/AI 回复、议价、自动评价等。注意：AI 回复须自带 API Key；闲鱼账号风控与实际部署效果未核实，自动认证处理机制有封号风险。"
+    },
+    {
       "id": 299,
       "title": "NoSLA 德国法兰克福黑五 VPS：2核3G/60G NVMe/1Gbps 年付 ¥1,169",
       "url": "https://x.com/fwqgo_com/status/2121975967132655883",
@@ -1595,6 +1606,17 @@
       "expiry_date": null,
       "value": "首月免费，约 10 美元；.env 外用法有风险",
       "notes": "评分 77 分（来源25/可验证20/价值12/时效15/风险5）。原帖与多方来源均已核实：腾讯 LightVela（轻量云云端 Agent）新用户首单免费 1 个月启航 AI 套餐，每月含 4500 AI 积分，平时标价 10 美元/月；国内站需实名认证，国际站免 KYC。注意两点：①原帖“4500积分3个月”未证实，官方口径是首月免费、每月 4500 积分；②原帖教的“从云存储下载 .env 文件当 API key 外用”属非官方用法，有被封号风险，不建议照搬。"
+    },
+    {
+      "id": 301,
+      "title": "LibreChat 开源自托管聊天界面：接多家模型，需自带 API Key",
+      "url": "https://x.com/Aisiverto/status/2122000962051342540",
+      "author": "Aisiverto",
+      "category": "软件工具",
+      "score": 75,
+      "expiry_date": null,
+      "value": "免费开源聊天界面；模型须自带 API Key，另需服务器部署",
+      "notes": "75分（来源20/可验证25/价值5/时效15/风险10）。GitHub 仓库已迁移至 LibreChat-AI/LibreChat，47.2k stars，MIT 开源自托管聊天界面，支持 OpenAI/Anthropic/Google/Azure/Bedrock/Vertex 及任意 OpenAI 兼容端点。注意：只提供界面、不提供免费模型额度，模型须自带 API Key，另需自备服务器与 MongoDB 部署。"
     },
     {
       "id": 281,
@@ -2213,6 +2235,28 @@
       "notes": "72分（来源20/可验证20/价值12/时效15/风险5）。原帖已核实；Simular Box 免费档、Kaggle 每周约 30 小时 GPU、Codespaces 每月 120 核小时、Cloudflare Workers 每天 10 万次请求均已证实；Pxxl 台湾免费节点、Cloady 西雅图免费节点未核实，免费节点安全性不明，谨慎使用。"
     },
     {
+      "id": 304,
+      "title": "Engoo 免费学英语：15000+ 免费教材，1对1真人课另收费",
+      "url": "https://x.com/tantanyuli/status/2122000171286351909",
+      "author": "tantanyuli",
+      "category": "免费额度",
+      "score": 70,
+      "expiry_date": null,
+      "value": "免费教材自学（15000+ 篇）；1对1真人课付费 $33.50/月起",
+      "notes": "70分（来源20/可验证20/价值5/时效15/风险10）。官网 engoo.com 核实：15000+ 免费教材（Free Materials），分类覆盖日常对话、商务、旅行、语法、发音、少儿等，教材页明写 free to use。注意：免费的是教材自学部分，1对1真人 25 分钟课付费、起价 $33.50/月；单篇教材是否需注册、EngooAI 免费额度未核实。"
+    },
+    {
+      "id": 302,
+      "title": "Muse 做动画视频的 18 个开源库：Remotion Skills 等全流程工具",
+      "url": "https://x.com/0xjackkk/status/2122011259780681905",
+      "author": "0xjackkk",
+      "category": "软件工具",
+      "score": 70,
+      "expiry_date": null,
+      "value": "18 个免费开源动画库（Remotion Skills 等）；无直接省钱、无付费",
+      "notes": "70分（来源20/可验证20/价值5/时效15/风险10）。原帖经独立浏览器只读核实全文：18 个 GitHub 开源库全列（Remotion Skills、Motion Canvas、Motion、Ola、Anime.js、Manim、Shifty、Two.js、Lottie Web、TweenJS、LUME、gifenc、Konva、Blender、Three.js、Godot、Babylon.js、Proton），均为知名开源项目。注意：只是工具清单、无直接免费权益，价值有限；帖子配图内容未计入。"
+    },
+    {
       "id": 290,
       "title": "Freebie Radar 开源羊毛雷达：聚合 63 个福利源，AI 过滤后推送通知",
       "url": "https://x.com/KOF97AI/status/2121900961258144049",
@@ -2763,6 +2807,17 @@
       "notes": "评分 67 分（来源20/可验证15/价值12/时效15/风险5）。原帖已核实存在且内容相符，但说法需打折：多方 10 月实测证实邮箱注册是主流程、部分用户确实免手机号免绑卡通过，但年龄验证（绑卡 1 美元预授权或关联 IG/FB）与美国 IP 地区风控仍在，“门槛消失”只对部分用户成立，且原帖作者自己也用“好像”表述。另：注册后 48 小时内兑换邀请码双方各得 10 亿 token；同号另一条帖子的邀请码 YXEARY（先到先得，名额无法核实）。"
     },
     {
+      "id": 300,
+      "title": "B站免费领 7 天大会员：登录即领，11-16 12:00 截止",
+      "url": "https://t.me/baipiaofl/64889",
+      "author": "白嫖福利推送",
+      "category": "订阅优惠",
+      "score": 65,
+      "expiry_date": "2026-11-16",
+      "value": "7 天 B站大会员（约 ¥6）；登录即领，每人一次",
+      "notes": "65分（来源15/可验证25/价值5/时效10/风险10）。linux.do 原帖 + B站官方活动页核实：BLG 夺冠时刻赠送大会员，领取时间 11-15 12:00 至 11-16 12:00，登录 B站账号即可领 7 天大会员，每人限领一次；回帖多人称已领到。注意：距核实约 9 小时截止；是否仅限非大会员等细则未核实。"
+    },
+    {
       "id": 295,
       "title": "World Labs Atlas 向公众开放注册：照片生成 3D 世界（正式使用按积分收费，另有免费演示）",
       "url": "https://x.com/KOF97AI/status/2121951051750482372",
@@ -3228,5 +3283,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-16T01:05:28+08:00"
+  "updated_at": "2026-11-16T02:59:11+08:00"
 }
