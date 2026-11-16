@@ -1,5 +1,5 @@
 {
-  "count": 351,
+  "count": 342,
   "items": [
     {
       "author": "yedabinbinah",
@@ -132,17 +132,6 @@
       "title": "Kiroween 黑客松：申请领 4000 个 Kiro credits（约 160 美元）",
       "url": "https://x.com/Aisiverto/status/2119322778641834402",
       "value": "4000 credits，约 160 美元，需参赛"
-    },
-    {
-      "author": "leeking420",
-      "category": "免费额度",
-      "expiry_date": "2026-11-09 09:00",
-      "id": 4,
-      "notes": "评分 90 分（来源25/可验证25/价值20/时效10/风险10）。原帖与多方来源均已核实：ZCode 周末包第八轮，每账号领 5 亿 GLM-5.3-Flash Tokens，免费账号可领、免绑卡，11 月 6 日 23:00 生效、11 月 9 日 09:00 到期未用完作废。注意：只剩约 2 小时窗口，且用户 10 月 25 日曾说 ZCode 领取先不弄——本条仅记入收集册备查，未代领。",
-      "score": 90,
-      "title": "ZCode 周末又送 5 亿 token（11 月 9 日 09:00 到期）",
-      "url": "https://x.com/leeking420/status/2118974450972651918",
-      "value": "5 亿 GLM-5.3-Flash Tokens，仅限客户端内使用"
     },
     {
       "author": "Lovislexus",
@@ -1069,17 +1058,6 @@
       "value": "两周免费调用 560B 多模态大模型 API（输入输出均 ¥0），OpenAI/Anthropic 双协议"
     },
     {
-      "author": "NodeSeek官方频道",
-      "category": "免费额度",
-      "expiry_date": "2026-11-15（11月16日起新注册/新升级的赠金不再抵 Gemini 平台费用；$300 额度本身 90 天有效）",
-      "id": 171,
-      "notes": "80分（来源20/可验证20/价值20/时效15/风险5）：NodeSeek 原帖正文两通道均被 IP 屏蔽未读到（browser.open 403、live 浏览器“You are blocked”），指南具体配置步骤未逐项核实；底层权益已在官方/多方来源核实：Google Cloud 官方免费试用新用户送 $300 额度、90 天有效；gemini-4-argon（2026-10-13 GA）、gemini-3.8-flash（2026-09-02 GA）均为 Vertex AI 真实模型 ID，多方来源交叉证实。注意：①Argon 不在 Gemini API 免费档，须付费密钥/计费账户，用 $300 额度抵扣；②GCP 试用须绑卡验证（试用期内不扣费）；③Argon 优惠价 $2/$10 每百万 token 只到 11 月 30 日，12 月 1 日起涨至 $4/$20；④额度 90 天过期、用完即止，须从未注册过免费试用。\n【2026-11-14 02:40轮补充】Google Cloud 官方免费试用页 11 月 10 日更新：2026 年 11 月 16 日当天及之后注册免费试用、或当天及之后升级为付费账号的，$300 赠金不能再抵 Gemini 平台（原 Vertex AI）服务费；想继续用赠金调 Gemini，须在 11 月 16 日前完成注册并升级付费账号（已领赠金未升级的老账号也一样，升级后余额保留、90 天有效期从注册日起算）。AI Studio 里的 Gemini API 费用与第三方合作模型（MaaS）本来就不在赠金覆盖范围内。",
-      "score": 80,
-      "title": "GCP $300 免费额度玩 Gemini 4 Argon / 3.8 Flash：接入 OpenCode 与 Codex 配置指南",
-      "url": "https://t.me/nodeseekc/1003547",
-      "value": "$300 谷歌云免费额度（90 天），可用于 Vertex AI 前沿模型"
-    },
-    {
       "author": "404jsh",
       "category": "云服务器",
       "expiry_date": null,
@@ -1663,17 +1641,6 @@
       "value": "免费跑小应用/数据库（0.5 核 1G/5G 存储/每月 10G 流量），免绑卡；适合轻量测试，别放关键服务"
     },
     {
-      "author": "Ciciyingying",
-      "category": "免费额度",
-      "expiry_date": "2026-11-16 22:00（北京时间；美东 11 月 16 日 09:00）",
-      "id": 83,
-      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）：Binance News（转 Foresight News）+ airdrops.io + 官方 11 月 6 日公告交叉核实：Saturn（STRN）S1/S2 空投注册 11 月 9 日开放、11 月 16 日 22:00（北京时间）截止；用攒积分的钱包在唯一官网 claim.saturn.credit 登记并签名，免费；须验证 DC（注册 5 天以上、一个 DC 绑一个钱包，无 DC 的须在 11 月 11 日前创建）；S2 积分继续攒到 TGE 快照或 12 月 8 日（先到为准）。注意：①登记≠领币，领币在 TGE（目标 2026 年 Q4）另行开放，登记不保证有份额；②S2 最多分 STRN 总量 5%，具体份额未公布；③美/英/欧盟/欧洲经济区用户不合规；④认领链接只认 @saturn_credit 官推，谨防钓鱼；⑤帖内另提 squeekchain 创世 mint（0.05 ETH/个付费铸造）不在本条内，付费炒作类不收。",
-      "score": 77,
-      "title": "Saturn 空投注册：S1/S2 参与者 11 月 16 日截止登记（免费，仅需钱包签名）",
-      "url": "https://x.com/Ciciyingying/status/2119994168240165297",
-      "value": "免费登记 S1/S2 空投资格；份额未公布、登记不保证有币"
-    },
-    {
       "author": "KOF97AI",
       "category": "软件工具",
       "expiry_date": "无固定截止日",
@@ -1718,17 +1685,6 @@
       "value": "免费 1–3GB 国际流量（约值 25 美元），每年可领一次"
     },
     {
-      "author": "SecJack96",
-      "category": "金融卡券",
-      "expiry_date": "2026-11-12 23:59 UTC",
-      "id": 57,
-      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）：Plasma 官方条款（plasma.org Singles Day Cashback Boost，2026-11-03 生效）核实：Core/Platinum 会员在淘宝、天猫、京东、AliExpress、Lazada、Shopee、TikTok Shop 等指定商城结账消费享 11% 返现，整个活动期每卡上限 $30，以 XPL 支付。注意：①活动期 2026-11-03 14:00 UTC 至 11-12 23:59 UTC，不限于 11 月 11 日当天；②返现须 45 天 hold + Plasma 审核后才到账，退货/退款/拒付作废；③仅限 Core/Platinum 会员，Lite 会员不享受；④此前“Core 免费升级 Premium”说法不实，本条只记返现活动本身。",
-      "score": 77,
-      "title": "Plasma One 双十一：淘宝/京东等商城消费 11% 返现，上限 $30",
-      "url": "https://x.com/SecJack96/status/2119386255532364258",
-      "value": "指定商城消费 11% 返现，每卡上限 $30（以 XPL 发放，45 天后到账）"
-    },
-    {
       "author": "hejushang8",
       "category": "金融卡券",
       "expiry_date": "2027-01-03",
@@ -1760,17 +1716,6 @@
       "title": "腾讯云 TokenHub 新用户免费体验：每模型 100 万 Tokens，有效期 1 年",
       "url": "https://x.com/OnlyJettTian/status/2119780432728506524",
       "value": "每模型 100 万免费 Tokens，多模型合计价值数十元；OpenAI 兼容接口"
-    },
-    {
-      "author": "duola_eth",
-      "category": "免费额度",
-      "expiry_date": "2026-11-10 23:30（北京时间）",
-      "id": 52,
-      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）：多方来源一致（Bitrue、CoinGabbar、airdrops.io 等）：INFI 空投登记仅限 Season 1/2 赚过积分的钱包，快照已完成，新活动不计入；登记截止 2026-11-10 15:30 UTC（北京时间 23:30）；官方登记入口 app.infinifi.xyz/infi；TGE 预计 2026 年 Q4，具体日期未公布；首日至少 500 INFI 可流通（按分配量）。注意：①新钱包/没积分的钱包登记不了；②代币价格、总量分配未公布，价值未定；③只认官方域名，谨防假冒领取网站。同帖另提 Saturn 注册（截止 16 号）、Squeekchain 创世等任务未逐项核实，不记入本条。",
-      "score": 77,
-      "title": "infiniFi 空投登记今晚 23:30 截止（仅 Season 1/2 有积分的钱包）",
-      "url": "https://x.com/duola_eth/status/2119956829795233855",
-      "value": "Season 1/2 积分钱包登记后等 TGE 发 INFI，首日至少 500 枚可流通；价值未定"
     },
     {
       "author": "白嫖福利推送",
@@ -3269,17 +3214,6 @@
       "value": "1积分+0.1元得价值39.8元的智谱周卡，约2000万+ tokens；须京东PLUS会员"
     },
     {
-      "author": "白嫖福利推送",
-      "category": "云服务器",
-      "expiry_date": "2026-11-13",
-      "id": 41,
-      "notes": "67分。来源10：TG 频道转述 NodeSeek 论坛帖，非官方；可验证25：NodeSeek 原帖 post-1042788 已打开核实，抽奖与优惠码均与转发一致；价值12：抽奖奖品仅1份（TW-HiNet-NAT-P1 1个月免费），但全场月付7折、年付2–5折是实打实的折扣，按量购买年省数十美元量级；时效15：抽奖11月10日开始、11月13日开奖，进行中；风险5：抽奖参与方式为点站内链接，正文未写注册/KYC门槛，折扣需付费购买。注意：活动整体起止日期原帖未写明，只有抽奖起止时间；奖品只有1份，中奖率低。",
-      "score": 67,
-      "title": "NiiHost 双11：抽 TW-HiNet 主机1个月 + 全场月付7折/年付2–5折",
-      "url": "https://t.me/baipiaofl/64185",
-      "value": "抽奖：TW-HiNet-NAT-P1 基础版1个月免费（1C/512MB/6GB，500Mbps/3TB，1份）；折扣：月付7折码 Nii2611E1，年付2–5折码（如美国-BGP基础版3折$14.36）"
-    },
-    {
       "author": "Lovislexus",
       "category": "免费额度",
       "expiry_date": null,
@@ -3311,17 +3245,6 @@
       "title": "NovixLink 洛杉矶双 ISP 住宅 IP：$6.22 CAD/月起，回程 9929+CMIN2",
       "url": "https://x.com/fwqgo_com/status/2122198875792642099",
       "value": "洛杉矶1核/768MB/10G SSD/100Mbps/500G，独享 NTT 双 ISP 住宅 IP，回程 9929+CMIN2；秒杀价 $6.22 CAD/月起（月付 $7.99 CAD）"
-    },
-    {
-      "author": "白嫖福利推送",
-      "category": "订阅优惠",
-      "expiry_date": "2026-11-16",
-      "id": 300,
-      "notes": "65分（来源15/可验证25/价值5/时效10/风险10）。linux.do 原帖 + B站官方活动页核实：BLG 夺冠时刻赠送大会员，领取时间 11-15 12:00 至 11-16 12:00，登录 B站账号即可领 7 天大会员，每人限领一次；回帖多人称已领到。注意：距核实约 9 小时截止；是否仅限非大会员等细则未核实。",
-      "score": 65,
-      "title": "B站免费领 7 天大会员：登录即领，11-16 12:00 截止",
-      "url": "https://t.me/baipiaofl/64889",
-      "value": "7 天 B站大会员（约 ¥6）；登录即领，每人一次"
     },
     {
       "author": "KOF97AI",
@@ -3401,17 +3324,6 @@
       "value": "静态住宅IP首月立减44%、轮转住宅IP首月3折（优惠码CYBER26，仅首次购买月套餐）"
     },
     {
-      "author": "白嫖福利推送",
-      "category": "免费额度",
-      "expiry_date": "2026-11-14",
-      "id": 161,
-      "notes": "评分 65 分（来源20/可验证20/价值10/时效10/风险5）。LINUX DO 原帖全文核实：嘀嘀嘀 AI（dddai.dev）因 11 月 10 日部分请求异常发服务补偿，两档免费周卡（体验周卡面向无充值或兑换记录的账号、进阶周卡面向已有充值或兑换记录的账号），0 元、7 天有效、每账号限领 1 次，限时两天领取（截至 11 月 14 日）；适用于站内 OpenAI 使用范围，具体额度与可用模型以卡片说明为准；多位用户在帖下确认已领到。注意：第三方 AI 中转站、须注册账号，额度不明。",
-      "score": 65,
-      "title": "嘀嘀嘀 AI 0元免费周卡（服务补偿，限领两天）",
-      "url": "https://t.me/baipiaofl/64437",
-      "value": "7 天免费 OpenAI 用量（额度以卡片说明为准），0 元"
-    },
-    {
       "author": "fwqgo_com",
       "category": "云服务器",
       "expiry_date": null,
@@ -3443,17 +3355,6 @@
       "title": "个人网站全程白嫖路线：Pages 免费上线 + Supabase/Neon 免费数据库 + Workers 跑后端",
       "url": "https://x.com/Lovislexus/status/2120313056664469755",
       "value": "零成本搭个人博客/工具导航/作品集：免费托管 + 免费数据库 + 免费后端额度。"
-    },
-    {
-      "author": "lovethelife2333",
-      "category": "免费额度",
-      "expiry_date": "帖称 2026-11-11 为最后一天（未独立核实，以 DTMaaS 平台页为准）",
-      "id": 119,
-      "notes": "65分（来源20/可验证20/价值8/时效12/风险5）：lovethelife2333 原帖 + 搜索交叉证实：蚂蚁数科决策模型 LingDT-Decision-1.0（4B 版）在 DTMaaS 平台限时免费试用，2026-10-23 发布，适合分类/路由等多选决策场景。注意：①“今天最后一天免费”为帖子说法，截止日未独立核实，以 DTMaaS 平台页为准；②小众决策专用模型，不适合通用聊天/编程；③DTMaaS 可能须企业实名；④官方公布的省 Token/提速数据未经独立验证。",
-      "score": 65,
-      "title": "蚂蚁 LingDT-Decision-1.0 决策模型今天最后一天免费（DTMaaS 限时试用）",
-      "url": "https://x.com/lovethelife2333/status/2120334224465002648",
-      "value": "蚂蚁决策模型 4B 版限时免费试用（分类/路由等决策场景）。"
     },
     {
       "author": "NodeSeek官方频道",
@@ -3742,17 +3643,6 @@
       "value": "每月 5G 新加坡流量（约值 8 美元/月），作者称连送 6 个月"
     },
     {
-      "author": "Javary324",
-      "category": "免费额度",
-      "expiry_date": "2026-11-11 14:30（北京时间）开抢",
-      "id": 60,
-      "notes": "62分（来源20/可验证10/价值12/时效15/风险5）：Trip.com 11.11 大促真实进行中（11 月 11–14 日，多家媒体证实），eSIM 在列；但“₹1 抢 eSIM、新加坡 5 天 10GB/中国大陆 7 天 5GB/泰国 7 天 10GB、11 月 11 日 14:30 开抢”未在 Trip 官网逐项核对。注意：①印度站活动，每账户限购 1 次，数量有限，其他地区账户能否参与待验证；②约人民币 0.08 元，实际以抢购页为准；③eSIM 本身价值约 20–40 元，抢到即赚，抢不到不亏。",
-      "score": 62,
-      "title": "Trip 双 11：₹1 抢 eSIM（新加坡 5 天 10GB 等），11 月 11 日 14:30 开抢",
-      "url": "https://x.com/Javary324/status/2119743639903690844",
-      "value": "₹1（约 0.08 元）抢 5–10GB 旅行 eSIM；印度站、限购 1 次"
-    },
-    {
       "author": "BlockInsight214",
       "category": "免费额度",
       "expiry_date": null,
@@ -3861,10 +3751,21 @@
       "title": "GCP $300 赠金 11 月 16 日起不再抵扣 Vertex AI：须在截止前注册并升级付费",
       "url": "https://x.com/KOF97AI/status/2121627082858106965",
       "value": "保住 $300 赠金抵扣 Vertex AI/Gemini 的最后窗口：11 月 16 日前注册并升级付费，额度 90 天有效"
+    },
+    {
+      "author": "NodeSeek官方频道",
+      "category": "免费额度",
+      "expiry_date": "2026-11-15（11月16日起新注册/新升级的赠金不再抵 Gemini 平台费用；$300 额度本身 90 天有效）",
+      "id": 171,
+      "notes": "50分（原80分，2026-11-17晨报复核降分）。11月16日起新注册/新升级的GCP $300赠金不再抵Gemini平台费用（与id270同款，已于11-16降分）；$300额度本身90天有效、仍可抵其他GCP服务，改为信息记录。",
+      "score": 50,
+      "title": "GCP $300 免费额度玩 Gemini 4 Argon / 3.8 Flash：接入 OpenCode 与 Codex 配置指南",
+      "url": "https://t.me/nodeseekc/1003547",
+      "value": "$300 谷歌云免费额度（90 天），可用于 Vertex AI 前沿模型"
     }
   ],
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-17T06:47:57+08:00"
+  "updated_at": "2026-11-17T07:47:33+08:00"
 }
