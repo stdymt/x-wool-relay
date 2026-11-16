@@ -1,5 +1,5 @@
 {
-  "count": 296,
+  "count": 305,
   "items": [
     {
       "id": 6,
@@ -440,6 +440,17 @@
       "expiry_date": "2026-11-30",
       "value": "11月内Pro用户前$3000消费返4%积分（最高约$120积分）",
       "notes": "83分（来源25/可验证23/价值15/时效13/风险7）：Pulsar官方帮助中心“Pulsar Points Explained”（2026-11-12更新）原文核实：11月剩余时间Pro用户前$3000合规消费按4%返Pulsar Points（$0–$1000/$1000–$2000/$2000–$3000三档均为4%，$3000以上回落至0.5%），新老Pro用户同享，返现按月计算、次月10日前到账；另有Beyond Friday活动11月3–30日指定商户（Amazon/eBay/SHEIN/TEMU/Steam等）双倍返现。注意：①须Pro订阅$9.99/月（年付$99.99），返的是积分（100积分=$1，可抵扣消费），不是现金；②与在册id104（首开Pro返$10积分）是同一产品的不同活动：本条是11月限时返现档位提升；③“首月会员费返还”只见于10月活动（限前100名、已于2026-11-01截止），11月官方页未见此口径，不要按11月权益算；④积分Pro有效期6个月；⑤Pulsar为罗马尼亚公司、Wirex提供Visa发卡，属小牌照预付产品，别大额充值；⑥另有11月推荐返现（推荐人对被推荐人合计前$3000享3%、上限$90）与本人消费4%是两回事，别混淆。"
+    },
+    {
+      "id": 309,
+      "title": "智谱 AutoClaw 第三周：登录领 1 亿 Tokens，11-16 至 11-22",
+      "url": "https://x.com/lovethelife2333/status/2122120892830416940",
+      "author": "lovethelife2333",
+      "category": "免费额度",
+      "score": 82,
+      "expiry_date": "2026-11-22",
+      "value": "100M Tokens（约10,000积分）；客户端内额度、不可导出为API；登录即领，每账号限领一次",
+      "notes": "82分（来源20/可验证25/价值12/时效15/风险10）。智谱官方博客（autoclaw.zhipuai.cn/blog/news/M11W3，2026-11-13发布）逐字证实：11月16日00:00至11月22日23:59登录AutoClaw即领100M Tokens（=10,000积分），每账号仅可领取一次，奖励11月22日23:59失效；前两周各50M，本周升至100M，确为第三周。注意：①客户端内额度，不可导出为API；②官网首页另有新用户注册领2亿Tokens福利（官方标价值120元），未单独核实；③上一轮50M已于11-15 23:59清零（在册id21已删）。"
     },
     {
       "id": 283,
@@ -1586,6 +1597,28 @@
       "notes": "评分 77 分（来源25/可验证20/价值12/时效15/风险5）。原帖与多方来源均已核实：腾讯 LightVela（轻量云云端 Agent）新用户首单免费 1 个月启航 AI 套餐，每月含 4500 AI 积分，平时标价 10 美元/月；国内站需实名认证，国际站免 KYC。注意两点：①原帖“4500积分3个月”未证实，官方口径是首月免费、每月 4500 积分；②原帖教的“从云存储下载 .env 文件当 API key 外用”属非官方用法，有被封号风险，不建议照搬。"
     },
     {
+      "id": 308,
+      "title": "DeepSeek 官方开源聊天界面 chat-demo：静态部署免服务器，需自带 API Key",
+      "url": "https://x.com/Lovislexus/status/2122117695495696434",
+      "author": "Lovislexus",
+      "category": "软件工具",
+      "score": 75,
+      "expiry_date": null,
+      "value": "DeepSeek官方开源聊天界面；静态版可免服务器部署；须自带DeepSeek API Key，模型调用按量付费",
+      "notes": "75分（来源25/可验证20/价值5/时效15/风险10）。原帖经独立浏览器只读核实全文 + GitHub卡片证实：DeepSeek官方开源项目 deepseek-ai/chat-demo，在线体验 cdn.deepseek.com/chat-demo；功能含联网搜索（附信源）、深度思考、PDF/Word/PPT/网页阅读、语音输入与朗读、聊天记录存浏览器本地；可按官方README自建个人聊天界面，优先静态版。注意：①免费的是开源客户端，不是模型调用额度，API按实际使用计费；②须自带DeepSeek API Key，密钥别写进公开网页；③与在册id301 LibreChat同类（开源聊天界面），本条为DeepSeek官方出品。"
+    },
+    {
+      "id": 307,
+      "title": "deAPI：新用户注册送 $5 免费额度，100+ 开源模型统一 API（免绑卡）",
+      "url": "https://x.com/lovethelife2333/status/2122120892830416940",
+      "author": "lovethelife2333",
+      "category": "免费额度",
+      "score": 75,
+      "expiry_date": null,
+      "value": "$5免费credits；免绑卡；100+开源模型（FLUX、MiniMax H3、LTX Video、Whisper等）；文生图约$0.00119/张起",
+      "notes": "75分（来源20/可验证25/价值5/时效15/风险10）。deAPI官网定价页（deapi.ai/pricing）逐字证实：新用户注册即得$5免费credits，免绑卡，按量计费；统一API覆盖100+开源模型（图片/视频/语音/转录），文生图约$0.00119/张起。注意：①第三方聚合网关、不是各模型官方端点；②促销额度自账号创建日起90天内有效，过期清零（第三方整理口径，官网页未写有效期）；③每人限一个账号，多开封号；④须满18岁。"
+    },
+    {
       "id": 301,
       "title": "LibreChat 开源自托管聊天界面：接多家模型，需自带 API Key",
       "url": "https://x.com/Aisiverto/status/2122000962051342540",
@@ -1793,6 +1826,39 @@
       "expiry_date": "2026-11-30",
       "value": "入选 Duet 预览得一次完整额度重置（5小时+周额度全满），11月30日前可用；研究预览期不额外收费",
       "notes": "73分（来源20/可验证20/价值15/时效13/风险5）：Anthropic 帮助中心《Get started with Claude Duet》原文证实：入选 Duet 研究预览的账号得一次完整额度重置（Full reset），5小时额度与周额度同时回满，在设置→用量→Limit resets 里点 Reset for free；卡面写明 11月30日到期（美东 11月30日 23:59，北京时间 12月1日 12:59）。Duet 10月21日宣布，属主动型助手 App（每天发简报、后台自己干活），研究预览期包含在 Pro/Max 订阅内、不额外收费。注意：①帖称“送了四个重置”未证实，官方口径是入选得一张完整重置卡，帖主账上多出的卡可能来自其他活动（11月11日全员完整重置 id115、Fable 重置 id114 是另外两张卡），别按四张算；②仅限美国 Pro/Max 用户，候补名单分批放行，排队不保证入选、入选时间不定，免费版/Team/Enterprise 无份；③Duet 的后台任务（早报、定时检查）与 Claude 共用同一额度池，会更快触顶；④与 11月11日全员重置（12月10日前可用，id115）是两回事，两张卡各有各的截止日，别混淆；⑤NodeSeek 原帖 post-1050277-1 因本站 IP 被封禁未读到，以 TG 转发全文 + 官方帮助中心 + 重置追踪站交叉证实。"
+    },
+    {
+      "id": 314,
+      "title": "Google AI Pro 学生版免费 1 年：仅限美国大学生，12-31 前兑换",
+      "url": "https://t.me/nodeseekc/1011142",
+      "author": "NodeSeek官方频道",
+      "category": "免费额度",
+      "score": 72,
+      "expiry_date": "2026-12-31",
+      "value": "Google AI Pro学生版免费1年（Gemini高用量+5TB存储等）；仅限美国大学生18+，须SheerID验证+绑支付方式；期满自动按标准价续费",
+      "notes": "72分（来源15/可验证25/价值12/时效15/风险5）。Google官方学生页（gemini.google/students）逐字证实：免费1年Google AI Pro学生版，含Gemini更高用量、5TB存储、Gemini Spark、Gemini Omni 1年。注意：①仅限符合条件的美国大学生（18+），每年重新验证资格，中国用户基本无法参与；②Google One学生条款：优惠2026年12月31日到期、务必此前兑换，须通过SheerID验证学生身份、拥有个人Google账号及Google Payments账号并绑定符合条件的支付方式；③美国以外部分国家/地区给的是Google AI Plus（400GB）而非AI Pro（5TB），以学校所在地为准；④优惠期结束后除非取消，按所在国家/地区标准包月价自动扣款。"
+    },
+    {
+      "id": 313,
+      "title": "Proton 黑五：Unlimited 首月 $1（约 ¥7），次月起 $12.99/月",
+      "url": "https://t.me/nodeseekc/1011151",
+      "author": "NodeSeek官方频道",
+      "category": "订阅优惠",
+      "score": 72,
+      "expiry_date": null,
+      "value": "Proton Unlimited首月$1（原价$12.99/月），含Mail/Calendar/VPN/Drive/Pass、500GB存储；次月起$12.99/月自动续订须取消；新用户均可",
+      "notes": "72分（来源15/可验证25/价值12/时效15/风险5）。Proton官网黑五页（proton.me/mail/black-friday）逐字证实：Proton Unlimited月付版首月$1.00（92% OFF），\"Billed at $1.00 for the first month, then renews at $12.99 every month\"，含Mail、Calendar、VPN、Drive、Pass、Docs/Sheets，500GB存储；新用户均可，老用户需登录账号页解锁专属优惠；30天退款保证。注意：①次月起$12.99/月自动续订，不想要须取消；②官网页未写具体截止日，第三方称到11月30日（网络星期一）未在官网核实，不采信；③另有按年版首年$77.88（约$6.49/月），首月$1仅指月付版。"
+    },
+    {
+      "id": 306,
+      "title": "智谱 BigModel：新用户注册领 2000 万 Tokens 体验包 + 120 次图像视频",
+      "url": "https://x.com/lovethelife2333/status/2122120892830416940",
+      "author": "lovethelife2333",
+      "category": "免费额度",
+      "score": 72,
+      "expiry_date": null,
+      "value": "2000万 Tokens体验包（全系模型可用）+120次图像和视频资源包；手机号注册，须实名认证",
+      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）。日报引述 + 多方搜索核实：BigModel官网（bigmodel.cn）注册入口展示新用户注册专享2000万免费Tokens资源包及120次图像和视频资源包；GLM-4.7-Flash、GLM-4.6V-Flash等模型定价页标着免费。注意：①须手机号注册并实名认证；②体验包有效期官方页未写，以登录后控制台显示为准；③邀请好友最高2亿Tokens为推广口径，不计入本条。"
     },
     {
       "id": 305,
@@ -2276,7 +2342,7 @@
       "score": 70,
       "expiry_date": "无固定截止日（免费额度随时可能调整）",
       "value": "AMD 官方平台免费调 10 个大模型：DeepSeek V4.1 Flash、Qwen3.8-27B 等，OpenAI 兼容接口",
-      "notes": "70分（来源20/可验证15/价值12/时效15/风险8）：AMD 官方平台 notebooks.amd.com/tokenlab（AMD AI Notebooks，TokenLab）已确认存在；帖内截图显示 API 配置 url https://api.tokenlab.amd.com/v1、模型 DeepSeek-V4.1-Flash；帖称 DeepSeek V4.1 Flash、Qwen3.8-27B 等 10 个大模型免费调，邮箱注册、无实名无绑卡、速度实测 10–25 TPS。注意：①目标页为登录墙，模型清单、额度与免绑卡均未能在目标页独立验证，以帖子截图与说法为准；②别和 AMD 国区混淆：作者 11 月 1 日旧帖称国区 15 个模型免费（DeepSeek V4.1 Flash、GLM-5.3 Flash、Qwen3.8、MiMo 等、每天 0 点重置），国际版 10 个是另一套；③OpenAI 兼容接口，可直接调 API。【2026-11-13 17:40轮补充：LINUX DO 帖称注册后在 Member Perks → Cloud Credits 里可领 TokenLab 的 $10 额度、做任务可攒更多积分，领法路径未独立验证。】"
+      "notes": "70分（来源20/可验证15/价值12/时效15/风险8）：AMD 官方平台 notebooks.amd.com/tokenlab（AMD AI Notebooks，TokenLab）已确认存在；帖内截图显示 API 配置 url https://api.tokenlab.amd.com/v1、模型 DeepSeek-V4.1-Flash；帖称 DeepSeek V4.1 Flash、Qwen3.8-27B 等 10 个大模型免费调，邮箱注册、无实名无绑卡、速度实测 10–25 TPS。注意：①目标页为登录墙，模型清单、额度与免绑卡均未能在目标页独立验证，以帖子截图与说法为准；②别和 AMD 国区混淆：作者 11 月 1 日旧帖称国区 15 个模型免费（DeepSeek V4.1 Flash、GLM-5.3 Flash、Qwen3.8、MiMo 等、每天 0 点重置），国际版 10 个是另一套；③OpenAI 兼容接口，可直接调 API。【2026-11-13 17:40轮补充：LINUX DO 帖称注册后在 Member Perks → Cloud Credits 里可领 TokenLab 的 $10 额度、做任务可攒更多积分，领法路径未独立验证。】【2026-11-16 08:40轮补充：国区版已核实——AMD Radeon Cloud Token Factory（BETA），官网 developer.amd.com.cn/radeon/tokenfactory 公开页写明12个免费模型（MiMo-V2.6-Flash、DeepSeek-V4.1-Flash-1017、DeepSeek-V4-Flash-0731、GLM-5.3-Flash、Qwen3.8-27B、Gemma-4-31B-IT、d3、d3-flash、Clef、MiniCPM-V-4.7-35B-A3B、MiniCPM-V-4.7-1B、MiniCPM5-2B），Base URL https://developer.amd.com.cn/radeon/api/v1，Key需登录获取；Lovislexus新帖给的 tokenfa 链接实测返回Not Found、是错链；帖称每天$5额度、不用绑银行卡未在公开官网页核实到。本条仍以国际版为主，国区版为同一服务的中国区入口，不另立。】"
     },
     {
       "id": 206,
@@ -2552,6 +2618,17 @@
       "expiry_date": "无明确截止日（以 Pionex 官方页为准）",
       "value": "免开卡费/年费的 U 卡，Visa 返现 1%、卡内 USDT 5% 年化；大陆 +86 无法注册/KYC，仅限海外身份参考。",
       "notes": "68分（来源20/可验证20/价值8/时效15/风险5）：Javary324 原帖 + 两家第三方指南交叉核实（均整理自 Pionex 官方 Help Center，2026-10-28 核对）：Pionex Card（派网卡）虚拟卡免开卡费/年费/闲置费；Visa 消费手续费 1%、返现 1% 基本相抵；卡内 USDT 享 5% 年化、每小时派息。注意：①中国大陆 +86 无法注册手机、无法完成 KYC、办不了，仅限海外身份读者参考；②实体卡申请已关闭，目前只有虚拟卡；③长期不用的卡会被批量注销且无法恢复；④发起拒付须主账户备足 650 USDT 保证金、申诉费每件 50 USDT；⑤马来西亚证监会 2026 年 1 月已把 Pionex 列入投资者警示名单；⑥卡片账户为交易所托管、无链上地址。"
+    },
+    {
+      "id": 310,
+      "title": "阶跃 StepAudio 3：四款 preview 模型限免调用，至 11-17 11:59:59",
+      "url": "https://x.com/lovethelife2333/status/2122120892830416940",
+      "author": "lovethelife2333",
+      "category": "免费额度",
+      "score": 67,
+      "expiry_date": "2026-11-17",
+      "value": "4款preview模型（实时语音/语音对话/音频生成/音乐生成）限免调用；TTS/ASR不在内；个人账号一般须实名",
+      "notes": "67分（来源20/可验证20/价值12/时效10/风险5）。日报提醒 + 多方搜索核实（阶跃开放平台定价页）：StepAudio 3四款preview模型（stepaudio-3-realtime/chat/gen/music-preview）限免至北京时间2026-11-17 11:59:59，之后按新价计费、preview版下线；实时语音0.65元/会话分钟、音乐生成16元/输出音频小时。注意：①TTS与独立ASR、音色复刻/设计不在限免内，按定价页收费；②限免期由11-08延期过一次，别指望再延；③个人账号调语音能力一般须先实名认证；④距核实仅剩约1天，明天中午截止。"
     },
     {
       "id": 294,
@@ -3181,6 +3258,28 @@
       "notes": "62分（来源20/可验证15/价值12/时效10/风险5）。原帖已核实；crowllm.com 注册页真实存在（链接含推广参数 aff=PJuk），但站内免费条款未核实，“不限速”与所有免费档均有限流的常识不符，存疑；两个模型在别家确有免费路线。建议先小量试用。"
     },
     {
+      "id": 312,
+      "title": "FMHY AI 免费资源导航站：主流模型/生图剪视频/编程搜索/本地部署合集",
+      "url": "https://x.com/tantanyuli/status/2122115933640794440",
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "score": 60,
+      "expiry_date": null,
+      "value": "免费AI资源导航（ChatGPT/Claude/DeepSeek、生图剪视频配音、编程搜索学术工具、Ollama/LM Studio等）；站内其他分区含盗版资源链接",
+      "notes": "60分（来源15/可验证20/价值5/时效15/风险5）。原帖经独立浏览器只读核实全文：链接目标 fmhy.net/ai（FMHY的AI资源页），所列即正文4类：主流模型拿来就能用、AI生图剪视频配音、AI编程搜索学术工具、Ollama/LM Studio本地部署及Prompt/API/模型榜单。注意：①只是资源导航站、无直接免费权益，价值有限；②FMHY站内其他分区含盗版资源链接，本条只收AI页的免费工具导航，风险自担；③与在册id290 Freebie Radar同类（聚合导航）。"
+    },
+    {
+      "id": 311,
+      "title": "NiceCloud 新用户 $0.01 开美国 NAT 小鸡：码 HELLONS，TG 签到领余额",
+      "url": "https://t.me/baipiaofl/64898",
+      "author": "白嫖福利推送",
+      "category": "云服务器",
+      "score": 60,
+      "expiry_date": null,
+      "value": "美国NAT小鸡1核/128MB/1GB SSD/50GB流量/30Mbps，码HELLONS立减$0.48实付$0.01；限购一台、仅首期；TG绑定签到领余额",
+      "notes": "60分（来源15/可验证15/价值5/时效15/风险10）。TG转帖 + 第三方X帖（@gaoyy9，2026-11-14）订单截图佐证：美国1区三网精品1 vCPU/128MB内存/1GB SSD/50GB流量/30Mbps、共享IPv4·NAT端口10个，原价$0.49/月，优惠码HELLONS立减$0.48实付$0.01；进官方TG群签到实测领$0.05立即到账；官网dash.nicecloud.click已确认存在，官网原文佐证TG签到机制（Link Telegram to earn balance by checking in）。注意：①官网门户需登录才能看到产品与价格，HELLONS码与$0.01价未能在官网本身核实，仅第三方截图与谷歌摘要佐证；②NodeSeek原帖被Cloudflare屏蔽未读到；③限购一台、仅首期，续费恢复原价；④配置仅128MB内存，极低；⑤nicecloud.com是另一家多云代理商，别混淆；⑥未发现活动截止时间。"
+    },
+    {
       "id": 266,
       "title": "Termix Season 1 积分：社交+注册代理免费领，TGE 未定",
       "url": "https://x.com/Ciciyingying/status/2121526108311175473",
@@ -3261,5 +3360,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-16T07:47:07+08:00"
+  "updated_at": "2026-11-16T09:15:25+08:00"
 }
