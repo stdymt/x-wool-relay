@@ -1,5 +1,5 @@
 {
-  "count": 340,
+  "count": 346,
   "items": [
     {
       "id": 6,
@@ -132,6 +132,17 @@
       "expiry_date": "2026-11-09 09:00",
       "value": "5 亿 GLM-5.3-Flash Tokens，仅限客户端内使用",
       "notes": "评分 90 分（来源25/可验证25/价值20/时效10/风险10）。原帖与多方来源均已核实：ZCode 周末包第八轮，每账号领 5 亿 GLM-5.3-Flash Tokens，免费账号可领、免绑卡，11 月 6 日 23:00 生效、11 月 9 日 09:00 到期未用完作废。注意：只剩约 2 小时窗口，且用户 10 月 25 日曾说 ZCode 领取先不弄——本条仅记入收集册备查，未代领。"
+    },
+    {
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 355,
+      "notes": "90分（来源20/可验证25/价值20/时效15/风险10）。85+ 二审已做：重开 GitHub 官方页复核——debpalash/VoiceStudio，AGPL-3.0，核实时 111,824 Star、12,408 Fork，README 称 646 种语言、全部功能免费、本机运行、无需账号；原帖说法（原名 OmniVoice Studio、开源本机语音工作台、配音/克隆/听写/转写、约 600 种语言）与官方一致。注意：①默认 OmniVoice 模型权重为 CC-BY-NC（非商业），商用须换引擎或买 Pro 授权（$99/年），个人自用不受限；②首次使用须下载模型，约 10GB 磁盘；③Pro 版与 Cloud 为可选付费，核心功能免费。",
+      "score": 90,
+      "title": "VoiceStudio 开源本地语音工作台：声音克隆/配音/转写，646 种语言、免费无账号（GitHub 11 万 Star）",
+      "url": "https://x.com/tantanyuli/status/2122378916585443796",
+      "value": "免费本地 ElevenLabs 平替：声音克隆/配音/转写，646 种语言、无需账号；ElevenLabs 同类付费 $22/月起"
     },
     {
       "id": 27,
@@ -948,6 +959,17 @@
       "notes": "评分 82 分（来源20/可验证25/价值12/时效15/风险10）。原帖与 Google Colab 官方 FAQ 及多方实测均已核实：免费档常分到 NVIDIA T4（16GB 显存），也可分到 TPU v5e。注意：Google 不保证型号与可用性，高峰可能分不到 GPU；单会话最长约 12 小时、闲置约 90 分钟断开；属长期免费档，不是限时活动。"
     },
     {
+      "author": "KOF97AI",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 354,
+      "notes": "82分（来源20/可验证25/价值12/时效15/风险10）。原帖经独立浏览器只读核实全文 + GitHub 仓库页核对：google-labs-code/stitch-skills，Apache-2.0，核实时 9.7k Star、1.2k Fork，三个插件包共 15 个技能（设计 6、构建 5、工具 4），兼容 Codex、Antigravity、Gemini CLI、Claude Code、Cursor 及 OpenCode，与帖子“15 个、9,300 多 Star”一致。注意：①使用前须按官方指南配置 Stitch MCP 服务；②这是开发提效工具，不直接省钱。",
+      "score": 82,
+      "title": "Google Labs 开源 Stitch Design Skills：15 个 UI 设计技能，兼容 Claude Code/Cursor（GitHub 9.7k Star）",
+      "url": "https://x.com/KOF97AI/status/2122373630650994942",
+      "value": "Google Labs 开源 15 个 UI 设计 Agent 技能，免费、Apache-2.0"
+    },
+    {
       "id": 334,
       "title": "富邦 iN ShopBack Visa 白金卡：网购 8% 回赠，迎新满 HK$3,000 送 HK$600",
       "url": "https://x.com/SecJack96/status/2122251993834213582",
@@ -1762,6 +1784,17 @@
       "notes": "评分 77 分（来源25/可验证20/价值12/时效15/风险5）。原帖与多方来源均已核实：腾讯 LightVela（轻量云云端 Agent）新用户首单免费 1 个月启航 AI 套餐，每月含 4500 AI 积分，平时标价 10 美元/月；国内站需实名认证，国际站免 KYC。注意两点：①原帖“4500积分3个月”未证实，官方口径是首月免费、每月 4500 积分；②原帖教的“从云存储下载 .env 文件当 API key 外用”属非官方用法，有被封号风险，不建议照搬。"
     },
     {
+      "author": "Lovislexus",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 351,
+      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）。原帖经独立浏览器只读核实全文 + TextNow 官方 Google Play 页核对：免费美国号码、$0/月、无 SIM、无月租、无合约，广告支撑免费；作者用新加坡住宅 IP 实测开号成功、收短信正常。注意：①VoIP 号码非实体运营商号，部分平台不收，验证码能不能过看平台，部分 Google 验证和 App 注册可用；②注册要 Gmail，有时需刷脸验证；③普通 VPS/共享代理容易碰到限制，住宅 IP 更稳；④号码需保持活跃（作者用 Google Voice 互发短信保活），长期不用可能被回收。",
+      "score": 77,
+      "title": "TextNow 免费美国手机号：$0/月、无 SIM、无月租（VoIP 号，部分平台收不到验证码）",
+      "url": "https://x.com/Lovislexus/status/2122348454131482806",
+      "value": "免费美国号码，$0/月、无 SIM 无月租；VoIP 号，部分平台收不到验证码"
+    },
+    {
       "id": 319,
       "title": "Kimi API：新用户注册领 ¥15 免费额度，可调 K2 系列（须实名认证）",
       "url": "https://t.me/baipiaofl/64925",
@@ -2563,6 +2596,28 @@
       "title": "悦阳数据香港优化A款：¥25.99/月（2核/1G/20G/500Mbps/1TB，香港原生IP，仅剩5件）",
       "url": "https://x.com/fwqgo_com/status/2122341064900268542",
       "value": "香港原生IP VPS ¥25.99/月，500Mbps/1TB；年付约8.3折，仅剩5件"
+    },
+    {
+      "author": "白嫖福利推送",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 352,
+      "notes": "72分（来源15/可验证20/价值12/时效15/风险10）。TG 转帖 + 多方核实：DMIT 免费换 IP 规则以官方文档 docs.dmit.io 为准——限 Pro/EB 系列，实例须购买满 7 天、距上次换 IP 满 15 天、剩余有效期不少于 7 天、且 ICMP 与 TCP 全部端口被封；搬瓦工 $49.99 入门款下架经两家中文指南核实（2026-10-30 前后，KVM/CN2 GIA-E/SLA 三系 1GB 款全下），现最便宜为 40GB/2GB 年付 $99.99。注意：①NodeSeek 原帖（post-1058919-1）因全站 IP 屏蔽未直接读到，以 TG 全文 + 官方文档/第三方为准；②DMIT 仅 TCP 被封、ICMP 通时不免费换，需 $5（V2EX 实测）；③搬瓦工是入门款下架、非全线涨价，老用户原套餐续费不受影响。",
+      "score": 72,
+      "title": "DMIT 免费换 IP 条件 + 搬瓦工 $49.99 入门款下架、最便宜剩 $99.99/年",
+      "url": "https://t.me/baipiaofl/65026",
+      "value": "DMIT 免费换 IP（限 Pro/EB、全端口被封才免费）；搬瓦工 $49.99 入门款下架，现最低 $99.99/年"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 353,
+      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）。原帖经独立浏览器只读核实全文 + VPS-Craft 测评（引 NodeSeek 实测与官方规格）核对：JP1 Basic ¥27.99/月，2核 Ryzen 9/1GB DDR5/10GB SSD/3Gbps 峰值/1TB 月流量/独立原生 IPv4（可选 IPv6），IIJ 线路。注意：①“少量补货”为帖子说法，库存未独立核实；②流量用尽后政策未核对；③购买需注册登录；④帖内链接带 aff 参数。",
+      "score": 72,
+      "title": "云悠东京 JP1 Basic：¥27.99/月（2核 Ryzen 9/1G/10G/3Gbps/1TB，双栈原生 IP，少量补货）",
+      "url": "https://x.com/fwqgo_com/status/2122375641215717717",
+      "value": "东京 IIJ VPS ¥27.99/月，2核 Ryzen 9/1G/3Gbps/1TB，双栈原生 IP；少量补货"
     },
     {
       "id": 304,
@@ -3643,6 +3698,17 @@
       "notes": "62分（来源20/可验证15/价值12/时效10/风险5）。原帖已核实；crowllm.com 注册页真实存在（链接含推广参数 aff=PJuk），但站内免费条款未核实，“不限速”与所有免费档均有限流的常识不符，存疑；两个模型在别家确有免费路线。建议先小量试用。"
     },
     {
+      "author": "白嫖福利推送",
+      "category": "云服务器",
+      "expiry_date": "2026-12-31",
+      "id": 350,
+      "notes": "62分（来源15/可验证15/价值12/时效10/风险10）。TG 转帖 + 多方核实：DMIT 免费流量重置活动真实存在（6 月 6 日推出，每服务最多免费重置 2 次、每次恢复基础流量 20%，有效期至 2026-12-31 23:59 UTC）；NodeSeek 原帖（post-1058888-1）因全站 IP 屏蔽未直接读到，以 TG 全文 + 第三方为准。注意：①帖主称其 LAX.Pro 已被重置、EB 是否同样重置未证实；②老用户一次性免费 100% 重置已于 2026-11-01 过期，不要与本次 20%×2 混淆；③付费重置最低 40%、须已用 60% 以上流量；④WEE 等促销套餐不适用。",
+      "score": 62,
+      "title": "DMIT 流量免费重置：每服务最多 2 次、每次恢复 20%，活动至 2026-12-31（LAX.Pro 用户已收到）",
+      "url": "https://t.me/baipiaofl/65025",
+      "value": "DMIT 免费流量重置：每服务 2 次、每次恢复 20%，至 2026-12-31"
+    },
+    {
       "id": 312,
       "title": "FMHY AI 免费资源导航站：主流模型/生图剪视频/编程搜索/本地部署合集",
       "url": "https://x.com/tantanyuli/status/2122115933640794440",
@@ -3745,5 +3811,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-17T01:06:48+08:00"
+  "updated_at": "2026-11-17T02:58:16+08:00"
 }
