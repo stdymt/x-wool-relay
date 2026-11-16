@@ -145,6 +145,17 @@
       "notes": "评分88分（来源25/可验证25/价值15/时效15/风险8）。原帖与多个独立来源核实一致：Simular Box免费档约4核8G/40GB Ubuntu云电脑，给AI Agent用（MCP接入），每日1000免费credits，免绑卡，Google/GitHub登录即可；帖子说的2核4G偏保守，实测约4核8G。注意：无公网入口、闲置休眠，不能当VPS/节点用；模型调用耗每日额度，用完次日刷新。"
     },
     {
+      "id": 328,
+      "title": "Cohere 免费 trial key：每月 1000 次 API 调用，Embed/Rerank 免绑卡",
+      "url": "https://x.com/Aisiverto/status/2122201749079617543",
+      "author": "Aisiverto",
+      "category": "免费额度",
+      "score": 87,
+      "expiry_date": null,
+      "value": "注册即得免费 trial key，每月 1000 次 API 调用（Chat 20次/分钟、Embed 2000输入/分钟、Rerank 10次/分钟、Tokenize 100次/分钟）；免绑卡，仅限非商用",
+      "notes": "87分（来源25/可验证25/价值12/时效15/风险10）。原帖经独立浏览器只读核实全文 + Cohere 官方 Rate Limits 文档（docs.cohere.com/docs/rate-limits）逐项核实，数字全部一致：trial key 注册自动发放，每月 1000 次为全部 API 合计；Chat 各模型 20次/分钟、Embed 2000输入/分钟、Rerank 10次/分钟、Tokenize 100次/分钟。85+ 二审已做：报前重开原帖与官方文档复核，分数与关键事实无变化。注意：仅限非生产/非商用，生产须另申请付费 production key；无截止日期，长期免费层。"
+    },
+    {
       "id": 324,
       "title": "Daisy Desk Challenge：免费回测赢 5,000,000 $DAISY（一人独得），报名至 11-23",
       "url": "https://t.me/airdropfind/129657",
@@ -253,17 +264,6 @@
       "expiry_date": "前10000名先到先得（官网未写截止日；作者称90天有效，未证实）",
       "value": "免费 10 亿决策 tokens（约 42 美元），免绑卡，API 可用",
       "notes": "评分87分（来源25/可验证25/价值12/时效15/风险10）。原帖与官网 articul8.ai/bivia 均已核实：Bivia 决策模型首发优惠，前 10000 名免费领 10 亿 tokens（10亿=1B），免订阅；定价 $0.042/百万输入 tokens、输出 $0；Articul8 为 Intel 背景 AI 公司，Bivia 2026-10-28 发布。注意：①“90天有效”是作者后续帖说法，官网未写截止日与有效期；②链接指向 app.articul8.ai 登录页，需注册领 API Key；③这是决策模型（只做判断、不生成文本），不是通用大模型，适合接 Agent/工作流。"
-    },
-    {
-      "id": 325,
-      "title": "Cohere 免费 trial key：每月 1000 次 API 调用，Embed/Rerank 免绑卡",
-      "url": "https://x.com/Aisiverto/status/2122201749079617543",
-      "author": "Aisiverto",
-      "category": "免费额度",
-      "score": 87,
-      "expiry_date": null,
-      "value": "注册即得免费 trial key，每月 1000 次 API 调用（Chat 20次/分钟、Embed 2000输入/分钟、Rerank 10次/分钟、Tokenize 100次/分钟）；免绑卡，仅限非商用",
-      "notes": "87分（来源25/可验证25/价值12/时效15/风险10）。原帖经独立浏览器只读核实全文 + Cohere 官方 Rate Limits 文档（docs.cohere.com/docs/rate-limits）逐项核实，数字全部一致：trial key 注册自动发放，每月 1000 次为全部 API 合计；Chat 各模型 20次/分钟、Embed 2000输入/分钟、Rerank 10次/分钟、Tokenize 100次/分钟。85+ 二审已做：报前重开原帖与官方文档复核，分数与关键事实无变化。注意：仅限非生产/非商用，生产须另申请付费 production key；无截止日期，长期免费层。"
     },
     {
       "id": 225,
@@ -1091,6 +1091,28 @@
       "notes": "78分（来源20/可验证25/价值8/时效15/风险10；Upstash 官网 upstash.com/box 与定价页直接核实：免费档每月 5 CPU 小时、最多 10 个并发 Box，每个 Box 2 vCPU/4GB 内存/10GB 存储，内置 Claude Code、Codex、OpenCode、Cursor，文件系统持久、支持 Git 与无头浏览器，闲置 1 小时自动暂停不计费；注册免绑卡。注意：①免费的是沙箱算力、不是模型额度，模型调用须自带 Provider Key（Anthropic/OpenAI/OpenRouter 等）；②5 小时/月只够轻量任务，按量价 $0.10/活跃 CPU 小时（Small），超额自费；③目前仅 AWS us-east-1 区域；④存储 $0.10/GB/月，含快照）"
     },
     {
+      "id": 327,
+      "title": "orkestr 免费部署 1 个项目：Node/Python/PHP，免绑卡送子域名",
+      "url": "https://t.me/baipiaofl/64958",
+      "author": "白嫖福利推送",
+      "category": "云服务器",
+      "score": 77,
+      "expiry_date": null,
+      "value": "免费部署1个项目+1个函数，免绑卡；闲置30分钟休眠，支持Node/Python/PHP等，送自定义子域名",
+      "notes": "77分（来源20/可验证20/价值12/时效15/风险10）。TG转帖 + NodeLoc 论坛帖全文核实 + orkestr 官方文档（orkestr.eu/docs）证实：Starter 免费档 1 个项目、1 个环境、自动部署，免费档含 1 个函数、免绑卡；闲置 30 分钟休眠、唤醒稍慢；支持 Next.js/Nuxt/React/Vue/FastAPI/Flask/Django/Express 等，部署后得 {project}.orkestr.run 子域名。注意：①帖子称“注册送 €5 沙箱额度”，官方文档未确认该额度，以注册页实际显示为准；②论坛帖称可自定义域名，官方文档称自定义域名为 Pro 功能，以官网为准；③欧盟机房（德国/芬兰/法国），AUP 明文禁止做代理/VPN/挖矿/流量中继。"
+    },
+    {
+      "id": 325,
+      "title": "RAKsmart 硅谷 $4.99/月：4核/8G/50G/5Gbps/10TB，续费同价",
+      "url": "https://x.com/fwqgo_com/status/2122204265725018124",
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "score": 77,
+      "expiry_date": "2026-11-30",
+      "value": "硅谷4核/8G/50G/5Gbps/10TB，$4.99/月续费同价（原价$15.50）；纯国际BGP、无大陆优化",
+      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）。原帖经独立浏览器只读核实全文 + 多方搜索核实（vpslu、gwvpsceping 均引官网配置页）：硅谷 4核/8G/50GB/5Gbps/10TB，$4.99/月（原价 $15.50），续费同价；秒杀周 11-11 至 11-17 与 11-25 至 11-30，活动至 11-30。注意：①纯 Global BGP 国际线路、无大陆优化，回国别按优化线路期待，适合海外业务/套 CDN/做后端；②硬盘是 HDD（5000 IOPS），不是 SSD，帖子“高速系统盘”说法注意；③每天限量 20 台，先到先得；④帖内链接带 aff 参数。"
+    },
+    {
       "id": 322,
       "title": "Arena.ai（原 LMArena）免费试跑 Gemini 4 Argon 等旗舰模型：免订阅、免绑卡",
       "url": "https://x.com/KOF97AI/status/2122179830653567216",
@@ -1672,28 +1694,6 @@
       "expiry_date": null,
       "value": "首月免费，约 10 美元；.env 外用法有风险",
       "notes": "评分 77 分（来源25/可验证20/价值12/时效15/风险5）。原帖与多方来源均已核实：腾讯 LightVela（轻量云云端 Agent）新用户首单免费 1 个月启航 AI 套餐，每月含 4500 AI 积分，平时标价 10 美元/月；国内站需实名认证，国际站免 KYC。注意两点：①原帖“4500积分3个月”未证实，官方口径是首月免费、每月 4500 积分；②原帖教的“从云存储下载 .env 文件当 API key 外用”属非官方用法，有被封号风险，不建议照搬。"
-    },
-    {
-      "id": 326,
-      "title": "orkestr 免费部署 1 个项目：Node/Python/PHP，免绑卡送子域名",
-      "url": "https://t.me/baipiaofl/64958",
-      "author": "白嫖福利推送",
-      "category": "云服务器",
-      "score": 77,
-      "expiry_date": null,
-      "value": "免费部署1个项目+1个函数，免绑卡；闲置30分钟休眠，支持Node/Python/PHP等，送自定义子域名",
-      "notes": "77分（来源20/可验证20/价值12/时效15/风险10）。TG转帖 + NodeLoc 论坛帖全文核实 + orkestr 官方文档（orkestr.eu/docs）证实：Starter 免费档 1 个项目、1 个环境、自动部署，免费档含 1 个函数、免绑卡；闲置 30 分钟休眠、唤醒稍慢；支持 Next.js/Nuxt/React/Vue/FastAPI/Flask/Django/Express 等，部署后得 {project}.orkestr.run 子域名。注意：①帖子称“注册送 €5 沙箱额度”，官方文档未确认该额度，以注册页实际显示为准；②论坛帖称可自定义域名，官方文档称自定义域名为 Pro 功能，以官网为准；③欧盟机房（德国/芬兰/法国），AUP 明文禁止做代理/VPN/挖矿/流量中继。"
-    },
-    {
-      "id": 327,
-      "title": "RAKsmart 硅谷 $4.99/月：4核/8G/50G/5Gbps/10TB，续费同价",
-      "url": "https://x.com/fwqgo_com/status/2122204265725018124",
-      "author": "fwqgo_com",
-      "category": "云服务器",
-      "score": 77,
-      "expiry_date": "2026-11-30",
-      "value": "硅谷4核/8G/50G/5Gbps/10TB，$4.99/月续费同价（原价$15.50）；纯国际BGP、无大陆优化",
-      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）。原帖经独立浏览器只读核实全文 + 多方搜索核实（vpslu、gwvpsceping 均引官网配置页）：硅谷 4核/8G/50GB/5Gbps/10TB，$4.99/月（原价 $15.50），续费同价；秒杀周 11-11 至 11-17 与 11-25 至 11-30，活动至 11-30。注意：①纯 Global BGP 国际线路、无大陆优化，回国别按优化线路期待，适合海外业务/套 CDN/做后端；②硬盘是 HDD（5000 IOPS），不是 SSD，帖子“高速系统盘”说法注意；③每天限量 20 台，先到先得；④帖内链接带 aff 参数。"
     },
     {
       "id": 319,
@@ -2994,6 +2994,17 @@
       "notes": "评分 67 分（来源20/可验证15/价值12/时效15/风险5）。原帖已核实存在且内容相符，但说法需打折：多方 10 月实测证实邮箱注册是主流程、部分用户确实免手机号免绑卡通过，但年龄验证（绑卡 1 美元预授权或关联 IG/FB）与美国 IP 地区风控仍在，“门槛消失”只对部分用户成立，且原帖作者自己也用“好像”表述。另：注册后 48 小时内兑换邀请码双方各得 10 亿 token；同号另一条帖子的邀请码 YXEARY（先到先得，名额无法核实）。"
     },
     {
+      "id": 326,
+      "title": "NovixLink 洛杉矶双 ISP 住宅 IP：$6.22 CAD/月起，回程 9929+CMIN2",
+      "url": "https://x.com/fwqgo_com/status/2122198875792642099",
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "score": 65,
+      "expiry_date": null,
+      "value": "洛杉矶1核/768MB/10G SSD/100Mbps/500G，独享 NTT 双 ISP 住宅 IP，回程 9929+CMIN2；秒杀价 $6.22 CAD/月起（月付 $7.99 CAD）",
+      "notes": "65分（来源20/可验证15/价值5/时效15/风险10）。原帖经独立浏览器只读核实全文：NovixLink 洛杉矶 LAX-CUPG Lite，1 vCPU/768MB DDR4/10GB RAID10 SSD/100Mbps 峰值/500GB 双向流量，独享美国 NTT 原生双 ISP 住宅属性 IPv4，回程联通 AS9929 与移动 CMIN2；秒杀价 $6.22 CAD/月起（约 $4.35，月付 $7.99 CAD）。注意：①配置很小（768MB 内存、10GB 盘），只适合养号/轻量用途；②价格是“起”字，库存极少，先到先得；③官网未独立核对，以订购页实时价为准；④帖内链接带 aff 参数。"
+    },
+    {
       "id": 300,
       "title": "B站免费领 7 天大会员：登录即领，11-16 12:00 截止",
       "url": "https://t.me/baipiaofl/64889",
@@ -3201,17 +3212,6 @@
       "expiry_date": null,
       "value": "免费GPU云端跑模型，本地Agent调用；与本轮Kaggle双T4帖同一玩法",
       "notes": "65分（来源22/可验证10/价值10/时效15/风险8）。与本轮另一条Kaggle帖同源，属于同一玩法的概念版，无具体步骤；核心事实（T4 x2、每周约30小时）已按Kaggle官方文档核实。"
-    },
-    {
-      "id": 328,
-      "title": "NovixLink 洛杉矶双 ISP 住宅 IP：$6.22 CAD/月起，回程 9929+CMIN2",
-      "url": "https://x.com/fwqgo_com/status/2122198875792642099",
-      "author": "fwqgo_com",
-      "category": "云服务器",
-      "score": 65,
-      "expiry_date": null,
-      "value": "洛杉矶1核/768MB/10G SSD/100Mbps/500G，独享 NTT 双 ISP 住宅 IP，回程 9929+CMIN2；秒杀价 $6.22 CAD/月起（月付 $7.99 CAD）",
-      "notes": "65分（来源20/可验证15/价值5/时效15/风险10）。原帖经独立浏览器只读核实全文：NovixLink 洛杉矶 LAX-CUPG Lite，1 vCPU/768MB DDR4/10GB RAID10 SSD/100Mbps 峰值/500GB 双向流量，独享美国 NTT 原生双 ISP 住宅属性 IPv4，回程联通 AS9929 与移动 CMIN2；秒杀价 $6.22 CAD/月起（约 $4.35，月付 $7.99 CAD）。注意：①配置很小（768MB 内存、10GB 盘），只适合养号/轻量用途；②价格是“起”字，库存极少，先到先得；③官网未独立核对，以订购页实时价为准；④帖内链接带 aff 参数。"
     },
     {
       "id": 244,
@@ -3514,5 +3514,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-16T16:09:33+08:00"
+  "updated_at": "2026-11-16T16:44:45+08:00"
 }
