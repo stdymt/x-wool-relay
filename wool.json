@@ -1,5 +1,5 @@
 {
-  "count": 329,
+  "count": 331,
   "items": [
     {
       "id": 6,
@@ -1993,6 +1993,28 @@
       "notes": "73分（来源20/可验证20/价值15/时效13/风险5）：Anthropic 帮助中心《Get started with Claude Duet》原文证实：入选 Duet 研究预览的账号得一次完整额度重置（Full reset），5小时额度与周额度同时回满，在设置→用量→Limit resets 里点 Reset for free；卡面写明 11月30日到期（美东 11月30日 23:59，北京时间 12月1日 12:59）。Duet 10月21日宣布，属主动型助手 App（每天发简报、后台自己干活），研究预览期包含在 Pro/Max 订阅内、不额外收费。注意：①帖称“送了四个重置”未证实，官方口径是入选得一张完整重置卡，帖主账上多出的卡可能来自其他活动（11月11日全员完整重置 id115、Fable 重置 id114 是另外两张卡），别按四张算；②仅限美国 Pro/Max 用户，候补名单分批放行，排队不保证入选、入选时间不定，免费版/Team/Enterprise 无份；③Duet 的后台任务（早报、定时检查）与 Claude 共用同一额度池，会更快触顶；④与 11月11日全员重置（12月10日前可用，id115）是两回事，两张卡各有各的截止日，别混淆；⑤NodeSeek 原帖 post-1050277-1 因本站 IP 被封禁未读到，以 TG 转发全文 + 官方帮助中心 + 重置追踪站交叉证实。"
     },
     {
+      "id": 340,
+      "title": "FurryBox 免费二级域名：.xwx.me 已进 PSL，可托管 Cloudflare",
+      "url": "https://t.me/baipiaofl/64996",
+      "author": "白嫖福利推送",
+      "category": "软件工具",
+      "score": 72,
+      "expiry_date": null,
+      "value": "免费注册 .xwx.me/.site.tv 二级域名，完整 DNS、可委托自有 NS；注册 10 boxes、续费 5 boxes（邀请好友各得 10 boxes）；每账号最多 30 个域名",
+      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）。TG转帖 + 官网 furry.box 核实：免费二级域名，.xwx.me 与 .site.tv 两个后缀，完整 DNS 记录（A/AAAA/CNAME/MX/TXT/SRV/CAA）、可委托自有 NS，免信用卡；publicsuffix.org 官方列表查到 xwx.me（PSL 已收录，可直接加 Cloudflare 托管）。注意：①注册要邀请码（帖内 UEUUPZAL，邀请码会过期，以注册页实时为准）；②注册 1 个域名要 10 boxes、续费 5 boxes，boxes 靠邀请好友得（每邀 1 人双方各得 10 boxes）；③.site.tv 未在 PSL 列表中查到，托管 CF 以 .xwx.me 为准；④NodeSeek 原帖被墙未直接读到，以 TG 全文 + 官网为准。"
+    },
+    {
+      "id": 339,
+      "title": "Hyperhost 英国 IPv6 VPS：4核/8G/80G SSD，£1.67/月续费同价",
+      "url": "https://t.me/nodeseekc/1012546",
+      "author": "NodeSeek官方频道",
+      "category": "云服务器",
+      "score": 72,
+      "expiry_date": null,
+      "value": "英国 IPv6-only KVM：4核/8G/80G SSD/6TB/1Gbps，£1.67/月或£17.98/年，续费同价",
+      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）。TG转帖 + 三方报价站（vncoupon、ittellyou、LowEndTalk）核实：IPv6 VPS 4 为 4核/8G/80G 企业级 SSD/6TB 流量/1Gbps，£1.67/月或 £17.98/年，续费同价；同系列 IPv6 VPS 3（3核/4G/60G）也是 £1.67/月。注意：①纯 IPv6、无公网 IPv4，国内直连与部分应用受限；②万圣节 50% 活动已于 11-07 结束，£1.67 为 IPv6 套餐常规价、非活动价；③商家官网结算页未直接打开核对，以报价站为准；④推广套餐不可退款，先月付试用；⑤NodeSeek 原帖被墙未直接读到，以 TG 标题 + 报价站为准。"
+    },
+    {
       "id": 338,
       "title": "freesocks.org 公益 VPN：每月免费 50GB，会员 $5/月无限流量",
       "url": "https://t.me/baipiaofl/64985",
@@ -3624,5 +3646,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-16T19:52:04+08:00"
+  "updated_at": "2026-11-16T20:44:42+08:00"
 }
