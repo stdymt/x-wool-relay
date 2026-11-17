@@ -1,5 +1,5 @@
 {
-  "count": 342,
+  "count": 347,
   "items": [
     {
       "author": "yedabinbinah",
@@ -506,6 +506,17 @@
       "title": "Pulsar Money 11月返现提到4%：Pro用户前$3000消费全按4%返积分（到11月30日）",
       "url": "https://x.com/SecJack96/status/2120889366524698761",
       "value": "11月内Pro用户前$3000消费返4%积分（最高约$120积分）"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 363,
+      "notes": "82分（来源20/可验证25/价值12/时效15/风险10）。DediOne 官网配置页核实：Special VPS Plans - 20260520-LAX.VPS.INTL.1C1G20G-Special-12.99，$12.99/年；1 vCore/1G/20G SSD/1TB/1Gbps 独享、1 IPv4+2 IPv6、洛杉矶，Test IP 77.73.14.1，可下单未见售罄。注意：原帖“只剩 15 台”在官网页未显示；“避开晚高峰回国直连”为发帖人说法，未核实；普通国际线、无 CN2 优化；链接带 aff。",
+      "score": 82,
+      "title": "DediOne 洛杉矶 VPS 补货：1核/1G/20G、1Gbps/1TB，$12.99/年",
+      "url": "https://x.com/fwqgo_com/status/2122457183887716616",
+      "value": "$12.99/年（约 ¥93/年），独立 IPv4+IPv6 双栈"
     },
     {
       "author": "KOF97AI",
@@ -1166,6 +1177,39 @@
       "title": "Upstash Box 免费层：每月 5 小时 AI Agent 云端电脑，内置 Claude Code（免绑卡）",
       "url": "https://x.com/lovethelife2333/status/2121106000249827689",
       "value": "每月免费 5 CPU 小时、最多 10 个并发 Box：2 vCPU/4GB/10GB，内置 Claude Code/Codex"
+    },
+    {
+      "author": "KOF97AI",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 365,
+      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）。GitHub 官方页核实：maillab/cloud-mail，MIT 协议，核实时 16.3k Star、23.8k Fork，v3.5.0；部署到 Cloudflare Workers，支持收发/附件/群发/验证码识别/推送 TG；需自备域名+Cloudflare 账号，可用 DNSHE 免费二级域名（de5.net/us.ci/cc.cd/ccwu.cc）先顶上，需在 DNSHE 注册登录。注意：自建需一定动手能力，免费域名为公共域名。",
+      "score": 77,
+      "title": "Cloud Mail 开源邮箱平台：免费域名+Cloudflare Workers 自建无限邮箱小号",
+      "url": "https://x.com/KOF97AI/status/2122471079637914030",
+      "value": "自建无限邮箱地址收验证码，免企业邮箱费用（需域名+Cloudflare 账号，可先用免费二级域名）"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 362,
+      "notes": "77分（来源20/可验证20/价值12/时效15/风险10）。RakSmart 官网配置页核实：E3-1230/16G/1T HDD/1Gbps 独享/10TB，精品 CN2（电信 4809+移动 CMIN2 58807+联通），月付 $114.90 立减 $55 实付 $59.90/月、续费同价。注意：原帖“四百出头”没说明是月付，实际约 ¥430/月；3/6/12 个月另有 9.5/8.3 折未核实总额；链接带 aff。",
+      "score": 77,
+      "title": "RakSmart 独立物理机 E3-1230/16G/1T：精品 CN2、1Gbps/10TB，$59.90/月",
+      "url": "https://x.com/fwqgo_com/status/2122472283998724511",
+      "value": "月付 $59.90（原价 $114.90，立减 $55），续费同价"
+    },
+    {
+      "author": "Aisiverto",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 361,
+      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）。OpenRouter 官方 limits 文档核实（多家 2026-11 复核引用官方文档）：:free 模型每分钟 20 次；累计充值不足 $10 每天 50 次，累计满 $10 每天 1000 次；$10 为终身累计门槛、充值的额度仍可用于付费模型，另收 5.5% 手续费。注意：免费模型名单轮换快，额度按请求数不按 token 计。",
+      "score": 77,
+      "title": "OpenRouter 免费模型每天 1000 次：累计充值 $10 即可，:free 模型每分钟 20 次",
+      "url": "https://x.com/Aisiverto/status/2122474294831964180",
+      "value": "每天 1000 次免费模型调用（需先累计充值 $10，额度保留可用）"
     },
     {
       "author": "Aisiverto",
@@ -2013,6 +2057,17 @@
       "title": "Claude Duet 研究预览入选送一次完整额度重置：5小时+周额度全满，11月30日前可用",
       "url": "https://t.me/baipiaofl/64552",
       "value": "入选 Duet 预览得一次完整额度重置（5小时+周额度全满），11月30日前可用；研究预览期不额外收费"
+    },
+    {
+      "author": "AirdropAlert-com",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 364,
+      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）。AirdropAlert 空投页+官方来源核实：Aura Protocol 为 LitVM 上机器人/机电/RWA 众筹 launchpad，激励测试网进行中；参与免费：加 LitVM 测试网、领水龙头币、部署代币赚积分（部署 50 分/交易 15 分/发币 25 分），满 100 分达标；Token Quest 前 100 部署者分 100K 积分+50 zkLTC 奖池（官方 X 置顶帖 11-09 证实，活动 11-09–11-30）；官网 auralaunch.org 与官方 X（认证号，24.8K 粉）可打开。注意：AirdropAlert 页内 tokenomics 数字自相矛盾（30%/53%/35%+17%），150M $AURA 分配说法未经官方渠道佐证；分配细节待官方确认；官方 docs 与白皮书链接打不开（404）；部分高级功能或需 ETH 解锁倍率；主网预计 11-30 上线。",
+      "score": 72,
+      "title": "AURA Protocol 激励测试网：部署代币赚积分，Token Quest 奖池 50 zkLTC",
+      "url": "https://t.me/airdrop_alert_dot_com/3644",
+      "value": "测试网免费参与，100 积分达标；分配细节待官方确认"
     },
     {
       "author": "fwqgo_com",
@@ -3767,5 +3822,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-17T07:47:33+08:00"
+  "updated_at": "2026-11-17T08:57:41+08:00"
 }
