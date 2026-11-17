@@ -3335,6 +3335,17 @@
       "notes": "68分（来源20/可验证20/价值8/时效15/风险5）：Javary324 原帖 + 两家第三方指南交叉核实（均整理自 Pionex 官方 Help Center，2026-10-28 核对）：Pionex Card（派网卡）虚拟卡免开卡费/年费/闲置费；Visa 消费手续费 1%、返现 1% 基本相抵；卡内 USDT 享 5% 年化、每小时派息。注意：①中国大陆 +86 无法注册手机、无法完成 KYC、办不了，仅限海外身份读者参考；②实体卡申请已关闭，目前只有虚拟卡；③长期不用的卡会被批量注销且无法恢复；④发起拒付须主账户备足 650 USDT 保证金、申诉费每件 50 USDT；⑤马来西亚证监会 2026 年 1 月已把 Pionex 列入投资者警示名单；⑥卡片账户为交易所托管、无链上地址。"
     },
     {
+      "id": 402,
+      "title": "cloud-exit-node-deploy：让 Agent 在免费云上自建中继节点，出小火箭订阅（Coze 复刻未完成）",
+      "url": "https://x.com/404jsh/status/2122712389619691899",
+      "author": "404jsh",
+      "category": "云服务器",
+      "score": 67,
+      "expiry_date": null,
+      "value": "Agent 在免费云上自建中继节点，出 Clash 订阅；须自备云账号、域名与 CF Token，额度外可能收费",
+      "notes": "67分（来源20/可验证15/价值12/时效15/风险5）。原帖经独立浏览器只读核实全文 + 打开仓库核对：GitHub 仓库 free-dam-man/cloud-exit-node-deploy 真实存在、公开（62 stars、18 forks、仅 1 次提交、约 4 小时前），但无 README.md、无 LICENSE 文件，作者自述不懂开源，严格说只是公开仓库而非开源项目；SKILL.md 说明让 agent 在 Oracle/AWS/Azure/GCP 任一云上部署中继节点（Cloudflare Tunnel + 代理），生成 Clash 小火箭订阅与全球 IP。注意：①代码本身免费，但须自备云账号、域名与 Cloudflare API Token，云免费额度用完可能产生费用；②帖子称 Coze 复刻“还在搭建部署”，即尚未完成；③SKILL.md 自带警告：凭据（API 密钥、Token）泄露将导致账号被盗、免费额度耗尽，成本与可用性不作承诺，请勿用于违法违规用途；④仅 1 次提交、无 README，成熟度低，部署流程未经本轮实测。"
+    },
+    {
       "id": 395,
       "title": "PanstarCloud 新加坡 SGS Mini $5.99/月（Mini 已售罄）",
       "url": "https://x.com/fwqgo_com/status/2122661575811363082",
@@ -3630,17 +3641,6 @@
       "expiry_date": null,
       "value": "48 小时内填邀请码，双方各得 10 亿 token",
       "notes": "评分 67 分（来源20/可验证15/价值12/时效15/风险5）。原帖已核实存在且内容相符，但说法需打折：多方 10 月实测证实邮箱注册是主流程、部分用户确实免手机号免绑卡通过，但年龄验证（绑卡 1 美元预授权或关联 IG/FB）与美国 IP 地区风控仍在，“门槛消失”只对部分用户成立，且原帖作者自己也用“好像”表述。另：注册后 48 小时内兑换邀请码双方各得 10 亿 token；同号另一条帖子的邀请码 YXEARY（先到先得，名额无法核实）。"
-    },
-    {
-      "author": "404jsh",
-      "category": "云服务器",
-      "expiry_date": null,
-      "id": 402,
-      "notes": "67分（来源20/可验证15/价值12/时效15/风险5）。原帖经独立浏览器只读核实全文 + 打开仓库核对：GitHub 仓库 free-dam-man/cloud-exit-node-deploy 真实存在、公开（62 stars、18 forks、仅 1 次提交、约 4 小时前），但无 README.md、无 LICENSE 文件，作者自述不懂开源，严格说只是公开仓库而非开源项目；SKILL.md 说明让 agent 在 Oracle/AWS/Azure/GCP 任一云上部署中继节点（Cloudflare Tunnel + 代理），生成 Clash 小火箭订阅与全球 IP。注意：①代码本身免费，但须自备云账号、域名与 Cloudflare API Token，云免费额度用完可能产生费用；②帖子称 Coze 复刻“还在搭建部署”，即尚未完成；③SKILL.md 自带警告：凭据（API 密钥、Token）泄露将导致账号被盗、免费额度耗尽，成本与可用性不作承诺，请勿用于违法违规用途；④仅 1 次提交、无 README，成熟度低，部署流程未经本轮实测。",
-      "score": 67,
-      "title": "cloud-exit-node-deploy：让 Agent 在免费云上自建中继节点，出小火箭订阅（Coze 复刻未完成）",
-      "url": "https://x.com/404jsh/status/2122712389619691899",
-      "value": "Agent 在免费云上自建中继节点，出 Clash 订阅；须自备云账号、域名与 CF Token，额度外可能收费"
     },
     {
       "id": 391,
@@ -4229,5 +4229,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-18T02:56:11+08:00"
+  "updated_at": "2026-11-18T04:45:17+08:00"
 }
