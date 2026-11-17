@@ -1,5 +1,5 @@
 {
-  "count": 381,
+  "count": 384,
   "items": [
     {
       "id": 6,
@@ -561,6 +561,17 @@
       "expiry_date": "2026-11-30",
       "value": "11月内Pro用户前$3000消费返4%积分（最高约$120积分）",
       "notes": "83分（来源25/可验证23/价值15/时效13/风险7）：Pulsar官方帮助中心“Pulsar Points Explained”（2026-11-12更新）原文核实：11月剩余时间Pro用户前$3000合规消费按4%返Pulsar Points（$0–$1000/$1000–$2000/$2000–$3000三档均为4%，$3000以上回落至0.5%），新老Pro用户同享，返现按月计算、次月10日前到账；另有Beyond Friday活动11月3–30日指定商户（Amazon/eBay/SHEIN/TEMU/Steam等）双倍返现。注意：①须Pro订阅$9.99/月（年付$99.99），返的是积分（100积分=$1，可抵扣消费），不是现金；②与在册id104（首开Pro返$10积分）是同一产品的不同活动：本条是11月限时返现档位提升；③“首月会员费返还”只见于10月活动（限前100名、已于2026-11-01截止），11月官方页未见此口径，不要按11月权益算；④积分Pro有效期6个月；⑤Pulsar为罗马尼亚公司、Wirex提供Visa发卡，属小牌照预付产品，别大额充值；⑥另有11月推荐返现（推荐人对被推荐人合计前$3000享3%、上限$90）与本人消费4%是两回事，别混淆。补充（2026-11-16 10:40轮，Javary324帖 + 官网帮助中心复核）：Free前$3000分档为$0–$1000 0.5%、$1000–$2000 1%、$2000–$3000 2%，Pro前$3000统一4%，超$3000后Free 0.25%、Pro 0.5%；但《Pulsar Pro》同页对照表写Free首$500为0.5%、之后一律0.25%，与前表Free 1%/2%分档互相矛盾，两篇均标“Updated this week”，以哪篇为准未定；Pro的4%是11月活动价、非标准费率；特定商户翻倍仅ChatGPT、Claude、X、Uber、Bolt五家，翻倍后Free 2%→4%（仅$2000–$3000档）、Pro 4%→8%；积分抵扣：25%/50%档100积分=$1、75%档112积分=$1、全额100%档125积分=$1（全额抵只值8折），单笔抵扣至少$0.5，退款以USDC到账。补充（2026-11-17 00:40轮，SecJack96帖 + Pulsar官网博客/活动条款复核）：Beyond Friday 11-16–22 为 Tech and gaming 周，参与品牌 PlayStation Store、Steam、MediaMarkt、Worten，Pro 会员在这些品牌消费享双倍返现（以 Pulsar Points 发放），每个商家最多 2 笔合规消费享双倍；“8%”为按 Pro 标准 4% 双倍推算，官方条款只写“双倍于适用标准返现率”，未直接写 8%。帖内首月返 10U、白色 Pro 卡、每月返现上限 100U 本次未在 Beyond Friday 公告/条款中逐条核查。"
+    },
+    {
+      "id": 400,
+      "title": "Gravatar 免费一级域名一年：首年免费（.bio/.fyi 等 14 个后缀，仅限资料页）",
+      "url": "https://t.me/baipiaofl/65146",
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "score": 82,
+      "expiry_date": null,
+      "value": "首年免费域名（.fyi 续费约 $18/年、.bio 约 $62/年），仅限 Gravatar 资料页/Bluesky handle，无 DNS 管理",
+      "notes": "82分（来源30/可验证25/价值12/时效10/风险5）。Gravatar 官方支持页（support.gravatar.com/custom-domains，2026-11-17 核实仍在线）确认：目前所有域名首年免费，后缀 .bio/.fyi/.life/.ninja/.rocks/.contact/.guru/.link/.place/.social/.cool/.info/.live/.pro/.world（无 .com）；续费按标准价（.fyi 约 $18/年、.bio 约 $62/年）。注意：①域名只能指向 Gravatar 个人资料页（也可作 Bluesky handle），免费域名无 DNS 管理，不能当通用建站域名；②不续费则资料页回落到 gravatar.com/用户名，资料本身仍免费；③2024-12 官方博客称“限时”，支持页至今仍写“目前首年免费”，无明确截止日；④领用走 $0 结账流程，续费细节在结账时显示，领前确认是否绑卡、到期前记得取消续费。"
     },
     {
       "id": 394,
@@ -1311,6 +1322,17 @@
       "notes": "78分（来源20/可验证25/价值8/时效15/风险10；Upstash 官网 upstash.com/box 与定价页直接核实：免费档每月 5 CPU 小时、最多 10 个并发 Box，每个 Box 2 vCPU/4GB 内存/10GB 存储，内置 Claude Code、Codex、OpenCode、Cursor，文件系统持久、支持 Git 与无头浏览器，闲置 1 小时自动暂停不计费；注册免绑卡。注意：①免费的是沙箱算力、不是模型额度，模型调用须自带 Provider Key（Anthropic/OpenAI/OpenRouter 等）；②5 小时/月只够轻量任务，按量价 $0.10/活跃 CPU 小时（Small），超额自费；③目前仅 AWS us-east-1 区域；④存储 $0.10/GB/月，含快照）"
     },
     {
+      "id": 398,
+      "title": "BrowserPod：浏览器标签页里免费开 Linux 微虚拟机，免注册免 API Key（Leaning Technologies 11月16日发布）",
+      "url": "https://x.com/BlockInsight214/status/2122691728347922798",
+      "author": "BlockInsight214",
+      "category": "免费额度",
+      "score": 77,
+      "expiry_date": null,
+      "value": "浏览器里免费跑 Linux 微虚拟机，免注册免 API Key，AI Agent 可自助开沙箱；本地运行无服务器费用",
+      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）。原帖全文完整 + 官方通稿核实：Leaning Technologies（WebVM 团队）2026-11-16 发布 BrowserPod，浏览器标签页里跑免费 Linux 微虚拟机，无需注册、无 API Key，智能体自己装 npm 包（npm i @leaningtech/browserpod，BrowserPod.boot()）就能开沙箱；微虚拟机跑在用户本机，不用付服务器钱。注意：①无 Key 的沙箱只能访问接受浏览器请求的网站、可装 npm 包；要公网 URL、访问 GitHub 或 TCP 连接须用付费 BrowserPod Edge（含每月 1000 免费小时）；②CheerpX 引擎机构使用须商业授权，个人探索免费；③面向开发者/AI Agent，普通用户直接收益有限；④刚发布，免费政策可能调整。"
+    },
+    {
       "id": 396,
       "title": "RakSmart 硅谷双ISP住宅IP VPS $3.87/月起（续费同价）",
       "url": "https://x.com/fwqgo_com/status/2122640025934544912",
@@ -2048,17 +2070,6 @@
       "notes": "评分 77 分（来源25/可验证20/价值12/时效15/风险5）。原帖与多方来源均已核实：腾讯 LightVela（轻量云云端 Agent）新用户首单免费 1 个月启航 AI 套餐，每月含 4500 AI 积分，平时标价 10 美元/月；国内站需实名认证，国际站免 KYC。注意两点：①原帖“4500积分3个月”未证实，官方口径是首月免费、每月 4500 积分；②原帖教的“从云存储下载 .env 文件当 API key 外用”属非官方用法，有被封号风险，不建议照搬。"
     },
     {
-      "id": 398,
-      "title": "BrowserPod：浏览器标签页里免费开 Linux 微虚拟机，免注册免 API Key（Leaning Technologies 11月16日发布）",
-      "url": "https://x.com/BlockInsight214/status/2122691728347922798",
-      "author": "BlockInsight214",
-      "category": "免费额度",
-      "score": 77,
-      "expiry_date": "",
-      "value": "浏览器里免费跑 Linux 微虚拟机，免注册免 API Key，AI Agent 可自助开沙箱；本地运行无服务器费用",
-      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）。原帖全文完整 + 官方通稿核实：Leaning Technologies（WebVM 团队）2026-11-16 发布 BrowserPod，浏览器标签页里跑免费 Linux 微虚拟机，无需注册、无 API Key，智能体自己装 npm 包（npm i @leaningtech/browserpod，BrowserPod.boot()）就能开沙箱；微虚拟机跑在用户本机，不用付服务器钱。注意：①无 Key 的沙箱只能访问接受浏览器请求的网站、可装 npm 包；要公网 URL、访问 GitHub 或 TCP 连接须用付费 BrowserPod Edge（含每月 1000 免费小时）；②CheerpX 引擎机构使用须商业授权，个人探索免费；③面向开发者/AI Agent，普通用户直接收益有限；④刚发布，免费政策可能调整。"
-    },
-    {
       "id": 386,
       "title": "ChatGPT Pro 套餐现含每月 API 额度：Pro 200 档每月 $200（须付费订阅，Plus 没有）",
       "url": "https://t.me/baipiaofl/65102",
@@ -2310,6 +2321,17 @@
       "expiry_date": "2026-11-30",
       "value": "入选 Duet 预览得一次完整额度重置（5小时+周额度全满），11月30日前可用；研究预览期不额外收费",
       "notes": "73分（来源20/可验证20/价值15/时效13/风险5）：Anthropic 帮助中心《Get started with Claude Duet》原文证实：入选 Duet 研究预览的账号得一次完整额度重置（Full reset），5小时额度与周额度同时回满，在设置→用量→Limit resets 里点 Reset for free；卡面写明 11月30日到期（美东 11月30日 23:59，北京时间 12月1日 12:59）。Duet 10月21日宣布，属主动型助手 App（每天发简报、后台自己干活），研究预览期包含在 Pro/Max 订阅内、不额外收费。注意：①帖称“送了四个重置”未证实，官方口径是入选得一张完整重置卡，帖主账上多出的卡可能来自其他活动（11月11日全员完整重置 id115、Fable 重置 id114 是另外两张卡），别按四张算；②仅限美国 Pro/Max 用户，候补名单分批放行，排队不保证入选、入选时间不定，免费版/Team/Enterprise 无份；③Duet 的后台任务（早报、定时检查）与 Claude 共用同一额度池，会更快触顶；④与 11月11日全员重置（12月10日前可用，id115）是两回事，两张卡各有各的截止日，别混淆；⑤NodeSeek 原帖 post-1050277-1 因本站 IP 被封禁未读到，以 TG 转发全文 + 官方帮助中心 + 重置追踪站交叉证实。"
+    },
+    {
+      "id": 399,
+      "title": "Wirex 卡：免费开卡，每月 ATM 免费额度 200 英镑/欧元（澳洲 400 澳元），超出收 2%",
+      "url": "https://x.com/Aisiverto/status/2122682668223521151",
+      "author": "Aisiverto",
+      "category": "金融卡券",
+      "score": 72,
+      "expiry_date": null,
+      "value": "免费开卡、无月费；每月免费 ATM 取现 200 英镑/欧元（澳洲 400 澳元），超出收 2%",
+      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）。原帖经独立浏览器只读核实全文 + 多家 2026 年 11 月评测引用官方费率页（help.wirexapp.com Wirex Fees）核对一致：Wirex 卡免费开卡、改 PIN 免费；每月 ATM 免费额度英国 200 英镑、欧洲经济区 200 欧元、亚太/新加坡 200 新元、澳大利亚 400 澳元、其他地区 200 英镑，超出部分收 2%。注意：①免费 Standard 档无月费，另有 0.5% WXT 返现（Cryptoback）；②换汇费无固定数字，以 App 内显示为准；③须护照 KYC，中国大陆用户能否开卡未在官方公布的国家名单中证实，领前先确认；④寄卡费另收（英国平邮 5 英镑、香港平邮 39 港币、DHL 238 港币、台湾/菲律宾平邮 4.99 美元）；⑤Trustpilot 约 2.5/5，口碑一般；⑥加密货币侧已于 2026 年 6 月 30 日在欧洲经济区与澳大利亚下线。"
     },
     {
       "id": 392,
@@ -2950,15 +2972,15 @@
       "notes": "72分（来源20/可验证20/价值12/时效15/风险5）。原帖已核实；Simular Box 免费档、Kaggle 每周约 30 小时 GPU、Codespaces 每月 120 核小时、Cloudflare Workers 每天 10 万次请求均已证实；Pxxl 台湾免费节点、Cloady 西雅图免费节点未核实，免费节点安全性不明，谨慎使用。"
     },
     {
-      "id": 399,
-      "title": "Wirex 卡：免费开卡，每月 ATM 免费额度 200 英镑/欧元（澳洲 400 澳元），超出收 2%",
-      "url": "https://x.com/Aisiverto/status/2122682668223521151",
-      "author": "Aisiverto",
-      "category": "金融卡券",
-      "score": 72,
-      "expiry_date": "",
-      "value": "免费开卡、无月费；每月免费 ATM 取现 200 英镑/欧元（澳洲 400 澳元），超出收 2%",
-      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）。原帖经独立浏览器只读核实全文 + 多家 2026 年 11 月评测引用官方费率页（help.wirexapp.com Wirex Fees）核对一致：Wirex 卡免费开卡、改 PIN 免费；每月 ATM 免费额度英国 200 英镑、欧洲经济区 200 欧元、亚太/新加坡 200 新元、澳大利亚 400 澳元、其他地区 200 英镑，超出部分收 2%。注意：①免费 Standard 档无月费，另有 0.5% WXT 返现（Cryptoback）；②换汇费无固定数字，以 App 内显示为准；③须护照 KYC，中国大陆用户能否开卡未在官方公布的国家名单中证实，领前先确认；④寄卡费另收（英国平邮 5 英镑、香港平邮 39 港币、DHL 238 港币、台湾/菲律宾平邮 4.99 美元）；⑤Trustpilot 约 2.5/5，口碑一般；⑥加密货币侧已于 2026 年 6 月 30 日在欧洲经济区与澳大利亚下线。"
+      "id": 401,
+      "title": "Decentralized Intelligence (DI)：每日签到攒分，30 天连签获 Genesis NFT 资格（潜在 $DI 空投）",
+      "url": "https://t.me/airdrop_alert_dot_com/3645",
+      "author": "AirdropAlert-com",
+      "category": "其他",
+      "score": 70,
+      "expiry_date": null,
+      "value": "每日签到+社交任务攒积分，30天连签获2000枚Genesis NFT领取资格；$DI 空投仅为潜在、TGE未定",
+      "notes": "70分（来源25/可验证20/价值10/时效10/风险5）。AirdropAlert 转述 + 融资消息核实：Decentralized Intelligence（DI，用户所有的金融 AI Agent 网络）2026-11-13/14 宣布完成融资、估值 1 亿美元，背书方 OKX Ventures、Lingfeng Capital、Draper Dragon、DePIN X（cryptorank 2026-11-14 报道）；AirdropAlert 空投页列出玩法：每日签到+社交任务攒积分，30 天连续签到获 Genesis NFT 领取资格，共 2000 枚，未来或有 $DI 空投。注意：①$DI 空投只是“潜在”（Potential post-TGE），官方未公布代币发行时间与分配细则；②Genesis NFT 仅 2000 枚、须 30 天连签才有资格，竞争与中签率未定；③须连钱包做任务，免费参与、无押金；④项目与产品（Event Engine）刚起步，代币价值未定。"
     },
     {
       "id": 373,
@@ -3610,6 +3632,17 @@
       "notes": "评分 67 分（来源20/可验证15/价值12/时效15/风险5）。原帖已核实存在且内容相符，但说法需打折：多方 10 月实测证实邮箱注册是主流程、部分用户确实免手机号免绑卡通过，但年龄验证（绑卡 1 美元预授权或关联 IG/FB）与美国 IP 地区风控仍在，“门槛消失”只对部分用户成立，且原帖作者自己也用“好像”表述。另：注册后 48 小时内兑换邀请码双方各得 10 亿 token；同号另一条帖子的邀请码 YXEARY（先到先得，名额无法核实）。"
     },
     {
+      "author": "404jsh",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 402,
+      "notes": "67分（来源20/可验证15/价值12/时效15/风险5）。原帖经独立浏览器只读核实全文 + 打开仓库核对：GitHub 仓库 free-dam-man/cloud-exit-node-deploy 真实存在、公开（62 stars、18 forks、仅 1 次提交、约 4 小时前），但无 README.md、无 LICENSE 文件，作者自述不懂开源，严格说只是公开仓库而非开源项目；SKILL.md 说明让 agent 在 Oracle/AWS/Azure/GCP 任一云上部署中继节点（Cloudflare Tunnel + 代理），生成 Clash 小火箭订阅与全球 IP。注意：①代码本身免费，但须自备云账号、域名与 Cloudflare API Token，云免费额度用完可能产生费用；②帖子称 Coze 复刻“还在搭建部署”，即尚未完成；③SKILL.md 自带警告：凭据（API 密钥、Token）泄露将导致账号被盗、免费额度耗尽，成本与可用性不作承诺，请勿用于违法违规用途；④仅 1 次提交、无 README，成熟度低，部署流程未经本轮实测。",
+      "score": 67,
+      "title": "cloud-exit-node-deploy：让 Agent 在免费云上自建中继节点，出小火箭订阅（Coze 复刻未完成）",
+      "url": "https://x.com/404jsh/status/2122712389619691899",
+      "value": "Agent 在免费云上自建中继节点，出 Clash 订阅；须自备云账号、域名与 CF Token，额度外可能收费"
+    },
+    {
       "id": 391,
       "title": "Touch 'n Go eWallet 游客也能开：中国 +86 手机号可注册",
       "url": "https://x.com/Javary324/status/2122648276554137703",
@@ -4196,5 +4229,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-17T22:56:56+08:00"
+  "updated_at": "2026-11-18T02:56:11+08:00"
 }
