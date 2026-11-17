@@ -7,7 +7,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 - 范围：以 AI 为主（AI 会员、免费额度、VPS/VPN、AI 赚钱新路子）
 - 更新时间：见 wool.json 里的 `updated_at`（北京时间）
 
-## 本次更新（2026-11-17 08:57，347 条，本轮新增 5 条）
+## 本次更新（2026-11-17 09:44，348 条，本轮新增 1 条）
 
 | 分 | 内容 |
 |---|---|
@@ -57,6 +57,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 84 | Hermes Agent：会越用越懂你的开源 AI Agent（NousResearch，MIT 免费）（无固定截止日（开源项目长期有效）） |
 | 83 | Coarena 每天 $5 免费调 22 个模型：含 Opus 5.5、GPT-6.1 Sol、Gemini 4 Carbon，免绑卡（无固定截止日（免费档持续有效，以官方文档为准）） |
 | 83 | Pulsar Money 11月返现提到4%：Pro用户前$3000消费全按4%返积分（到11月30日）（2026-11-30） |
+| 82 | Runcrate：5 个开源模型每周免费额度，GitHub 账号免费用 DeepSeek V4.1 Flash |
 | 82 | DediOne 洛杉矶 VPS 补货：1核/1G/20G、1Gbps/1TB，$12.99/年 |
 | 82 | Google Labs 开源 Stitch Design Skills：15 个 UI 设计技能，兼容 Claude Code/Cursor（GitHub 9.7k Star） |
 | 82 | uuuvps 洛杉矶 LA ntt s1 补货：双 ISP 住宅 IP/9929，¥388/年 |
