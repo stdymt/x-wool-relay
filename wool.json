@@ -1,5 +1,5 @@
 {
-  "count": 353,
+  "count": 354,
   "items": [
     {
       "author": "yedabinbinah",
@@ -11,6 +11,17 @@
       "title": "Perch AI 每月免费 20000 PT（约 20 美元），不用绑卡",
       "url": "https://x.com/yedabinbinah/status/2119309189692661916",
       "value": "每月约 20 美元额度，全年约 240 美元"
+    },
+    {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 372,
+      "notes": "90分。OpenAI 11月16日官方公告《Broadening access to AI for scientists》核实：ChatGPT for Academic Researchers 扩大到最多20万名研究人员，11月23日开放新一轮申请，新增5万个名额，先到先得（不再抽签）；每个名额覆盖申请人本人+最多2名同机构合作者，三人均免费使用 ChatGPT Plus（含前沿模型与使用培训）；试点（7月29日启动）给的是 Pro，新一轮改为 Plus；试点至今33个国家和地区2万人加入。多家媒体（IT之家/新浪、unite.ai 等）口径一致。",
+      "score": 90,
+      "title": "OpenAI 扩大 ChatGPT 学术研究免费计划：11月23日再开放5万个名额，先到先得",
+      "url": "https://t.me/baipiaofl/65051",
+      "value": "免费 ChatGPT Plus（每名额覆盖本人+2名合作者，约$20/人/月）；须验证学校或研究机构在职身份并提交研究内容，方向限科学、数学、工程；11月23日开放申请，5万名额先到先得，满额即关"
     },
     {
       "author": "tantanyuli",
@@ -3888,5 +3899,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-17T10:58:49+08:00"
+  "updated_at": "2026-11-17T11:45:54+08:00"
 }
