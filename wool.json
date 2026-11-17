@@ -1,5 +1,5 @@
 {
-  "count": 358,
+  "count": 360,
   "items": [
     {
       "author": "yedabinbinah",
@@ -1226,6 +1226,17 @@
       "author": "白嫖福利推送",
       "category": "免费额度",
       "expiry_date": null,
+      "id": 378,
+      "notes": "78分（来源20/可验证25/价值8/时效15/风险10）。白嫖福利推送转发 NodeSeek 帖 + 多家 2026-11-09 独立核对 Nomad 官方试用页：新用户在 Nomad App 内领 1GB 试用 eSIM，3 天有效，76–80 个目的地（含美国、日本、英国、欧洲多国、泰国、越南等），无需绑卡，可开热点；领取后 15 天内未用自动激活。注意：①领了试用就失去其他新用户优惠资格（含推荐码优惠）；②仅限新用户、每账号/每设备一次，须用支持 eSIM 的手机；③同帖 Eskimo 500MB 全球流量不过期已在册 id19，不另立；④同帖 Roamless 部分正文截断、未核实，不作依据；⑤试用条款以 Nomad App 内页面为准。",
+      "score": 78,
+      "title": "Nomad 免费 1GB eSIM 试用：新用户 3 天，76–80 个目的地，免绑卡",
+      "url": "https://t.me/baipiaofl/65065",
+      "value": "新用户免费 1GB 流量，3 天有效（约 $4-5）；免绑卡，App 内领取"
+    },
+    {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": null,
       "id": 374,
       "notes": "77分（来源15/可验证25/价值12/时效15/风险10）。TG转帖 linux.do 3189432 + 多方核实：上海人工智能实验室官方平台 discovery.intern-ai.org.cn，「墨点计划」测试期每月免费 Token；4款自研科研模型（Agents-A1、Atria-Dawn、Sage-A1.5、书生-S2）标价免费；平台另接 DeepSeek V4.1 Flash、GLM-5.3、Kimi-K2.6 等第三方模型，按墨点扣费；兼容 OpenAI/Anthropic 协议，可换 Base URL 接 Claude Code/Codex；手机号注册即可，无充值渠道。注意：①TG帖称“每月免费1万墨点，5千算力点”与多方核实不符——多家核实为每月约10墨点（1墨点最高抵约5000万Token，顶格约5亿），以官方控制台显示为准；②墨点月底清零、额度按账号定；③自研模型限时0墨点，第三方模型扣墨点，别选错模型把额度跑光。",
       "score": 77,
@@ -1892,6 +1903,17 @@
       "title": "腾讯 LightVela 新用户首月免费：4500 AI 积分",
       "url": "https://x.com/yedabinbinah/status/2119462302240121289",
       "value": "首月免费，约 10 美元；.env 外用法有风险"
+    },
+    {
+      "author": "Airdrop Inspector",
+      "category": "其他",
+      "expiry_date": null,
+      "id": 377,
+      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）。Airdrop Inspector 转述 + make.fun 官网核实：AI 编程悬赏平台（运营方 EZO Labs Inc.），用 Claude Code/Codex/Cursor 等 AI 编程 agent 做题参赛，入围名次拿 USDC（发到自己的 Solana 钱包）；多数悬赏免费参赛，单悬赏奖金 $250–$1000、多名额分奖；新悬赏全额奖金锁在 Solana 链上托管（代码公开），官网称 2026-11-09 以来已付 $7,141 USDC 给 575 个账户、每笔带链上交易签名。注意：①竞赛制不是工资——只有悬赏列出的名次才有钱，名次之外零收益；②参赛要花时间和模型调用成本，须自备 Solana 钱包；③TG 原帖链接为带推荐码的 make.fun/r/ 链接，本条以官网为准、不放推荐链接；④同条 Nihilo 领卡只是社交任务、无明确奖励，不收。",
+      "score": 77,
+      "title": "make.fun：用 AI 编程 agent 赢 coding 悬赏，奖金 USDC 发到 Solana 钱包",
+      "url": "https://t.me/airdropinspector/8093",
+      "value": "AI 编程悬赏，单悬赏 $250–$1000 USDC（竞赛制，仅入围名次有钱；多数免费参赛）"
     },
     {
       "author": "白嫖福利推送",
@@ -3943,5 +3965,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-17T12:56:49+08:00"
+  "updated_at": "2026-11-17T13:46:07+08:00"
 }
