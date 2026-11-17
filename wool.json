@@ -1,5 +1,5 @@
 {
-  "count": 348,
+  "count": 353,
   "items": [
     {
       "author": "yedabinbinah",
@@ -275,6 +275,17 @@
       "title": "Articul8 Bivia 免费领 10 亿 Token：前 10000 名，免绑卡",
       "url": "https://x.com/yedabinbinah/status/2119047941101109491",
       "value": "免费 10 亿决策 tokens（约 42 美元），免绑卡，API 可用"
+    },
+    {
+      "author": "Aisiverto",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 367,
+      "notes": "85分（来源20/可验证25/价值20/时效15/风险5）。85+ 二审已做：重开 AWS 官网 https://aws.amazon.com/free/ 复核——新开 AWS Free Tier 账号立即得 $100 credits，探索关键服务最多再赚 $100，合计最高 $200、6 个月内有效；6 个月到期或 credits 用完账号自动关闭，以先到为准；不升级 Paid plan 不扣费；Free plan 可用 90 多项服务、30+ 服务在月度用量内一直免费。注意：①仅限新账号；②注册须验证信用卡（身份验证用，不升级不扣费）；③Free plan 仅限部分服务，全部服务须升级 Paid plan、超出 credits 才付费。",
+      "score": 85,
+      "title": "AWS 新号最高 $200 credits：注册即得 $100，再赚 $100，6 个月有效（官方 Free Tier 新版）",
+      "url": "https://x.com/Aisiverto/status/2122505752120066236",
+      "value": "新号最高 $200 AWS credits，6 个月有效（注册即得 $100）"
     },
     {
       "author": "白嫖福利推送",
@@ -853,7 +864,7 @@
       "category": "软件工具",
       "expiry_date": "无固定截止日",
       "id": 76,
-      "notes": "82分（来源20/可验证25/价值12/时效15/风险10）：GitHub anthropics/skills 官方仓库核实：Anthropic 官方发布的 Agent Skills 合集，含 docx/xlsx/pptx/pdf 文档技能与 12 个示例技能（另有 skill-creator、mcp-builder 等），约 19 万 stars；Claude Code 里 /plugin marketplace add anthropics/skills 即可安装。注意：①帖子称“开源”不完全准确：示例技能为 Apache-2.0 开源，docx/pdf/pptx/xlsx 四个文档技能是 source-available（专有许可，绑定与 Anthropic 的协议，禁复制/衍生/分发）；②仓库自述为演示与教学用途，行为与 Claude 自带技能可能有出入；③技能会在 Claude 环境里执行代码，只从可信来源安装——本条即 Anthropic 官方源；④用技能本身不另收费，Claude Code 用量照常计费。",
+      "notes": "82分（来源20/可验证25/价值12/时效15/风险10）：GitHub anthropics/skills 官方仓库核实：Anthropic 官方发布的 Agent Skills 合集，含 docx/xlsx/pptx/pdf 文档技能与 12 个示例技能（另有 skill-creator、mcp-builder 等），约 19 万 stars；Claude Code 里 /plugin marketplace add anthropics/skills 即可安装。注意：①帖子称“开源”不完全准确：示例技能为 Apache-2.0 开源，docx/pdf/pptx/xlsx 四个文档技能是 source-available（专有许可，绑定与 Anthropic 的协议，禁复制/衍生/分发）；②仓库自述为演示与教学用途，行为与 Claude 自带技能可能有出入；③技能会在 Claude 环境里执行代码，只从可信来源安装——本条即 Anthropic 官方源；④用技能本身不另收费，Claude Code 用量照常计费。2026-11-17 更新：仓库 2026-11-16 提交把 docx、pptx、xlsx 技能转为 Apache 2.0 开源（此前为 source-available 专有许可），现四个文档技能均为 Apache-2.0；KOF97AI 同日 pptx 技能帖与本条同源，不另立条目。",
       "score": 82,
       "title": "Anthropic 官方技能包开源：anthropics/skills，Claude 做 Word/表格/PPT 的技能原样公开",
       "url": "https://x.com/lovethelife2333/status/2120076507766743124",
@@ -1188,6 +1199,28 @@
       "title": "Upstash Box 免费层：每月 5 小时 AI Agent 云端电脑，内置 Claude Code（免绑卡）",
       "url": "https://x.com/lovethelife2333/status/2121106000249827689",
       "value": "每月免费 5 CPU 小时、最多 10 个并发 Box：2 vCPU/4GB/10GB，内置 Claude Code/Codex"
+    },
+    {
+      "author": "BlockInsight214",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 371,
+      "notes": "77分（来源20/可验证20/价值12/时效15/风险10）。原帖经独立浏览器只读核实全文 + Kiosapi 官网定价页核实：免费档（Gratis）确实列出 google/gemma-4-26b、zai/glm-4.7-flash、qwen/qwen3-30b-a3b、meta/llama-3.1-8b-instruct、aisingapore/sea-lion-27b 共 5 个模型，FAQ 称免费模型无需充值、有每分钟限流与每日配额。注意：①“每天 50 次”仅见于第三方汇总页（帖内链接指向 mvalentsev.github.io/awesome-free-ai-coding），官网定价页/FAQ/更新日志均未写明 50 次这一数字，未证实；②使用须注册账号进 Dashboard，官网未见绑卡要求。",
+      "score": 77,
+      "title": "Kiosapi 免费档：Gemma 4 26B、GLM-4.7 Flash 等 5 个模型免费，每天 50 次请求（50 次未在官网证实）",
+      "url": "https://x.com/BlockInsight214/status/2122498202351853814",
+      "value": "5 个免费模型每天免费调用（官网未写明 50 次，第三方汇总说法）"
+    },
+    {
+      "author": "Aisiverto",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 369,
+      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）。原帖经独立浏览器只读核实全文完整无截断 + Google Cloud 官方免费层文档（https://cloud.google.com/free/docs/free-cloud-features，2026-11-13 更新）逐项核对：每月 1 台非抢占式 e2-micro，仅限 us-west1（俄勒冈）/us-central1（爱荷华）/us-east1（南卡），30GB 标准永久磁盘/月，北美出站 1GB/月（到中国和澳大利亚不算），免费额度按时长不按台数，GPU/TPU 不在免费范围；新号另有 $300 试用金 90 天内有效；Free Tier 无截止日。注意：①须开通结算账号（绑卡验证），按免费额度内使用不扣费；②$300 试用金自 2026-11-16 起不再抵扣 Vertex AI/Gemini 平台费用（见收集册 id270/id171）。",
+      "score": 77,
+      "title": "谷歌云永久免费 e2-micro：每月 1 台 + 30GB 磁盘 + 1GB 出站流量（限美东/中/西三区）",
+      "url": "https://x.com/Aisiverto/status/2122488891060175259",
+      "value": "永久免费小鸡：每月 1 台 e2-micro + 30GB 磁盘（须绑卡开通结算账号）"
     },
     {
       "author": "KOF97AI",
@@ -2068,6 +2101,17 @@
       "title": "Claude Duet 研究预览入选送一次完整额度重置：5小时+周额度全满，11月30日前可用",
       "url": "https://t.me/baipiaofl/64552",
       "value": "入选 Duet 预览得一次完整额度重置（5小时+周额度全满），11月30日前可用；研究预览期不额外收费"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 370,
+      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）。原帖经独立浏览器只读核实全文 + 商家官网配置页核实：法兰克福 C.Std - Mini，德国法兰克福，1 vCPU/1GB 内存/10GB 系统盘/200Mbps 带宽，月付 ¥15.99、年付 ¥179.99（原价 ¥191.88，-6%），页面可正常配置下单、在售。注意：①配置页未出现“9929”“EPYC 7K62”字样，9929 回国优化线路未在官网核实；②流量额度数值官网未标明，帖子正文也未给；③按流量计费、常规在售款；④帖内链接带 aff 参数。",
+      "score": 72,
+      "title": "云悠德国法兰克福 VPS：1核/1G/10G/200Mbps，¥15.99/月（年付 ¥179.99）",
+      "url": "https://x.com/fwqgo_com/status/2122502480605147476",
+      "value": "德国法兰克福 VPS ¥15.99/月（1核/1G/10G/200Mbps）"
     },
     {
       "author": "AirdropAlert-com",
@@ -3544,6 +3588,17 @@
       "value": "0.01元得百度AI Pro首月+25000积分（原价首月9.9元）"
     },
     {
+      "author": "yedabinbinah",
+      "category": "金融卡券",
+      "expiry_date": "2026-11-25",
+      "id": 368,
+      "notes": "62分（来源20/可验证15/价值12/时效10/风险5）。原帖经独立浏览器只读核实全文 + APP 截图细节自洽：每日收盘股票总资产达 HKD 5000（约 641 美元）得 1 次抽奖机会，最高抽 HKD 1888 指定美股兑换券，11-17 至 11-25 共 9 天与“可抽 9 次”吻合；若 Anthropic 于 2026-11-30 或之前上市，兑换券于上市后 7 个美股交易日内发放，否则发等值港元现金补偿。注意：①活动为 ZA BANK APP 内推广，无公开落地页，众安官网搜不到活动页，官方网页未独立核实；②须已有众安账户且持有股票资产达门槛，抽奖非必得；③“指定美股”为 2026-01-01 至 11-11 期间按预计筹资金额最大的前三只美股 IPO，Anthropic 是否在列以 APP 内规则为准。",
+      "score": 62,
+      "title": "众安 ZA Bank 抽 Anthropic 股票兑换券：股票资产满 HKD 5000 每天 1 次机会，最高 HKD 1888，11 月 25 日截止",
+      "url": "https://x.com/yedabinbinah/status/2122498959851872416",
+      "value": "抽最高 HKD 1888 Anthropic 股票兑换券（须股票资产满 HKD 5000，每天 1 次机会）"
+    },
+    {
       "author": "白嫖福利推送",
       "category": "金融卡券",
       "expiry_date": null,
@@ -3833,5 +3888,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-17T09:44:32+08:00"
+  "updated_at": "2026-11-17T10:58:49+08:00"
 }
