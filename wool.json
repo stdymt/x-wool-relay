@@ -1,5 +1,5 @@
 {
-  "count": 385,
+  "count": 382,
   "items": [
     {
       "author": "yedabinbinah",
@@ -157,17 +157,6 @@
     },
     {
       "author": "Lovislexus",
-      "category": "云服务器",
-      "expiry_date": "长期有效",
-      "id": 27,
-      "notes": "评分88分（来源25/可验证25/价值15/时效15/风险8）。原帖与多个独立来源核实一致：Simular Box免费档约4核8G/40GB Ubuntu云电脑，给AI Agent用（MCP接入），每日1000免费credits，免绑卡，Google/GitHub登录即可；帖子说的2核4G偏保守，实测约4核8G。注意：无公网入口、闲置休眠，不能当VPS/节点用；模型调用耗每日额度，用完次日刷新。",
-      "score": 88,
-      "title": "Simular Box免费云电脑：4核8G Ubuntu，每日1000 credits免费用",
-      "url": "https://x.com/Lovislexus/status/2119725396023545953",
-      "value": "免费得一台4核8G云电脑（Agent专用沙箱），长期有效；每日额度刷新"
-    },
-    {
-      "author": "Lovislexus",
       "category": "免费额度",
       "expiry_date": null,
       "id": 384,
@@ -264,17 +253,6 @@
       "title": "Firefox 内置免费 VPN 限时无限流量：11 月 10 日–2027 年 1 月 31 日（Mozilla 官方博客）",
       "url": "https://x.com/Javary324/status/2120480200823820797",
       "value": "免费 VPN 无限流量约 2.5 个月，省订阅费约 $14–35（仅 Firefox 内流量）"
-    },
-    {
-      "author": "KOF97AI",
-      "category": "免费额度",
-      "expiry_date": "2026-11-17",
-      "id": 144,
-      "notes": "87分（来源25/可验证25/价值12/时效15/风险10）：MiniMax 官方博客 2026-11-10 发布核实：H3-Image 开源权重模型，4K（4096×4096）生图 10 秒内，33.1B 参数，支持 16 张参考图与图片编辑；权重经 Hugging Face 开放，可用 SGLang/vLLM/ComfyUI 部署；同步上架 MiniMax API、MiniMax Code 与海螺 AI，首周 16MP 以上生图 5 折。注意：①自托管需约 135GB 权重（含文本编码器），普通电脑跑不动，普通用户走 API/海螺 AI 体验；②社区许可证排除美/欧/英/韩使用，中国用户不在排除之列；③首周 5 折结束日以官方为准，约 11 月 17 日。",
-      "score": 87,
-      "title": "MiniMax H3-Image 开源权重发布：4K 生图 10 秒，API 首周 16MP 以上 5 折",
-      "url": "https://x.com/KOF97AI/status/2120453113723359648",
-      "value": "开源权重免费下载自用；API 首周 16MP 以上生图 5 折（约 $0.069/张 4K 变半价）"
     },
     {
       "author": "lovethelife2333",
@@ -440,17 +418,6 @@
       "title": "Infini 卡 AI 订阅返现 30%，每月最多返 10 美元",
       "url": "https://t.me/nodeseekc/998874",
       "value": "AI 订阅每月最多返 $10，一年最多 $120；一般消费 1.5% 返现；首卡免费（需充值 $10 U）"
-    },
-    {
-      "author": "白嫖福利推送",
-      "category": "订阅优惠",
-      "expiry_date": "活动 2026-11-12 结束，兑换有效期至 2026-11-30",
-      "id": 50,
-      "notes": "85分（来源25/可验证20/价值20/时效15/风险5）：NodeSeek 原帖 post-1042965（作者 mikusaka，2026-11-10 09:33）已打开核实；MLH 官方活动页 events.mlh.com/events/14729-global-hack-week-builders-week 已打开核实，Global Hack Week: Builders Week 真实进行中。领取：注册 MLH 活动→参与挑战并签到→等 MLH 促销邮件（约 20 小时）→兑换。注意：①要求 MLH 账户注册满 30 天以上且 GitHub 账户关联满 30 天以上，新号领不到；②活动 11 月 12 日结束，兑换有效期至 11 月 30 日；③权益含 X Premium 1 个月 + Grok、Grok Bot 和 Cursor Pro（帖称价值 30 美元/月），X Premium 兑换细节只在论坛帖内、活动页未逐项列出。",
-      "score": 85,
-      "title": "MLH 开发者周免费领 1 个月 X Premium（含 Grok 与 Cursor Pro）",
-      "url": "https://t.me/baipiaofl/64202",
-      "value": "免费领 1 个月 X Premium + Grok、Cursor Pro（帖称价值约 30 美元/月）；需 MLH 老号（注册满 30 天）+ GitHub 关联满 30 天"
     },
     {
       "author": "Lovislexus",
@@ -739,17 +706,6 @@
       "value": "MySQL 兼容托管库：每组织每月免费 25GiB行存+25GiB列存+2.5亿RU，免绑卡；超额不扣费只限流"
     },
     {
-      "author": "KOF97AI",
-      "category": "免费额度",
-      "expiry_date": null,
-      "id": 258,
-      "notes": "82分（来源25/可验证25/价值12/时效15/风险5）。Google 11月12日发布 Gemini 4 Hydrogen（gemini-4-hydrogen），1M 上下文；Antigravity 官方模型表显示 Free 栏可用，API/AI Studio 免费层输入/输出/缓存均为免费，付费 $1.50/$7.50 每百万 tokens。注意：Orchestrator 搭配 Carbon，Carbon 免费版不可用，Orchestrator 不等于免费；帖子“5.8元 Jio Pro 同步解锁”未在官方页面核实；免费层内容会被用于改进产品。",
-      "score": 82,
-      "title": "Gemini 4 Hydrogen 免费层上线",
-      "url": "https://x.com/KOF97AI/status/2121445406932672516",
-      "value": "新一代旗舰模型免费层，API/AI Studio/Gemini App 均可免费用"
-    },
-    {
       "author": "duola_eth",
       "category": "免费额度",
       "expiry_date": "约2027-02-22（测试网约90天，主网2027年一季度）",
@@ -825,17 +781,6 @@
       "title": "OpenCut 开源剪映平替：免费无水印，MIT 协议，GitHub 约 9.8 万 stars（早期 beta）",
       "url": "https://x.com/tantanyuli/status/2120643984733479022",
       "value": "免费开源视频剪辑，免订阅、免绑卡；可省剪映会员费，但当前为早期 beta、功能不及剪映"
-    },
-    {
-      "author": "fwqgo_com",
-      "category": "云服务器",
-      "expiry_date": "2026-11-17",
-      "id": 141,
-      "notes": "82分（来源20/可验证25/价值12/时效15/风险10）：ittellyou 与 fwqgo 活动汇总交叉核实 RAKsmart 双11/黑五活动页：硅谷裸机云 E5-2620/32G 内存/1TB HDD/100M 大陆优化 VIP/不限流量，闪购价 $45.90/月（活动价 $89/月，标价 $139/月）；另有香港同款 20M 带宽同价。注意：①闪购价只在 11 月 11–17 日与 11 月 25–30 日两个窗口有，活动 11 月 30 日结束，库存有限；②帖子称“续费同价”，但汇总站提醒续费价以下单页为准，别直接按闪购价推算；③1TB 为 HDD，磁盘 IO 有限。",
-      "score": 82,
-      "title": "RAKsmart 双11/黑五闪购：硅谷裸机云 E5/32G/1TB 月付 $45.90（活动价 $89）",
-      "url": "https://x.com/fwqgo_com/status/2120443329959866490",
-      "value": "闪购价每月省约 $43（相对 $89 活动价）；32G 大内存裸机云"
     },
     {
       "author": "白嫖福利推送",
@@ -1155,28 +1100,6 @@
       "title": "Perplexity Decider v1.3 免费一周：OpenRouter 上 $0 调用判定模型（新加 Locate）",
       "url": "https://x.com/lovethelife2333/status/2121106000249827689",
       "value": "一周内免费调用 Perplexity 判定模型，输入输出均为 $0；权重 HF 开源"
-    },
-    {
-      "author": "duola_eth",
-      "category": "免费额度",
-      "expiry_date": "2026-11-18（11月18日 09:00 UTC 开领；11月26日 17:00 前须确认领取方式）",
-      "id": 199,
-      "notes": "80分（来源25/可验证25/价值12/时效13/风险5）：官方 @predictdotfun 11 月 12 日公告 + Binance Wallet + 多家交叉证实：Predict.fun 第一季 $PREDICT 额度已可查，11 月 18 日 09:00 UTC（北京时间 17:00）开领；总量 10 亿，第一季空投 7000 万枚（7%）；两种领取方式：即时解锁拿 35%（其余 65% 作废），或锁仓 12 个月线性释放拿 100%（每月发 1/12，首笔 TGE 后一个月到账）；须在 TGE 前确认选择。注意：①仅第一季攒过 Predict Points 的参与者有份，新用户无份；②唯一领取页 predict.fun/points/airdrop，别点回复/私信里的“立即领取”链接；③TGE 曾从 10 月 30 日推迟到 11 月 18 日，Binance 现货上线日期未重新确认；④预售价 $0.29、盘前价约 $1.35，价格波动大；⑤11月17日更新：币安钱包发了新版领取方式表单，想改领取方式的须在 11 月 17 日 17:00（北京时间）前提交新表单，每人只能提交一次、提交后不可更改；此前已在旧表单提交过、不再提交新表单的，原选择继续有效；新版 B 选项为 12 个月等额月释放（首笔 12 月 18 日）；旧表单 11 月 26 日的截止日不再适用。⑥11月17日 14:00 官方 @predictdotfun 再更新：TGE 与第一季空投领取推迟，目标 2–4 周内启动，确认日期尽快公布；领取选择窗口保持开放直到 TGE，可继续查看分配并更改领取选项；⑤里今日 17:00 表单截止已作废。",
-      "score": 80,
-      "title": "Predict.fun 第一季 $PREDICT 可查额度：11月18日开领，35% 即时或锁仓 12 个月拿全额",
-      "url": "https://x.com/duola_eth/status/2121053588424442235",
-      "value": "第一季 7000 万枚空投，35% 即时到手或锁仓 12 个月拿 100%"
-    },
-    {
-      "author": "白嫖福利推送",
-      "category": "免费额度",
-      "expiry_date": "无固定截止日（免费档随时可能调整）",
-      "id": 195,
-      "notes": "80分（来源20/可验证25/价值12/时效15/风险8）：Google 11月12日发布 Gemini 4 Hydrogen（Gemini 4 家族的快速款，替代 3.8 Flash，速度约 2.5 倍），Google 官方 Gemini API 定价页标为免费档（Free of charge），付费价 $1.50/$7.50 每百万 token；多家独立报道交叉证实 AI Studio、Gemini API 免费层、Gemini App（自动选模型）、Google Search 均已上线。注意：①免费档有速率限制，免费层提示词可能被用于改进产品、人工审阅者可读（欧洲经济区/瑞士/英国除外）；②App 免费用户靠自动选模型触达，不一定每次都分到 Hydrogen，想指定模型须付费档；③AI Studio 定位开发者工具、18+、非消费者用途；④LINUX DO 原帖 topic/3167414 未单独打开，以官方定价页 + 多家报道为准；⑤与在册 id189（Antigravity 科研免费 6 个月，含 Gemini 4 Argon）是不同模型、不同入口，别混淆。",
-      "score": 80,
-      "title": "Gemini 4 Hydrogen 上线 AI Studio 免费档：免绑卡可用，API 也有免费层",
-      "url": "https://t.me/baipiaofl/64554",
-      "value": "最新 Gemini 4 快速模型免绑卡用，AI Studio 与 API 免费层均已上线（付费价 $1.50/$7.50 每百万 token）"
     },
     {
       "author": "lovethelife2333",
@@ -1740,6 +1663,17 @@
       "value": "黑五 VPS $11/年：1核2G/25G NVMe/8TB 流量；独服 i5-10500/16G/2×256G NVMe $15/月；限量抢购"
     },
     {
+      "author": "KOF97AI",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 258,
+      "notes": "82分（来源25/可验证25/价值12/时效15/风险5）。Google 11月12日发布 Gemini 4 Hydrogen（gemini-4-hydrogen），1M 上下文；Antigravity 官方模型表显示 Free 栏可用，API/AI Studio 免费层输入/输出/缓存均为免费，付费 $1.50/$7.50 每百万 tokens。注意：Orchestrator 搭配 Carbon，Carbon 免费版不可用，Orchestrator 不等于免费；帖子“5.8元 Jio Pro 同步解锁”未在官方页面核实；免费层内容会被用于改进产品。【2026-11-18 07:40晨报复核：官方免费层限额为每天 20 次请求（RPD 20，5 RPM/250K TPM），并非原帖所说的 1500次/d——1500 是 Grounding 搜索的上限；Lovislexus 11-17 实测约 20 次即触限，与官方口径一致。降分 82→77。】",
+      "score": 77,
+      "title": "Gemini 4 Hydrogen 免费层上线",
+      "url": "https://x.com/KOF97AI/status/2121445406932672516",
+      "value": "新一代旗舰模型免费层，API/AI Studio/Gemini App 均可免费用"
+    },
+    {
       "author": "Ciciyingying",
       "category": "其他",
       "expiry_date": null,
@@ -1804,6 +1738,17 @@
       "title": "Devin SWE-2 永久免费（Pro/Max/Teams 套餐）",
       "url": "https://t.me/baipiaofl/64584",
       "value": "Pro $20/月起用户永久免 SWE-2 按量费"
+    },
+    {
+      "author": "duola_eth",
+      "category": "免费额度",
+      "expiry_date": "TGE 推迟，目标 2–4 周内启动（原 11-18 开领已推迟）",
+      "id": 199,
+      "notes": "80分（来源25/可验证25/价值12/时效13/风险5）：官方 @predictdotfun 11 月 12 日公告 + Binance Wallet + 多家交叉证实：Predict.fun 第一季 $PREDICT 额度已可查，11 月 18 日 09:00 UTC（北京时间 17:00）开领；总量 10 亿，第一季空投 7000 万枚（7%）；两种领取方式：即时解锁拿 35%（其余 65% 作废），或锁仓 12 个月线性释放拿 100%（每月发 1/12，首笔 TGE 后一个月到账）；须在 TGE 前确认选择。注意：①仅第一季攒过 Predict Points 的参与者有份，新用户无份；②唯一领取页 predict.fun/points/airdrop，别点回复/私信里的“立即领取”链接；③TGE 曾从 10 月 30 日推迟到 11 月 18 日，Binance 现货上线日期未重新确认；④预售价 $0.29、盘前价约 $1.35，价格波动大；⑤11月17日更新：币安钱包发了新版领取方式表单，想改领取方式的须在 11 月 17 日 17:00（北京时间）前提交新表单，每人只能提交一次、提交后不可更改；此前已在旧表单提交过、不再提交新表单的，原选择继续有效；新版 B 选项为 12 个月等额月释放（首笔 12 月 18 日）；旧表单 11 月 26 日的截止日不再适用。⑥11月17日 14:00 官方 @predictdotfun 再更新：TGE 与第一季空投领取推迟，目标 2–4 周内启动，确认日期尽快公布；领取选择窗口保持开放直到 TGE，可继续查看分配并更改领取选项；【2026-11-18 07:40晨报复核：原 11-18 开领、11-26 确认领取方式的节点已不适用；标题与截止日已相应改写，领取选择窗口仍开放。降分 80→77。】",
+      "score": 77,
+      "title": "Predict.fun 第一季 $PREDICT 可查额度：TGE 推迟 2–4 周，领取选择窗口仍开放",
+      "url": "https://x.com/duola_eth/status/2121053588424442235",
+      "value": "第一季 7000 万枚空投，35% 即时到手或锁仓 12 个月拿 100%"
     },
     {
       "author": "Ylj158852",
@@ -2015,17 +1960,6 @@
       "value": "每模型 100 万免费 Tokens，多模型合计价值数十元；OpenAI 兼容接口"
     },
     {
-      "author": "白嫖福利推送",
-      "category": "免费额度",
-      "expiry_date": "2026-11-16",
-      "id": 45,
-      "notes": "77分（来源20/可验证20/价值12/时效15/风险10）：Anthropic 11 月 9 日发布 Claude Fable 5.2 与 Mythos 5.2 经 TechCrunch、MacRumors 等多方证实；重置卡规则经 clauderesets.com 核实。注意：仅限 11 月 9 日 10:00 PT 前已付费的 Pro/Team Standard 用户：11 月 16 日 23:59 PT 前可在套餐内试用 Fable（最多每周额度一半）并领 1 次 Fable 额度重置（设置→用量→重置里领）；Max/Ultra/Team Premium 按付费时长得 1-3 次重置，2027 年 3 月 8 日到期；免费用户没有。另：帖子输出价写 $10 有误，实际为 $8 输入/$40 输出。",
-      "score": 77,
-      "title": "Anthropic 发布 Claude Fable 5.2：Pro/Team Standard 免费试用一周 + 1 次额度重置",
-      "url": "https://t.me/baipiaofl/64191",
-      "value": "已有 Claude 付费订阅用户免费试用新模型 Fable 5.2 一周 + 1 次额度重置；API 降价 20%（$10/$50 降至 $8/$40 每百万 tokens）"
-    },
-    {
       "author": "Lovislexus",
       "category": "免费额度",
       "expiry_date": null,
@@ -2068,6 +2002,17 @@
       "title": "腾讯 LightVela 新用户首月免费：4500 AI 积分",
       "url": "https://x.com/yedabinbinah/status/2119462302240121289",
       "value": "首月免费，约 10 美元；.env 外用法有风险"
+    },
+    {
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 404,
+      "notes": "75分（来源20/可验证25/价值5/时效15/风险10）。原帖经独立浏览器只读核实全文 + GitHub 核实：gnekt/My-Brain-Is-Full-Crew，MIT 开源，3.9K stars；8 个以上 AI Agent、14 项技能，用聊天管理 Obsidian 库（整理、归档、搜索、转录会议、分拣邮件），支持 Claude Code/Gemini CLI/OpenCode/Codex，任意语言。注意：①工具本身免费，但跑 Agent 须自备 Claude Code 等的 API 额度/订阅，调用要花钱；②须有 Obsidian 库 + 会装 CLI 工具，面向重度笔记用户；③作者自述是读博期间为管自己的库做的系统。",
+      "score": 75,
+      "title": "My-Brain-Is-Full-Crew：8+ AI Agent + 14 技能管你的 Obsidian 库，开源免费（MIT）",
+      "url": "https://x.com/tantanyuli/status/2122829133042586079",
+      "value": "免费开源 Obsidian 多智能体系统（MIT，3.9K stars）；须自备 API 额度才能跑 Agent"
     },
     {
       "author": "白嫖福利推送",
@@ -2169,6 +2114,17 @@
       "value": "联名 YubiKey 两支装 $68（零售约 $126），FIDO2 硬件密钥；仅美/英/欧洲经济区符合条件的用户可买"
     },
     {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": "无固定截止日（免费档随时可能调整）",
+      "id": 195,
+      "notes": "80分（来源20/可验证25/价值12/时效15/风险8）：Google 11月12日发布 Gemini 4 Hydrogen（Gemini 4 家族的快速款，替代 3.8 Flash，速度约 2.5 倍），Google 官方 Gemini API 定价页标为免费档（Free of charge），付费价 $1.50/$7.50 每百万 token；多家独立报道交叉证实 AI Studio、Gemini API 免费层、Gemini App（自动选模型）、Google Search 均已上线。注意：①免费档有速率限制，免费层提示词可能被用于改进产品、人工审阅者可读（欧洲经济区/瑞士/英国除外）；②App 免费用户靠自动选模型触达，不一定每次都分到 Hydrogen，想指定模型须付费档；③AI Studio 定位开发者工具、18+、非消费者用途；④LINUX DO 原帖 topic/3167414 未单独打开，以官方定价页 + 多家报道为准；⑤与在册 id189（Antigravity 科研免费 6 个月，含 Gemini 4 Argon）是不同模型、不同入口，别混淆。【2026-11-18 07:40晨报复核：官方免费层限额为每天 20 次请求（RPD 20，5 RPM/250K TPM），并非原帖所说的 1500次/d——1500 是 Grounding 搜索的上限；Lovislexus 11-17 实测约 20 次即触限，与官方口径一致。降分 80→75。】",
+      "score": 75,
+      "title": "Gemini 4 Hydrogen 上线 AI Studio 免费档：免绑卡可用，API 也有免费层",
+      "url": "https://t.me/baipiaofl/64554",
+      "value": "最新 Gemini 4 快速模型免绑卡用，AI Studio 与 API 免费层均已上线（付费价 $1.50/$7.50 每百万 token）"
+    },
+    {
       "author": "lovethelife2333",
       "category": "免费额度",
       "expiry_date": "2026-11-19",
@@ -2200,6 +2156,17 @@
       "title": "腾讯开源 Hy-MT2 翻译模型：440MB 本地离线翻译，33 种语言互译",
       "url": "https://x.com/Aisiverto/status/2120562748505690525",
       "value": "免费开源离线翻译模型/App，免订阅、免绑卡；自托管可省翻译 API 费用，普通用户价值有限"
+    },
+    {
+      "author": "KOF97AI",
+      "category": "免费额度",
+      "expiry_date": "2026-11-17",
+      "id": 144,
+      "notes": "87分（来源25/可验证25/价值12/时效15/风险10）：MiniMax 官方博客 2026-11-10 发布核实：H3-Image 开源权重模型，4K（4096×4096）生图 10 秒内，33.1B 参数，支持 16 张参考图与图片编辑；权重经 Hugging Face 开放，可用 SGLang/vLLM/ComfyUI 部署；同步上架 MiniMax API、MiniMax Code 与海螺 AI，首周 16MP 以上生图 5 折。注意：①自托管需约 135GB 权重（含文本编码器），普通电脑跑不动，普通用户走 API/海螺 AI 体验；②社区许可证排除美/欧/英/韩使用，中国用户不在排除之列；③首周 5 折结束日以官方为准，约 11 月 17 日。【2026-11-18 07:40晨报复核：API 首周 16MP 以上 5 折约 11-17 已结束；开源权重仍可在 Hugging Face 免费下载部署。降分 87→75。】",
+      "score": 75,
+      "title": "MiniMax H3-Image 开源权重发布：4K 生图 10 秒，API 首周 16MP 以上 5 折",
+      "url": "https://x.com/KOF97AI/status/2120453113723359648",
+      "value": "开源权重免费下载自用；API 首周 16MP 以上生图 5 折（约 $0.069/张 4K 变半价）"
     },
     {
       "author": "KOF97AI",
@@ -2301,6 +2268,17 @@
       "value": "Kaggle、Colab免费GPU + GitHub Actions、Supabase、OpenRouter、Cloudflare Workers/R2等免费额度合集"
     },
     {
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 405,
+      "notes": "73分（来源20/可验证25/价值8/时效15/风险5）。原帖经独立浏览器只读核实全文 + GitHub 核实：kdsz001/typefree，GPL-3.0，399 stars，最新 3.0.15（2026-10-28 更新）；macOS AI 语音输入，按住快捷键/鼠标说话、松手后 AI 去口水词、理顺句子、加标点分段，直接输入到光标处；支持语音翻译、自定义词库、本地加密历史；识别用火山引擎、整理用通义千问。注意：①工具免费，但须自带火山引擎 + 通义千问的 Key，额度按各家免费层走，会员 ¥188/年可选；②仅 macOS；③Typeless 免费版每周限 8000 词、Pro $12/月，Typefree 自带 Key 不限字数。",
+      "score": 73,
+      "title": "Typefree：开源 AI 语音输入平替 Typeless，自带 Key 永久免费不限字数（macOS，GPL-3.0）",
+      "url": "https://x.com/tantanyuli/status/2122798430795796720",
+      "value": "免费开源语音输入（GPL-3.0，399 stars），平替 Typeless（Pro $12/月）；须自带 API Key，仅 macOS"
+    },
+    {
       "author": "Ciciyingying",
       "category": "免费额度",
       "expiry_date": "约2026-12-31（测试网活动页显示49天后结束，以官方为准）",
@@ -2321,6 +2299,17 @@
       "title": "Claude Duet 研究预览入选送一次完整额度重置：5小时+周额度全满，11月30日前可用",
       "url": "https://t.me/baipiaofl/64552",
       "value": "入选 Duet 预览得一次完整额度重置（5小时+周额度全满），11月30日前可用；研究预览期不额外收费"
+    },
+    {
+      "author": "Lovislexus",
+      "category": "云服务器",
+      "expiry_date": "一次性 $5 额度 90 天有效（每日 1000 credits 免费测试已于 11-12 结束）",
+      "id": 27,
+      "notes": "73分（来源25/可验证25/价值8/时效10/风险5）。【2026-11-18 07:40晨报复核改写】原每日 1000 credits 免费已结束：aipromonow 2026-11-13 更新核实，Simular 11 月 12 日发邮件称免费测试当天关闭、每日额度不再刷新；测试用户得一次性 $5 额度（约 5000 credits，90 天有效），之后按量付费或订订阅（simular.ai 官方比价页亦写“$5 of free credit once”）。仍有效的部分：约 4 核 8G/40GB Ubuntu 云电脑，给 AI Agent 用（MCP 接入），免绑卡，Google/GitHub 登录即可；$5 额度约合 2 核 4G 机型 50 小时。注意：无公网入口、闲置休眠，不能当 VPS/节点用；$5 额度用完须付费（约 $0.10/小时）。",
+      "score": 73,
+      "title": "Simular Box 免费云电脑：一次性 $5 额度（约 5000 credits，90 天有效），每日免费已结束",
+      "url": "https://x.com/Lovislexus/status/2119725396023545953",
+      "value": "一次性 $5 额度（约 5000 credits，90 天有效），之后按量付费；每日免费已结束"
     },
     {
       "author": "Aisiverto",
@@ -2741,6 +2730,17 @@
       "value": "伦敦年付 ¥129 起（约 $19/年），英国原生 IP；M 档 ¥229、L 档 ¥359"
     },
     {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": "2026-11-30（第一批 11-17 已结束，第二批 11-25 至 11-30）",
+      "id": 141,
+      "notes": "82分（来源20/可验证25/价值12/时效15/风险10）：ittellyou 与 fwqgo 活动汇总交叉核实 RAKsmart 双11/黑五活动页：硅谷裸机云 E5-2620/32G 内存/1TB HDD/100M 大陆优化 VIP/不限流量，闪购价 $45.90/月（活动价 $89/月，标价 $139/月）；另有香港同款 20M 带宽同价。注意：①闪购价只在 11 月 11–17 日与 11 月 25–30 日两个窗口有，活动 11 月 30 日结束，库存有限；②帖子称“续费同价”，但汇总站提醒续费价以下单页为准，别直接按闪购价推算；③1TB 为 HDD，磁盘 IO 有限。【2026-11-18 07:40晨报复核：第一批闪购窗口 11-17 已结束，第二批 11-25 至 11-30 再开；窗口之间暂不能按闪购价买。降分 82→72。】",
+      "score": 72,
+      "title": "RAKsmart 双11/黑五闪购：硅谷裸机云 E5/32G/1TB 月付 $45.90（活动价 $89）",
+      "url": "https://x.com/fwqgo_com/status/2120443329959866490",
+      "value": "闪购价每月省约 $43（相对 $89 活动价）；32G 大内存裸机云"
+    },
+    {
       "author": "Lovislexus",
       "category": "免费额度",
       "expiry_date": "无明确截止日（以 yesss.at 套餐页为准）",
@@ -2893,17 +2893,6 @@
       "title": "KEM U卡：最高 5% 黄金返现（XAUT），开卡免费 0 月费",
       "url": "https://x.com/Javary324/status/2119631931021443504",
       "value": "消费返现 2–5%（以 XAUT 发放）；开卡免费"
-    },
-    {
-      "author": "NodeSeek官方频道",
-      "category": "云服务器",
-      "expiry_date": "2026-11-11",
-      "id": 51,
-      "notes": "72分：来源25（合作商家在 NodeSeek 发的官方活动海报，帖内无官网链接）/可验证15（海报含价格、优惠码、细则齐全，但活动11月11日15:00才开始，开售前无法在官网核对）/价值12（圣何塞 1C1G/50G SSD/1Gbps 1TB 流量 $9.9→$4.95；新加坡 $7→$3.5；另有香港独服 $120→$84、洛杉矶 $80→$40）/时效15（明日15:00开抢，限量先到先得）/风险5（评论多人反映该商家登录密码明码储存并发到邮箱；新加坡款被指送中、Google/Gemini 用不了；圣何塞线路曾有不稳定记录）。核实：2026-11-10 11:35-11:42 浏览器只读打开 NodeSeek 原帖逐字核对海报内容。原帖：https://www.nodeseek.com/post-1043252-1",
-      "score": 72,
-      "title": "Lightlayer 双十一：圣何塞云机 1C1G 5折 $4.95，续费同价，11月11日15:00开抢",
-      "url": "https://t.me/nodeseekc/998841",
-      "value": "圣何塞云机 $4.95（原价$9.9），新加坡 $3.5（原价$7），续费同价；优惠码 SJCLOUD50 / SGCLOUD50 / HKGOLD30 / LAE52660，限购2台"
     },
     {
       "author": "BlockInsight214",
@@ -3113,17 +3102,6 @@
       "title": "Nexo Card 双模式万事达卡：最高 2% 返现（仅欧洲，需 $5000 以上持仓）",
       "url": "https://x.com/Javary324/status/2120409730543915252",
       "value": "无年费；符合条件者消费最高返 2%（NEXO 代币），但大陆用户办不了"
-    },
-    {
-      "author": "白嫖福利推送",
-      "category": "免费额度",
-      "expiry_date": "Pro/Team 标准席位 2026-11-16 23:59 PT 到期（北京时间 11 月 17 日 15:59）；Max/Ultra 等 2027-03-08 到期",
-      "id": 114,
-      "notes": "70分（来源15/可验证20/价值12/时效15/风险8）：TG 频道转发 LINUX DO 帖（2026-11-11 06:32），称 Claude 又送了一个完全重置；LINUX DO 原文未读到正文，但多方搜索交叉证实：Anthropic 2026-11-09 随 Claude Fable 5.2 上线推出免费额度重置——付费订阅按时长送 1–3 次（不满 6 个月 1 次、6–12 个月 2 次、满 1 年以上 3 次），在设置→用量→Limit resets 里点 Reset for free；每周额度只退还 Fable 模型消耗的用量，5 小时额度窗口则整窗补满。注意：①仅限 2026-11-09 10:00 PT 前已生效的付费订阅（Pro/Max/Ultra/Team），免费版无份；②Pro 与 Team 标准席位的重置 2026-11-16 23:59 PT 到期，过期作废；③重置不提高额度上限，只是退还已用额度；④帖子说的“又送”与 Fable 上线福利的对应关系为合理推断，未由官方逐条确认。",
-      "score": 70,
-      "title": "Claude 又送重置卡了：Fable 5.2 上线福利，付费订阅可免费重置用量额度 1–3 次（Pro 版 11 月 16 日到期）",
-      "url": "https://t.me/baipiaofl/64294",
-      "value": "已有 Claude 付费订阅者可在设置→用量免费重置一次额度（按订阅时长 1–3 次）；免费用户无份"
     },
     {
       "author": "tantanyuli",
@@ -3434,17 +3412,6 @@
       "value": "美国洛杉矶CN2 GIA $29.90/年（2核/1G/20G NVMe/50Mbps/500G）；IP非原生可工单换，ASN新西兰、部分送中"
     },
     {
-      "author": "lovethelife2333",
-      "category": "免费额度",
-      "expiry_date": "2026-11-17",
-      "id": 310,
-      "notes": "67分（来源20/可验证20/价值12/时效10/风险5）。日报提醒 + 多方搜索核实（阶跃开放平台定价页）：StepAudio 3四款preview模型（stepaudio-3-realtime/chat/gen/music-preview）限免至北京时间2026-11-17 11:59:59，之后按新价计费、preview版下线；实时语音0.65元/会话分钟、音乐生成16元/输出音频小时。注意：①TTS与独立ASR、音色复刻/设计不在限免内，按定价页收费；②限免期由11-08延期过一次，别指望再延；③个人账号调语音能力一般须先实名认证；④距核实仅剩约1天，明天中午截止。",
-      "score": 67,
-      "title": "阶跃 StepAudio 3：四款 preview 模型限免调用，至 11-17 11:59:59",
-      "url": "https://x.com/lovethelife2333/status/2122120892830416940",
-      "value": "4款preview模型（实时语音/语音对话/音频生成/音乐生成）限免调用；TTS/ASR不在内；个人账号一般须实名"
-    },
-    {
       "author": "白嫖福利推送",
       "category": "订阅优惠",
       "expiry_date": null,
@@ -3454,17 +3421,6 @@
       "title": "ChatGPT Go 免费 3 个月：Shopee VIP 会员权益（新马泰越等市场）",
       "url": "https://t.me/baipiaofl/64886",
       "value": "3 个月 ChatGPT Go（约 S$13/月）；须为 Shopee VIP 会员，VIP 本身可 1 个月免费试用"
-    },
-    {
-      "author": "fwqgo_com",
-      "category": "云服务器",
-      "expiry_date": "2026-11-17（RAKsmart秒杀第一批；第二批11-25至11-30；ACEBGP日本款无截止）",
-      "id": 291,
-      "notes": "67分（来源20/可验证15/价值12/时效15/风险5）。fwqgo_com 原帖（X Article）经独立浏览器只读核实全文：①RAKsmart硅谷大陆优化VIP（回程AS4837）：SV VPS 2C2G（2核/2G/50G HDD/5Gbps/3T）原价$8.41/月、活动$2.99/月、秒杀$1.99/月；2C4G（2核/4G/50G高速盘/5Gbps/5T）原价$15.25/月、秒杀$4.99/月；表格标注“价格（续费同价）”，秒杀第一批到11月17日、第二批11月25日至30日。②ACEBGP日本JP-TRI-Mini：1核/1G/10G SSD/100Mbps/500G，¥29.90/月（仅退账户余额），ACEBGP官网购物车配置页逐项核实一致（月缴¥29.90、季缴¥89.70、年缴¥358.80，电信/联通/移动均为三网直连日本，测试IP 64.83.53.1）。注意：①RAKsmart两条结算页均加载失败（“common:数据获取失败”）、价格与库存未在商家侧核实；②评论区质疑“只有第一个月4.99？这也太误导了”、另有“缺货”评论，续费同价未证实；③文章标题写29.99、正文及表格写29.90，不一致；④文章另有②精品CN2、⑤PPFlight/悦阳、⑥云悠法兰克福等章节，编号由②直接跳到④、无③，本条只收录①④两款。",
-      "score": 67,
-      "title": "月付不到5美元的大陆优化：RAKsmart 4837秒杀$1.99起 + ACEBGP日本三网直连¥29.90/月",
-      "url": "https://x.com/fwqgo_com/status/2121907381101842749",
-      "value": "RAKsmart硅谷2C2G秒杀$1.99/月、2C4G $4.99/月（4837回程）；ACEBGP日本JP-TRI-Mini ¥29.90/月三网直连"
     },
     {
       "author": "Lniosytest",
@@ -3619,17 +3575,6 @@
       "title": "Plasma One 会员调整 11 月 11 日生效：免费 Core 11 月 16 日到期降级（返现口径待官方确认）",
       "url": "https://x.com/mjjwiki/status/2120142277171667356",
       "value": "免费 Core 用户 11 月 16 日后降级；Core 正常价 $199/年或锁仓 20,000 XPL"
-    },
-    {
-      "author": "NodeSeek官方频道",
-      "category": "云服务器",
-      "expiry_date": "2026-11-10 20:00 开售（截止时间帖内未写明）",
-      "id": 93,
-      "notes": "67分（来源20/可验证20/价值12/时效10/风险5）：NodeSeek 论坛情报帖（post-1044097-1，2026-11-10 17:59 发布）浏览器只读核实全文：Isvoro 限时秒杀今晚 20:00 开售——HK Lite A 1核/1G/5G盘/500M/512G流量 ¥9.9/月或 ¥99/年；DE9929 Lite 同配置 200M ¥14.9/月或 ¥149/年；HKT A1 NAT动态IP家宽 1核/512M/6G盘/300M/1T流量 ¥9.9/月；US LA 2核 1核/1G/20G盘/1Gbps/3T流量 ¥14.9/月或 ¥149/年；另有 GB ISP、JP BGP Mini、USLA Pro Mini 等多地区款。注意：①续费同价；②活动机不支持升级配置，下单前确认规格；③退款扣 5% 手续费（未满 2 元按 2 元）；④帖内购买链接为 AFF 链接（isvoro.com/?aff=...），可直接走官网 isvoro.com 下单；⑤Isvoro 为小厂商，口碑与稳定性未及核实，评论区有人问“这家怎样？”、有人称“就 US Pro 还行”，只宜轻量/测试用途；⑥截止时间帖内未写，先到先得，20:00 开售后以官网实际库存为准。",
-      "score": 67,
-      "title": "Isvoro 限时秒杀：多地区云服务器 ¥9.9/月起（今晚 20:00 开售，续费同价）",
-      "url": "https://t.me/nodeseekc/999615",
-      "value": "香港/德国/美国等地小鸡 ¥9.9–14.9/月，续费同价；小厂商，轻量测试用"
     },
     {
       "author": "NodeSeek官方频道",
@@ -3907,17 +3852,6 @@
       "value": "免费 1.1GB 境外漫游 eSIM 流量（App 注册 + 填码 TRAVELDEALZ），适合出境备用。"
     },
     {
-      "author": "yedabinbinah",
-      "category": "订阅优惠",
-      "expiry_date": "2026-11-09闪购（限2000名，先到先得）",
-      "id": 31,
-      "notes": "评分63分（来源20/可验证15/价值10/时效10/风险8）。路径：京东App→秒杀→午夜场→搜百度小宝；作者本人在回复里证实自己已0.01元买到。注意：需+86手机号，海外无法支付；2000个名额，帖子称“还有”，随时可能抢完；百度口碑一般，按需领取。【2026-11-13 16:40轮更新：同活动 LINUX DO 新帖（11-13 07:23）称 2000份已抢完、今晚 20:00 还有一批；路径为京东App→秒杀→月黑风高→搜百度搭子；多账号同手机号可叠加时长（官方称不可叠加），反代使用有封号风险。】【2026-11-16 15:40轮：同活动再被转述（KOF97AI，11-16 12:51），16 日早间仍有用户反馈补货；活动原定到 11-15，库存与场次以京东下单页为准。】",
-      "score": 63,
-      "title": "百度AI Pro首月0.01元：含25000积分，京东秒杀限2000名",
-      "url": "https://x.com/yedabinbinah/status/2119794042842333687",
-      "value": "0.01元得百度AI Pro首月+25000积分（原价首月9.9元）"
-    },
-    {
       "author": "fwqgo_com",
       "category": "云服务器",
       "expiry_date": null,
@@ -4149,6 +4083,17 @@
       "value": "美国NAT小鸡1核/128MB/1GB SSD/50GB流量/30Mbps，码HELLONS立减$0.48实付$0.01；限购一台、仅首期；TG绑定签到领余额"
     },
     {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": "2026-11-17（RAKsmart秒杀第一批；第二批11-25至11-30；ACEBGP日本款无截止）",
+      "id": 291,
+      "notes": "67分（来源20/可验证15/价值12/时效15/风险5）。fwqgo_com 原帖（X Article）经独立浏览器只读核实全文：①RAKsmart硅谷大陆优化VIP（回程AS4837）：SV VPS 2C2G（2核/2G/50G HDD/5Gbps/3T）原价$8.41/月、活动$2.99/月、秒杀$1.99/月；2C4G（2核/4G/50G高速盘/5Gbps/5T）原价$15.25/月、秒杀$4.99/月；表格标注“价格（续费同价）”，秒杀第一批到11月17日、第二批11月25日至30日。②ACEBGP日本JP-TRI-Mini：1核/1G/10G SSD/100Mbps/500G，¥29.90/月（仅退账户余额），ACEBGP官网购物车配置页逐项核实一致（月缴¥29.90、季缴¥89.70、年缴¥358.80，电信/联通/移动均为三网直连日本，测试IP 64.83.53.1）。注意：①RAKsmart两条结算页均加载失败（“common:数据获取失败”）、价格与库存未在商家侧核实；②评论区质疑“只有第一个月4.99？这也太误导了”、另有“缺货”评论，续费同价未证实；③文章标题写29.99、正文及表格写29.90，不一致；④文章另有②精品CN2、⑤PPFlight/悦阳、⑥云悠法兰克福等章节，编号由②直接跳到④、无③，本条只收录①④两款。【2026-11-18 07:40晨报复核：RAKsmart 秒杀第一批 11-17 已结束，第二批 11-25 至 11-30；ACEBGP 日本款 ¥29.90/月仍可买。降分 67→60。】",
+      "score": 60,
+      "title": "月付不到5美元的大陆优化：RAKsmart 4837秒杀$1.99起 + ACEBGP日本三网直连¥29.90/月",
+      "url": "https://x.com/fwqgo_com/status/2121907381101842749",
+      "value": "RAKsmart硅谷2C2G秒杀$1.99/月、2C4G $4.99/月（4837回程）；ACEBGP日本JP-TRI-Mini ¥29.90/月三网直连"
+    },
+    {
       "author": "Ciciyingying",
       "category": "免费额度",
       "expiry_date": null,
@@ -4184,6 +4129,17 @@
     {
       "author": "白嫖福利推送",
       "category": "免费额度",
+      "expiry_date": "Pro/Team 已于 2026-11-16 23:59 PT 过期；Max/Ultra 等 2027-03-08 到期",
+      "id": 114,
+      "notes": "70分（来源15/可验证20/价值12/时效15/风险8）：TG 频道转发 LINUX DO 帖（2026-11-11 06:32），称 Claude 又送了一个完全重置；LINUX DO 原文未读到正文，但多方搜索交叉证实：Anthropic 2026-11-09 随 Claude Fable 5.2 上线推出免费额度重置——付费订阅按时长送 1–3 次（不满 6 个月 1 次、6–12 个月 2 次、满 1 年以上 3 次），在设置→用量→Limit resets 里点 Reset for free；每周额度只退还 Fable 模型消耗的用量，5 小时额度窗口则整窗补满。注意：①仅限 2026-11-09 10:00 PT 前已生效的付费订阅（Pro/Max/Ultra/Team），免费版无份；②Pro 与 Team 标准席位的重置 2026-11-16 23:59 PT 到期，过期作废；③重置不提高额度上限，只是退还已用额度；④帖子说的“又送”与 Fable 上线福利的对应关系为合理推断，未由官方逐条确认。【2026-11-18 07:40晨报复核：Pro/Team 标准席位重置已于 2026-11-16 23:59 PT（北京时间 11-17 15:59）过期作废；Max/Ultra/Team Premium 的重置仍有效至 2027-03-08。降分 70→60。】",
+      "score": 60,
+      "title": "Claude 又送重置卡了：Fable 5.2 上线福利，付费订阅可免费重置用量额度 1–3 次（Pro 版 11 月 16 日到期）",
+      "url": "https://t.me/baipiaofl/64294",
+      "value": "已有 Claude 付费订阅者可在设置→用量免费重置一次额度（按订阅时长 1–3 次）；免费用户无份"
+    },
+    {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
       "expiry_date": "无固定截止日（注册送 $10 进行中，以平台页为准）",
       "id": 105,
       "notes": "60分（来源20/可验证20/价值5/时效10/风险5）：LINUX DO 福利帖（kuaipaoAI，2026-11-10）浏览器只读核实全文：快跑AI 上线 Qwen Audio 系列多款模型（china 分组），基础价统一 72 折：ASR qwen-audio-3.0-asr-flash 0.00022 元/秒，TTS qwen-audio-3.1-tts-plus 1.4 元/万字符、3.0-tts-flash 1 元/万字符；注册送 $10（须到另一赠送帖回复快跑平台 ID 领取）；充值口径 0.4 元=1 美金。注意：①第三方 API 中转站、非官方渠道，稳定性与跑路风险自担，别大额充值；②$10 注册金按平台换算仅约值 4 元充值，价值主要在 72 折；③音频模型小众，只适合有 ASR/TTS 需求的人；④须到另一帖子回复 ID 才能领赠金，流程多一步。",
@@ -4215,6 +4171,17 @@
       "value": "免费 eSIM 流量，邀请得 500MB（官网另处写 250MB，存疑），不用绑卡"
     },
     {
+      "author": "yedabinbinah",
+      "category": "订阅优惠",
+      "expiry_date": "2026-11-09闪购（限2000名，先到先得）",
+      "id": 31,
+      "notes": "评分63分（来源20/可验证15/价值10/时效10/风险8）。路径：京东App→秒杀→午夜场→搜百度小宝；作者本人在回复里证实自己已0.01元买到。注意：需+86手机号，海外无法支付；2000个名额，帖子称“还有”，随时可能抢完；百度口碑一般，按需领取。【2026-11-13 16:40轮更新：同活动 LINUX DO 新帖（11-13 07:23）称 2000份已抢完、今晚 20:00 还有一批；路径为京东App→秒杀→月黑风高→搜百度搭子；多账号同手机号可叠加时长（官方称不可叠加），反代使用有封号风险。】【2026-11-16 15:40轮：同活动再被转述（KOF97AI，11-16 12:51），16 日早间仍有用户反馈补货；活动原定到 11-15，库存与场次以京东下单页为准。】【2026-11-18 07:40晨报复核：活动原定 11-15 结束，11-16 仍有补货反馈，11-18 是否还有库存未证实。降分 63→55。】",
+      "score": 55,
+      "title": "百度AI Pro首月0.01元：含25000积分，京东秒杀限2000名",
+      "url": "https://x.com/yedabinbinah/status/2119794042842333687",
+      "value": "0.01元得百度AI Pro首月+25000积分（原价首月9.9元）"
+    },
+    {
       "author": "KOF97AI",
       "category": "免费额度",
       "expiry_date": "2026-11-16",
@@ -4238,7 +4205,7 @@
     }
   ],
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
-  "source": "X 羊毛收集册（st3 扫描羊毛号时间线，本侧审计打分）",
+  "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-18T06:47:42+08:00"
+  "updated_at": "2026-11-18T07:55:19+08:00"
 }
