@@ -1,5 +1,5 @@
 {
-  "count": 365,
+  "count": 366,
   "items": [
     {
       "author": "yedabinbinah",
@@ -297,6 +297,17 @@
       "title": "Articul8 Bivia 免费领 10 亿 Token：前 10000 名，免绑卡",
       "url": "https://x.com/yedabinbinah/status/2119047941101109491",
       "value": "免费 10 亿决策 tokens（约 42 美元），免绑卡，API 可用"
+    },
+    {
+      "author": "Lovislexus",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 384,
+      "notes": "87分（来源22/可验证25/价值15/时效15/风险10）。85+二审已做：独立浏览器重开原帖全文 + DeepAI 官网（deepai.org/chat/ai-code）核实：Claude Fable 5.2 在列，约 20 Theos/次请求；免费账号每天最多 250 Theos 免费额度，另有 11 个模型不限量免费；$0、免绑卡、无 API Key、无试用期倒计时，广告支撑。注意：①免费额度按 Theos 计，Fable 5.2 约 20 Theos/次，一天约 12 次左右；②同页另有 Claude Sonnet 5.5（约 10 Theos/次）、Opus 5.5（约 15 Theos/次）等 27 个模型；③额度与模型名单以 DeepAI 页面为准，免费档随时可能调整。",
+      "score": 87,
+      "title": "DeepAI 免费聊 Claude Fable 5.2：每天免费额度，免绑卡（含 Opus 5.5/Sonnet 5.5）",
+      "url": "https://x.com/Lovislexus/status/2122588702031638791",
+      "value": "每天最多 250 Theos 免费额度，可聊 Claude Fable 5.2/Opus 5.5 等前沿模型，免绑卡"
     },
     {
       "author": "Aisiverto",
@@ -1256,6 +1267,17 @@
       "value": "每月免费 5 CPU 小时、最多 10 个并发 Box：2 vCPU/4GB/10GB，内置 Claude Code/Codex"
     },
     {
+      "author": "Airdrop Finder",
+      "category": "其他",
+      "expiry_date": null,
+      "id": 382,
+      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）。Airdrop Finder 转述 + 官方 Earn 页（api.vapinetwork.ai/earn）核实：1M vAPI 空投奖池，做任务攒积分，23 个任务共 3785 积分，122,210 名参与者；每日签到、转发 X 帖、绑定账号等任务，积分上排行榜。注意：①须连钱包 + 绑定 X/Discord/TG/GitHub 账号（账号须满 30 天）；②质押 vAPI 1.75x、持币 1.5x 等加成须花钱买币/质押，非必需；③官方隐私政策称用设备指纹做风控评分，分数异常会被暂停任务或排除出奖励；④1M 奖池分给 12 万+参与者，人均价值低、币价未定；⑤TG 原帖链接带 ref 参数，本条以官网为准、不放推荐链接。",
+      "score": 77,
+      "title": "vAPI Network：1M vAPI 空投任务，做任务攒积分（官方 Earn 页已上线）",
+      "url": "https://t.me/airdropfind/129689",
+      "value": "1M vAPI 空投奖池，做任务攒积分（23 个任务共 3785 积分）；须连钱包+绑定社交账号，代币已上线 Base"
+    },
+    {
       "author": "fwqgo_com",
       "category": "云服务器",
       "expiry_date": null,
@@ -1947,17 +1969,6 @@
       "title": "腾讯 LightVela 新用户首月免费：4500 AI 积分",
       "url": "https://x.com/yedabinbinah/status/2119462302240121289",
       "value": "首月免费，约 10 美元；.env 外用法有风险"
-    },
-    {
-      "author": "Airdrop Finder",
-      "category": "其他",
-      "expiry_date": null,
-      "id": 382,
-      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）。Airdrop Finder 转述 + 官方 Earn 页（api.vapinetwork.ai/earn）核实：1M vAPI 空投奖池，做任务攒积分，23 个任务共 3785 积分，122,210 名参与者；每日签到、转发 X 帖、绑定账号等任务，积分上排行榜。注意：①须连钱包 + 绑定 X/Discord/TG/GitHub 账号（账号须满 30 天）；②质押 vAPI 1.75x、持币 1.5x 等加成须花钱买币/质押，非必需；③官方隐私政策称用设备指纹做风控评分，分数异常会被暂停任务或排除出奖励；④1M 奖池分给 12 万+参与者，人均价值低、币价未定；⑤TG 原帖链接带 ref 参数，本条以官网为准、不放推荐链接。",
-      "score": 77,
-      "title": "vAPI Network：1M vAPI 空投任务，做任务攒积分（官方 Earn 页已上线）",
-      "url": "https://t.me/airdropfind/129689",
-      "value": "1M vAPI 空投奖池，做任务攒积分（23 个任务共 3785 积分）；须连钱包+绑定社交账号，代币已上线 Base"
     },
     {
       "author": "白嫖福利推送",
@@ -3709,6 +3720,17 @@
       "value": "0.01元得百度AI Pro首月+25000积分（原价首月9.9元）"
     },
     {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": "2026-12-31",
+      "id": 383,
+      "notes": "62分（来源15/可验证15/价值12/时效15/风险5）。白嫖福利推送转发 NodeSeek 论坛帖 + 第三方指南（jidan.si/allagent.wiki）核实：华为云码道 CodeArts 新用户注册送 4000 积分（30 天内有效），免费体验版每日手动签到领 100 积分（当日有效），另有每月 500 套餐积分；活动至北京时间 2026-12-31；可用模型含 GLM-5.3、DeepSeek-V4.1-Flash、Kimi-K3.1-Pro 等，可装 Magpie 插件（codearts-auth）接到 Claude Code/Codex 等工具里用。注意：①帖子标题“免费 15 亿大肥鱼 token”是发帖人按 DeepSeek-V4.1-Flash 系数估算的说法，积分按模型系数扣、非官方口径，实际到手是 4000 积分起步；②每日免费 Tokens 活动已于 10 月 20 日 22:00 下线，现在只剩注册/签到/学生认证三项；③发帖人自述“用 10 块钱去拉人头平台拉了 3 万积分”，拉人头买分不在本条推荐范围内；④Magpie 反代要拿华为云账号登录凭据，有账号风险，量力而行；⑤邀请注册另有 1000 积分（11 月 15 日前），已过期。",
+      "score": 62,
+      "title": "华为云码道 CodeArts：注册送 4000 积分，每日签到 100 积分（至 12 月 31 日）",
+      "url": "https://t.me/baipiaofl/65085",
+      "value": "注册送 4000 积分（30 天有效）+ 每日签到 100 积分，至 12 月 31 日；可接 Magpie 在 Claude Code 等工具里用"
+    },
+    {
       "author": "yedabinbinah",
       "category": "金融卡券",
       "expiry_date": "2026-11-25",
@@ -3896,17 +3918,6 @@
       "value": "免费调 deepseek-v4-flash 与 glm-5.3-flash，条款未核实，先小量试用。"
     },
     {
-      "author": "白嫖福利推送",
-      "category": "免费额度",
-      "expiry_date": "2026-12-31",
-      "id": 383,
-      "notes": "62分（来源15/可验证15/价值12/时效15/风险5）。白嫖福利推送转发 NodeSeek 论坛帖 + 第三方指南（jidan.si/allagent.wiki）核实：华为云码道 CodeArts 新用户注册送 4000 积分（30 天内有效），免费体验版每日手动签到领 100 积分（当日有效），另有每月 500 套餐积分；活动至北京时间 2026-12-31；可用模型含 GLM-5.3、DeepSeek-V4.1-Flash、Kimi-K3.1-Pro 等，可装 Magpie 插件（codearts-auth）接到 Claude Code/Codex 等工具里用。注意：①帖子标题“免费 15 亿大肥鱼 token”是发帖人按 DeepSeek-V4.1-Flash 系数估算的说法，积分按模型系数扣、非官方口径，实际到手是 4000 积分起步；②每日免费 Tokens 活动已于 10 月 20 日 22:00 下线，现在只剩注册/签到/学生认证三项；③发帖人自述“用 10 块钱去拉人头平台拉了 3 万积分”，拉人头买分不在本条推荐范围内；④Magpie 反代要拿华为云账号登录凭据，有账号风险，量力而行；⑤邀请注册另有 1000 积分（11 月 15 日前），已过期。",
-      "score": 62,
-      "title": "华为云码道 CodeArts：注册送 4000 积分，每日签到 100 积分（至 12 月 31 日）",
-      "url": "https://t.me/baipiaofl/65085",
-      "value": "注册送 4000 积分（30 天有效）+ 每日签到 100 积分，至 12 月 31 日；可接 Magpie 在 Claude Code 等工具里用"
-    },
-    {
       "author": "tantanyuli",
       "category": "软件工具",
       "expiry_date": null,
@@ -4020,5 +4031,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-17T15:44:03+08:00"
+  "updated_at": "2026-11-17T16:51:12+08:00"
 }
