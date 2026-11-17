@@ -1,5 +1,5 @@
 {
-  "count": 347,
+  "count": 348,
   "items": [
     {
       "author": "yedabinbinah",
@@ -506,6 +506,17 @@
       "title": "Pulsar Money 11月返现提到4%：Pro用户前$3000消费全按4%返积分（到11月30日）",
       "url": "https://x.com/SecJack96/status/2120889366524698761",
       "value": "11月内Pro用户前$3000消费返4%积分（最高约$120积分）"
+    },
+    {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 366,
+      "notes": "82分（来源25/可验证25/价值12/时效15/风险5）。TG转帖 linux.do 3188340 + 官方免费页核实：runcrate.ai/inference/free 称 5 个开源模型免费起步、免费额度按周计、每周一重置，超额后共享容量半价；DeepSeek V4.1 Flash 为默认模型之一，OpenAI 兼容 API。注意：①免费额度具体 token 数官方页未公布数字；②GitHub 账号须满 30 天（第三方复核说法）；Google 注册须绑信用卡、超额自动扣费；③免费请求由第三方模型服务商承接，按其条款处理提示词；④同帖另两项未收：numes.ai 有 Reddit 用户 2026-11-14 举报为诈骗，bypassed.sh 的 glm-5.3-flash-unlocked 无官方来源可核（GLM 免费 Flash 应走 z.ai 官方）。",
+      "score": 82,
+      "title": "Runcrate：5 个开源模型每周免费额度，GitHub 账号免费用 DeepSeek V4.1 Flash",
+      "url": "https://t.me/baipiaofl/65041",
+      "value": "5 个开源模型每周免费额度（GitHub 账号；Google 注册需绑卡自动续费）"
     },
     {
       "author": "fwqgo_com",
@@ -3822,5 +3833,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-17T08:57:41+08:00"
+  "updated_at": "2026-11-17T09:44:32+08:00"
 }
