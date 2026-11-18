@@ -1,5 +1,5 @@
 {
-  "count": 392,
+  "count": 399,
   "items": [
     {
       "author": "yedabinbinah",
@@ -1080,6 +1080,17 @@
       "value": "免费云端 GPU/TPU 算力，按需分配不保证"
     },
     {
+      "author": "Lniosytest",
+      "category": "订阅优惠",
+      "expiry_date": null,
+      "id": 417,
+      "notes": "80分（来源20/可验证25/价值20/时效15/风险0）。原帖全文完整 + 官方来源核实：OpenCode 官方账号一日内连推 Operation GLM 两阶段——第一阶段 Go 订阅 $10/月得 $100 GLM-5.3 用量，约 11 小时后第二阶段涨到 $200（Go Plus $400）；官方 Go 定价页现列 GLM-5.3 月上限 Go $200、Go Plus $400。注意：①这 $200 是按模型计价的月用量上限，不是存进账户的余额，用不完不结转；②GLM-5.3-Flash 免费档另有免费层（10-16 已上线），只想白嫖不用订 Go；③须付费订阅 $10/月起，5 小时窗口最多用月上限 20%、每周 50%。",
+      "score": 80,
+      "title": "OpenCode Go 第二阶段：$10/月 GLM-5.3 用量上限涨到 $200（Go Plus $400）",
+      "url": "https://x.com/Lniosytest/status/2122921495663968266",
+      "value": "$10/月换 $200 GLM-5.3 月用量（原 $100，第二阶段刚涨）；须付费订阅，用量上限非账户余额"
+    },
+    {
       "author": "AirdropAlert-com",
       "category": "其他",
       "expiry_date": null,
@@ -1278,11 +1289,33 @@
       "value": "每月免费 5 CPU 小时、最多 10 个并发 Box：2 vCPU/4GB/10GB，内置 Claude Code/Codex"
     },
     {
+      "author": "白嫖福利推送",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 418,
+      "notes": "77分（来源20/可验证20/价值12/时效15/风险10）。TG 原文 + 官网核实：GoogieHost 免费虚拟主机自 2012 年起运营，官网称永久免费、无强制广告、无需信用卡，含 DirectAdmin 面板、免费 SSL、LiteSpeed、NVMe 存储、一键装 WordPress；帖子称 1 个站点、1G NVMe、100G/月流量、免费域名可选 .whf.bz 和 .cu.ma。注意：①1GB/100GB 与两个免费后缀的具体规格未在官网页逐项核对，以注册页为准；②免费档通常有资源与支持限制，重要站点仍建议付费档。",
+      "score": 77,
+      "title": "GoogieHost 免费虚拟主机：1 站点/1G NVMe/100G 流量，免绑卡无广告（2012 年起免费）",
+      "url": "https://t.me/baipiaofl/65230",
+      "value": "免费虚拟主机（DirectAdmin + 免费 SSL + 一键 WP），免绑卡、无广告；须自备域名或用免费子域名"
+    },
+    {
+      "author": "BlockInsight214",
+      "category": "免费额度",
+      "expiry_date": "2026-11-30",
+      "id": 416,
+      "notes": "77分（来源20/可验证25/价值12/时效10/风险10）。原帖全文完整 + 腾讯官网 2026-11-16 发布稿核实：混元 Hy4 flash（224B 总参、激活 12B、1M 上下文）已上线 WorkBuddy，11 月 30 日前在 WorkBuddy 客户端内限时免费使用；TokenHub API 同期 5 折（另一渠道，非免费）。注意：①只是客户端内额度，不可导出为 API Key，站外调用走 OpenCode 的 hy4-flash-free 免费档（在册另有条目）；②官方未公布每日次数/token 上限；③Hy4 正式版限免已结束、Hy3 已端内下线，别按旧文案找；④目录价输入 ¥0.5/M、输出 ¥2/M，11/30 后回归积分计费。",
+      "score": 77,
+      "title": "腾讯混元 Hy4 flash：WorkBuddy 客户端内限时免费到 11 月 30 日（不可导出 API）",
+      "url": "https://x.com/BlockInsight214/status/2122916680389296397",
+      "value": "WorkBuddy 内免费使用新模型 Hy4 flash 至 11/30；仅客户端内额度，不可导出 API"
+    },
+    {
       "author": "yedabinbinah",
       "category": "免费额度",
       "expiry_date": "2027-01-24",
       "id": 414,
-      "notes": "77分（来源20/可验证20/价值12/时效15/风险10）。原帖经独立浏览器只读核实全文 + Meshy 官网 Z-Axis Awards 活动页核对：8 项福利与帖子一致（Meshy 1000 credits、ElevenLabs 首月 Pro 5 折、Manus $50 积分+1 个月 Pro（游戏开发）、PixVerse $30 的 1 个月 Pro、Viture 额外 5% 折扣券、Sun 额外 5% 折扣券、CapCut 300 AI 生成积分、MiniMax Code 每人 2000 Credits）；投稿时间 2026-11-17 至 2027-01-24，免费参赛。注意：①官网称福利面向参赛者，领用走 Google 登录注册；“注册登录即可领、无须提交作品”为作者口径，未在官网页文中逐项证实，领前以页面实际领取按钮为准；②福利面向 3D 创作者，通用用户用得上的主要是 Manus/PixVerse/MiniMax/CapCut 积分；③ElevenLabs 5 折与两张 5% 券是折扣不是免费。",
+      "notes": "77分（来源20/可验证20/价值12/时效15/风险10）。原帖经独立浏览器只读核实全文 + Meshy 官网 Z-Axis Awards 活动页核对：8 项福利与帖子一致（Meshy 1000 credits、ElevenLabs 首月 Pro 5 折、Manus $50 积分+1 个月 Pro（游戏开发）、PixVerse $30 的 1 个月 Pro、Viture 额外 5% 折扣券、Sun 额外 5% 折扣券、CapCut 300 AI 生成积分、MiniMax Code 每人 2000 Credits）；投稿时间 2026-11-17 至 2027-01-24，免费参赛。注意：①官网称福利面向参赛者，领用走 Google 登录注册；“注册登录即可领、无须提交作品”为作者口径，未在官网页文中逐项证实，领前以页面实际领取按钮为准；②福利面向 3D 创作者，通用用户用得上的主要是 Manus/PixVerse/MiniMax/CapCut 积分；③ElevenLabs 5 折与两张 5% 券是折扣不是免费；④2026-11-18 13:40 轮复核：同一作者同日转发的版本配图里 PixVerse 按钮处写“已领完”，与正文“目前都可以领取”不一致，PixVerse 1 个月 Pro 可能已被领完，领前以活动页实际状态为准。",
       "score": 77,
       "title": "Z-Axis Awards 创作者福利：一次领 8 家 AI 积分/会员（Meshy 1000 积分 + Manus $50 + PixVerse 1 个月 Pro 等）",
       "url": "https://x.com/yedabinbinah/status/2122863829357122047",
@@ -2389,6 +2422,28 @@
       "value": "一次性 $5 额度（约 5000 credits，90 天有效），之后按量付费；每日免费已结束"
     },
     {
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 421,
+      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）。原帖经独立浏览器只读核实全文 + GitHub 与多家来源核实：88lin/agentrouter-auto-signin，MIT 开源，63 stars；AgentRouter 每日签到领 $25 额度（多家来源引 agentrouter.org/api/status 核实，2026-11-13 仍有效；注册另送约 $100、邀请 $50），登录动作本身即触发签到，脚本每天自动登录一次完成签到并回查余额，支持最多 10 个账号、错过自动补签，纯 Python 单文件仅依赖 requests。注意：①$25/天为多方口径，额度随上游成本浮动、不是官方承诺；②Claude/GPT 模型每日限量批次、先到先得，抢完即止；③ToS 禁止刷量，滥用进观察组费率翻倍，多账号有封号风险；④仅限合规编码客户端使用；⑤须已有 AgentRouter 账号并绑定邮箱、用邮箱+密码登录过一次，注册须 GitHub OAuth（2025 年前注册的 GitHub 号才能拿奖励额度）。",
+      "score": 72,
+      "title": "agentrouter-auto-signin：自动领 AgentRouter 每日 $25 签到额度，开源免费（MIT，63 stars）",
+      "url": "https://x.com/tantanyuli/status/2122908134331285587",
+      "value": "每天自动领 AgentRouter $25 签到额度（注册另送约 $100）；开源免费，多账号+自动补签"
+    },
+    {
+      "author": "lovethelife2333",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 420,
+      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）。AI 羊毛日报经独立浏览器只读核实全文：微信小程序成长计划二期，微信团队给小程序开发者的扶持，报名送 AI 资源包——10 亿 Token + 10 万张混元生图，申请成功起 6 个月内有效；报名走云开发控制台，须上传营业执照完成企业认证（官方未公布报名截止；已参与一期不能重复领）。注意：①须企业认证，个人用户没有营业执照领不了；②额度只能在小程序前端和云开发服务端内部用，接不进 Cursor 等外部工具；③hy4-preview 12 月 7 日下线、旧生图模型 12 月 1 日下线。日报里 ZCode 项按规则不收；同日报的 Tavily、Gravatar 均已在册，不重复收。",
+      "score": 72,
+      "title": "微信小程序成长计划二期：报名领 10 亿 Token + 10 万张生图（须企业认证，6 个月有效）",
+      "url": "https://x.com/lovethelife2333/status/2122917528494068141",
+      "value": "报名领 10 亿 Token + 10 万张生图，6 个月有效；须营业执照企业认证，仅限小程序/云开发内用"
+    },
+    {
       "author": "KOF97AI",
       "category": "免费额度",
       "expiry_date": null,
@@ -3049,6 +3104,17 @@
       "value": "6 项免费资源一次收齐，Kaggle GPU 与 Codespaces 最实在。"
     },
     {
+      "author": "lovethelife2333",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 422,
+      "notes": "70分（来源20/可验证20/价值5/时效15/风险10）。AI 羊毛日报经独立浏览器只读核实全文 + 多家定价站引官网 pricing 页核实：Retell AI（AI 电话客服 Agent 平台）新账号送 $10 免费额度，语音 Agent $0.07–$0.31/分钟，另含 20 路免费并行与 10 个免费知识库；注册即到账，控制台建 Agent 调试。注意：①电话客服场景，不是通用 LLM API 额度，$10 约合 67–90 分钟通话；②买电话号码才须绑卡（Retell 号码 $2/月、验证号码 $10/月）；③$10 每个邮箱仅一次。",
+      "score": 70,
+      "title": "Retell AI 新用户送 $10 免费额度：AI 电话客服，免绑卡（约 67–90 分钟通话）",
+      "url": "https://x.com/lovethelife2333/status/2122917528494068141",
+      "value": "新账号 $10 免费额度 + 20 路免费并行；电话客服场景，约 67–90 分钟通话"
+    },
+    {
       "author": "AirdropAlert-com",
       "category": "其他",
       "expiry_date": null,
@@ -3399,6 +3465,17 @@
       "title": "Pionex Card（派网卡）：虚拟卡免开卡费/年费，Visa 返现 1% 抵手续费、卡内 USDT 享 5% 年化（大陆办不了）",
       "url": "https://x.com/Javary324/status/2120387965293617361",
       "value": "免开卡费/年费的 U 卡，Visa 返现 1%、卡内 USDT 5% 年化；大陆 +86 无法注册/KYC，仅限海外身份参考。"
+    },
+    {
+      "author": "OnlyJettTian",
+      "category": "订阅优惠",
+      "expiry_date": null,
+      "id": 419,
+      "notes": "67分（来源20/可验证15/价值12/时效15/风险5）。原帖全文完整 + App Store 比价站核实：土耳其区 X Premium 月付 ₺199.99（约 $3.97，-64%），帖子称年付 ₺1,979.99（约 ¥260/年，月均 ¥22），对比国内网页 $8/月（约 ¥690/年）一年省 ¥400+。注意：①年付 ₺1,979.99 这个数未在比价站逐项核实，按月付价 12 个月约 ₺2,400（约 ¥312），年付若属实再便宜约 ¥50；②X 在 2026-10 已改版为 The X Subscription 新档位（美国 Premium $30/月），老 Premium 年付可能是存量价，订阅前以结账页为准；③跨区须注册土耳其区 Apple ID 与当地支付方式，区域订阅有过被撤销的先例（帖子作者原话提醒）。",
+      "score": 67,
+      "title": "X Premium 土区年付约 ¥260/年：土耳其区 Apple ID 订阅，月均 ¥22（年付价未逐项核实）",
+      "url": "https://x.com/OnlyJettTian/status/2122903754110595378",
+      "value": "土区年付约 ¥260/年（月均 ¥22），比国内网页价一年省 ¥400+；须土区 Apple ID，跨区有撤销先例"
     },
     {
       "author": "0xjackkk",
@@ -4317,5 +4394,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-18T12:52:33+08:00"
+  "updated_at": "2026-11-18T13:55:37+08:00"
 }
