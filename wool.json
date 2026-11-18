@@ -1,5 +1,5 @@
 {
-  "count": 424,
+  "count": 439,
   "items": [
     {
       "author": "yedabinbinah",
@@ -300,6 +300,28 @@
     },
     {
       "author": "KOF97AI",
+      "category": "订阅优惠",
+      "expiry_date": null,
+      "id": 453,
+      "notes": "85分（来源30/可验证25/价值15/时效10/风险5）。官方 zed.dev/education 核实：认证大学生免费 12 个月 Zed Pro，每月 $10 AI token 额度，含完整 Pro 功能、无限次编辑预测、实时多人协作；须年满 18 岁、就读于受认证大学，国际学生可申请；用注册满 30 天的 GitHub 账号登录 + 大学邮箱验证，学校域名不在列表可自行添加。注意：①学生档不含 Claude Fable、Claude Opus、GPT Pro（定价文档另列不含 GPT-6 Astra、GPT-5.5 pro、GPT-5.4 pro）；②每月 $10 不支持超支，用完当月即停；③满 12 个月自动降级 Free 档；④并非任意 EDU 邮箱都能直接通过。85+ 二审：浏览器复核 KOF 原帖与 zed.dev/education，属实。",
+      "score": 85,
+      "title": "Zed Pro 学生免费一年：每月 $10 AI 额度，国际学生可申（Fable/Opus 不含）",
+      "url": "https://x.com/KOF97AI/status/2123025863067529521",
+      "value": "认证大学生免费 12 个月 Zed Pro + 每月 $10 AI 额度，约合 $120/年 Pro 费用全免；国际学生可申"
+    },
+    {
+      "author": "KOF97AI",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 452,
+      "notes": "85分（来源30/可验证25/价值10/时效15/风险5）。Varun Mohan（Antigravity 产品负责人）原帖核实：2026-11-18 发帖称“In honor of Antigravity turning 1, we're resetting quota for everyone across all models!”，面向全部用户直接生效，无地区/套餐门槛、无需手动领取。注意：①这是一次性清零重算，不是长期加额或每月多送，官方未公布新的每月额度数字；②评论区有用户反馈原本剩下的额度也被清零重算，余额多的用户可能不赚反亏。85+ 二审：浏览器复核 KOF 原帖与 Varun Mohan 原帖，属实。",
+      "score": 85,
+      "title": "Antigravity 一周年：全员重置全部模型额度（一次性清零重算，非长期加额）",
+      "url": "https://x.com/KOF97AI/status/2123034306251759984",
+      "value": "Antigravity 一周年一次性重置全部模型额度，所有用户自动生效；额度见底的用户等于白得一轮用量"
+    },
+    {
+      "author": "KOF97AI",
       "category": "免费额度",
       "expiry_date": null,
       "id": 387,
@@ -550,6 +572,39 @@
       "title": "Pulsar Money 11月返现提到4%：Pro用户前$3000消费全按4%返积分（到11月30日）",
       "url": "https://x.com/SecJack96/status/2120889366524698761",
       "value": "11月内Pro用户前$3000消费返4%积分（最高约$120积分）"
+    },
+    {
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 455,
+      "notes": "82分（来源25/可验证25/价值12/时效10/风险10）。GitHub Agents365-ai/drawio-skill 核实：Public、MIT License，10.8k stars、742 forks，最新 release v3.4.4；11 种图型预设（UML、时序图、网络拓扑、泳道图、架构图等），支持自然语言、代码库、Terraform/K8s 清单反向生成可编辑 draw.io 架构图，PNG/SVG/PDF 可导，含增量同步、多视图投影、漂移对比、CI 架构测试；一万多个官方图形可检索，另补 321 个 AI 标识。",
+      "score": 82,
+      "title": "drawio-skill：一句话生成可编辑 draw.io 架构图，开源免费（MIT，10.8k stars）",
+      "url": "https://x.com/tantanyuli/status/2123044049653285274",
+      "value": "开源免费（MIT，10.8k stars），一句话或指个代码库就生成可编辑的 draw.io 架构图，省去手动拖线对齐的时间"
+    },
+    {
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 451,
+      "notes": "82分（来源25/可验证25/价值12/时效10/风险10）。GitHub VoltAgent/awesome-design-md 核实：Public、MIT License，128k stars、14.2k forks，GitHub 全球排名 #150；README 称“A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.”，含 Claude、Cursor、Vercel、Notion、Figma、Linear 等品牌设计配置。注意：帖子称 73 个，仓库徽章当前显示 84 个，数量口径有出入（可能已更新），其余说法一致。",
+      "score": 82,
+      "title": "awesome-design-md：知名网站 DESIGN.md 合集，复制进项目让 AI 按品牌风格出 UI（MIT，128k stars）",
+      "url": "https://x.com/tantanyuli/status/2123028698412749023",
+      "value": "开源免费（MIT，128k stars），把品牌 DESIGN.md 复制进项目，AI 写代码时 UI 风格统一、不再丑得没法看"
+    },
+    {
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 449,
+      "notes": "82分（来源25/可验证25/价值12/时效10/风险10）。GitHub Waishnav/devspace 核实：Public、MIT License，5.5k stars、628 forks；README 称“Minimal Coding Agent Harness on MCP for ChatGPT, Claude, Hermes, Grok Bot, OpenClaw”，自搭 MCP server + 隧道 + devspace serve，把公开 /mcp URL 接入 ChatGPT/Claude 等 MCP host，本地项目文件递给网页端 Agent，GitHub 可挂分支/PR。注意：①“双份额度”只是帖主的推论（网页端 chat 与 Codex 各算各的账），官方仓库未承诺双倍额度；②走隧道把本地文件暴露给网页端，用前确认好隐私边界。",
+      "score": 82,
+      "title": "DevSpace：自搭 MCP 服务器，把本地项目文件递给网页端 ChatGPT/Claude 写代码（MIT，5.5k stars）",
+      "url": "https://x.com/tantanyuli/status/2123069970955600292",
+      "value": "开源免费（MIT，5.5k stars），自己搭 MCP server 让网页端 ChatGPT/Claude 直接读写本地项目，Codex 耗尽可挪网页端接着写"
     },
     {
       "author": "Ylj158852",
@@ -1135,6 +1190,17 @@
       "value": "免费云端 GPU/TPU 算力，按需分配不保证"
     },
     {
+      "author": "Aisiverto",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 448,
+      "notes": "80分（来源20/可验证25/价值12/时效15/风险8）。官方文档 docs.litellm.ai 与 litellm.ai 核实：BerriAI/litellm，MIT 核心（enterprise/ 目录另有商业协议），约 61k stars、1700+ 贡献者；Python SDK 或自托管代理（端口 4000），OpenAI/Anthropic 兼容，100+ 模型商，带虚拟 Key、用量统计、预算、熔断与守卫。注意：①网关本身免费，模型调用按各家计费、不产免费额度；②须自己部署/配环境（Postgres/Redis），不是开箱即用的网页服务；③2026-03 曾有 PyPI 投毒版本（1.82.7/1.82.8 带窃取凭据代码，约 40 分钟后下架），须从官方渠道安装并锁定版本、及时打补丁。",
+      "score": 80,
+      "title": "LiteLLM：开源 AI 网关，100+ 模型商一个 OpenAI 兼容接口（MIT，约61k stars）",
+      "url": "https://x.com/Aisiverto/status/2123032976258695401",
+      "value": "开源免费自部署（MIT 核心），一个 OpenAI 兼容接口接 100+ 模型商，带虚拟 Key、用量统计、预算与熔断；Python SDK 或自托管代理"
+    },
+    {
       "author": "0xjackkk",
       "category": "软件工具",
       "expiry_date": null,
@@ -1342,6 +1408,17 @@
       "title": "Kaggle免费GPU双T4跑30B编程大模型",
       "url": "https://x.com/Lovislexus/status/2119595831036960924",
       "value": "每周约30小时免费GPU，双T4合计32GB显存，不用绑卡；可跑Qwen3-Coder 30B量化版"
+    },
+    {
+      "author": "0xjackkk",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 454,
+      "notes": "78分（来源25/可验证20/价值12/时效15/风险10）。@GoogleColab 官方账号 2026-11-17 原帖核实：Colab 正式支持 Remote MCP 与 Colab API，AI Agent 可直连 Colab 运行时跑 Python、调 GPU；MCP 地址 colaboratory.googleapis.com/mcp。注意：①“7×24 全自动”夸大：官方 MCP 参考页称 execute_code 单次调用 600 秒会断开（DEADLINE_EXCEEDED），返回只有文本、没有图，create_runtime 受配额限制；②免费档能否用、Ultra 20x 每月 2,500 CU 的说法未核实，Medium 原文被 Cloudflare 拦截未读到；③主要受益的是已有 Pro/Ultra 算力额度没用完的用户。",
+      "score": 78,
+      "title": "Google Colab 支持 Remote MCP：AI Agent 可直连 Colab 运行时调 GPU（单次 600 秒上限）",
+      "url": "https://x.com/0xjackkk/status/2123023648013635855",
+      "value": "Colab 新开 Remote MCP/API 端口，云端 Agent 可直接调用 Colab GPU 跑微调与推理，Pro/Ultra 闲置算力可喂给 Agent"
     },
     {
       "author": "tantanyuli",
@@ -2235,6 +2312,17 @@
       "value": "首月免费，约 10 美元；.env 外用法有风险"
     },
     {
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 450,
+      "notes": "75分（来源25/可验证25/价值5/时效10/风险10）。GitHub 88lin/computer-repair-skill 核实：Public，636 stars、65 forks，64 commits；README 称可装到 Codex、Claude Code、OpenClaw 等 Agent 的跨平台电脑诊断与维修 Skill，64 个按需加载 Playbook，覆盖诊断、清理、性能、网络与安全维护；官网 repair.88lin.eu.org。注意：许可证为 AGPL-3.0（非 MIT），使用条件不同；星数较小、受众偏窄。",
+      "score": 75,
+      "title": "computer-repair-skill：给 AI Agent 的电脑维修老师傅，64 个排查 Playbook（AGPL-3.0）",
+      "url": "https://x.com/tantanyuli/status/2123084315172966899",
+      "value": "开源免费（AGPL-3.0），把故障现象告诉 Claude Code/Codex 等 Agent，按维修思路一步步带你排查蓝屏、断网、卡顿"
+    },
+    {
       "author": "Lovislexus",
       "category": "云服务器",
       "expiry_date": null,
@@ -2618,6 +2706,17 @@
       "title": "Simular Box 免费云电脑：一次性 $5 额度（约 5000 credits，90 天有效），每日免费已结束",
       "url": "https://x.com/Lovislexus/status/2119725396023545953",
       "value": "一次性 $5 额度（约 5000 credits，90 天有效），之后按量付费；每日免费已结束"
+    },
+    {
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 460,
+      "notes": "72分（来源25/可验证25/价值7/时效10/风险5）。GitHub chatfire-AI/huobao-drama 核实：Public，17.7k stars、3.3k forks，425 commits；README 称基于 TypeScript 全栈的 AI 短剧自动化生产平台，从剧本生成、角色设计、分镜制作到视频合成全流程自动化，支持 OpenAI/Gemini 文本、火山 Seedance 2.0、MiniMax H3、阿里云百炼 Wan 3.0 视频。注意：①许可证为 CC BY-NC-SA 4.0，明确禁止商用（未经作者书面许可不得用于商业目的）；②所有 AI 功能须先配置模型服务（自备 Huobao API Key 或按厂商模板添加），代码开源免费不等于生成免费；③“几分钟出一部短剧”未在 README 中找到对应时效承诺。",
+      "score": 72,
+      "title": "huobao-drama：AI 短剧自动化生产平台，开源但禁商用、生成须自备付费 API（17.7k stars）",
+      "url": "https://x.com/tantanyuli/status/2123059400956907627",
+      "value": "开源短剧生产平台（17.7k stars），剧本/分镜/配音/剪辑/字幕全流程自动化；禁商用，生成须自备付费 API Key"
     },
     {
       "author": "KOF97AI",
@@ -4017,6 +4116,39 @@
       "value": "48 小时内填邀请码，双方各得 10 亿 token"
     },
     {
+      "author": "SecJack96",
+      "category": "金融卡券",
+      "expiry_date": "2026-11-30",
+      "id": 462,
+      "notes": "65分（来源20/可验证15/价值15/时效10/风险5）。活动本身经多家第三方教程佐证：2026-11-01 至 11-30，首次净入金 1 万港币享港美股及美股期权终身免佣、美债 0 佣金 0 平台费 0 托管费，与帖文一致；未找到复星官网活动页直接核实。注意：①300 港币是博主个人返现（“我这边返”，须用其邀请码 2EVBCS 开户、入金后找他登记，兑付看发帖人本人），非官方奖励；②第三方信息显示官方领奖需留存 30 天，与帖文“留存 7 天以上”不一致；③须有港卡才能在内地开户，入金 1 万港币起。另见在册 id434（腾达证券 11 月活动）。",
+      "score": 65,
+      "title": "复星证券 11 月新客：首净入金 1 万港币享港美股及期权终身免佣（至 11-30，300 港币为博主个人返现）",
+      "url": "https://x.com/SecJack96/status/2123041533020586069",
+      "value": "11 月新客首净入金 1 万港币，港美股及美股期权终身免佣、美债 0 佣金 0 平台费 0 托管费；300 港币为博主个人返现"
+    },
+    {
+      "author": "白嫖福利推送",
+      "category": "其他",
+      "expiry_date": null,
+      "id": 458,
+      "notes": "65分（来源20/可验证15/价值5/时效15/风险10）。linux.do 原帖（作者 Cooola_coco，2026-11-18）核实：微信支付→右下角优惠→摇优惠，累计省超千元有机会自动弹出瑞幸 1 张自用+4 张送好友的免费自提券，配图显示累计省 ¥1411.99。注意：①帖子用词本身就是“有机会获得”，阈值与概率未证实，官方活动规则为 App 内页面未直接核实；②回帖有用户称省了 ¥3383.07 仍未获得，与“省超千元即有机会”存在张力；③累计金额是否含银行立减金为楼主个人推测（“好像”）；④多小号可送小号。",
+      "score": 65,
+      "title": "微信支付摇优惠：省超千元有机会得瑞幸 1+4 免费自提券（概率触发，阈值未证实）",
+      "url": "https://t.me/baipiaofl/65311",
+      "value": "微信支付摇优惠累计省超千元，有机会弹出瑞幸 1 张自用+4 张送好友免费自提券；概率触发，非必得"
+    },
+    {
+      "author": "Ylj158852",
+      "category": "金融卡券",
+      "expiry_date": null,
+      "id": 457,
+      "notes": "65分（来源20/可验证15/价值10/时效10/风险10）。作者 X Article 全文核实：今年 7 月恒生银行成香港第一家接进 Alipay+ 的银行，恒生 Mobile App 直接扫内地支持 Alipay+ 的商户二维码、港币实时汇率结算、不收交易手续费，覆盖内地和海外 55 个以上国家和地区；今年 3 月中银香港 BoC Pay+ 接进内地银联网络，覆盖内地 150 多家民生消费类重点商户，钱包每日上限 1 万港币、每年 10 万港币；11 月 2 日香港金融科技周金管局明确转数快（FPS）今年年底前接通银联国际；跨境支付通北向（香港→内地）2025-06-22 已上线，每人每日上限 1 万港币、每年 20 万港币，北向汇款人须是香港身份证持有人。注意：①文中具体日期、限额未逐项对照金管局/银行官网核实；②结论是“扫码自由不是资金自由”，天花板是消费和小额，不是资金自由调度；③t.co 链接本身撞 X 登录墙，未能通过链接确认目标文章，文章全文系直接打开 X Article 地址读到。",
+      "score": 65,
+      "title": "香港的钱能在内地扫码花了：恒生 Alipay+、中银 BoC Pay+ 与跨境支付通限额指南（扫码自由≠资金自由）",
+      "url": "https://x.com/Ylj158852/status/2123042873096716476",
+      "value": "港卡内地使用指南：恒生 App 扫 Alipay+ 商户码、中银 BoC Pay+ 走银联、转数快年底接银联、跨境支付通每日 1 万每年 20 万港币"
+    },
+    {
       "author": "Javary324",
       "category": "金融卡券",
       "expiry_date": null,
@@ -4281,6 +4413,17 @@
       "value": "免费 1.1GB 境外漫游 eSIM 流量（App 注册 + 填码 TRAVELDEALZ），适合出境备用。"
     },
     {
+      "author": "Aisiverto",
+      "category": "金融卡券",
+      "expiry_date": null,
+      "id": 456,
+      "notes": "62分（来源20/可验证15/价值12/时效10/风险5）。作者 X Article《Coinbase Wallet 美元收款账户开通指南》核实：Coinbase Wallet 内可申请美元收款账户，符合条件并完成审核后取得账户号码与 Routing number，用于接收美元汇款，到账后按 1 USD = 1 USDC 转为钱包内 USDC；流程为 Home → Deposit → Direct Deposit → Bridge 验证，单次转账最多 4,000 美元、每人一个银行账户。注意：①短帖“地址+IP+身份证号+护照”有误导：文章未要求美国地址/IP，作者用的是香港居住地，且其流程中护照号码行不通、身份证号码可用；②Bridge 地区支持列表按真实居住地划分，香港被单独列示，China 项下目前不提供相关服务，中国大陆用户官方口径不可用；③USDC 不受存款保险保障；④文章含作者邀请链接（邀请码 TCXJM94J，兑换手续费九折），非官方奖励；⑤Coinbase 官方帮助页与 Bridge 地区页未直接打开核实，以文章引用的官方说明为准。",
+      "score": 62,
+      "title": "Coinbase Wallet 美元收款账户：开通后可收美元汇款转 USDC（中国大陆不在支持列表，作者以香港居住地通过）",
+      "url": "https://x.com/Aisiverto/status/2123048515513528446",
+      "value": "Coinbase Wallet 内申请美元收款账户，拿账户号+Routing number 收美元汇款、到账转 USDC；须 Bridge 验证，中国大陆官方不在支持列表"
+    },
+    {
       "author": "0xjackkk",
       "category": "其他",
       "expiry_date": null,
@@ -4523,6 +4666,28 @@
       "value": "作者自制免费小工具：输入 X 账号体检最近帖子（原创占比、最能打的帖子、收藏率/转帖率、上涨趋势及诊断），另有 500K 变现达标计算器；免登录、不存数据"
     },
     {
+      "author": "hejushang8",
+      "category": "金融卡券",
+      "expiry_date": null,
+      "id": 461,
+      "notes": "60分（来源20/可验证10/价值10/时效15/风险5）。美国卡 BIN 属实：Infini 官方 X 账号称 Visa 卡用美国 BIN、0% 汇兑费、最高 5% 返现；同作者另一帖给出卡 BIN 44135765、发卡银行 SoFi Bank, National Association、发卡国家美国。注意：①帖子核心卖点“订阅 AI 30% 返现”未证实：官方口径为最高 5% 返现，30% 仅见于博主帖文，同作者另一帖称“返现高达 30%，每月省 10u”（疑似每月上限 10 美元）；②能否绑定美区 Apple ID 未在官网核实；③Infini 于 2026-11-02 推出的是 Lite Plus 卡，与帖文 Lite 卡是否为同一产品未核实；④U 卡多为小牌照预付产品，返现常为噱头、资金有冻结风险，只以官方条款为准。",
+      "score": 60,
+      "title": "Infini Lite 卡：美国卡 BIN 可绑美区 Apple ID，订阅 AI 返现官方口径最高 5%（帖称 30% 未证实）",
+      "url": "https://x.com/hejushang8/status/2123052822803661259",
+      "value": "Infini Lite 为美国 BIN 的 Visa 卡，可绑美区 Apple ID 订阅 AI；官方返现最高 5%，帖子称 30% 未证实、疑似每月上限 10 美元"
+    },
+    {
+      "author": "Ciciyingying",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 459,
+      "notes": "60分（来源20/可验证15/价值10/时效10/风险5）。TapeRelay 确实存在：Tapeout 创始人 Blonskr 2026-11-18 当天公布，X Layer 中文台称“一个存大文件、传加密消息的网络，由 TapeOut 团队开发”，已在 X Layer 主网上运行、处于 Alpha/Beta 测试阶段，具备链上节点注册合约等。注意：①“官方测试节点提供免费存储空间”的具体数量/条件在可见引用中未得到印证（Blonskr 原帖全文未读到）；②帖子称 DeFi TVL 与 RWA 管理规模“突破纪录”、黑客松总奖池 10 万 USDT 未在引用中核实；③测试网参与，条件与收益均待官方进一步公布。",
+      "score": 60,
+      "title": "TapeRelay：X Layer 主网测试阶段，官方测试节点提供免费存储空间（数量/条件未核实）",
+      "url": "https://x.com/Ciciyingying/status/2123027316020555913",
+      "value": "Tapeout 创始人公布的 TapeRelay 已在 X Layer 主网测试，官方测试节点提供免费存储空间；具体数量与参与条件未核实"
+    },
+    {
       "author": "tantanyuli",
       "category": "软件工具",
       "expiry_date": null,
@@ -4669,5 +4834,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-18T21:44:22+08:00"
+  "updated_at": "2026-11-19T01:13:24+08:00"
 }
