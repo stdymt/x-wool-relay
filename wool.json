@@ -1,5 +1,5 @@
 {
-  "count": 400,
+  "count": 404,
   "items": [
     {
       "author": "yedabinbinah",
@@ -506,6 +506,17 @@
       "title": "Hermes Agent：会越用越懂你的开源 AI Agent（NousResearch，MIT 免费）",
       "url": "https://x.com/tantanyuli/status/2120234285034856479",
       "value": "免费开源 AI Agent（MIT），262k stars；可自学/自部署，带记忆与技能自改进"
+    },
+    {
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 424,
+      "notes": "84分（来源22/可验证25/价值12/时效15/风险10）。搜索核实：iv-org/invidious，开源 AGPL-3.0，GitHub 约 26k stars，2018 年起维护，2026 年 10 月仍有新版本；不走官方 YouTube API，无广告、无需 Google 账号、手机可后台播放。注意：①只能替代 Premium 的去广告+后台播放部分，无离线下载、不能看 Premium 独占内容；②公开实例只剩 5 个清网站点、常被 YouTube 限流，热门实例不稳定，想稳用须自托管（现需另装 invidious-companion，文档建议每天重启）；③YouTube 2023 年曾发下架函，项目方未理会，播放偶发中断是常态；④视频仍从 Google 的 CDN 流出，IP 仍会被 Google 看到。",
+      "score": 84,
+      "title": "Invidious：开源免费 YouTube 前端，无广告、不用登录（可替掉 YouTube Premium 部分功能）",
+      "url": "https://x.com/tantanyuli/status/2122951942561247239",
+      "value": "开源免费（AGPL-3.0，26k stars），无广告、无需 Google 账号、手机可后台播放；自托管或用公开实例"
     },
     {
       "author": "lovethelife2333",
@@ -1199,6 +1210,28 @@
       "title": "讯飞Loomy免费领积分：每日登录送5000，邀请码再领10000",
       "url": "https://x.com/yedabinbinah/status/2119807386294817083",
       "value": "每天免费5000积分用AI模型（GLM-5.3-Flash等），另可领10000邀请积分"
+    },
+    {
+      "author": "yedabinbinah",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 425,
+      "notes": "80分（来源25/可验证25/价值5/时效15/风险10）。多家报道（腾讯新闻、凤凰网、IT之家）核实：华为官方 2026-11-16 宣布小艺 AI 会员正式上线，体验版每月限时免费赠送 200 AI 积分，供用户试用云端高阶 Agent 能力，无需先完成付费订阅；小艺 Work 订阅用户可 0 元升级至任一 AI 会员套餐。注意：①帖子说的“约 2500 万 Token”是作者自己的换算，官方未给此口径，积分按任务扣点（轻度任务 1–5 点、文档/PPT 10–30 点、复杂 Agent 任务 50–200 点）；②200 积分≈49 元档 1000 积分的 1/5，约 ¥10/月，价值按小额计；③积分有效期只有 1 个月，到期清零，别囤；④支持鸿蒙手机/平板/电脑及 Windows，客户端有 Web、Windows、Harmony OS。",
+      "score": 80,
+      "title": "小艺 AI 会员体验版：每月免费领 200 AI 积分（华为官方 11 月 16 日上线）",
+      "url": "https://x.com/yedabinbinah/status/2122954962196119928",
+      "value": "体验版每月限时免费 200 AI 积分，无需先付费订阅；小艺 Work 用户可 0 元升级任一档"
+    },
+    {
+      "author": "Aisiverto",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 426,
+      "notes": "80分（来源22/可验证25/价值8/时效15/风险10）。搜索核实：SYSTRAN/faster-whisper，MIT 开源，GitHub 25k+ stars，CTranslate2 引擎重实现 OpenAI Whisper，同精度下快约 4 倍、省内存；pip install faster-whisper，Python 3.9+，系统不用另装 FFmpeg（PyAV 自带）。注意：①它是给开发者用的 Python 库，不是开箱即用的桌面软件，普通用户直接收益有限；②省的是 Whisper API 转录费（约 $0.006/分钟），用量小的话省得不多；③GPU 用需 CUDA 12 + cuDNN 9，CPU 也能跑。",
+      "score": 80,
+      "title": "faster-whisper：本地转字幕神器，Whisper 快 4 倍、不用另装 FFmpeg（开源 MIT，25k stars）",
+      "url": "https://x.com/Aisiverto/status/2122957981989875734",
+      "value": "开源免费（MIT），pip 安装，Python 3.9+，本地跑 Whisper 模型转字幕，省云端转录 API 费用"
     },
     {
       "author": "KOF97AI",
@@ -3115,6 +3148,17 @@
       "value": "6 项免费资源一次收齐，Kaggle GPU 与 Codespaces 最实在。"
     },
     {
+      "author": "Lovislexus",
+      "category": "订阅优惠",
+      "expiry_date": null,
+      "id": 427,
+      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）。原帖经独立浏览器只读核实全文 + 两家第三方指南（site2us、kkdemian）交叉核实：Saily（Nord Security 的 eSIM 应用）2026 年 6 月起提供美国 +1 号码附加服务，年付 $11.99，优惠码立减 $5 后首年 $6.99，续费帖子写 $11.90/年（约 $0.99/月）；可在 App 内完成身份验证，国内不用出境即可办。注意：①帖子页面标注 Paid partnership（付费合作），属广告性质，价格以结账页为准；②号码本质是虚拟号，Saily 官方也提示部分服务可能识别为 VoIP，帖子说的“运气好开到实体运营商号段”只是抽中可能、不保证，银行类严格审核的平台别抱期望；③优惠码有两说：帖子作者自回复给 POLANE9228，第三方指南给 CHINA，均称立减 $5，以结账页实际为准；④购买后须在 App 内完成身份验证；⑤入口 saily.com/esim-phone-num，路径：产品→手机号码→仅号码→年付套餐。",
+      "score": 72,
+      "title": "Saily 美国号码首年 $6.99：美国 +1 手机号，年付续费 $11.90（虚拟号，优惠码 POLANE9228）",
+      "url": "https://x.com/Lovislexus/status/2122950274214199752",
+      "value": "首年 $6.99（优惠码立减 $5），续费 $11.90/年；美国 +1 虚拟号，可接打电话、收发短信"
+    },
+    {
       "author": "lovethelife2333",
       "category": "免费额度",
       "expiry_date": null,
@@ -4403,7 +4447,7 @@
     }
   ],
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
-  "source": "X 羊毛收集册（st3 扫描羊毛号时间线，本侧审计打分）",
+  "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-18T14:44:03+08:00"
+  "updated_at": "2026-11-18T15:50:20+08:00"
 }
