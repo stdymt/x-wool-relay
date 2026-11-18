@@ -1,5 +1,5 @@
 {
-  "count": 383,
+  "count": 386,
   "items": [
     {
       "author": "yedabinbinah",
@@ -2018,6 +2018,17 @@
       "author": "tantanyuli",
       "category": "软件工具",
       "expiry_date": null,
+      "id": 407,
+      "notes": "75分（来源20/可验证25/价值5/时效15/风险10）。原帖经独立浏览器只读核实全文 + GitHub 核实：zhihui-hu/one-ip，1.3k stars；开箱即用的 IP 工具箱，一个页面看完：归属地带 0–100 信誉分（住宅/机房/移动网络标注）、ChatGPT/Claude/Gemini/DeepSeek 连通性一键测、浏览器指纹/自动化特征/WebRTC 泄露检测；可一键部署到 Cloudflare Workers，基础功能不配 API Key 也能用。注意：①工具本身免费开源，调代理配置自查用，不直接省钱；②自部署须有 Cloudflare 账号；③1.3k stars，面向代理/出海用户，普通用户直接收益有限。",
+      "score": 75,
+      "title": "one-ip：开源 IP 工具箱，一页看完归属地信誉分、AI 服务连通性与指纹泄露（可自部署 Cloudflare Workers）",
+      "url": "https://x.com/tantanyuli/status/2122859835251138575",
+      "value": "免费开源 IP 检测工具箱（1.3k stars），归属地信誉分+AI 连通性一键测；可自部署到 Cloudflare Workers"
+    },
+    {
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "expiry_date": null,
       "id": 404,
       "notes": "75分（来源20/可验证25/价值5/时效15/风险10）。原帖经独立浏览器只读核实全文 + GitHub 核实：gnekt/My-Brain-Is-Full-Crew，MIT 开源，3.9K stars；8 个以上 AI Agent、14 项技能，用聊天管理 Obsidian 库（整理、归档、搜索、转录会议、分拣邮件），支持 Claude Code/Gemini CLI/OpenCode/Codex，任意语言。注意：①工具本身免费，但跑 Agent 须自备 Claude Code 等的 API 额度/订阅，调用要花钱；②须有 Obsidian 库 + 会装 CLI 工具，面向重度笔记用户；③作者自述是读博期间为管自己的库做的系统。",
       "score": 75,
@@ -2321,6 +2332,17 @@
       "title": "Simular Box 免费云电脑：一次性 $5 额度（约 5000 credits，90 天有效），每日免费已结束",
       "url": "https://x.com/Lovislexus/status/2119725396023545953",
       "value": "一次性 $5 额度（约 5000 credits，90 天有效），之后按量付费；每日免费已结束"
+    },
+    {
+      "author": "KOF97AI",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 409,
+      "notes": "72分（来源20/可验证15/价值12/时效15/风险10）。原帖经独立浏览器只读核实全文 + 官方/多家比价站核对：免费 eSIM 梯队盘点——第一梯队 Firsty 看广告无限续杯低速流量（官网 firsty.app：永久免费、无合约、无需注册、看短广告解锁，150 个国家，限速约 1Mbps，应急收发消息与查地图够用）；第二梯队 Nomad 新用户 1GB/3 天（81 个目的地，App 内领取，免绑卡；与在册 id378 同款）；第三梯队本地运营商体验卡与 RedteaGO 促销，100–500MB 短途备用。注意：①帖子说 Airalo“新用户送 1–3GB”已过时——Airalo 公开免费试用已于 2025 年停用，现仅 Mastercard 持卡人约 200–300MB，别按帖子去领；②RedteaGO 的 100–500MB 本轮未在官方口径中核实；③最差一档（须绑高额预授权信用卡的冷门平台）帖子未点名，作者建议直接避坑；④免费 eSIM 额度小、速度慢，只适合备用/短途，别当主力流量。",
+      "score": 72,
+      "title": "免费 eSIM 盘点：Firsty 看广告永久免费流量 + Nomad 新用户 1GB/3 天（Airalo 公开试用已停）",
+      "url": "https://x.com/KOF97AI/status/2122861184080920696",
+      "value": "Firsty 看广告永久免费低速流量（150 国）；Nomad 新用户 1GB/3 天；Airalo 公开试用已停别去领"
     },
     {
       "author": "Aisiverto",
@@ -3863,6 +3885,17 @@
       "value": "免费 1.1GB 境外漫游 eSIM 流量（App 注册 + 填码 TRAVELDEALZ），适合出境备用。"
     },
     {
+      "author": "Lovislexus",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 408,
+      "notes": "62分（来源20/可验证10/价值12/时效15/风险5）。原帖经独立浏览器只读核实全文：site.ac 免费域名，一个账号能领 3 个，7 种后缀可选，到期免费续，不用银行卡；三步走（把 site.ac/panel/ 发给 Muse 走注册流程，选免费域名按提示申请，验证码/邮箱验证自己处理）。注意：①官网 site.ac/panel/ 本轮打不开（返回请求被拦截），7 种后缀是哪几种、免费续期的具体规则（有效期、续期条件）均未核实；②帖子作者自己也提醒“申请前记得确认免费后缀和续费条件”——免费可能仅首年，续费价未知，领前务必在站内确认；③与 22:40 轮已否的 TerraDomain 同类（帖子未写免费后缀/注册规则/额度），本条因写明了领 3 个、免费续、不用银行卡才给到 62 分进册，仍属薄核实条目。",
+      "score": 62,
+      "title": "site.ac 免费域名：一个账号领 3 个，到期免费续（后缀清单与续期细则未核实）",
+      "url": "https://x.com/Lovislexus/status/2122857570612445600",
+      "value": "免费域名 3 个（7 种后缀可选），不用银行卡；官网打不开、后缀与续期细则未核实"
+    },
+    {
       "author": "fwqgo_com",
       "category": "云服务器",
       "expiry_date": null,
@@ -4218,5 +4251,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-18T08:45:24+08:00"
+  "updated_at": "2026-11-18T09:54:48+08:00"
 }
