@@ -1,5 +1,5 @@
 {
-  "count": 439,
+  "count": 443,
   "items": [
     {
       "author": "yedabinbinah",
@@ -1476,6 +1476,17 @@
       "value": "每月免费 5 CPU 小时、最多 10 个并发 Box：2 vCPU/4GB/10GB，内置 Claude Code/Codex"
     },
     {
+      "author": "yedabinbinah",
+      "category": "订阅优惠",
+      "expiry_date": null,
+      "id": 465,
+      "notes": "77分（来源25/可验证25/价值12/时效10/风险5）。Mistral AI 官方 X 帖（2026-11-17）核实：为庆祝 Mistral Vibe + Le Chonk，欧洲用户前 3 个月 Vibe 免费，码 LECHONK，先到先得，官方未给截止日；兑换页 admin.mistral.ai/subscription/upgrade/redeem?redeem_code=LECHONK。注意：①发帖人“须用欧洲 VPN 节点、火狐选德国、国内万事达/Visa 可过银行卡认证”为个人说法，无官方依据；②发帖人回复称绑卡后约一周不能解绑，须先关境外支付；③有评论称活动已过期，未证实，领取前以兑换页实时状态为准；④官网 Pro 标价 $14.99/月，帖子截图“25欧元/月”口径不一致，以官网为准。",
+      "score": 77,
+      "title": "Mistral Vibe Pro 免费 3 个月：优惠码 LECHONK（欧洲限定、先到先得）",
+      "url": "https://x.com/yedabinbinah/status/2123091298156740901",
+      "value": "Vibe Pro $14.99/月，3 个月约 $45（约¥320）免费；欧洲限定"
+    },
+    {
       "author": "KOF97AI",
       "category": "免费额度",
       "expiry_date": null,
@@ -2310,6 +2321,17 @@
       "title": "腾讯 LightVela 新用户首月免费：4500 AI 积分",
       "url": "https://x.com/yedabinbinah/status/2119462302240121289",
       "value": "首月免费，约 10 美元；.env 外用法有风险"
+    },
+    {
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 464,
+      "notes": "75分（来源20/可验证25/价值5/时效15/风险10）。GitHub MaheshTechnicals/Sealplus 核实：Public、GPL-3.0，1.6k stars，简介称 100% free & open-source；JunkFood02/Seal 的分支增强版，底层调用 yt-dlp 2025.12.08。注意：1000+ 站点为仓库自述，未独立实测；与 yt-dlp 本身不同，是带界面的下载 App。",
+      "score": 75,
+      "title": "Seal Plus：安卓视频下载神器，1000+ 站点免费开源（GPL-3.0，1.6k stars）",
+      "url": "https://x.com/tantanyuli/status/2123114765568376913",
+      "value": "开源免费（GPL-3.0，1.6k stars），一个 App 下载 1000+ 站点视频音频"
     },
     {
       "author": "tantanyuli",
@@ -4116,6 +4138,17 @@
       "value": "48 小时内填邀请码，双方各得 10 亿 token"
     },
     {
+      "author": "白嫖福利推送",
+      "category": "云服务器",
+      "expiry_date": "2026-12-02",
+      "id": 466,
+      "notes": "65分（来源15/可验证20/价值5/时效15/风险10）。官网 ava.hosting 核实：黑五 20% off 全场，码 BFAVA，截至 2026-12-02，剩余 994/1024；Nano VPS 标价 €0.92/月（按年 €11/年），1 vCPU、512MB 内存、20GB NVMe、1 个 IPv4。注意：①官网未给 Nano 划线原价，BFAVA 在结算时对 Nano 是否生效未验证；②“1024”是优惠名额还是抽奖名额未知，NodeSeek 原帖被 IP 屏蔽未读到，抽奖规则未知；③8 折本身只省约 €2/年，价值主要在 Nano 低价。",
+      "score": 65,
+      "title": "Ava.hosting 黑五 8 折：Nano VPS €0.92/月（码 BFAVA，截至 12-02）",
+      "url": "https://t.me/baipiaofl/65320",
+      "value": "黑五 8 折码 BFAVA；Nano VPS €0.92/月（€11/年），1 vCPU/512MB/20GB NVMe"
+    },
+    {
       "author": "SecJack96",
       "category": "金融卡券",
       "expiry_date": "2026-11-30",
@@ -4411,6 +4444,17 @@
       "title": "Red Bull eSIM 免费 1.1G 流量：下 App 填邀请码 TRAVELDEALZ（奥地利 A1 旗下）",
       "url": "https://t.me/baipiaofl/64316",
       "value": "免费 1.1GB 境外漫游 eSIM 流量（App 注册 + 填码 TRAVELDEALZ），适合出境备用。"
+    },
+    {
+      "author": "白嫖福利推送",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 463,
+      "notes": "62分（来源15/可验证20/价值5/时效12/风险10）。linux.do 原帖核实：作者自研生肉漫画原位嵌字插件，专属页 hub.guuguo.top/mangainlay-linuxdo，兑换码 LINUXDO50，+50 页永久叠加额度（优先扣每日免费额度，赠送额度永不过期）；插件自带每日 20 页免费额度（命中云端共享缓存不扣次数）。注意：抽 5 张 30 天 Pro 无限卡，2026-11-19 20:00 截楼，须在帖子评论区回复参与，中奖率低；另可用 linux.do Credit 换页数包（10 Credit=+100 页）。",
+      "score": 62,
+      "title": "漫嵌 MangaInlay：生肉漫画插件领 +50 页永久额度（码 LINUXDO50）",
+      "url": "https://t.me/baipiaofl/65317",
+      "value": "兑换码 LINUXDO50 送 +50 页永久额度；插件自带每日 20 页免费"
     },
     {
       "author": "Aisiverto",
@@ -4834,5 +4878,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-19T01:13:24+08:00"
+  "updated_at": "2026-11-19T03:01:06+08:00"
 }
