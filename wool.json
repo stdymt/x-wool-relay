@@ -1,5 +1,5 @@
 {
-  "count": 445,
+  "count": 446,
   "items": [
     {
       "id": 6,
@@ -11,6 +11,17 @@
       "expiry_date": null,
       "value": "每月约 20 美元额度，全年约 240 美元",
       "notes": "评分 95 分（来源25/可验证25/价值20/时效15/风险10）。原帖与官网均已核实：Perch AI 官网文档证实 Starter 免费档每月 20000 PT（约 20 美元）、不用绑卡，网页/桌面/命令行三端通用。注意：免费额度默认参与 Starter Data Program（用量数据可能用于训练，可退出）；模型阵容每月轮换。"
+    },
+    {
+      "id": 469,
+      "title": "ChatGPT Pro 用户 API 额度福利：每月最高 $500，别忘领",
+      "url": "https://x.com/Lovislexus/status/2123181962143900124",
+      "author": "Lovislexus",
+      "category": "免费额度",
+      "score": 92,
+      "expiry_date": null,
+      "value": "Pro $100/$200/$500 三档每月对应 $100/$200/$500 API 额度，年省最高 $6000；需已是付费 Pro 订阅，额度按账单周期过期不结转",
+      "notes": "92分。来源：@Lovislexus；已核实：OpenAI 官方文档 developers.openai.com/api/docs/guides/chatgpt-api-credits 确认，2026-10-28 起付费 ChatGPT Pro（$100/$200/$500 三档）每月可领等额 API 额度（$100/$200/$500），Business 按席位累计、上限 $500/月。条件：付费订阅满 7 天、Plus/免费试用/Enterprise 不参加、ChatGPT 与 API 账号须同邮箱、每订阅只能绑定一个 API 组织；额度随账单周期过期、不结转、不含 Codex API 调用。领取路径：ChatGPT 设置→账单→API 额度福利卡片→绑定组织。帖子本身未写金额、未附链接，金额与条款以官方文档为准。"
     },
     {
       "id": 443,
@@ -4900,5 +4911,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-19T04:48:31+08:00"
+  "updated_at": "2026-11-19T06:45:37+08:00"
 }
