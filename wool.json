@@ -1,5 +1,5 @@
 {
-  "count": 417,
+  "count": 424,
   "items": [
     {
       "author": "yedabinbinah",
@@ -11,6 +11,17 @@
       "title": "Perch AI 每月免费 20000 PT（约 20 美元），不用绑卡",
       "url": "https://x.com/yedabinbinah/status/2119309189692661916",
       "value": "每月约 20 美元额度，全年约 240 美元"
+    },
+    {
+      "author": "Aisiverto",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 443,
+      "notes": "90分（来源30/可验证25/价值10/时效15/风险10）。GitHub microsoft/markitdown 核实：196.4k stars、14.9k forks，MIT License，需 Python 3.10—3.14；安装命令 pip install 'markitdown[all]'，用法 markitdown 报告.docx -o 报告.md；支持 PDF、Word、PowerPoint、Excel、图片、音频、HTML、CSV、JSON、XML、EPUB、ZIP 等。注意：图片描述与音频转写需调用联网服务；只装 Office 三件套用 markitdown[docx,xlsx,pptx] 就够。85+ 二审：浏览器复核原帖全文与 GitHub 仓库，星数、协议、安装与用法命令均属实。",
+      "score": 90,
+      "title": "微软 MarkItDown：Office/PDF/图片万物转 Markdown，开源免费（MIT，196k stars）",
+      "url": "https://x.com/Aisiverto/status/2123017122150273146",
+      "value": "微软官方开源小工具，pip 安装，一行命令把 Word/Excel/PPT/PDF/图片/音频等转成 Markdown 喂给 AI"
     },
     {
       "author": "lovethelife2333",
@@ -464,6 +475,17 @@
       "value": "免费搜无版权素材；桌面端超 5 GiB 导入需付费 Pro"
     },
     {
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 424,
+      "notes": "84分（来源22/可验证25/价值12/时效15/风险10）。搜索核实：iv-org/invidious，开源 AGPL-3.0，GitHub 约 26k stars，2018 年起维护，2026 年 10 月仍有新版本；不走官方 YouTube API，无广告、无需 Google 账号、手机可后台播放。注意：①只能替代 Premium 的去广告+后台播放部分，无离线下载、不能看 Premium 独占内容；②公开实例只剩 5 个清网站点、常被 YouTube 限流，热门实例不稳定，想稳用须自托管（现需另装 invidious-companion，文档建议每天重启）；③YouTube 2023 年曾发下架函，项目方未理会，播放偶发中断是常态；④视频仍从 Google 的 CDN 流出，IP 仍会被 Google 看到。",
+      "score": 84,
+      "title": "Invidious：开源免费 YouTube 前端，无广告、不用登录（可替掉 YouTube Premium 部分功能）",
+      "url": "https://x.com/tantanyuli/status/2122951942561247239",
+      "value": "开源免费（AGPL-3.0，26k stars），无广告、无需 Google 账号、手机可后台播放；自托管或用公开实例"
+    },
+    {
       "author": "Aisiverto",
       "category": "免费额度",
       "expiry_date": null,
@@ -508,17 +530,6 @@
       "value": "免费开源 AI Agent（MIT），262k stars；可自学/自部署，带记忆与技能自改进"
     },
     {
-      "author": "tantanyuli",
-      "category": "软件工具",
-      "expiry_date": null,
-      "id": 424,
-      "notes": "84分（来源22/可验证25/价值12/时效15/风险10）。搜索核实：iv-org/invidious，开源 AGPL-3.0，GitHub 约 26k stars，2018 年起维护，2026 年 10 月仍有新版本；不走官方 YouTube API，无广告、无需 Google 账号、手机可后台播放。注意：①只能替代 Premium 的去广告+后台播放部分，无离线下载、不能看 Premium 独占内容；②公开实例只剩 5 个清网站点、常被 YouTube 限流，热门实例不稳定，想稳用须自托管（现需另装 invidious-companion，文档建议每天重启）；③YouTube 2023 年曾发下架函，项目方未理会，播放偶发中断是常态；④视频仍从 Google 的 CDN 流出，IP 仍会被 Google 看到。",
-      "score": 84,
-      "title": "Invidious：开源免费 YouTube 前端，无广告、不用登录（可替掉 YouTube Premium 部分功能）",
-      "url": "https://x.com/tantanyuli/status/2122951942561247239",
-      "value": "开源免费（AGPL-3.0，26k stars），无广告、无需 Google 账号、手机可后台播放；自托管或用公开实例"
-    },
-    {
       "author": "lovethelife2333",
       "category": "免费额度",
       "expiry_date": "无固定截止日（免费档持续有效，以官方文档为准）",
@@ -539,6 +550,39 @@
       "title": "Pulsar Money 11月返现提到4%：Pro用户前$3000消费全按4%返积分（到11月30日）",
       "url": "https://x.com/SecJack96/status/2120889366524698761",
       "value": "11月内Pro用户前$3000消费返4%积分（最高约$120积分）"
+    },
+    {
+      "author": "Ylj158852",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 442,
+      "notes": "82分（来源20/可验证25/价值12/时效15/风险10）。原帖 X 长文 + 官网 browserpod.io 核实：BrowserPod 4.0（2026-11-16 发布）“the microVM that runs in the browser, now free for any use”，“Free, unmetered, private”；内核为 Web 平台从头编写、跑在 WebAssembly 上，Node.js 22 为原版源码编译；终端、bash、git、npm、pnpm、Rust 程序能跑，Python 在预览中，Go 还在路上；算力在用户自己电脑上、不走云服务器；文件保存在浏览器本地；不用注册、不用 API Key；新增免 Key 联网 fetch、Edge 网络任意端口 TCP、内置 OpenSSH 客户端；上手 browsercode.io 或 npm install @leaningtech/browserpod。注意：①Edge 免费档每月 1,000 小时联网时长；②不适合长时间挂机与 GPU 任务；③帖子文末另附的 Bybit、VPN 与 TG 群推广链接与 BrowserPod 本身无关。",
+      "score": 82,
+      "title": "BrowserPod 4.0 免费化：浏览器标签页里跑 Linux，Node.js 22 直接跑（0注册0费用）",
+      "url": "https://x.com/Ylj158852/status/2123014756118462866",
+      "value": "浏览器标签页里的 Linux 微型虚拟机，4.0 版换社区许可证后完全免费、无用量上限；Node.js 22、bash/git/npm、Rust 能跑，文件存浏览器本地"
+    },
+    {
+      "author": "Aisiverto",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 439,
+      "notes": "82分（来源20/可验证25/价值12/时效15/风险10）。GitHub unclecode/crawl4ai 核实：Apache-2.0，87.5k stars、9.1k fork，最新版 v0.9.5（2026-10-14）；pip install -U crawl4ai，再跑 crawl4ai-setup、crawl4ai-doctor。注意：①自托管的库本身免费；托管版 Crawl4AI Cloud 每月 1000 免费额度、无需信用卡，付费计划自 $10 起；②须自己部署/跑环境，不是开箱即用的网页服务。",
+      "score": 82,
+      "title": "Crawl4AI：开源免费网页转 Markdown，供 AI/RAG 用（Apache-2.0，87.5k stars）",
+      "url": "https://x.com/Aisiverto/status/2122982896172417195",
+      "value": "开源免费（Apache-2.0，87.5k stars），pip 安装、可自部署，网页转 Markdown 给 AI/知识库用；托管版每月 1000 免费额度、免绑卡"
+    },
+    {
+      "author": "SecJack96",
+      "category": "金融卡券",
+      "expiry_date": "2026-11-30",
+      "id": 434,
+      "notes": "82分（来源25/可验证25/价值15/时效12/风险5）。官方《11月「新客港股融资打新补贴季」活动细则》核实：首次累计净入资 2026-11-17 至 11-30、≥1万港币；2026-11-17 至 2027-01-31 累计完成 5 次有效融资认购（每只新股同一认购方式只计 1 次、现金认购不计、须进入最终中签名单、每笔融资认购费 99 港币），达标后 5 个工作日发 5 张 90 港币股票现金卡（共 450 港币），卡券 30 天有效、每张限用 1 次、仅限买入港美股股票（不含 ETF）。注意：①帖子说的 300 港币返现不是官方新客奖励，是发帖人渠道返佣（须用其邀请码 XD66DX29 开户、入金后联系他登记，兑付看发帖人本人；官方邀请好友奖励是给邀请人 400 港币现金券）；②帖子要求入金 ≥10,100 港币，高于官方门槛 1万港币；③帖子“另送 80 港币股票券、合计约 370”与官方分阶段金额（40+40+80=160）及算术对不上；④“9 港币/次”是 99-90 的抵扣算法，官方认购费本身是 99 港币/次。另见在册 id320（11 月开户奖励）。",
+      "score": 82,
+      "title": "腾达证券11月融资打新补贴：5次融资打新送450港币股票卡（入金窗口至11-30）",
+      "url": "https://x.com/SecJack96/status/2122988187408871464",
+      "value": "11.17–11.30 入金的新客，2027-01-31 前完成 5 次融资打新送 5 张 90 港币股票卡（共 450 港币）；另有 11 月开户分阶段股票卡/期权卡（见 id320）"
     },
     {
       "author": "tantanyuli",
@@ -1091,37 +1135,59 @@
       "value": "免费云端 GPU/TPU 算力，按需分配不保证"
     },
     {
-      "id": 434,
-      "title": "腾达证券11月融资打新补贴：5次融资打新送450港币股票卡（入金窗口至11-30）",
-      "url": "https://x.com/SecJack96/status/2122988187408871464",
-      "author": "SecJack96",
-      "category": "金融卡券",
-      "score": 82,
-      "expiry_date": "2026-11-30",
-      "value": "11.17–11.30 入金的新客，2027-01-31 前完成 5 次融资打新送 5 张 90 港币股票卡（共 450 港币）；另有 11 月开户分阶段股票卡/期权卡（见 id320）",
-      "notes": "82分（来源25/可验证25/价值15/时效12/风险5）。官方《11月「新客港股融资打新补贴季」活动细则》核实。注意：帖子说的 300 港币返现不是官方新客奖励，是发帖人渠道返佣（须用其邀请码 XD66DX29 开户、入金后联系他登记，兑付看发帖人本人）；帖子要求入金 ≥10,100 港币，高于官方门槛 1万港币；“9 港币/次”是 99-90 的抵扣算法，官方认购费本身是 99 港币/次。另见在册 id320（11 月开户奖励）。"
+      "author": "0xjackkk",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 440,
+      "notes": "80分（来源20/可验证25/价值10/时效15/风险10）。原帖经独立浏览器只读核实全文：11 个链接均为 Google 官方后台（policies.google.com/terms、付款中心 payments.google.com/settings、Play 商店设置、myaccount.google.com/personal-info、one.google.com、one.google.com/ai-student 等）。注意：①第 2 项（改区申诉表单）与第 10 项（Play 订阅管理）链接在 X 页面上即显示为截断形式，原文如此；②Play 商店地区每年仅可切换 1 次，谨慎乱切；③第 11 项删除特定服务是注销服务数据用的，不是普通退订，点之前须看清；④这是一份官方入口合集、不是可直接领的优惠，价值按省去排查时间计。",
+      "score": 80,
+      "title": "Google 账号三套系统 11 个官方后台直链合集：查归属国/改付款地/管订阅一次扒齐",
+      "url": "https://x.com/0xjackkk/status/2122966558050038113",
+      "value": "11 个 Google 官方管理后台直链：查账号归属国、申诉改区、付款中心、Play 商店地区、One/AI 会员总后台、学生优惠入口等，锁区/付不了款时按 ①→③→④ 排查"
     },
     {
-      "id": 439,
-      "title": "Crawl4AI：开源免费网页转 Markdown，供 AI/RAG 用（Apache-2.0，87.5k stars）",
-      "url": "https://x.com/Aisiverto/status/2122982896172417195",
       "author": "Aisiverto",
       "category": "软件工具",
-      "score": 82,
       "expiry_date": null,
-      "value": "开源免费（Apache-2.0，87.5k stars），pip 安装、可自部署，网页转 Markdown 给 AI/知识库用；托管版每月 1000 免费额度、免绑卡",
-      "notes": "82分（来源20/可验证25/价值12/时效15/风险10）。GitHub unclecode/crawl4ai 核实：Apache-2.0，87.5k stars、9.1k fork，最新版 v0.9.5（2026-10-14）。注意：须自己部署/跑环境，不是开箱即用的网页服务。"
+      "id": 433,
+      "notes": "80分（来源20/可验证25/价值12/时效15/风险8）。GitHub datalab-to/marker 核实（原 VikParuchuri/marker 重定向至此）：代码 Apache-2.0，41.0k stars、3.0k fork，最新 v2.2.0；pip install marker-pdf，marker_single 转单个文件、marker 转整个文件夹；需 Python 3.10+ 与 PyTorch，公式/表格/扫描页交模型识别。注意：①模型权重另用修改版 AI Pubs Open Rail-M 协议，帖子配图所称“权重个人、研究、小公司免费”与当前 README 表述不完全等同，以仓库说明为准；②须自己配 Python 环境，不是开箱即用的网页服务。",
+      "score": 80,
+      "title": "Marker：PDF 转 Markdown 开源工具，纯 CPU 能跑（Apache-2.0，41k stars）",
+      "url": "https://x.com/Aisiverto/status/2122973333037752408",
+      "value": "开源免费（代码 Apache-2.0，41k stars），pip install marker-pdf，PDF 转 Markdown 供 AI 用；无显卡默认 fast 模式纯 CPU 可跑"
+    },
+    {
+      "author": "Aisiverto",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 426,
+      "notes": "80分（来源22/可验证25/价值8/时效15/风险10）。搜索核实：SYSTRAN/faster-whisper，MIT 开源，GitHub 25k+ stars，CTranslate2 引擎重实现 OpenAI Whisper，同精度下快约 4 倍、省内存；pip install faster-whisper，Python 3.9+，系统不用另装 FFmpeg（PyAV 自带）。注意：①它是给开发者用的 Python 库，不是开箱即用的桌面软件，普通用户直接收益有限；②省的是 Whisper API 转录费（约 $0.006/分钟），用量小的话省得不多；③GPU 用需 CUDA 12 + cuDNN 9，CPU 也能跑。",
+      "score": 80,
+      "title": "faster-whisper：本地转字幕神器，Whisper 快 4 倍、不用另装 FFmpeg（开源 MIT，25k stars）",
+      "url": "https://x.com/Aisiverto/status/2122957981989875734",
+      "value": "开源免费（MIT），pip 安装，Python 3.9+，本地跑 Whisper 模型转字幕，省云端转录 API 费用"
+    },
+    {
+      "author": "yedabinbinah",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 425,
+      "notes": "80分（来源25/可验证25/价值5/时效15/风险10）。多家报道（腾讯新闻、凤凰网、IT之家）核实：华为官方 2026-11-16 宣布小艺 AI 会员正式上线，体验版每月限时免费赠送 200 AI 积分，供用户试用云端高阶 Agent 能力，无需先完成付费订阅；小艺 Work 订阅用户可 0 元升级至任一 AI 会员套餐。注意：①帖子说的“约 2500 万 Token”是作者自己的换算，官方未给此口径，积分按任务扣点（轻度任务 1–5 点、文档/PPT 10–30 点、复杂 Agent 任务 50–200 点）；②200 积分≈49 元档 1000 积分的 1/5，约 ¥10/月，价值按小额计；③积分有效期只有 1 个月，到期清零，别囤；④支持鸿蒙手机/平板/电脑及 Windows，客户端有 Web、Windows、Harmony OS。",
+      "score": 80,
+      "title": "小艺 AI 会员体验版：每月免费领 200 AI 积分（华为官方 11 月 16 日上线）",
+      "url": "https://x.com/yedabinbinah/status/2122954962196119928",
+      "value": "体验版每月限时免费 200 AI 积分，无需先付费订阅；小艺 Work 用户可 0 元升级任一档"
     },
     {
       "author": "Lniosytest",
       "category": "订阅优惠",
-      "expiry_date": null,
+      "expiry_date": "2026-11-22",
       "id": 417,
-      "notes": "80分（来源20/可验证25/价值20/时效15/风险0）。原帖全文完整 + 官方来源核实：OpenCode 官方账号一日内连推 Operation GLM 两阶段——第一阶段 Go 订阅 $10/月得 $100 GLM-5.3 用量，约 11 小时后第二阶段涨到 $200（Go Plus $400）；官方 Go 定价页现列 GLM-5.3 月上限 Go $200、Go Plus $400。注意：①这 $200 是按模型计价的月用量上限，不是存进账户的余额，用不完不结转；②GLM-5.3-Flash 免费档另有免费层（10-16 已上线），只想白嫖不用订 Go；③须付费订阅 $10/月起，5 小时窗口最多用月上限 20%、每周 50%。",
+      "notes": "80分（来源20/可验证25/价值20/时效15/风险0）。原帖全文完整 + 官方来源核实：OpenCode 官方账号一日内连推 Operation GLM 两阶段——第一阶段 Go 订阅 $10/月得 $100 GLM-5.3 用量，约 11 小时后第二阶段涨到 $200（Go Plus $400）；本轮更新（2026-11-18 晚）：官方随后又发帖“F*CK IT $10 for $500 GLM 5.3 till end of the week”，官网 opencode.ai/console/go 现列 GLM-5.3 月上限 Go $500、Go Plus $1000（另有每 5 小时约 6,600 次请求）。注意：①这 $500 是按模型计价的月用量上限，不是存进账户的余额，用不完不结转；②GLM-5.3-Flash 免费档另有免费层（10-16 已上线），只想白嫖不用订 Go；③须付费订阅 $10/月起，5 小时窗口最多用月上限 20%、每周 50%；④$500 档到本周末为止（2026-11-22），之后是否延续看官方。",
       "score": 80,
-      "title": "OpenCode Go 第二阶段：$10/月 GLM-5.3 用量上限涨到 $200（Go Plus $400）",
+      "title": "OpenCode Go：$10/月 GLM-5.3 用量上限涨到 $500（到本周末，Go Plus $1000）",
       "url": "https://x.com/Lniosytest/status/2122921495663968266",
-      "value": "$10/月换 $200 GLM-5.3 月用量（原 $100，第二阶段刚涨）；须付费订阅，用量上限非账户余额"
+      "value": "$10/月换 $500 GLM-5.3 月用量（第二阶段 $200 后又涨到 $500，到本周末为止）；须付费订阅，用量上限非账户余额"
     },
     {
       "author": "AirdropAlert-com",
@@ -1234,50 +1300,6 @@
       "value": "每天免费5000积分用AI模型（GLM-5.3-Flash等），另可领10000邀请积分"
     },
     {
-      "author": "yedabinbinah",
-      "category": "免费额度",
-      "expiry_date": null,
-      "id": 425,
-      "notes": "80分（来源25/可验证25/价值5/时效15/风险10）。多家报道（腾讯新闻、凤凰网、IT之家）核实：华为官方 2026-11-16 宣布小艺 AI 会员正式上线，体验版每月限时免费赠送 200 AI 积分，供用户试用云端高阶 Agent 能力，无需先完成付费订阅；小艺 Work 订阅用户可 0 元升级至任一 AI 会员套餐。注意：①帖子说的“约 2500 万 Token”是作者自己的换算，官方未给此口径，积分按任务扣点（轻度任务 1–5 点、文档/PPT 10–30 点、复杂 Agent 任务 50–200 点）；②200 积分≈49 元档 1000 积分的 1/5，约 ¥10/月，价值按小额计；③积分有效期只有 1 个月，到期清零，别囤；④支持鸿蒙手机/平板/电脑及 Windows，客户端有 Web、Windows、Harmony OS。",
-      "score": 80,
-      "title": "小艺 AI 会员体验版：每月免费领 200 AI 积分（华为官方 11 月 16 日上线）",
-      "url": "https://x.com/yedabinbinah/status/2122954962196119928",
-      "value": "体验版每月限时免费 200 AI 积分，无需先付费订阅；小艺 Work 用户可 0 元升级任一档"
-    },
-    {
-      "author": "Aisiverto",
-      "category": "软件工具",
-      "expiry_date": null,
-      "id": 426,
-      "notes": "80分（来源22/可验证25/价值8/时效15/风险10）。搜索核实：SYSTRAN/faster-whisper，MIT 开源，GitHub 25k+ stars，CTranslate2 引擎重实现 OpenAI Whisper，同精度下快约 4 倍、省内存；pip install faster-whisper，Python 3.9+，系统不用另装 FFmpeg（PyAV 自带）。注意：①它是给开发者用的 Python 库，不是开箱即用的桌面软件，普通用户直接收益有限；②省的是 Whisper API 转录费（约 $0.006/分钟），用量小的话省得不多；③GPU 用需 CUDA 12 + cuDNN 9，CPU 也能跑。",
-      "score": 80,
-      "title": "faster-whisper：本地转字幕神器，Whisper 快 4 倍、不用另装 FFmpeg（开源 MIT，25k stars）",
-      "url": "https://x.com/Aisiverto/status/2122957981989875734",
-      "value": "开源免费（MIT），pip 安装，Python 3.9+，本地跑 Whisper 模型转字幕，省云端转录 API 费用"
-    },
-    {
-      "id": 440,
-      "title": "Google 账号三套系统 11 个官方后台直链合集：查归属国/改付款地/管订阅一次扒齐",
-      "url": "https://x.com/0xjackkk/status/2122966558050038113",
-      "author": "0xjackkk",
-      "category": "软件工具",
-      "score": 80,
-      "expiry_date": null,
-      "value": "11 个 Google 官方管理后台直链：查账号归属国、申诉改区、付款中心、Play 商店地区、One/AI 会员总后台、学生优惠入口等，锁区/付不了款时按 ①→③→④ 排查",
-      "notes": "80分（来源20/可验证25/价值10/时效15/风险10）。原帖经独立浏览器只读核实全文，11 个链接均为 Google 官方后台。注意：Play 商店地区每年仅可切换 1 次；第 11 项删除特定服务是注销服务数据用的，不是普通退订。"
-    },
-    {
-      "id": 433,
-      "title": "Marker：PDF 转 Markdown 开源工具，纯 CPU 能跑（Apache-2.0，41k stars）",
-      "url": "https://x.com/Aisiverto/status/2122973333037752408",
-      "author": "Aisiverto",
-      "category": "软件工具",
-      "score": 80,
-      "expiry_date": null,
-      "value": "开源免费（代码 Apache-2.0，41k stars），pip install marker-pdf，PDF 转 Markdown 供 AI 用；无显卡默认 fast 模式纯 CPU 可跑",
-      "notes": "80分（来源20/可验证25/价值12/时效15/风险8）。GitHub datalab-to/marker 核实：代码 Apache-2.0，41.0k stars、3.0k fork，最新 v2.2.0。注意：模型权重另用修改版 AI Pubs Open Rail-M 协议；须自己配 Python 环境。"
-    },
-    {
       "author": "KOF97AI",
       "category": "免费额度",
       "expiry_date": null,
@@ -1325,6 +1347,17 @@
       "author": "tantanyuli",
       "category": "软件工具",
       "expiry_date": null,
+      "id": 445,
+      "notes": "78分（来源20/可验证25/价值10/时效15/风险8）。GitHub apurvsinghgautam/robin 核实：8.0k stars、1.5k forks，MIT License，最新 Release v3.1；简介“AI-Powered Dark Web OSINT Tool”，功能包括 LLM 优化搜索查询、多暗网搜索引擎聚合、Tor 路由、调查摘要、交互式 Web UI、MCP 支持、对话式追问、一键关联；支持 OpenAI、Claude、Gemini、Mistral、OpenRouter、Ollama 及任意 OpenAI 兼容提供方，Docker 一键部署。注意：①仓库声明仅用于教育与合法调查目的；②须自备 LLM API Key；③暗网 OSINT 工具，用途敏感，仅限合法调查。",
+      "score": 78,
+      "title": "Robin：开源暗网 OSINT 工具，LLM 优化搜索+Tor 聚合+调查摘要（MIT，8k stars）",
+      "url": "https://x.com/tantanyuli/status/2123013347734180027",
+      "value": "AI 驱动的暗网 OSINT 开源工具，LLM 打磨搜索词、多暗网搜索引擎聚合、Tor 路由、出调查摘要；Docker 一键部署"
+    },
+    {
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "expiry_date": null,
       "id": 410,
       "notes": "78分（来源20/可验证25/价值8/时效15/风险10）。原帖经独立浏览器只读核实全文 + GitHub 与多篇独立评测核实：nidhinjs/prompt-master，MIT 开源，16,104 stars（2026-11-17 数据），Claude skill：把一句话需求改写成针对具体工具（Claude/Cursor/Midjourney/Codex 等 30+）的干净 prompt，缺关键信息最多追问三句；12 套模板自动选。注意：①工具本身免费，但它只帮你写 prompt，不直接给额度/省钱，省的是反复试错烧掉的 API token，效果因人而异；②须有 Claude（Claude.ai 免费版可用 skills）或 Claude Code；③作者的“零 token 浪费”是宣传口径，无公开基准测试。",
       "score": 78,
@@ -1364,6 +1397,39 @@
       "title": "Upstash Box 免费层：每月 5 小时 AI Agent 云端电脑，内置 Claude Code（免绑卡）",
       "url": "https://x.com/lovethelife2333/status/2121106000249827689",
       "value": "每月免费 5 CPU 小时、最多 10 个并发 Box：2 vCPU/4GB/10GB，内置 Claude Code/Codex"
+    },
+    {
+      "author": "KOF97AI",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 446,
+      "notes": "77分（来源20/可验证25/价值12/时效10/风险10）。官方文档 docs.hetzner.com/general/company-and-policy/experiments/inference/ 核实：实验（experimental）阶段免费，未来计费会提前邮件通知；明确不存储请求与响应内容（仅为用量/计费存时间戳和 token 数）；不适合生产、无 SLA；两款模型均为 Qwen/Qwen3.6-35B-A3B-FP8 与 Qwen3.8-27B，上下文 262,144，文本+图片输入；60 秒窗口内最多 4M 输入 token、100k 输出 token、10 次请求，超限返回 429。注意：①访问须 Hetzner 账号、Cloud Console 创建 API 令牌；②官方未公布实验结束日期，免费只是实验期内有，结束随时可能收费，别当长期免费后端。",
+      "score": 77,
+      "title": "Hetzner Inference API 实验期免费：Qwen3.6-35B/Qwen3.8-27B，不留存请求内容（须账号）",
+      "url": "https://x.com/KOF97AI/status/2123012704894058531",
+      "value": "实验期内免费调用 Qwen3.6-35B-A3B-FP8 与 Qwen3.8-27B，262k 上下文、文本+图片，OpenAI SDK 兼容"
+    },
+    {
+      "author": "KOF97AI",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 432,
+      "notes": "77分（来源20/可验证20/价值12/时效15/风险10）。原帖经独立浏览器只读核实全文 + 抽查核实：Lemo-Opuscar（lemomo-ai/lemo-opuscar，约17.8k stars，帖子写16K）、Video Shotcraft（Vincentwei1021/video-shotcraft，约20.8k stars，帖子写19.4K，124张镜头配方卡+150个实测示例属实）、Awesome Opus 5.5 Videos（约15.7k stars）均存在，星数与帖子大致相符；Remotion（73.1K）为知名项目。注意：①其余6个仓库未逐项展开t.co核实；②均为Claude Code/Codex skill，须有Opus 5.5等模型额度才能跑，本身不产视频、是代码工程；③Lemo-Opuscar风格数在快速增长，各来源口径43–99不等，以仓库最新为准。",
+      "score": 77,
+      "title": "10个搭配Opus 5.5/Fable 5.2的AI视频开源项目：从分镜、代码渲染到自动剪辑全覆盖",
+      "url": "https://x.com/KOF97AI/status/2122941797580378500",
+      "value": "10个开源项目一次收齐：99种影片风格、124张镜头配方、HTML渲染、MG动效、自动剪辑等，做AI视频不用从零搭"
+    },
+    {
+      "author": "KOF97AI",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 430,
+      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）。原帖经独立浏览器只读核实全文 + GitHub 核实：gfydfhcf/wechat-ilink-muse-bridge，开源 MIT，288 stars，2026-10-20新建，72 commits、6 releases；走腾讯官方iLink协议（ilinkai.weixin.qq.com）扫码授权，非逆向个人号；主人白名单代码层强制，名单外消息直接丢弃。注意：①已知限制：发不出语音条、登录态寿命不确定（项目方实测一次登录稳定3天以上）、只能收到主动发给机器人的消息、看不到主号消息/通讯录/朋友圈；②更新契约AGENTS.md须手动改，代码可自动升；③部署时绑定窗口限时10分钟，须当场完成。",
+      "score": 77,
+      "title": "把Muse接进微信：腾讯官方iLink协议扫码登录，长轮询秒级收消息（开源MIT，288 stars）",
+      "url": "https://x.com/KOF97AI/status/2122946300958396863",
+      "value": "Muse分身进微信实时收发消息、可主动推送提醒（快递/服务器告警/日程），扫码即用；登录态可能几天过期须重扫"
     },
     {
       "author": "白嫖福利推送",
@@ -2169,26 +2235,26 @@
       "value": "首月免费，约 10 美元；.env 外用法有风险"
     },
     {
-      "author": "KOF97AI",
-      "category": "软件工具",
+      "author": "Lovislexus",
+      "category": "云服务器",
       "expiry_date": null,
-      "id": 430,
-      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）。原帖经独立浏览器只读核实全文 + GitHub 核实：gfydfhcf/wechat-ilink-muse-bridge，开源 MIT，288 stars，2026-10-20新建，72 commits、6 releases；走腾讯官方iLink协议（ilinkai.weixin.qq.com）扫码授权，非逆向个人号；主人白名单代码层强制，名单外消息直接丢弃。注意：①已知限制：发不出语音条、登录态寿命不确定（项目方实测一次登录稳定3天以上）、只能收到主动发给机器人的消息、看不到主号消息/通讯录/朋友圈；②更新契约AGENTS.md须手动改，代码可自动升；③部署时绑定窗口限时10分钟，须当场完成。",
-      "score": 77,
-      "title": "把Muse接进微信：腾讯官方iLink协议扫码登录，长轮询秒级收消息（开源MIT，288 stars）",
-      "url": "https://x.com/KOF97AI/status/2122946300958396863",
-      "value": "Muse分身进微信实时收发消息、可主动推送提醒（快递/服务器告警/日程），扫码即用；登录态可能几天过期须重扫"
+      "id": 437,
+      "notes": "75分（来源20/可验证25/价值12/时效10/风险8）。原帖经独立浏览器只读核实全文 + 官网 serv00.com 核实：免费套餐还在（Revolutionary Free Hosting、FREE、无广告），配置属实（3GB 存储、流量不限、512MB 内存、SSH、免费子域名、100 个网站、MySQL 10 个、PostgreSQL 3 个、MongoDB 3 个）；注册页只要求姓名/用户名/邮箱/国家+验证码，无付款/信用卡字段。注意：①名额有限：官网计数 167,632/170,000，接近上限，满了须蹲下一批；②系统是 FreeBSD 不是 Linux，不能直接用 apt；③帖子称“运营十多年”，官网显示 1167 天（约 3.2 年）、页脚 ©2022–2026，口径不一致；④“90 天不登录删号”未在官网首页证实；⑤禁止代理/VPN/隧道、Alist、哪吒监控，一人限一个账号；⑥SSH 隧道与远程数据库访问不支持、技术支持仅论坛、无 SLA。练手/小网站可用，生产项目别指望。",
+      "score": 75,
+      "title": "Serv00 免费 VPS：3GB SSD/512MB 内存/不限流量/SSH，免绑卡（名额将满）",
+      "url": "https://x.com/Lovislexus/status/2122960955172925584",
+      "value": "免费小服务器（FreeBSD），3GB SSD、512MB 内存、流量不限、SSH、免费子域名+MySQL/PostgreSQL/MongoDB；免绑卡、长期免费"
     },
     {
       "author": "KOF97AI",
       "category": "软件工具",
       "expiry_date": null,
-      "id": 432,
-      "notes": "77分（来源20/可验证20/价值12/时效15/风险10）。原帖经独立浏览器只读核实全文 + 抽查核实：Lemo-Opuscar（lemomo-ai/lemo-opuscar，约17.8k stars，帖子写16K）、Video Shotcraft（Vincentwei1021/video-shotcraft，约20.8k stars，帖子写19.4K，124张镜头配方卡+150个实测示例属实）、Awesome Opus 5.5 Videos（约15.7k stars）均存在，星数与帖子大致相符；Remotion（73.1K）为知名项目。注意：①其余6个仓库未逐项展开t.co核实；②均为Claude Code/Codex skill，须有Opus 5.5等模型额度才能跑，本身不产视频、是代码工程；③Lemo-Opuscar风格数在快速增长，各来源口径43–99不等，以仓库最新为准。",
-      "score": 77,
-      "title": "10个搭配Opus 5.5/Fable 5.2的AI视频开源项目：从分镜、代码渲染到自动剪辑全覆盖",
-      "url": "https://x.com/KOF97AI/status/2122941797580378500",
-      "value": "10个开源项目一次收齐：99种影片风格、124张镜头配方、HTML渲染、MG动效、自动剪辑等，做AI视频不用从零搭"
+      "id": 429,
+      "notes": "75分（来源20/可验证25/价值5/时效15/风险10）。原帖经独立浏览器只读核实全文 + GitHub 核实：VaneAi888/vane-gpt-image-skills，开源 MIT，575 stars，2026-11-05新建；含微信红包封面制作Skill（36种风格参考、4组完整预览、模拟效果后一键导出），合集另有照片转动态表情包、电影级海报、书页里的电影共4个Skill。注意：①生图走GPT Image 2.6，须有可用图像生成环境（API/订阅费用另计），Skill本身免费；②红包封面预览图是风格模拟、不是可直接上传的封面原图，也不是微信官方模板；③用照片或角色素材时须确认有相应使用权。",
+      "score": 75,
+      "title": "开源AI Skill自己做微信红包封面：36种风格、带效果预览一键导出（MIT，575 stars）",
+      "url": "https://x.com/KOF97AI/status/2122950365423489173",
+      "value": "自己做微信红包封面，不用再花钱买；36种风格、说句话就生成，带效果预览"
     },
     {
       "author": "tantanyuli",
@@ -2411,28 +2477,6 @@
       "value": "每周 500 万 Ondo 积分 + USDC 池（约 17.5–25 万美元），按交易量与持仓分配；需入金交易"
     },
     {
-      "author": "KOF97AI",
-      "category": "软件工具",
-      "expiry_date": null,
-      "id": 429,
-      "notes": "75分（来源20/可验证25/价值5/时效15/风险10）。原帖经独立浏览器只读核实全文 + GitHub 核实：VaneAi888/vane-gpt-image-skills，开源 MIT，575 stars，2026-11-05新建；含微信红包封面制作Skill（36种风格参考、4组完整预览、模拟效果后一键导出），合集另有照片转动态表情包、电影级海报、书页里的电影共4个Skill。注意：①生图走GPT Image 2.6，须有可用图像生成环境（API/订阅费用另计），Skill本身免费；②红包封面预览图是风格模拟、不是可直接上传的封面原图，也不是微信官方模板；③用照片或角色素材时须确认有相应使用权。",
-      "score": 75,
-      "title": "开源AI Skill自己做微信红包封面：36种风格、带效果预览一键导出（MIT，575 stars）",
-      "url": "https://x.com/KOF97AI/status/2122950365423489173",
-      "value": "自己做微信红包封面，不用再花钱买；36种风格、说句话就生成，带效果预览"
-    },
-    {
-      "id": 437,
-      "title": "Serv00 免费 VPS：3GB SSD/512MB 内存/不限流量/SSH，免绑卡（名额将满）",
-      "url": "https://x.com/Lovislexus/status/2122960955172925584",
-      "author": "Lovislexus",
-      "category": "云服务器",
-      "score": 75,
-      "expiry_date": null,
-      "value": "免费小服务器（FreeBSD），3GB SSD、512MB 内存、流量不限、SSH、免费子域名+MySQL/PostgreSQL/MongoDB；免绑卡、长期免费",
-      "notes": "75分（来源20/可验证25/价值12/时效10/风险8）。官网 serv00.com 核实：免费套餐还在，配置属实，注册无付款/信用卡字段。注意：名额 167,632/170,000 接近上限；系统是 FreeBSD 不是 Linux；帖子称“运营十多年”与官网 1167 天不符；“90 天不登录删号”未在官网首页证实；禁止代理/VPN/隧道、Alist、哪吒监控。"
-    },
-    {
       "author": "Javary324",
       "category": "金融卡券",
       "expiry_date": null,
@@ -2499,6 +2543,39 @@
       "value": "Kaggle、Colab免费GPU + GitHub Actions、Supabase、OpenRouter、Cloudflare Workers/R2等免费额度合集"
     },
     {
+      "author": "KOF97AI",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 441,
+      "notes": "73分（来源20/可验证25/价值5/时效15/风险8）。官方博客 hpc-ai.com/blog/Introducing-Model-API 核实：新上线 Model APIs，首批 Kimi K2.5 和 MiniMax M2.5，OpenAI 兼容，“we're giving $2 in free credits to all users”，注册后进 Models Console 领 voucher；按 Minimax 2.5 定价（输入$0.30/百万、缓存输入$0.03/百万、输出$1.20/百万）与 80%输入/20%输出/50%缓存命中假设，$2 约对应 430 万输入 token + 107 万输出 token。注意：①430万/107万只是假设条件下的参考值，不是保底用量；②一次性领取、不是每月刷新；③官方未公布截止日期，也未说明领取或后续计费是否需要绑卡，别当长期免费额度。",
+      "score": 73,
+      "title": "HPC-AI Model APIs：注册领一次性$2试用金，Kimi K2.5/MiniMax M2.5 OpenAI兼容",
+      "url": "https://x.com/KOF97AI/status/2123016781962879298",
+      "value": "注册后在 Models Console 领一次性$2试用金，首批 Kimi K2.5 与 MiniMax M2.5，OpenAI 兼容格式"
+    },
+    {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 436,
+      "notes": "73分（来源20/可验证25/价值8/时效10/风险10）。NodeSeek 帖子正文因 Cloudflare 验证墙未读到，改走多家媒体交叉核实（WABetaInfo、9to5Google 等）：Android 测试版 2.26.46.4 开始分批推送 WhatsApp 自家云备份，免费 2GB，备份强制端对端加密、不可关闭；超了可订阅 WhatsApp Plus（100GB，约 $2.99/月）或 Meta One（最高 4TB）。注意：①目前仅部分 Android Beta 用户可见，分批推送中，正式向所有用户开放的时间未公布，即使装了最新 Beta 也可能看不到；②2GB 对多年聊天记录来说很小，超了就停更备份；③iOS 版也在测试（26.45.10.71），同样未全面开放；④取消订阅后超额备份只保留 4 个月。",
+      "score": 73,
+      "title": "WhatsApp 自家云备份免费 2GB：对话备份不再占 Google Drive（Android Beta 分批推送）",
+      "url": "https://www.nodeseek.com/post-1063509-1",
+      "value": "WhatsApp 自家云端备份（WhatsApp cloud storage）：选 WhatsApp 自家服务器备份对话，免费送 2GB 空间，不再占 Google Drive；强制端对端加密"
+    },
+    {
+      "author": "KOF97AI",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 431,
+      "notes": "73分（来源20/可验证25/价值8/时效15/风险5）。原帖经独立浏览器只读核实全文 + GitHub 核实：rolazd/xiaoai-doubao，开源 MIT，148 stars，2026-11-15新建，含完整刷机与部署流程。注意：①仅限小米智能音箱Pro、系统版本1.62.2、须苹果芯片Mac（Windows有网友在Win11上装成功）；②刷机有可能把音箱刷坏、失去保修、还可能违反小米用户协议，作者只在自己一台音箱上完整做过；③豆包语音服务来自火山引擎，新开通有免费额度，作者家孩子天天聊、用了几周就用完了，用完后收费、一个月花多少作者自己也没摸清，以火山引擎官网价格为准；④认人、记得上次、家长网页须自备服务器，不弄也能正常聊天。",
+      "score": 73,
+      "title": "小爱音箱Pro刷机接豆包：变儿童英语口语陪练（开源MIT，148 stars）",
+      "url": "https://x.com/KOF97AI/status/2122958283489341708",
+      "value": "闲置小爱音箱Pro变儿童英语陪练，豆包只说英语、可认人记进度；须刷机+火山引擎账号，语音免费额度用完后收费"
+    },
+    {
       "author": "tantanyuli",
       "category": "软件工具",
       "expiry_date": null,
@@ -2546,23 +2623,45 @@
       "author": "KOF97AI",
       "category": "软件工具",
       "expiry_date": null,
-      "id": 431,
-      "notes": "73分（来源20/可验证25/价值8/时效15/风险5）。原帖经独立浏览器只读核实全文 + GitHub 核实：rolazd/xiaoai-doubao，开源 MIT，148 stars，2026-11-15新建，含完整刷机与部署流程。注意：①仅限小米智能音箱Pro、系统版本1.62.2、须苹果芯片Mac（Windows有网友在Win11上装成功）；②刷机有可能把音箱刷坏、失去保修、还可能违反小米用户协议，作者只在自己一台音箱上完整做过；③豆包语音服务来自火山引擎，新开通有免费额度，作者家孩子天天聊、用了几周就用完了，用完后收费、一个月花多少作者自己也没摸清，以火山引擎官网价格为准；④认人、记得上次、家长网页须自备服务器，不弄也能正常聊天。",
-      "score": 73,
-      "title": "小爱音箱Pro刷机接豆包：变儿童英语口语陪练（开源MIT，148 stars）",
-      "url": "https://x.com/KOF97AI/status/2122958283489341708",
-      "value": "闲置小爱音箱Pro变儿童英语陪练，豆包只说英语、可认人记进度；须刷机+火山引擎账号，语音免费额度用完后收费"
+      "id": 447,
+      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）。官网 freebuff.com 核实：首页原话“The free coding agent. $0 forever, unlimited usage. The best coding models, funded by ads instead of a subscription. No card, no credits to watch.”；提供 macOS、Windows、Linux、iOS、Android、网页版，支持 npm install -g freebuff；可连接 GitHub、Linear、Stripe、Supabase、Vercel、Cloudflare 等。注意：①“forever”“unlimited”是营销表述，首页未公布具体模型清单与用量上限条款，不能断言永久无限制；②把私有代码交给这类工具前先掂量数据风险（帖子原话提醒）。",
+      "score": 72,
+      "title": "freebuff 免费编程 Agent：官网称$0永久免绑卡、广告资助（私有代码先掂量数据风险）",
+      "url": "https://x.com/KOF97AI/status/2123000484734914792",
+      "value": "免费编程 Agent，官网称 $0 forever、unlimited usage、免绑卡，广告资助；macOS/Windows/Linux/iOS/Android/网页版 + npm 安装"
     },
     {
-      "id": 436,
-      "title": "WhatsApp 自家云备份免费 2GB：对话备份不再占 Google Drive（Android Beta 分批推送）",
-      "url": "https://www.nodeseek.com/post-1063509-1",
-      "author": "白嫖福利推送",
-      "category": "免费额度",
-      "score": 73,
+      "author": "Javary324",
+      "category": "金融卡券",
       "expiry_date": null,
-      "value": "WhatsApp 自家云端备份（WhatsApp cloud storage）：选 WhatsApp 自家服务器备份对话，免费送 2GB 空间，不再占 Google Drive；强制端对端加密",
-      "notes": "73分（来源20/可验证25/价值8/时效10/风险10）。NodeSeek 帖子正文因 Cloudflare 验证墙未读到，改走多家媒体交叉核实（WABetaInfo、9to5Google 等）：Android 测试版 2.26.46.4 开始分批推送，免费 2GB，强制端对端加密。注意：目前仅部分 Android Beta 用户可见，正式开放时间未公布；2GB 对多年聊天记录来说很小；取消订阅后超额备份只保留 4 个月。"
+      "id": 438,
+      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）。官网 transunion.com 核实：标题 Free Credit Score, Report, Monitoring & Alerts，写明免费信用报告与分数、Sign Up For Free、No credit card required、Doesn't affect your score；评分为 VantageScore 3.0 模型（放贷机构可能用不同模型）。注意：①免费的是注册账户后查看，非匿名即查；②须完成身份验证，有美国信用记录才更容易查到评分，中国用户大多无美国信用记录；③注册页具体要求填哪些身份信息（SSN/ITIN 等）未核实；④帖子称“每日更新”见于其配图，官网首页本次所见文字未逐字出现“每日”字样，仅写监控与提醒。",
+      "score": 72,
+      "title": "TransUnion 免费查美国信用分与报告：免绑卡、不影响分数（须美国信用记录）",
+      "url": "https://x.com/Javary324/status/2122975089364987997",
+      "value": "美国三大征信机构之一 TransUnion 官网免费查信用分与报告、带信用监控与提醒；免绑卡、不影响分数"
+    },
+    {
+      "author": "OnlyJettTian",
+      "category": "金融卡券",
+      "expiry_date": "2026-11-18",
+      "id": 428,
+      "notes": "72分（来源20/可验证20/价值12/时效10/风险10）。原帖经独立浏览器只读核实全文：作者逐个查了官网条款——众安喊2000，到手是券包不是现金，大部分要大额交易才解锁，这轮11月18日就到期，开户还得人在香港；Mox的1400真现金只有1000，得批下信用卡、去指定商户消费，没香港身份证根本开不了；汇丰300港币是真现金，但要压3万港币半年，2027年9月才到账；giffgaff推荐双方各5英镑是真的，但推荐人拿的是积分，一年只兑两次，还只认实体卡；盈透推荐奖励直接出局——官网写明大陆居民没资格参加。注意：①各行官网条款未逐项复核，以帖子核查口径为准；②这是一篇避坑核查帖、不是可直接领的优惠，众安轮次今天到期。",
+      "score": 72,
+      "title": "港卡迎新数字逐个核查：众安2000是券包非现金、Mox真现金仅1000、汇丰300要压3万半年",
+      "url": "https://x.com/OnlyJettTian/status/2122949677352202282",
+      "value": "识破广告大数字：众安2000是券包且11-18到期、须人在香港；Mox 1400真现金仅1000、须香港身份证+批卡+指定商户消费；汇丰300真现金但须压3万港币半年、2027-09才到账；盈透推荐大陆居民没资格"
+    },
+    {
+      "author": "Lovislexus",
+      "category": "订阅优惠",
+      "expiry_date": null,
+      "id": 427,
+      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）。原帖经独立浏览器只读核实全文 + 两家第三方指南（site2us、kkdemian）交叉核实：Saily（Nord Security 的 eSIM 应用）2026 年 6 月起提供美国 +1 号码附加服务，年付 $11.99，优惠码立减 $5 后首年 $6.99，续费帖子写 $11.90/年（约 $0.99/月）；可在 App 内完成身份验证，国内不用出境即可办。注意：①帖子页面标注 Paid partnership（付费合作），属广告性质，价格以结账页为准；②号码本质是虚拟号，Saily 官方也提示部分服务可能识别为 VoIP，帖子说的“运气好开到实体运营商号段”只是抽中可能、不保证，银行类严格审核的平台别抱期望；③优惠码有两说：帖子作者自回复给 POLANE9228，第三方指南给 CHINA，均称立减 $5，以结账页实际为准；④购买后须在 App 内完成身份验证；⑤入口 saily.com/esim-phone-num，路径：产品→手机号码→仅号码→年付套餐。",
+      "score": 72,
+      "title": "Saily 美国号码首年 $6.99：美国 +1 手机号，年付续费 $11.90（虚拟号，优惠码 POLANE9228）",
+      "url": "https://x.com/Lovislexus/status/2122950274214199752",
+      "value": "首年 $6.99（优惠码立减 $5），续费 $11.90/年；美国 +1 虚拟号，可接打电话、收发短信"
     },
     {
       "author": "白嫖福利推送",
@@ -3256,39 +3355,6 @@
       "title": "AI 免费资源清单：Simular Box、Kaggle、Codespaces 等 6 项",
       "url": "https://x.com/Lovislexus/status/2119565631079219294",
       "value": "6 项免费资源一次收齐，Kaggle GPU 与 Codespaces 最实在。"
-    },
-    {
-      "author": "Lovislexus",
-      "category": "订阅优惠",
-      "expiry_date": null,
-      "id": 427,
-      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）。原帖经独立浏览器只读核实全文 + 两家第三方指南（site2us、kkdemian）交叉核实：Saily（Nord Security 的 eSIM 应用）2026 年 6 月起提供美国 +1 号码附加服务，年付 $11.99，优惠码立减 $5 后首年 $6.99，续费帖子写 $11.90/年（约 $0.99/月）；可在 App 内完成身份验证，国内不用出境即可办。注意：①帖子页面标注 Paid partnership（付费合作），属广告性质，价格以结账页为准；②号码本质是虚拟号，Saily 官方也提示部分服务可能识别为 VoIP，帖子说的“运气好开到实体运营商号段”只是抽中可能、不保证，银行类严格审核的平台别抱期望；③优惠码有两说：帖子作者自回复给 POLANE9228，第三方指南给 CHINA，均称立减 $5，以结账页实际为准；④购买后须在 App 内完成身份验证；⑤入口 saily.com/esim-phone-num，路径：产品→手机号码→仅号码→年付套餐。",
-      "score": 72,
-      "title": "Saily 美国号码首年 $6.99：美国 +1 手机号，年付续费 $11.90（虚拟号，优惠码 POLANE9228）",
-      "url": "https://x.com/Lovislexus/status/2122950274214199752",
-      "value": "首年 $6.99（优惠码立减 $5），续费 $11.90/年；美国 +1 虚拟号，可接打电话、收发短信"
-    },
-    {
-      "author": "OnlyJettTian",
-      "category": "金融卡券",
-      "expiry_date": "2026-11-18",
-      "id": 428,
-      "notes": "72分（来源20/可验证20/价值12/时效10/风险10）。原帖经独立浏览器只读核实全文：作者逐个查了官网条款——众安喊2000，到手是券包不是现金，大部分要大额交易才解锁，这轮11月18日就到期，开户还得人在香港；Mox的1400真现金只有1000，得批下信用卡、去指定商户消费，没香港身份证根本开不了；汇丰300港币是真现金，但要压3万港币半年，2027年9月才到账；giffgaff推荐双方各5英镑是真的，但推荐人拿的是积分，一年只兑两次，还只认实体卡；盈透推荐奖励直接出局——官网写明大陆居民没资格参加。注意：①各行官网条款未逐项复核，以帖子核查口径为准；②这是一篇避坑核查帖、不是可直接领的优惠，众安轮次今天到期。",
-      "score": 72,
-      "title": "港卡迎新数字逐个核查：众安2000是券包非现金、Mox真现金仅1000、汇丰300要压3万半年",
-      "url": "https://x.com/OnlyJettTian/status/2122949677352202282",
-      "value": "识破广告大数字：众安2000是券包且11-18到期、须人在香港；Mox 1400真现金仅1000、须香港身份证+批卡+指定商户消费；汇丰300真现金但须压3万港币半年、2027-09才到账；盈透推荐大陆居民没资格"
-    },
-    {
-      "id": 438,
-      "title": "TransUnion 免费查美国信用分与报告：免绑卡、不影响分数（须美国信用记录）",
-      "url": "https://x.com/Javary324/status/2122975089364987997",
-      "author": "Javary324",
-      "category": "金融卡券",
-      "score": 72,
-      "expiry_date": null,
-      "value": "美国三大征信机构之一 TransUnion 官网免费查信用分与报告、带信用监控与提醒；免绑卡、不影响分数",
-      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）。官网 transunion.com 核实：免费信用报告与分数、No credit card required、Doesn't affect your score。注意：免费的是注册账户后查看；须完成身份验证，有美国信用记录才更容易查到评分；注册页具体身份信息要求未核实。"
     },
     {
       "author": "lovethelife2333",
@@ -4215,6 +4281,17 @@
       "value": "免费 1.1GB 境外漫游 eSIM 流量（App 注册 + 填码 TRAVELDEALZ），适合出境备用。"
     },
     {
+      "author": "0xjackkk",
+      "category": "其他",
+      "expiry_date": null,
+      "id": 444,
+      "notes": "62分（来源20/可验证15/价值12/时效10/风险5）。原帖经独立浏览器只读核实全文 + 公开报道交叉核实：蚂蚁阿福“一分钱领体脂秤”活动真实存在、多批次；作者称实测已到手，流程为支付宝扫码领券（芝麻分650+）→活动页下单付39.9→到货下载蚂蚁阿福App绑定体脂秤称重同步→返39.9元。注意：①返现口径有出入：帖子开头说“到货返还39.9支付宝红包”，帖内第5步又说“39.9一年的返现券”，另有用户反馈是“到货返34.9+连续打卡21天再返5”，以实际到账为准；②帖子未给截止时间与名额，入口是图片二维码，网页端无法验证当前批次是否还在、二维码是否有效；③须先付39.9元，芝麻分须650+；④作者建议选薄荷联名最新款B1（款式一），A1款有网友发避雷帖，别走淘宝下单（淘宝渠道返30）。",
+      "score": 62,
+      "title": "支付宝蚂蚁阿福体脂秤0.01元到手：芝麻分650+先付39.9、到货绑定返39.9（返现版本有出入）",
+      "url": "https://x.com/0xjackkk/status/2122993953196699740",
+      "value": "芝麻分650+领券、付39.9买阿福体脂秤B1款，到货绑阿福App称重后返39.9元，相当于0.01元到手（不计运费）"
+    },
+    {
       "author": "Lovislexus",
       "category": "免费额度",
       "expiry_date": null,
@@ -4435,15 +4512,15 @@
       "value": "免费调 deepseek-v4-flash 与 glm-5.3-flash，条款未核实，先小量试用。"
     },
     {
-      "id": 435,
-      "title": "免费 X 账号体检小工具：查原创占比/最能打的帖子/500K 变现达标测算（免登录）",
-      "url": "https://x.com/OnlyJettTian/status/2122977708162375817",
       "author": "OnlyJettTian",
       "category": "软件工具",
-      "score": 61,
       "expiry_date": null,
-      "value": "作者自制免费小工具：输入 X 账号体检最近帖子（原创占比、最能打的帖子、收藏率/转帖率、上涨趋势及诊断），另有 500K 变现达标计算器；免登录、不存数据",
-      "notes": "61分（来源15/可验证20/价值8/时效10/风险8）。浏览器实测打开作者评论区链接（Cloudflare Workers 临时域名）：免费、不用登录、不存数据。注意：临时域名随时可能失效；“不存数据”仅为作者页面自述，未独立核实；只对做 X 变现/运营的人有用。"
+      "id": 435,
+      "notes": "61分（来源15/可验证20/价值8/时效10/风险8）。浏览器实测打开作者评论区链接（Cloudflare Workers 临时域名 odd-tree-0c49.775501912.workers.dev）：页面标明免费、不用登录、不存数据，输入 X 账号即可体检最近 20–40 条帖子（走 FxTwitter 公开接口），另有 500K 达标计算器（填变现页合格曝光数，按 90 天内达 500K 测算、约每天 5,556）。注意：①临时域名、非独立域名/官方工具，随时可能失效；②“不存数据”仅为作者页面自述，未独立核实；③只对做 X 变现/运营的人有用，受众较窄。",
+      "score": 61,
+      "title": "免费 X 账号体检小工具：查原创占比/最能打的帖子/500K 变现达标测算（免登录）",
+      "url": "https://x.com/OnlyJettTian/status/2122977708162375817",
+      "value": "作者自制免费小工具：输入 X 账号体检最近帖子（原创占比、最能打的帖子、收藏率/转帖率、上涨趋势及诊断），另有 500K 变现达标计算器；免登录、不存数据"
     },
     {
       "author": "tantanyuli",
@@ -4592,5 +4669,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-18T19:53:54+08:00"
+  "updated_at": "2026-11-18T21:05:02+08:00"
 }
