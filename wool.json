@@ -1,5 +1,5 @@
 {
-  "count": 386,
+  "count": 392,
   "items": [
     {
       "author": "yedabinbinah",
@@ -528,6 +528,17 @@
       "title": "Pulsar Money 11月返现提到4%：Pro用户前$3000消费全按4%返积分（到11月30日）",
       "url": "https://x.com/SecJack96/status/2120889366524698761",
       "value": "11月内Pro用户前$3000消费返4%积分（最高约$120积分）"
+    },
+    {
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 411,
+      "notes": "82分（来源20/可验证25/价值12/时效15/风险10）。原帖全文完整 + 搜索核实：jev-seo 是免费开源 SEO 审计工具（MIT），GitHub AgriciDaniel/jev-seo（另有 Rust 版 AkashPriyadarshii/jev-seo），输一个首页 URL 即爬站、按 Google Search Central 的 52 条规则检查、出 PDF/Excel/Markdown 三份报告，可作 Claude Code skill 或命令行运行。注意：①工具免费，但语义判断要调 TypeSafe Jev API，标准模式每次约 1 美分；--full 模式另接 DataForSEO 约 $0.30/站；②面向有网站要做 SEO 的用户，普通用户直接收益有限；③2026-09/10 才发布的新项目，长期维护待观察。",
+      "score": 82,
+      "title": "jev-seo：开源免费 SEO 审计工具，一分钟爬完整站出 PDF/Excel 报告（MIT）",
+      "url": "https://x.com/tantanyuli/status/2122890538097549429",
+      "value": "免费开源 SEO/GEO 审计 CLI + Claude Code skill（MIT），一键爬站、52-64 条规则检查、出 PDF/Excel/Markdown 报告；标准模式每次约 1 美分 Jev 调用"
     },
     {
       "author": "白嫖福利推送",
@@ -1223,6 +1234,17 @@
       "value": "每周约30小时免费GPU，双T4合计32GB显存，不用绑卡；可跑Qwen3-Coder 30B量化版"
     },
     {
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 410,
+      "notes": "78分（来源20/可验证25/价值8/时效15/风险10）。原帖经独立浏览器只读核实全文 + GitHub 与多篇独立评测核实：nidhinjs/prompt-master，MIT 开源，16,104 stars（2026-11-17 数据），Claude skill：把一句话需求改写成针对具体工具（Claude/Cursor/Midjourney/Codex 等 30+）的干净 prompt，缺关键信息最多追问三句；12 套模板自动选。注意：①工具本身免费，但它只帮你写 prompt，不直接给额度/省钱，省的是反复试错烧掉的 API token，效果因人而异；②须有 Claude（Claude.ai 免费版可用 skills）或 Claude Code；③作者的“零 token 浪费”是宣传口径，无公开基准测试。",
+      "score": 78,
+      "title": "prompt-master：免费开源 Claude skill，把模糊需求写成精准 prompt（16k stars，MIT）",
+      "url": "https://x.com/tantanyuli/status/2122875186781552716",
+      "value": "免费开源 Claude skill（MIT，16k stars），为 30+ AI 工具写精准 prompt，省反复试错的 token；Claude.ai 上传 ZIP 或 Claude Code 克隆安装"
+    },
+    {
       "author": "白嫖福利推送",
       "category": "免费额度",
       "expiry_date": null,
@@ -1254,6 +1276,28 @@
       "title": "Upstash Box 免费层：每月 5 小时 AI Agent 云端电脑，内置 Claude Code（免绑卡）",
       "url": "https://x.com/lovethelife2333/status/2121106000249827689",
       "value": "每月免费 5 CPU 小时、最多 10 个并发 Box：2 vCPU/4GB/10GB，内置 Claude Code/Codex"
+    },
+    {
+      "author": "yedabinbinah",
+      "category": "免费额度",
+      "expiry_date": "2027-01-24",
+      "id": 414,
+      "notes": "77分（来源20/可验证20/价值12/时效15/风险10）。原帖经独立浏览器只读核实全文 + Meshy 官网 Z-Axis Awards 活动页核对：8 项福利与帖子一致（Meshy 1000 credits、ElevenLabs 首月 Pro 5 折、Manus $50 积分+1 个月 Pro（游戏开发）、PixVerse $30 的 1 个月 Pro、Viture 额外 5% 折扣券、Sun 额外 5% 折扣券、CapCut 300 AI 生成积分、MiniMax Code 每人 2000 Credits）；投稿时间 2026-11-17 至 2027-01-24，免费参赛。注意：①官网称福利面向参赛者，领用走 Google 登录注册；“注册登录即可领、无须提交作品”为作者口径，未在官网页文中逐项证实，领前以页面实际领取按钮为准；②福利面向 3D 创作者，通用用户用得上的主要是 Manus/PixVerse/MiniMax/CapCut 积分；③ElevenLabs 5 折与两张 5% 券是折扣不是免费。",
+      "score": 77,
+      "title": "Z-Axis Awards 创作者福利：一次领 8 家 AI 积分/会员（Meshy 1000 积分 + Manus $50 + PixVerse 1 个月 Pro 等）",
+      "url": "https://x.com/yedabinbinah/status/2122863829357122047",
+      "value": "Meshy 1000 积分、Manus $50 积分+1 个月 Pro、PixVerse 价值 $30 的 1 个月 Pro、MiniMax Code 2000 积分、CapCut 300 AI 积分、ElevenLabs 首月 Pro 5 折、Viture/Sun 各 5% 折扣券；投稿截止 2027-01-24"
+    },
+    {
+      "author": "白嫖福利推送",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 413,
+      "notes": "77分（来源20/可验证20/价值12/时效15/风险10）。TG 原文 + GitHub 与项目档案核实：AndySkaura/mifun-storage，开源免费，用 Telegram 频道存文件本体、SQLite/MySQL 存元数据，可作图床与小文件仓库，支持 Docker 部署；作者自述为批量存图而做、已稳定存储 60 万+文件。注意：①须自备服务器 + Telegram Bot Token 与存储频道，Bot API 单文件上传限 50MB、下载限 20MB；②TG 云端聊天非端到端加密，别存敏感文件；③无账号/权限管理与去重，不适合公开高并发场景；④NodeSeek 同帖转发（t.me/nodeseekc/1015923）为同一内容，已去重只收一条。",
+      "score": 77,
+      "title": "mifun-storage：开源免费个人电报云盘/图床，TG 频道存文件（作者自述已稳存 60 万+文件）",
+      "url": "https://t.me/baipiaofl/65209",
+      "value": "免费开源自托管 TG 云盘/图床（Node.js + SQLite/MySQL + Docker），用 TG 频道存文件本体，省云存储订阅费；须自备服务器与 Bot Token"
     },
     {
       "author": "BlockInsight214",
@@ -2233,6 +2277,17 @@
       "title": "Ondo Perps 每周 500 万积分 + USDC 池：交易量与持仓分奖励",
       "url": "https://x.com/AllForAirdrop/status/2080828560336679096",
       "value": "每周 500 万 Ondo 积分 + USDC 池（约 17.5–25 万美元），按交易量与持仓分配；需入金交易"
+    },
+    {
+      "author": "Javary324",
+      "category": "金融卡券",
+      "expiry_date": null,
+      "id": 415,
+      "notes": "74分（来源22/可验证20/价值12/时效15/风险5）。原帖全文完整 + KuCoin 2026-11-17 报道核实：OSL 集团（HKEX: 863）与 Reap 联名推出 OSL Card（Visa），支持稳定币等数字资产直接消费、实时结算，175M+ Visa 商户可用，持卡人享无限 BTC 返现；目前仅向 OSL HK VIP 客户开放。注意：①“最高 1% BTC 返现、开卡免费、首年免年费”为帖子口径，新闻稿未逐项写明 1% 上限与年费细则，领前以 OSL 官方条款为准；②仅限 OSL HK VIP，普通用户暂不能直接申请；③U 卡为小牌照预付产品口径，资金安全以官方条款为准，别大额充值。",
+      "score": 74,
+      "title": "OSL × Reap 联名 Visa 卡上线：最高 1% BTC 返现，开卡免费首年免年费（仅限 OSL HK VIP）",
+      "url": "https://x.com/Javary324/status/2122868008179859958",
+      "value": "最高 1% BTC 返现，开卡免费、首年免年费；数字资产不用提前卖币直接消费，全球 Visa 商户可用；仅限 OSL HK VIP 客户"
     },
     {
       "author": "Lovislexus",
@@ -3863,6 +3918,17 @@
       "value": "美国 CN2 GIA 年付 $29.90（约 ¥200/年），2核1G/20G NVMe，适合轻量建站与 API 中转。"
     },
     {
+      "author": "duola_eth",
+      "category": "其他",
+      "expiry_date": null,
+      "id": 412,
+      "notes": "63分（来源20/可验证15/价值8/时效15/风险5）。原帖经独立浏览器只读核实全文 + 多家 2026-11-17 报道核实：AEREDIUM（隐私 EVM 兼容 Layer 1）LOVEH 借贷协议已上测试网，空投积分按 10:1 兑换 AERX（每确认一个安全漏洞奖 1 万 AERX 积分）；帖子称社交任务积分池 2 亿积分、对应 2000 万 AERX，TGE 解锁 10%、其余先锁 3 个月再线性解锁 12 个月。注意：①积分池总量与 TGE 解锁细节为作者口径，未见官方空投页逐项核实；②Supermassive（Temporal 新产品，Solana 衍生品）仅候补登记、无明确奖励，未核实官方公告；③TGE 时间未公布，代币价值未定；④免费参与，须连钱包做社交任务。",
+      "score": 63,
+      "title": "AEREDIUM 测试网积分换 $AERX：10 积分=1 枚，池子 2000 万枚（另附 Supermassive 候补）",
+      "url": "https://x.com/duola_eth/status/2122881062514856106",
+      "value": "测试网社交任务攒积分，10 积分=1 AERX，池子 2000 万枚；TGE 仅解锁 10%，其余锁 3 个月再线性解锁 12 个月；Supermassive 仅候补登记，无明确奖励"
+    },
+    {
       "author": "白嫖福利推送",
       "category": "软件工具",
       "expiry_date": "常驻免费开源工具（无固定截止日）",
@@ -4251,5 +4317,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-18T10:44:07+08:00"
+  "updated_at": "2026-11-18T11:58:01+08:00"
 }
