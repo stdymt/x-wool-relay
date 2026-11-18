@@ -1,5 +1,5 @@
 {
-  "count": 382,
+  "count": 383,
   "items": [
     {
       "author": "yedabinbinah",
@@ -1067,6 +1067,17 @@
       "title": "Google Colab 免费版可用 16GB 显存 T4（另有 TPU）",
       "url": "https://x.com/Lovislexus/status/2119465791674540075",
       "value": "免费云端 GPU/TPU 算力，按需分配不保证"
+    },
+    {
+      "author": "AirdropAlert-com",
+      "category": "其他",
+      "expiry_date": null,
+      "id": 406,
+      "notes": "80分（来源25/可验证25/价值10/时效15/风险5）。AirdropAlert 转述 + 官方博客核实：Antseed（去中心化 AI 推理市场）2026-10-26 上线 Antseed Points：付费使用平台上的 AI 按消费额与服务商倍增系数赚积分，每周四按积分占比领当周 $ANTS 空投池份额，每人上限池子 5%，每周释放量约每两年减半。注意：①只有付费使用才赚积分，免费模型与 0 倍服务商不计分——先花钱才能领，不是免费白拿；②$ANTS 当前不可转让（仅质押凭证 lANTS NFT 可交易），代币价值未定；③须连钱包、在 antseed.com / antseedpoints.com 官方站操作，认准官方链接防假冒；④质押提前解锁要烧掉 5–50%。",
+      "score": 80,
+      "title": "Antseed：付费使用 AI 赚积分，每周四领 $ANTS 空投（须先花钱，代币暂不可转让）",
+      "url": "https://t.me/airdrop_alert_dot_com/3648",
+      "value": "付费 AI 使用返积分，每周四领 $ANTS；须先花钱，代币暂不可转让"
     },
     {
       "author": "SecJack96",
@@ -4207,5 +4218,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-18T07:55:19+08:00"
+  "updated_at": "2026-11-18T08:45:24+08:00"
 }
