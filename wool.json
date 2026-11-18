@@ -1,5 +1,5 @@
 {
-  "count": 409,
+  "count": 417,
   "items": [
     {
       "author": "yedabinbinah",
@@ -1091,6 +1091,28 @@
       "value": "免费云端 GPU/TPU 算力，按需分配不保证"
     },
     {
+      "id": 434,
+      "title": "腾达证券11月融资打新补贴：5次融资打新送450港币股票卡（入金窗口至11-30）",
+      "url": "https://x.com/SecJack96/status/2122988187408871464",
+      "author": "SecJack96",
+      "category": "金融卡券",
+      "score": 82,
+      "expiry_date": "2026-11-30",
+      "value": "11.17–11.30 入金的新客，2027-01-31 前完成 5 次融资打新送 5 张 90 港币股票卡（共 450 港币）；另有 11 月开户分阶段股票卡/期权卡（见 id320）",
+      "notes": "82分（来源25/可验证25/价值15/时效12/风险5）。官方《11月「新客港股融资打新补贴季」活动细则》核实。注意：帖子说的 300 港币返现不是官方新客奖励，是发帖人渠道返佣（须用其邀请码 XD66DX29 开户、入金后联系他登记，兑付看发帖人本人）；帖子要求入金 ≥10,100 港币，高于官方门槛 1万港币；“9 港币/次”是 99-90 的抵扣算法，官方认购费本身是 99 港币/次。另见在册 id320（11 月开户奖励）。"
+    },
+    {
+      "id": 439,
+      "title": "Crawl4AI：开源免费网页转 Markdown，供 AI/RAG 用（Apache-2.0，87.5k stars）",
+      "url": "https://x.com/Aisiverto/status/2122982896172417195",
+      "author": "Aisiverto",
+      "category": "软件工具",
+      "score": 82,
+      "expiry_date": null,
+      "value": "开源免费（Apache-2.0，87.5k stars），pip 安装、可自部署，网页转 Markdown 给 AI/知识库用；托管版每月 1000 免费额度、免绑卡",
+      "notes": "82分（来源20/可验证25/价值12/时效15/风险10）。GitHub unclecode/crawl4ai 核实：Apache-2.0，87.5k stars、9.1k fork，最新版 v0.9.5（2026-10-14）。注意：须自己部署/跑环境，不是开箱即用的网页服务。"
+    },
+    {
       "author": "Lniosytest",
       "category": "订阅优惠",
       "expiry_date": null,
@@ -1232,6 +1254,28 @@
       "title": "faster-whisper：本地转字幕神器，Whisper 快 4 倍、不用另装 FFmpeg（开源 MIT，25k stars）",
       "url": "https://x.com/Aisiverto/status/2122957981989875734",
       "value": "开源免费（MIT），pip 安装，Python 3.9+，本地跑 Whisper 模型转字幕，省云端转录 API 费用"
+    },
+    {
+      "id": 440,
+      "title": "Google 账号三套系统 11 个官方后台直链合集：查归属国/改付款地/管订阅一次扒齐",
+      "url": "https://x.com/0xjackkk/status/2122966558050038113",
+      "author": "0xjackkk",
+      "category": "软件工具",
+      "score": 80,
+      "expiry_date": null,
+      "value": "11 个 Google 官方管理后台直链：查账号归属国、申诉改区、付款中心、Play 商店地区、One/AI 会员总后台、学生优惠入口等，锁区/付不了款时按 ①→③→④ 排查",
+      "notes": "80分（来源20/可验证25/价值10/时效15/风险10）。原帖经独立浏览器只读核实全文，11 个链接均为 Google 官方后台。注意：Play 商店地区每年仅可切换 1 次；第 11 项删除特定服务是注销服务数据用的，不是普通退订。"
+    },
+    {
+      "id": 433,
+      "title": "Marker：PDF 转 Markdown 开源工具，纯 CPU 能跑（Apache-2.0，41k stars）",
+      "url": "https://x.com/Aisiverto/status/2122973333037752408",
+      "author": "Aisiverto",
+      "category": "软件工具",
+      "score": 80,
+      "expiry_date": null,
+      "value": "开源免费（代码 Apache-2.0，41k stars），pip install marker-pdf，PDF 转 Markdown 供 AI 用；无显卡默认 fast 模式纯 CPU 可跑",
+      "notes": "80分（来源20/可验证25/价值12/时效15/风险8）。GitHub datalab-to/marker 核实：代码 Apache-2.0，41.0k stars、3.0k fork，最新 v2.2.0。注意：模型权重另用修改版 AI Pubs Open Rail-M 协议；须自己配 Python 环境。"
     },
     {
       "author": "KOF97AI",
@@ -2378,6 +2422,17 @@
       "value": "自己做微信红包封面，不用再花钱买；36种风格、说句话就生成，带效果预览"
     },
     {
+      "id": 437,
+      "title": "Serv00 免费 VPS：3GB SSD/512MB 内存/不限流量/SSH，免绑卡（名额将满）",
+      "url": "https://x.com/Lovislexus/status/2122960955172925584",
+      "author": "Lovislexus",
+      "category": "云服务器",
+      "score": 75,
+      "expiry_date": null,
+      "value": "免费小服务器（FreeBSD），3GB SSD、512MB 内存、流量不限、SSH、免费子域名+MySQL/PostgreSQL/MongoDB；免绑卡、长期免费",
+      "notes": "75分（来源20/可验证25/价值12/时效10/风险8）。官网 serv00.com 核实：免费套餐还在，配置属实，注册无付款/信用卡字段。注意：名额 167,632/170,000 接近上限；系统是 FreeBSD 不是 Linux；帖子称“运营十多年”与官网 1167 天不符；“90 天不登录删号”未在官网首页证实；禁止代理/VPN/隧道、Alist、哪吒监控。"
+    },
+    {
       "author": "Javary324",
       "category": "金融卡券",
       "expiry_date": null,
@@ -2497,6 +2552,17 @@
       "title": "小爱音箱Pro刷机接豆包：变儿童英语口语陪练（开源MIT，148 stars）",
       "url": "https://x.com/KOF97AI/status/2122958283489341708",
       "value": "闲置小爱音箱Pro变儿童英语陪练，豆包只说英语、可认人记进度；须刷机+火山引擎账号，语音免费额度用完后收费"
+    },
+    {
+      "id": 436,
+      "title": "WhatsApp 自家云备份免费 2GB：对话备份不再占 Google Drive（Android Beta 分批推送）",
+      "url": "https://www.nodeseek.com/post-1063509-1",
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "score": 73,
+      "expiry_date": null,
+      "value": "WhatsApp 自家云端备份（WhatsApp cloud storage）：选 WhatsApp 自家服务器备份对话，免费送 2GB 空间，不再占 Google Drive；强制端对端加密",
+      "notes": "73分（来源20/可验证25/价值8/时效10/风险10）。NodeSeek 帖子正文因 Cloudflare 验证墙未读到，改走多家媒体交叉核实（WABetaInfo、9to5Google 等）：Android 测试版 2.26.46.4 开始分批推送，免费 2GB，强制端对端加密。注意：目前仅部分 Android Beta 用户可见，正式开放时间未公布；2GB 对多年聊天记录来说很小；取消订阅后超额备份只保留 4 个月。"
     },
     {
       "author": "白嫖福利推送",
@@ -3212,6 +3278,17 @@
       "title": "港卡迎新数字逐个核查：众安2000是券包非现金、Mox真现金仅1000、汇丰300要压3万半年",
       "url": "https://x.com/OnlyJettTian/status/2122949677352202282",
       "value": "识破广告大数字：众安2000是券包且11-18到期、须人在香港；Mox 1400真现金仅1000、须香港身份证+批卡+指定商户消费；汇丰300真现金但须压3万港币半年、2027-09才到账；盈透推荐大陆居民没资格"
+    },
+    {
+      "id": 438,
+      "title": "TransUnion 免费查美国信用分与报告：免绑卡、不影响分数（须美国信用记录）",
+      "url": "https://x.com/Javary324/status/2122975089364987997",
+      "author": "Javary324",
+      "category": "金融卡券",
+      "score": 72,
+      "expiry_date": null,
+      "value": "美国三大征信机构之一 TransUnion 官网免费查信用分与报告、带信用监控与提醒；免绑卡、不影响分数",
+      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）。官网 transunion.com 核实：免费信用报告与分数、No credit card required、Doesn't affect your score。注意：免费的是注册账户后查看；须完成身份验证，有美国信用记录才更容易查到评分；注册页具体身份信息要求未核实。"
     },
     {
       "author": "lovethelife2333",
@@ -4358,6 +4435,17 @@
       "value": "免费调 deepseek-v4-flash 与 glm-5.3-flash，条款未核实，先小量试用。"
     },
     {
+      "id": 435,
+      "title": "免费 X 账号体检小工具：查原创占比/最能打的帖子/500K 变现达标测算（免登录）",
+      "url": "https://x.com/OnlyJettTian/status/2122977708162375817",
+      "author": "OnlyJettTian",
+      "category": "软件工具",
+      "score": 61,
+      "expiry_date": null,
+      "value": "作者自制免费小工具：输入 X 账号体检最近帖子（原创占比、最能打的帖子、收藏率/转帖率、上涨趋势及诊断），另有 500K 变现达标计算器；免登录、不存数据",
+      "notes": "61分（来源15/可验证20/价值8/时效10/风险8）。浏览器实测打开作者评论区链接（Cloudflare Workers 临时域名）：免费、不用登录、不存数据。注意：临时域名随时可能失效；“不存数据”仅为作者页面自述，未独立核实；只对做 X 变现/运营的人有用。"
+    },
+    {
       "author": "tantanyuli",
       "category": "软件工具",
       "expiry_date": null,
@@ -4504,5 +4592,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-18T17:44:57+08:00"
+  "updated_at": "2026-11-18T18:51:52+08:00"
 }
