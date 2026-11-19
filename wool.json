@@ -1,5 +1,5 @@
 {
-  "count": 478,
+  "count": 490,
   "items": [
     {
       "author": "yedabinbinah",
@@ -22,6 +22,17 @@
       "title": "ChatGPT Pro 用户 API 额度福利：每月最高 $500，别忘领",
       "url": "https://x.com/Lovislexus/status/2123181962143900124",
       "value": "Pro $100/$200/$500 三档每月对应 $100/$200/$500 API 额度，年省最高 $6000；需已是付费 Pro 订阅，额度按账单周期过期不结转"
+    },
+    {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 506,
+      "notes": "92分（来源28/可验证23/价值19/时效13/风险9）。OpenAI 官方博客（2026-11-16）与帮助中心核实属实：下一轮申请 2026-11-23（周一）开放，先到先得新增 5 万名额，获批者本人加最多 2 名同机构合作者免费使用 ChatGPT Plus，最长 12 个月（共 3 个席位），总体目标覆盖 20 万名研究者；7 月试点已覆盖 33 个国家 2 万名研究者。资格：合资格机构的研究教职或博士后、所属支持国家、近 3 年内在合资格领域发表过研究、计划用于学术研究；领域为生物科学、化学与材料、计算机科学、地球与行星科学、工程、数学、物理；审核含 SheerID 验证，符合条件不保证获批。注意：核查时（11-20）申请仍关闭，只能加入信息候补名单；官方未公布固定截止日，截止方式为 5 万名额先到先得。85+ 二审：浏览器核实已重开原帖与官方来源复核一致，留待晨报头条。",
+      "score": 92,
+      "title": "OpenAI 送 12 个月 ChatGPT Plus 给科研人员：11-23 开放申请，5 万名额先到先得",
+      "url": "https://t.me/baipiaofl/65435",
+      "value": "获批得 3 个免费 Plus 席位、最长 12 个月；11-23 开放申请，5 万名额先到先得"
     },
     {
       "author": "Aisiverto",
@@ -211,6 +222,17 @@
       "value": "最高 1 万美元 Devin Bot 额度，1 万个名额；能拿多少看 Poke 怎么评你的想法"
     },
     {
+      "author": "Lovislexus",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 511,
+      "notes": "88分（来源28/可验证25/价值15/时效12/风险8）。kiro.dev/pricing 逐字核实：“Free trial: when you first upgrade to Pro, you'll get the rest of the month free, plus 500 trial credits to use within 12 months.”；Free $0/月 50 积分，Pro $20/月 1000 积分，Pro+ $40/月 3000 积分。与在册 id490 Kiro 学生计划不是同一活动（学生计划须学生身份验证），这是面向所有用户的首次升级试用。注意：①仅首次升级有效，下月 1 日起正常扣费 $20/月，记得及时取消；②11 月下旬升级则免费剩余天数较短。85+ 二审：浏览器核实已重开原帖与官方来源复核一致，留待晨报头条。",
+      "score": 88,
+      "title": "Kiro Pro 首次升级免单：当月剩余时间免费 + 送 500 试用积分",
+      "url": "https://x.com/Lovislexus/status/2123447253335744786",
+      "value": "首次升级 Pro 当月剩余时间免费 + 500 试用积分（12 个月内有效）；Pro $20/月、每月 1000 积分"
+    },
+    {
       "author": "yedabinbinah",
       "category": "免费额度",
       "expiry_date": "前10000名先到先得（官网未写截止日；作者称90天有效，未证实）",
@@ -352,6 +374,28 @@
       "title": "DeepSeek模型触发的服务端搜索/抓取不再单独计费",
       "url": "https://t.me/baipiaofl/65329",
       "value": "模型触发的搜索/抓取免单，只收token；直接调Search/Fetch API仍5元/千次；API重度用户省搜索费，轻度用户省得少"
+    },
+    {
+      "author": "NodeSeek官方频道",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 505,
+      "notes": "86分（来源28/可验证22/价值16/时效12/风险8）。官网 2026 黑五页 racknerd.com/BlackFriday 核实属实，但 $7.99/年全站找不到，与 2026 现行价及 2025 年最低档 $10.60/年均对不上，疑似旧档或误传。VPS：1GB $15.98/年（1核、20GB SSD、1GB 内存、3TB 流量）、2.5GB $27.98/年、4GB $47.98/年（主推）、6GB $74.98/年、8GB $94.98/年；共享主机最低 $9.49/年；分销主机 $29.88/年起；独立服务器 $64/月起。FAQ 称黑五价格为终身续费同价。注意：页顶倒计时为滚动式短倒计时（核查时仅约 10 分钟且在走动），官网未给出黑五固定结束日。机房为美国达拉斯，共享面板为 AdminBolt。85+ 二审：浏览器核实已重开原帖与官方来源复核一致，留待晨报头条。",
+      "score": 86,
+      "title": "RackNerd 2026 黑五：VPS 最低 $15.98/年、终身续费同价（帖子说的 $7.99/年不属实）",
+      "url": "https://t.me/nodeseekc/1019919",
+      "value": "VPS 1GB $15.98/年起，黑五价终身续费同价；共享主机 $9.49/年起"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": "2026-11-30",
+      "id": 512,
+      "notes": "86分（来源26/可验证24/价值16/时效14/风险6）。官网活动页（2026-11-19《RakSmart Black Friday Warm-up Event Is Now Live!》）核实：活动期美国时间 2026-11-18 至 11-30；注册并绑卡得 $300 代金券、VPS 60% off（4 折）、裸机云/独服/高带宽/企业 CN2 30% off（7 折）券、单次充值 $100 以上得全场 35% off（6.5 折）且续费同享；赠金可抵 50% 新购月付订单。另有充值加赠最高 $355、VPS 闪购 $2.99/月起。注意：①须绑卡；②代金券按 50% 比例抵扣月付新购订单；③原帖链接为推广链接 raksmart.com/cps/10423。85+ 二审：浏览器核实已重开原帖与官方来源复核一致，留待晨报头条。",
+      "score": 86,
+      "title": "RakSmart 黑五预热：注册绑卡领 $300 代金券，VPS 4 折（11-30 截止）",
+      "url": "https://x.com/fwqgo_com/status/2123456654574600437",
+      "value": "注册绑卡得 $300 代金券 + VPS 4 折券、CN2 服务器 7 折券；单次充值满 $100 再得全场 6.5 折且续费同享"
     },
     {
       "author": "tantanyuli",
@@ -552,6 +596,39 @@
       "value": "认证大学生免费 12 个月 Zed Pro + 每月 $10 AI 额度，约合 $120/年 Pro 费用全免；国际学生可申"
     },
     {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 503,
+      "notes": "85分。Kaggle 官方文档核实核心属实：免费 Notebook 可添加 GPU/TPU，T4 x2 为 2 张 Tesla T4、4 核 CPU、29GB 内存，单会话最长 12 小时；手机号/身份验证是官方正常流程。保留：“每周 30 小时”额度未在公开文档逐字找到（一般在登录后配额页显示），按原帖与公开常识计；免费 GPU 繁忙时需排队。85+ 二审：浏览器核实已重开原帖与官方文档复核一致，留待晨报头条。",
+      "score": 85,
+      "title": "Kaggle 免费 GPU T4x2 每周 30 小时",
+      "url": "https://t.me/baipiaofl/65424",
+      "value": "免费 T4 x2 GPU，每周约 30 小时额度"
+    },
+    {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 504,
+      "notes": "85分。DeepSeek 官方文档核实属实：自北京时间 2026-11-18 12:00 起，调用模型时触发的服务端搜索、网页抓取不再计费，仅按模型 Token 用量计费（此前每 1000 次成功请求 5 元）。注意模型本身仍按 Token 收费，不是整个 API 免费；未见结束时间。",
+      "score": 85,
+      "title": "DeepSeek API 联网搜索免费",
+      "url": "https://t.me/baipiaofl/65408",
+      "value": "服务端搜索/抓取不再计费，仅模型 Token 用量计费"
+    },
+    {
+      "author": "Aisiverto",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 513,
+      "notes": "85分（来源27/可验证23/价值15/时效12/风险8）。GitHub 仓库 yihong0618/bilingual_book_maker 核实：9.9k stars、1.3k forks、MIT 协议，v1.3.2（2026-10-30）；README 步骤与帖子一致：pip install -U bbook_maker，先用自带 animal_farm.epub 加 --test 试翻，正式跑 make_book.py；支持 epub/txt/md/srt/pdf，输出 *_bilingual.epub，默认模型 gpt-6-luna / claude-sonnet-4-6。注意：①“免费”指代码开源，用 OpenAI/Anthropic 等须自备 API Key 并付费，只有 Google Translate、DeepL free、Tencent TranSmart、Gemini 免费层等路线可免付费翻译；②现版还需配置 bbm_providers.json 或 --provider，并非完全一条命令零配置；③README 免责声明：仅翻译自己持有权利/获许可/公有领域或法律允许的内容。85+ 二审：浏览器核实已重开原帖与官方来源复核一致，留待晨报头条。",
+      "score": 85,
+      "title": "bilingual_book_maker：开源工具一条命令做中英对照电子书（翻译费另计）",
+      "url": "https://x.com/Aisiverto/status/2123492756140200000",
+      "value": "开源免费工具，epub/txt/md/srt/pdf 转中英对照版；翻译须自备 API Key（付费）或走免费翻译路线"
+    },
+    {
       "author": "tantanyuli",
       "category": "软件工具",
       "expiry_date": "无固定截止日（开源项目长期有效）",
@@ -611,7 +688,7 @@
       "category": "金融卡券",
       "expiry_date": "2026-11-30",
       "id": 191,
-      "notes": "83分（来源25/可验证23/价值15/时效13/风险7）：Pulsar官方帮助中心“Pulsar Points Explained”（2026-11-12更新）原文核实：11月剩余时间Pro用户前$3000合规消费按4%返Pulsar Points（$0–$1000/$1000–$2000/$2000–$3000三档均为4%，$3000以上回落至0.5%），新老Pro用户同享，返现按月计算、次月10日前到账；另有Beyond Friday活动11月3–30日指定商户（Amazon/eBay/SHEIN/TEMU/Steam等）双倍返现。注意：①须Pro订阅$9.99/月（年付$99.99），返的是积分（100积分=$1，可抵扣消费），不是现金；②与在册id104（首开Pro返$10积分）是同一产品的不同活动：本条是11月限时返现档位提升；③“首月会员费返还”只见于10月活动（限前100名、已于2026-11-01截止），11月官方页未见此口径，不要按11月权益算；④积分Pro有效期6个月；⑤Pulsar为罗马尼亚公司、Wirex提供Visa发卡，属小牌照预付产品，别大额充值；⑥另有11月推荐返现（推荐人对被推荐人合计前$3000享3%、上限$90）与本人消费4%是两回事，别混淆。补充（2026-11-16 10:40轮，Javary324帖 + 官网帮助中心复核）：Free前$3000分档为$0–$1000 0.5%、$1000–$2000 1%、$2000–$3000 2%，Pro前$3000统一4%，超$3000后Free 0.25%、Pro 0.5%；但《Pulsar Pro》同页对照表写Free首$500为0.5%、之后一律0.25%，与前表Free 1%/2%分档互相矛盾，两篇均标“Updated this week”，以哪篇为准未定；Pro的4%是11月活动价、非标准费率；特定商户翻倍仅ChatGPT、Claude、X、Uber、Bolt五家，翻倍后Free 2%→4%（仅$2000–$3000档）、Pro 4%→8%；积分抵扣：25%/50%档100积分=$1、75%档112积分=$1、全额100%档125积分=$1（全额抵只值8折），单笔抵扣至少$0.5，退款以USDC到账。补充（2026-11-17 00:40轮，SecJack96帖 + Pulsar官网博客/活动条款复核）：Beyond Friday 11-16–22 为 Tech and gaming 周，参与品牌 PlayStation Store、Steam、MediaMarkt、Worten，Pro 会员在这些品牌消费享双倍返现（以 Pulsar Points 发放），每个商家最多 2 笔合规消费享双倍；“8%”为按 Pro 标准 4% 双倍推算，官方条款只写“双倍于适用标准返现率”，未直接写 8%。帖内首月返 10U、白色 Pro 卡、每月返现上限 100U 本次未在 Beyond Friday 公告/条款中逐条核查。\n【2026-11-19 17:40轮补充：SecJack96 同活动帖】11-16 至 11-22 Tech & Gaming 周：Pro 用户在 PlayStation Store、Steam、MediaMarkt、Worten 消费最高 8% 返现（Pulsar Points 发放），属 11-03 至 11-30 双倍返现活动的一部分；帖子另称“首月返 10U 等值积分”“白色 Pro 专属 U 卡”已在册 id104（首开返 $10 积分、白色卡未证实上线），本条不重复收；帖子附邀请码，不必走邀请码领。",
+      "notes": "83分（来源25/可验证23/价值15/时效13/风险7）：Pulsar官方帮助中心“Pulsar Points Explained”（2026-11-12更新）原文核实：11月剩余时间Pro用户前$3000合规消费按4%返Pulsar Points（$0–$1000/$1000–$2000/$2000–$3000三档均为4%，$3000以上回落至0.5%），新老Pro用户同享，返现按月计算、次月10日前到账；另有Beyond Friday活动11月3–30日指定商户（Amazon/eBay/SHEIN/TEMU/Steam等）双倍返现。注意：①须Pro订阅$9.99/月（年付$99.99），返的是积分（100积分=$1，可抵扣消费），不是现金；②与在册id104（首开Pro返$10积分）是同一产品的不同活动：本条是11月限时返现档位提升；③“首月会员费返还”只见于10月活动（限前100名、已于2026-11-01截止），11月官方页未见此口径，不要按11月权益算；④积分Pro有效期6个月；⑤Pulsar为罗马尼亚公司、Wirex提供Visa发卡，属小牌照预付产品，别大额充值；⑥另有11月推荐返现（推荐人对被推荐人合计前$3000享3%、上限$90）与本人消费4%是两回事，别混淆。补充（2026-11-16 10:40轮，Javary324帖 + 官网帮助中心复核）：Free前$3000分档为$0–$1000 0.5%、$1000–$2000 1%、$2000–$3000 2%，Pro前$3000统一4%，超$3000后Free 0.25%、Pro 0.5%；但《Pulsar Pro》同页对照表写Free首$500为0.5%、之后一律0.25%，与前表Free 1%/2%分档互相矛盾，两篇均标“Updated this week”，以哪篇为准未定；Pro的4%是11月活动价、非标准费率；特定商户翻倍仅ChatGPT、Claude、X、Uber、Bolt五家，翻倍后Free 2%→4%（仅$2000–$3000档）、Pro 4%→8%；积分抵扣：25%/50%档100积分=$1、75%档112积分=$1、全额100%档125积分=$1（全额抵只值8折），单笔抵扣至少$0.5，退款以USDC到账。补充（2026-11-17 00:40轮，SecJack96帖 + Pulsar官网博客/活动条款复核）：Beyond Friday 11-16–22 为 Tech and gaming 周，参与品牌 PlayStation Store、Steam、MediaMarkt、Worten，Pro 会员在这些品牌消费享双倍返现（以 Pulsar Points 发放），每个商家最多 2 笔合规消费享双倍；“8%”为按 Pro 标准 4% 双倍推算，官方条款只写“双倍于适用标准返现率”，未直接写 8%。帖内首月返 10U、白色 Pro 卡、每月返现上限 100U 本次未在 Beyond Friday 公告/条款中逐条核查。",
       "score": 83,
       "title": "Pulsar Money 11月返现提到4%：Pro用户前$3000消费全按4%返积分（到11月30日）",
       "url": "https://x.com/SecJack96/status/2120889366524698761",
@@ -1584,6 +1661,17 @@
       "title": "LG K-EXAONE 2.5 大模型 API 免费开放",
       "url": "https://x.com/KOF97AI/status/2121423150282080494",
       "value": "750B 旗舰模型 API 免费调用，512K 上下文；免费期与限额未公布"
+    },
+    {
+      "author": "Lovislexus",
+      "category": "免费额度",
+      "expiry_date": "2026-12-28",
+      "id": 510,
+      "notes": "79分（来源26/可验证23/价值16/时效7/风险7）。Inception 官方文档（docs.inceptionlabs.ai/get-started）核实：新用户注册即得 100M Tokens、无需提供支付信息；Mercury 3 上下文 1,000,000，价格 $0.10/$0.35 每百万 Token（输入/输出，发布价 5 折）。注意：①官方明确 Mercury API 将于 2026-12-28 下线，到期后无法访问，仅剩约 38 天；②1 亿为一次性额度、非每月刷新，用完付费；③帖子称“可以多邮箱注册”，多号有封号风险，不建议。",
+      "score": 79,
+      "title": "Inception Mercury 3 新号送 1 亿 Tokens，不绑卡（2026-12-28 下线）",
+      "url": "https://x.com/Lovislexus/status/2123442992522596411",
+      "value": "新号一次性 1 亿 Tokens，免绑卡；Mercury 3 上下文 100 万、兼容 OpenAI API；2026-12-28 API 下线"
     },
     {
       "author": "lovethelife2333",
@@ -2851,6 +2939,17 @@
       "value": "中国大陆居民凭护照+身份证远程开美国银行账户，不用飞美国；$25,000 最低开户存款（60 天内一次性存入）；$300 为开户费（Gold 下余额达 $100,000 可退，最多 $300）；推荐码各得 $20 费用抵扣（非现金）"
     },
     {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 502,
+      "notes": "75分。小米 MiMo 官方文档核实基本属实，但为“限时免费”：mimo-v2.5-tts（语音合成）、mimo-v2.5-voicedesign、mimo-v2.5-voiceclone（语音克隆）限时免费；需在 MiMo 开放平台开通/获取 API Key 后调用；未见免费截止日期。",
+      "score": 75,
+      "title": "小米 MiMo AI 语音生成模型限时免费",
+      "url": "https://t.me/baipiaofl/65411",
+      "value": "语音合成/声音设计/语音克隆限时免费，需开 API Key"
+    },
+    {
       "author": "Lovislexus",
       "category": "免费额度",
       "expiry_date": null,
@@ -3003,6 +3102,17 @@
       "title": "云悠香港荃湾 VPS ¥19.99/月：2核1G/30G/50Mbps/400G（年付 ¥216.99）",
       "url": "https://x.com/fwqgo_com/status/2123257459083251795",
       "value": "¥19.99/月，年付¥216.99（9折）；香港荃湾，2核1G/30G系统盘/50Mbps/400G流量"
+    },
+    {
+      "author": "NodeSeek官方频道",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 507,
+      "notes": "73分（来源24/可验证17/价值14/时效10/风险8）。官网核实：注册送流量本身真实，但 500MB 已不是官网主推额度，现免费页主推“Free 250MB of Global Data”，推荐码 FREE250MB，覆盖 126+ 国家；同一页 FAQ 仍写免费试用含 500MB、覆盖 111+ 国家，额度与国家数自相矛盾。旧活动页 free500mb 已跳转注册页；2025-03-24 官方博客及 FREE500MB 码曾确为新用户送 500MB。条件：仅新用户、需 eSIM 兼容设备、需注册（邮箱 OTP 或 Google/Facebook/Apple/手机号）、需下载 App；无需信用卡，用完不自动扣费，可开热点；流量官网称永不过期，但活动本身称限时、可能随时变更或结束。未见“新加坡专属”表述，免费试用为全球通用，新加坡是否在覆盖名单内须在 App 内核对。公司为新加坡注册 Datapro Technologies Pte Ltd。",
+      "score": 73,
+      "title": "Eskimo eSIM 注册送免费流量：官网现推 250MB（帖子说的 500MB 已非主推额度）",
+      "url": "https://t.me/nodeseekc/1019853",
+      "value": "新用户注册送免费全球流量（官网现推 250MB，FAQ 仍写 500MB），免绑卡、流量永不过期"
     },
     {
       "author": "Lovislexus",
@@ -3724,7 +3834,7 @@
       "category": "软件工具",
       "expiry_date": null,
       "id": 447,
-      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）。官网 freebuff.com 核实：首页原话“The free coding agent. $0 forever, unlimited usage. The best coding models, funded by ads instead of a subscription. No card, no credits to watch.”；提供 macOS、Windows、Linux、iOS、Android、网页版，支持 npm install -g freebuff；可连接 GitHub、Linear、Stripe、Supabase、Vercel、Cloudflare 等。注意：①“forever”“unlimited”是营销表述，首页未公布具体模型清单与用量上限条款，不能断言永久无限制；②把私有代码交给这类工具前先掂量数据风险（帖子原话提醒）。",
+      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）。官网 freebuff.com 核实：首页原话“The free coding agent. $0 forever, unlimited usage. The best coding models, funded by ads instead of a subscription. No card, no credits to watch.”；提供 macOS、Windows、Linux、iOS、Android、网页版，支持 npm install -g freebuff；可连接 GitHub、Linear、Stripe、Supabase、Vercel、Cloudflare 等。注意：①“forever”“unlimited”是营销表述，首页未公布具体模型清单与用量上限条款，不能断言永久无限制；②把私有代码交给这类工具前先掂量数据风险。【2026-11-20 更新】Lovislexus 转发补充地区额度细节（发帖人实测口径，官方发布页未书面确认）：25 个以上国家为完整版、每天最多 30 小时；中国等其他地区为受限版、每天 5 小时、Agent 仅 4 小时；DeepSeek 按 3 倍扣费，30 小时实际只剩 10 小时、4 小时只剩约 1.3 小时。中国用户按 5 小时/4 小时算，不要按 30 小时预期。",
       "score": 72,
       "title": "freebuff 免费编程 Agent：官网称$0永久免绑卡、广告资助（私有代码先掂量数据风险）",
       "url": "https://x.com/KOF97AI/status/2123000484734914792",
@@ -4428,7 +4538,7 @@
       "category": "订阅优惠",
       "expiry_date": null,
       "id": 419,
-      "notes": "67分（来源20/可验证15/价值12/时效15/风险5）。原帖全文完整 + App Store 比价站核实：土耳其区 X Premium 月付 ₺199.99（约 $3.97，-64%），帖子称年付 ₺1,979.99（约 ¥260/年，月均 ¥22），对比国内网页 $8/月（约 ¥690/年）一年省 ¥400+。注意：①年付 ₺1,979.99 这个数未在比价站逐项核实，按月付价 12 个月约 ₺2,400（约 ¥312），年付若属实再便宜约 ¥50；②X 在 2026-10 已改版为 The X Subscription 新档位（美国 Premium $30/月），老 Premium 年付可能是存量价，订阅前以结账页为准；③跨区须注册土耳其区 Apple ID 与当地支付方式，区域订阅有过被撤销的先例（帖子作者原话提醒）。",
+      "notes": "67分（来源20/可验证15/价值12/时效15/风险5）。原帖全文完整 + App Store 比价站核实：土耳其区 X Premium 月付 ₺199.99（约 $3.97，-64%），帖子称年付 ₺1,979.99（约 ¥260/年，月均 ¥22），对比国内网页 $8/月（约 ¥690/年）一年省 ¥400+。注意：①年付 ₺1,979.99 这个数未在比价站逐项核实，按月付价 12 个月约 ₺2,400（约 ¥312），年付若属实再便宜约 ¥50；②X 在 2026-10 已改版为 The X Subscription 新档位（美国 Premium $30/月），老 Premium 年付可能是存量价，订阅前以结账页为准；③跨区须注册土耳其区 Apple ID 与当地支付方式，区域订阅有过被撤销的先例（帖子作者原话提醒）。【2026-11-20 更新】0xjackkk 发了回退旧版拿土区价的方法：NB 全能助手装手机端、搜 X 历史版本按版本 ID 892239166 下载旧版 12.31，卸载新版后在线安装，再切土耳其 Apple ID、用土耳其苹果礼品卡充值余额后在 X 内订阅；截图年付 ₺1,979.99 与本条口径一致，约 ¥260-280/年。但该方法依赖第三方侧载与跨区支付，续费不稳定（帖子原话称有兄弟“还没续费或者卡在新版付不了土区”），且旧版无安全更新，风险高于直接用土区 Apple ID 订阅，不单独成条。",
       "score": 67,
       "title": "X Premium 土区年付约 ¥260/年：土耳其区 Apple ID 订阅，月均 ¥22（年付价未逐项核实）",
       "url": "https://x.com/OnlyJettTian/status/2122903754110595378",
@@ -4744,6 +4854,17 @@
     },
     {
       "author": "白嫖福利推送",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 508,
+      "notes": "64分（来源20/可验证15/价值12/时效11/风险6）。官网 altr.cc 核实：现行免费档是 4GB 内存，不是帖子说的 6GB；10GB 硬盘官网找不到。免费 Minecraft 托管与免费应用托管页均写 4GB RAM、24/7 在线、免绑卡。所谓“免费云”实为 Minecraft 服务器/应用容器托管，不是通用 VPS。后期可加部分属实：FAQ 称可通过拉新或每日奖励扩容，或付费买 credits；定价页为灵活 credits 制、无固定套餐。无需绑卡、无押金，但小厂商免费档可持续性与扩容依赖拉新是不确定因素。",
+      "score": 64,
+      "title": "Altare 免费云：Minecraft/应用托管 4GB 内存免费（帖子说的 6G 内存+10G 硬盘不属实）",
+      "url": "https://t.me/baipiaofl/65436",
+      "value": "4GB 内存免费托管（Minecraft/应用容器），免绑卡；扩容靠拉新/每日奖励或付费买 credits"
+    },
+    {
+      "author": "白嫖福利推送",
       "category": "免费额度",
       "expiry_date": "兑换后有效期约 1 年（论坛口径，以 App 内为准）",
       "id": 122,
@@ -4774,6 +4895,17 @@
       "title": "AEREDIUM 测试网积分换 $AERX：10 积分=1 枚，池子 2000 万枚（另附 Supermassive 候补）",
       "url": "https://x.com/duola_eth/status/2122881062514856106",
       "value": "测试网社交任务攒积分，10 积分=1 AERX，池子 2000 万枚；TGE 仅解锁 10%，其余锁 3 个月再线性解锁 12 个月；Supermassive 仅候补登记，无明确奖励"
+    },
+    {
+      "author": "AirdropAlert-com | Crypto Airdrops for Everyone",
+      "category": "其他",
+      "expiry_date": "2026-12-10",
+      "id": 509,
+      "notes": "63分（来源20/可验证15/价值12/时效12/风险4）。AirdropAlert 页核实：项目与忠诚度计划真实，50,000 $DOGE 奖池属实，Season 0 为 2026-11-12 至 12-10 UTC，须在快照前解锁 Jin Points 才有排行榜资格；但“潜在空投”只是猜测，FAQ 原文明确无代币分配、无兑换率、无空投确认。任务门槛：注册后连接 ETH/BNB Chain/Solana 钱包，或邮箱/DogeOS 经 X/Google 登录，钱包签名验权，绑定 X/Discord 并通过机器人验证；免费任务有每日签到 5 分、免费预测 10 分、每日市场 20 分、每周挑战等；拉新可赚积分，不强制邀请。无需押金即可做免费任务，但交易量、做市、创建市场等加分任务需真金白银，页面明确提示付费活动有亏损风险。奖池只给排行榜领先者，非人人有份。项目方 BytePlay Ltd.，DogeOS 生态。注意：官网 daejin.xyz 在美国出口显示地区受限，参与前须确认所在地区合规。",
+      "score": 63,
+      "title": "DAEJIN 空投：忠诚度计划已上线，50,000 $DOGE Season 0 奖池（空投本身未确认）",
+      "url": "https://t.me/airdrop_alert_dot_com/3652",
+      "value": "50,000 $DOGE Season 0 奖池（11-12 至 12-10），做免费任务赚 Jin Points 冲榜；空投未确认，奖池只给排行榜领先者"
     },
     {
       "author": "BlockInsight214",
@@ -5263,5 +5395,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-19T18:44:26+08:00"
+  "updated_at": "2026-11-20T06:45:20+08:00"
 }
