@@ -7,12 +7,13 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 - 范围：以 AI 为主（AI 会员、免费额度、VPS/VPN、AI 赚钱新路子）
 - 更新时间：见 wool.json 里的 `updated_at`（北京时间）
 
-## 本次更新（2026-11-19 18:44，478 条，本轮新增 1 条，备注更新 0 条）
+## 本次更新（2026-11-20 06:45，490 条，补同步 12 条：id502–513，00:40–04:40 轮入册）
 
 | 分 | 内容 |
 |---|---:|
 | 95 | Perch AI 每月免费 20000 PT（约 20 美元），不用绑卡 |
 | 92 | ChatGPT Pro 用户 API 额度福利：每月最高 $500，别忘领 |
+| 92 | OpenAI 送 12 个月 ChatGPT Plus 给科研人员：11-23 开放申请，5 万名额先到先得 |
 | 90 | Kiroween 黑客松：申请领 4000 个 Kiro credits（约 160 美元）（2026-12-01） |
 | 90 | Oracle Free 账户注册实测成功（香港区 + 86 手机号 + Visa） |
 | 90 | 魔搭 ModelScope × AMD 激励计划 2.0：注册 AMD 开发者计划送 100 小时 192GB 显存 Notebook（帖称 12 月底截止（官方活动页未见明确截止日，以活动页为准）） |
@@ -30,6 +31,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 89 | Envato 官方限免：MiniMax H3 视频生成 24 小时不限次数（2026-11-20） |
 | 88 | MinerU 文档转 Markdown：在线版每天 1000 页免费额度 |
 | 88 | Poke 免费送 Devin Bot：发短信说想法，最高领 1 万美元额度（1 万个名额） |
+| 88 | Kiro Pro 首次升级免单：当月剩余时间免费 + 送 500 试用积分 |
 | 87 | Articul8 Bivia 免费领 10 亿 Token：前 10000 名，免绑卡（前10000名先到先得（官网未写截止日；作者称90天有效，未证实）） |
 | 87 | Free-Hosting.org 免费虚拟主机：长期免费，3 个账户/5GB 空间/不限流量（免绑卡） |
 | 87 | AssemblyAI 新账号送 $50 免费额度：语音转写约 185 小时，不过期、免绑卡（无明确截止日（官方未公布到期日，以官网为准）） |
@@ -43,6 +45,8 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 87 | Parallel MCP：免注册免 API Key 的免费搜索/抓取/判题，接 Muse 即用 |
 | 87 | DeepAI 免费聊 Claude Fable 5.2：每天免费额度，免绑卡（含 Opus 5.5/Sonnet 5.5） |
 | 87 | DeepSeek模型触发的服务端搜索/抓取不再单独计费 |
+| 86 | RackNerd 2026 黑五：VPS 最低 $15.98/年、终身续费同价（帖子说的 $7.99/年不属实） |
+| 86 | RakSmart 黑五预热：注册绑卡领 $300 代金券，VPS 4 折（11-30 截止）（2026-11-30） |
 | 85 | ClipSeek：一句话搜无版权免费视频、照片、插画素材 |
 | 85 | 开源 ccteam：把 Claude Code、Codex、Grok、Kimi 编成一队派活 |
 | 85 | 阿里云ESA+腾讯EdgeOne免费CDN：永久免费套餐，1个免费站点（长期有效） |
@@ -61,6 +65,9 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 85 | GitHub Student Developer Pack：验证学生身份免费领 Copilot 等 70+ 开发者工具（官方页持续在线） |
 | 85 | Antigravity 一周年：全员重置全部模型额度（一次性清零重算，非长期加额） |
 | 85 | Zed Pro 学生免费一年：每月 $10 AI 额度，国际学生可申（Fable/Opus 不含） |
+| 85 | Kaggle 免费 GPU T4x2 每周 30 小时 |
+| 85 | DeepSeek API 联网搜索免费 |
+| 85 | bilingual_book_maker：开源工具一条命令做中英对照电子书（翻译费另计） |
 | 84 | Hermes Agent：会越用越懂你的开源 AI Agent（NousResearch，MIT 免费）（无固定截止日（开源项目长期有效）） |
 | 84 | Bolt.new 免费档：每天 30 万 token、每月 100 万 token，免绑卡（无固定截止日（免费档随时可能调整）） |
 | 84 | Cloudflare Workers AI 每天免费 1 万 Neurons |
@@ -155,6 +162,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 79 | 美团LongCat 2.5在OpenCode限时免费：每天100次，零数据保留（限时免费（官方未公布截止日）） |
 | 79 | HeyGen Voice Turbo 语音 API 免费到 11 月 30 日：$0/百万字符，免绑卡（2026-11-30） |
 | 79 | LG K-EXAONE 2.5 大模型 API 免费开放 |
+| 79 | Inception Mercury 3 新号送 1 亿 Tokens，不绑卡（2026-12-28 下线）（2026-12-28） |
 | 78 | Upstash Box 免费层：每月 5 小时 AI Agent 云端电脑，内置 Claude Code（免绑卡）（长期免费（每月 5 CPU 小时，随时可能调整）） |
 | 78 | Kolet 免费1GB eSIM：新用户免费试用2天，大陆可用（多地区）（常驻免费试用（1GB/2天，以 Kolet 官方为准）） |
 | 78 | Nomad 免费 1GB eSIM 试用：新用户 3 天，76–80 个目的地，免绑卡 |
@@ -270,6 +278,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 75 | Yubico 官网黑五 15% off：YubiKey 5/Bio/Security Key 系列最多 4 把（11-30 截止，不支持寄中国）（2026-11-30） |
 | 75 | 白嫖API又来一批：注册送1亿，每周白拿5000万（Fikra/Dahl/Tokion/RusherAI/Perch AI）（2026-11-25） |
 | 75 | Velo 华美银行远程开户：护照+身份证可开美国账户（帖子说的 $25+$300 奖励不属实，$25,000 为最低开户存款） |
+| 75 | 小米 MiMo AI 语音生成模型限时免费 |
 | 74 | 10个免费工具凑一套AI工作室 |
 | 74 | RackNerd 年付 $21.99：1核1G/20G SSD/每月3TB 流量 KVM（续费同价）（无明确截止日（常驻特价，以官网 Specials 页为准；RAKsmart 闪购 11 月 11–17 日另见 id79）） |
 | 74 | VPS.Taxi 新加坡 ISP VPS：1核1G/4TB 年付$40（续费同价） |
@@ -284,6 +293,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 73 | WhatsApp 自家云备份免费 2GB：对话备份不再占 Google Drive（Android Beta 分批推送） |
 | 73 | HPC-AI Model APIs：注册领一次性$2试用金，Kimi K2.5/MiniMax M2.5 OpenAI兼容 |
 | 73 | 云悠香港荃湾 VPS ¥19.99/月：2核1G/30G/50Mbps/400G（年付 ¥216.99） |
+| 73 | Eskimo eSIM 注册送免费流量：官网现推 250MB（帖子说的 500MB 已非主推额度） |
 | 72 | AI 免费资源清单：Simular Box、Kaggle、Codespaces 等 6 项 |
 | 72 | Cloady 免费小服务器跑 24 小时青龙面板（不绑卡） |
 | 72 | OpenRouter 免费隐秘模型 stealth/crouton-alpha，1M 上下文写代码 |
@@ -442,9 +452,11 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 65 | ChatGPT Business 装插件送 agentic credits：PayPal $50、HubSpot $25、Klaviyo $50（帖子说的 1250/650/1250 有误）（2026-11-30） |
 | 64 | DotDotNetworks 美国 CN2 GIA：2核1G/20G NVMe 年付 $29.90（无明确截止日（以结算页为准）） |
 | 64 | 华为云免费小鸡：每天签到做任务攒积分换代金券续费（基本无限续费）（无固定截止日（成长中心积分兑换以官网为准；代金券每日限量、先到先得）） |
+| 64 | Altare 免费云：Minecraft/应用托管 4GB 内存免费（帖子说的 6G 内存+10G 硬盘不属实） |
 | 63 | Red Bull eSIM 免费 1.1G 流量：下 App 填邀请码 TRAVELDEALZ（奥地利 A1 旗下）（兑换后有效期约 1 年（论坛口径，以 App 内为准）） |
 | 63 | 白嫖雷达 PerkRadar：自托管优惠聚合器，64 个源、MIT 开源（常驻免费开源工具（无固定截止日）） |
 | 63 | AEREDIUM 测试网积分换 $AERX：10 积分=1 枚，池子 2000 万枚（另附 Supermassive 候补） |
+| 63 | DAEJIN 空投：忠诚度计划已上线，50,000 $DOGE Season 0 奖池（空投本身未确认）（2026-12-10） |
 | 62 | CrowLLM 周一福利：deepseek-v4-flash 与 glm-5.3-flash 免费调用 |
 | 62 | DtcPay U卡每月白送 5G 新加坡流量（作者称连送 6 个月）（无固定截止日（每月赠送说法未证实）） |
 | 62 | Loomy（科大讯飞 AI 客户端）：登录送 10000 积分，可走 API 调用（无固定截止日（每日 5000 积分当天有效）） |
