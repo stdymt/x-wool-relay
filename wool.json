@@ -1,5 +1,5 @@
 {
-  "count": 460,
+  "count": 466,
   "items": [
     {
       "author": "yedabinbinah",
@@ -182,7 +182,7 @@
       "category": "免费额度",
       "expiry_date": null,
       "id": 476,
-      "notes": "88分：Cognition 官方活动核实——2026-11-18 官方在 X 宣布，发短信给 Poke、说清想做的东西，Poke 决定给多少 Devin Bot 额度；1 万个名额、每人最高 1 万美元（总额最高 1 亿美元）；入口 poke.com/bots，官网页面标题与活动一致，限时（本周实验）。注意：①额度多少由 Poke 说了算，不保证拿满、也不保证人人有份；②需发短信/iMessage 给 Poke，国内用户发国际短信或用 iMessage 可能有门槛；③NodeLoc 帖称 Stripe 结算页无需绑卡、直接订阅成功，未独立核实；④Devin Bot 为 11-17 上线的常驻 Agent，可接 Slack/Linear/Sentry 全天候跑任务。二审已做（重开 poke.com/bots 官网与 NodeLoc 原帖核实）。",
+      "notes": "88分：Cognition 官方活动核实——2026-11-18 官方在 X 宣布，发短信给 Poke、说清想做的东西，Poke 决定给多少 Devin Bot 额度；1 万个名额、每人最高 1 万美元（总额最高 1 亿美元）；入口 poke.com/bots，官网页面标题与活动一致，限时（本周实验）。注意：①额度多少由 Poke 说了算，不保证拿满、也不保证人人有份；②需发短信/iMessage 给 Poke，国内用户发国际短信或用 iMessage 可能有门槛；③NodeLoc 帖称 Stripe 结算页无需绑卡、直接订阅成功，未独立核实；④Devin Bot 为 11-17 上线的常驻 Agent，可接 Slack/Linear/Sentry 全天候跑任务。二审已做（重开 poke.com/bots 官网与 NodeLoc 原帖核实）。【2026-11-19 14:40复核：poke.com/bots 推广倒计时显示 00:00:00，疑似活动已结束，未确认；Poke 定价页证实 Free $0/月、免绑卡；yedabinbinah 同主题帖称登录送 AWS 8核32G VM、出口 IP 美国加州，未在官网公开页证实。】",
       "score": 88,
       "title": "Poke 免费送 Devin Bot：发短信说想法，最高领 1 万美元额度（1 万个名额）",
       "url": "https://t.me/baipiaofl/65341",
@@ -490,7 +490,7 @@
       "category": "金融卡券",
       "expiry_date": "无固定截止日（AI返现为常驻会员权益）",
       "id": 54,
-      "notes": "85分（来源20/可验证25/价值20/时效15/风险5）：Infini 官方帮助中心已核实（help.infini.money 会员等级与选卡页，2026-11-05 更新）：AI 商户直付订阅返现 Standard 30%、Professional/Elite 50%，Standard 每月上限 $10（Elite $100）；约 60 家 AI 商户（OpenAI、Anthropic、Cursor、GitHub Copilot、Midjourney、Perplexity、Gemini 等），App Store/Google Play 代扣不算；一般消费返现 1.5%。注意：①需 KYC + 首卡充值至少 $10 USDT/USDC；②Lite 卡非美元消费收 3% 外汇费，Lite Plus（0% 外汇费）需 Professional 等级（近 30 天日均持仓 2000U）；③U 卡为小牌照预付产品，返现常为噱头、资金有冻结风险，只以官方条款为准；④返现次月 2 日左右到账；⑤Lite Plus 首购抽奖 11 月 6–20 日另有活动，中奖才返。原帖为 NodeSeek 论坛转述帖，条款以 Infini 官方帮助中心为准；带邀请码的同主题帖子未作入口。",
+      "notes": "85分（来源20/可验证25/价值20/时效15/风险5）：Infini 官方帮助中心已核实（help.infini.money 会员等级与选卡页，2026-11-05 更新）：AI 商户直付订阅返现 Standard 30%、Professional/Elite 50%，Standard 每月上限 $10（Elite $100）；约 60 家 AI 商户（OpenAI、Anthropic、Cursor、GitHub Copilot、Midjourney、Perplexity、Gemini 等），App Store/Google Play 代扣不算；一般消费返现 1.5%。注意：①需 KYC + 首卡充值至少 $10 USDT/USDC；②Lite 卡非美元消费收 3% 外汇费，Lite Plus（0% 外汇费）需 Professional 等级（近 30 天日均持仓 2000U）；③U 卡为小牌照预付产品，返现常为噱头、资金有冻结风险，只以官方条款为准；④返现次月 2 日左右到账；⑤Lite Plus 首购抽奖 11 月 6–20 日另有活动，中奖才返。原帖为 NodeSeek 论坛转述帖，条款以 Infini 官方帮助中心为准；带邀请码的同主题帖子未作入口。【2026-11-19 14:40补充：SecJack96 用户实测称 Lite 卡绑 Google Pay 在 Google Play 消费也返 30%，通过 Google 订阅 Pulsar Pro 会员也返 30%，首订相当于白嫖还净赚 3U；与官方“App Store/Google Play 代扣不算”口径不一致——实测为绑卡直付可能不算代扣，仅作用户实测参考，未在官网证实。】",
       "score": 85,
       "title": "Infini 卡 AI 订阅返现 30%，每月最多返 10 美元",
       "url": "https://t.me/nodeseekc/998874",
@@ -594,6 +594,17 @@
       "title": "Hermes Agent：会越用越懂你的开源 AI Agent（NousResearch，MIT 免费）",
       "url": "https://x.com/tantanyuli/status/2120234285034856479",
       "value": "免费开源 AI Agent（MIT），262k stars；可自学/自部署，带记忆与技能自改进"
+    },
+    {
+      "author": "Ylj158852",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 484,
+      "notes": "83分（来源20/可验证25/价值15/时效15/风险8）：独立浏览器重抓X原帖全文+官方核实。Oumi定价页oumi.ai/pricing完全一致：FREE $0、3个月内最多$50额度，公司邮箱$50、个人邮箱$25；可玩SFT/LoRA/QLoRA/DPO/GRPO，模型10M–405B参数，权重与数据归用户（Apache 2.0），定价页未提绑卡要求。Vercel AI Gateway模型页：nvidia/nemotron-3.5-lightning-free（30B，每token只激活3B，1M上下文）与reflection/beam-free（501B，1M上下文，最多输出13.1万token）输入/输出价均为Free；定价文档证实每月$5免费额度。注意：①帖子称“免费模型也要先绑卡否则请求直接403”，公开文档中未找到，未证实；②模型页显示Beam的Free AI Gateway Credit为No、Nemotron为Yes；③免费版提示词提供方可能留作训练，别传隐私。",
+      "score": 83,
+      "title": "Oumi 免费送 $50 训练额度 + Vercel 免费 30B/501B 推理模型",
+      "url": "https://x.com/Ylj158852/status/2123265011111928188",
+      "value": "Oumi公司邮箱$50/个人邮箱$25训练额度（3个月内）；Vercel Nemotron 3.5 Lightning（30B）与Beam 1.0（501B）推理免费，每月另有$5免费额度"
     },
     {
       "author": "lovethelife2333",
@@ -864,7 +875,7 @@
       "category": "免费额度",
       "expiry_date": null,
       "id": 332,
-      "notes": "82分（来源20/可验证25/价值12/时效15/风险10）。原帖经独立浏览器只读核实全文 + OpenCode 官方模型页（opencode.ai/docs/console/models/）核实：确有 Hy4 flash Free，模型 ID hy4-flash-free，Input/Output/Cached Read 全 Free；Free models 一节原文称限时免费、提供方零留存、不拿数据训练。注意：①帖子称“接下来两周免费”与“100 万上下文”，官方页未写具体截止日与上下文额度，未予证实；②Go 页面“限时 Unlimited”未在该模型页核对；③免费聊天模型仅限 OpenCode 内使用；④同源号 yedabinbinah 11-16 另帖称限免截止 11 月 30 日 23:59，仍非官方口径，未证实。",
+      "notes": "82分（来源20/可验证25/价值12/时效15/风险10）。原帖经独立浏览器只读核实全文 + OpenCode 官方模型页（opencode.ai/docs/console/models/）核实：确有 Hy4 flash Free，模型 ID hy4-flash-free，Input/Output/Cached Read 全 Free；Free models 一节原文称限时免费、提供方零留存、不拿数据训练。注意：①帖子称“接下来两周免费”与“100 万上下文”，官方页未写具体截止日与上下文额度，未予证实；②Go 页面“限时 Unlimited”未在该模型页核对；③免费聊天模型仅限 OpenCode 内使用；④同源号 yedabinbinah 11-16 另帖称限免截止 11 月 30 日 23:59，仍非官方口径，未证实。【2026-11-19 14:40补充：Ylj158852 新帖称免费模型“现在13个”，官方模型页现列12个——GLM-5.3-Flash Free已标注Deprecated Nov 18, 2026（即第13个已于昨日下架）；Hy4 flash Free的“免费到11月30日”、224B、1M上下文未在官方页写明，未证实；官方页要求登录并添加账单信息，与帖子“不用登录不用绑卡”矛盾。Decider免费见id216，OpenRouter页未标注截止日。】",
       "score": 82,
       "title": "OpenCode 免费放出混元 Hy4 flash：hy4-flash-free，限时免费、零留存",
       "url": "https://x.com/Lniosytest/status/2122239549711532364",
@@ -1276,6 +1287,17 @@
       "title": "Google Colab 免费版可用 16GB 显存 T4（另有 TPU）",
       "url": "https://x.com/Lovislexus/status/2119465791674540075",
       "value": "免费云端 GPU/TPU 算力，按需分配不保证"
+    },
+    {
+      "author": "KOF97AI",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 488,
+      "notes": "80分（来源25/可验证25/价值10/时效15/风险5）：独立浏览器重抓X原帖全文+OpenAI帮助中心核实（help.openai.com/en/articles/20001602-rosalind-academic-plan），全部对应：Rosalind Academic Plan是独立项目，面向美国高等教育机构生命科学实验室，最多30个ChatGPT Business Standard席位、12个月免费、不含API；提供GPT-Rosalind、Rosalind工作台、ChatGPT与Codex；申请须机构Persona验证、PI身份验证、.edu/.org邮箱与生物安全联系人；激活须绑支付卡；标准留存默认适用、ZDR不可用；页面未写申请截止时间（仅写Applications are now open）。注意：①与面向全球科研人员的ChatGPT Plus学术计划是两个完全独立的项目，别混淆；②仅限美国高校生物实验室，国内用户基本申不了，价值分已因此打低。",
+      "score": 80,
+      "title": "OpenAI Rosalind 学术计划：美国大学生物实验室申 30 个 Business 席位免费用 12 个月",
+      "url": "https://x.com/KOF97AI/status/2123271691052994683",
+      "value": "最多30个ChatGPT Business Standard席位免费12个月，含GPT-Rosalind生命科学推理模型与Rosalind工作台；仅限美国高校生命科学实验室"
     },
     {
       "author": "tantanyuli",
@@ -2422,6 +2444,17 @@
       "value": "首月免费，约 10 美元；.env 外用法有风险"
     },
     {
+      "author": "Ylj158852",
+      "category": "免费额度",
+      "expiry_date": "2026-11-25",
+      "id": 485,
+      "notes": "75分（来源20/可验证20/价值15/时效15/风险5）：独立浏览器重抓X原帖全文+官方核实。帖子称6家、实列5家（另1家无官网已删）。能接客户端3家：Fikra（DeepSeek V4.1 Flash Economy限时$0，免绑卡；官网活动页：免费至2026-11-25，全站共享300亿token、已用36.39亿，无TPM/TPD上限，1000请求/分钟、10万请求/天；帖子所称“到11月22日”“400美元预算”“每天300次、100万Token”与官网现行页不符，以官网为准）、Dahl（注册送1亿Token一次性，MiniMax M2.7/DeepSeek V4 Flash/GLM 5.3 Flash；定价页证实7天无请求免费额度清零；“注册送1亿”数额未在定价页/首页公开文本明示，属用户说法；建Key后要点Allocate否则报402）、Tokion（每天50万Token，免绑卡；未逐项核实官网）；只能网页聊2家：RusherAI（每周5000万Token自动刷新，9个模型，免绑卡，无公开API，常弹服务器负载过高）、Perch AI（Starter每月20,000 PT约$20用量，免绑卡，Qwen 3.8 Max免费只到11月20日）。注意：均为第三方中转站，别传敏感内容、别绑重要账号。TG白嫖福利推送同款Dahl帖（linux.do 3202122）为同一活动，不另收。",
+      "score": 75,
+      "title": "白嫖API又来一批：注册送1亿，每周白拿5000万（Fikra/Dahl/Tokion/RusherAI/Perch AI）",
+      "url": "https://x.com/Ylj158852/status/2123278846656930075",
+      "value": "Dahl注册送1亿token（7天无请求清零）+Fikra DeepSeek V4.1 Flash免费至11-25+Tokion每天50万+RusherAI每周5000万+Perch每月约$20用量；均为第三方中转站"
+    },
+    {
       "author": "NodeSeek官方频道",
       "category": "订阅优惠",
       "expiry_date": "2026-11-30",
@@ -2772,6 +2805,17 @@
       "title": "10个免费工具凑一套AI工作室",
       "url": "https://x.com/Lovislexus/status/2119610928572350576",
       "value": "Kaggle、Colab免费GPU + GitHub Actions、Supabase、OpenRouter、Cloudflare Workers/R2等免费额度合集"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 486,
+      "notes": "73分（来源20/可验证20/价值10/时效15/风险8）：独立浏览器重抓X原帖全文+官网配置页核实。商家云悠YUNYOO，香港荃湾（HK5）CVM-Basic：2核/1GB/30GB系统盘/50Mbps/400G月流量，¥19.99/月，年付¥216.99（原价¥241.10），与帖子一致；另有Plus ¥24.99/月、Pro ¥36.99/月。注意：①帖子称宿主机AMD EPYC 7K62、CMI/4837与CN2/163混合优化线路，官网配置页未出现，属帖子/宣传图说法，未证实；②帖子链接含aff推广参数；③配置偏小，只适合轻量博客、企业展示站、亚太低延迟办公与内网中转。",
+      "score": 73,
+      "title": "云悠香港荃湾 VPS ¥19.99/月：2核1G/30G/50Mbps/400G（年付 ¥216.99）",
+      "url": "https://x.com/fwqgo_com/status/2123257459083251795",
+      "value": "¥19.99/月，年付¥216.99（9折）；香港荃湾，2核1G/30G系统盘/50Mbps/400G流量"
     },
     {
       "author": "KOF97AI",
@@ -3599,6 +3643,17 @@
       "value": "6 项免费资源一次收齐，Kaggle GPU 与 Codespaces 最实在。"
     },
     {
+      "author": "NodeSeek官方频道",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 487,
+      "notes": "70分（来源15/可验证20/价值10/时效15/风险10）：NodeSeek原帖被站方Cloudflare拦截、冷却期内未读到，项目身份为标题搜索交叉核实推断——标题“专注于AI远程办公-多设备管理/远程窗口/免费中继/可自托管”与GitHub仓库barry-ran/QuickDesk（581 stars、95 forks，v4.3.2.0，MIT）的README特征高度吻合：首个AI原生远程桌面，内置MCP Server，AI Agent可截图、点击、输入、拖拽并远程操控电脑；多设备AI编排、多标签多连接（远程窗口）、WebRTC P2P直连、TURN中继失败自动回退、完整自托管方案（Go信令服务器＋PostgreSQL＋Redis＋coturn，可自定义信令/STUN/TURN地址）；开源免费、无功能限制与连接数限制；支持Windows/macOS，Linux待定。注意：项目名与仓库链接只能作为交叉核实结论，不能作为原帖内容的直接证据；读到原帖后如不符请更正或删除本条。",
+      "score": 70,
+      "title": "QuickDesk：AI原生开源远程桌面，多设备编排+免费中继+可自托管（原帖未读到，项目身份为推断）",
+      "url": "https://t.me/nodeseekc/1018571",
+      "value": "开源免费远程桌面（MIT，581 stars）：AI Agent可截图/点击/输入远程操控，多设备编排，WebRTC P2P+TURN中继，自托管；支持Windows/macOS"
+    },
+    {
       "author": "lovethelife2333",
       "category": "免费额度",
       "expiry_date": null,
@@ -3971,6 +4026,17 @@
       "title": "Pionex Card（派网卡）：虚拟卡免开卡费/年费，Visa 返现 1% 抵手续费、卡内 USDT 享 5% 年化（大陆办不了）",
       "url": "https://x.com/Javary324/status/2120387965293617361",
       "value": "免开卡费/年费的 U 卡，Visa 返现 1%、卡内 USDT 5% 年化；大陆 +86 无法注册/KYC，仅限海外身份参考。"
+    },
+    {
+      "author": "白嫖福利推送",
+      "category": "金融卡券",
+      "expiry_date": null,
+      "id": 489,
+      "notes": "67分（来源20/可验证20/价值12/时效10/风险5）：linux.do原帖+官网核实。楼主称之前排队的免费版已开放、已领取（2280卡头、新加坡Wotransfer Pte Ltd发行万事达卡，有效期至2031年）；回复确认需要护照、不需要国外手机号（+86即可）、可用来付Claude、新加坡卡BIN。官网starryblu.com有Free档Starry（Free/month），Plus $9.99/月、Planet $19.99/月、Deity $999.99/年；卡图卡号以2280开头一致；页脚确认新加坡公司Wotransfer Pte.、MAS牌照PS20200501。注意：①官网同时标注卡项目“在筹备中”，免费版权益细节仅为笼统表述，领取仍为排队分批开放，并非人人即时可领；②有人前两天花$9.9开通付费版，也有人仍在排队；③U卡多为小牌照预付产品，资金有冻结风险；④“熊猫速汇旗下、珠海发卡却收美元会员费”为论坛回复说法，未证实。",
+      "score": 67,
+      "title": "Starryblu 免费版开放领取：新加坡万事达卡 Free 档，需护照、排队分批开",
+      "url": "https://t.me/baipiaofl/65368",
+      "value": "Free档Starry $0/月（Plus $9.99/月）；新加坡万事达卡，2280卡头；需护照、+86手机号可，排队分批开放"
     },
     {
       "author": "OnlyJettTian",
@@ -5065,5 +5131,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-19T12:44:58+08:00"
+  "updated_at": "2026-11-19T15:05:29+08:00"
 }
