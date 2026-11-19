@@ -1,5 +1,5 @@
 {
-  "count": 466,
+  "count": 472,
   "items": [
     {
       "author": "yedabinbinah",
@@ -182,7 +182,7 @@
       "category": "免费额度",
       "expiry_date": null,
       "id": 476,
-      "notes": "88分：Cognition 官方活动核实——2026-11-18 官方在 X 宣布，发短信给 Poke、说清想做的东西，Poke 决定给多少 Devin Bot 额度；1 万个名额、每人最高 1 万美元（总额最高 1 亿美元）；入口 poke.com/bots，官网页面标题与活动一致，限时（本周实验）。注意：①额度多少由 Poke 说了算，不保证拿满、也不保证人人有份；②需发短信/iMessage 给 Poke，国内用户发国际短信或用 iMessage 可能有门槛；③NodeLoc 帖称 Stripe 结算页无需绑卡、直接订阅成功，未独立核实；④Devin Bot 为 11-17 上线的常驻 Agent，可接 Slack/Linear/Sentry 全天候跑任务。二审已做（重开 poke.com/bots 官网与 NodeLoc 原帖核实）。【2026-11-19 14:40复核：poke.com/bots 推广倒计时显示 00:00:00，疑似活动已结束，未确认；Poke 定价页证实 Free $0/月、免绑卡；yedabinbinah 同主题帖称登录送 AWS 8核32G VM、出口 IP 美国加州，未在官网公开页证实。】",
+      "notes": "88分：Cognition 官方活动核实——2026-11-18 官方在 X 宣布，发短信给 Poke、说清想做的东西，Poke 决定给多少 Devin Bot 额度；1 万个名额、每人最高 1 万美元（总额最高 1 亿美元）；入口 poke.com/bots，官网页面标题与活动一致，限时（本周实验）。注意：①额度多少由 Poke 说了算，不保证拿满、也不保证人人有份；②需发短信/iMessage 给 Poke，国内用户发国际短信或用 iMessage 可能有门槛；③NodeLoc 帖称 Stripe 结算页无需绑卡、直接订阅成功，未独立核实；④Devin Bot 为 11-17 上线的常驻 Agent，可接 Slack/Linear/Sentry 全天候跑任务。二审已做（重开 poke.com/bots 官网与 NodeLoc 原帖核实）。",
       "score": 88,
       "title": "Poke 免费送 Devin Bot：发短信说想法，最高领 1 万美元额度（1 万个名额）",
       "url": "https://t.me/baipiaofl/65341",
@@ -627,6 +627,17 @@
       "title": "Pulsar Money 11月返现提到4%：Pro用户前$3000消费全按4%返积分（到11月30日）",
       "url": "https://x.com/SecJack96/status/2120889366524698761",
       "value": "11月内Pro用户前$3000消费返4%积分（最高约$120积分）"
+    },
+    {
+      "author": "KOF97AI",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 493,
+      "notes": "83分（来源20/可验证25/价值15/时效15/风险8）：独立浏览器重抓X原帖全文+官方核实。OpenCrawl 随 YC 开源上线（Apache 2.0）：记录团队里 Claude Code、Codex、Cursor 等 Agent 的逐字完整会话而非压缩摘要，接通 GitHub、Linear、Slack、Notion，让不同电脑或云端沙箱里的 Agent 互相检索历史记录并协同。官网 getopencrawl.com 首页写“OpenCrawl Cloud — 100M tokens free every month. No credit card required.”“After that, $0.50 per million tokens.”“Self-host — Free.”“Backed by Y Combinator”。注意：①YC 介绍页提到的每月 2 亿 token 仅适用于 YC 孵化公司，不要当成全员额度，普通用户为每月 1 亿；②仓库明确提示会话默认对团队可见且包含完整代码和上下文，涉及密钥或敏感业务时更推荐按 GitHub README 自托管到自己的 Docker 和 S3；③官网首页未写免费额度的截止日期/有效期。",
+      "score": 83,
+      "title": "OpenCrawl 随 YC 上线：托管档每月免费 1 亿 token，不用绑卡",
+      "url": "https://x.com/KOF97AI/status/2123299092810129830",
+      "value": "每月免费 1 亿新会话 token，不绑卡；超出后 $0.50/百万 token；可自托管免费"
     },
     {
       "author": "fwqgo_com",
@@ -2444,6 +2455,39 @@
       "value": "首月免费，约 10 美元；.env 外用法有风险"
     },
     {
+      "author": "KOF97AI",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 490,
+      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）：独立浏览器重抓X原帖全文+官方核实。kiro.dev/students 写“Eligible university students get 1,000 credits per month free for one year.”“Once verified, you will have access to 1,000 credits per month for one full year. No credit card required.”；条款页 kiro.dev/students/terms/（2026-09-08 更新版）写明参加条件：年满 18 岁、在读于 participating university、Kiro 账号本身就用合作大学有效邮箱注册、可应要求提供在读证明；“Unused Kiro credits do not roll over month to month.”，福利期内不得购买额外积分，权益不可转让、不可转售。注意：①官方页面只支持下拉名单里的高校（帖子实测共 174 所），亚洲可见新加坡国立、南洋理工、首尔国立、东京大学等，未见中国大陆及港台高校，不在名单里只能填兴趣表等待，国内用户基本申不了，价值分已因此打低；②介绍页与条款在“账号邮箱”上口径有冲突（介绍页称可用 Google/GitHub/AWS Builder ID 建账号后再填学校邮箱），应以更严的条款为准；③额度按月发放不结转，一年期满自动降级免费版、作品保留。",
+      "score": 77,
+      "title": "AWS Kiro 学生计划：名单内高校在读生每月 1000 积分免费用 1 年（中国大陆及港台高校不在名单）",
+      "url": "https://x.com/KOF97AI/status/2123290538564895092",
+      "value": "每月 1000 积分、免费 1 年，不绑卡；仅名单内高校（174 所），须 SheerID 验证、年满 18 岁"
+    },
+    {
+      "author": "SecJack96",
+      "category": "金融卡券",
+      "expiry_date": "2026-11-30",
+      "id": 491,
+      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）：独立浏览器重抓X原帖全文+致富官网条款页核实（chief-deposit.chiefgroup.com.hk《「开户迎新 $8,888 奖赏大放送」条款及细则-2026 年 11 月》）：推广期 2026-11-01 至 11-30，仅限从未开过致富任何类型投资账户的个人新客户。(1)开户即赏：约 HK$100 SpaceX（SPCX.US）股票券 1 张，有效期 30 天，需手动领取、逾期作废，领取后次月内回赠至证券账户。(2)入金任务：开户当日起 30 个连续自然日内累计入金达 HK$10,000 送价值 HK$88 股票现金券 1 张；达 HK$100,000 额外送 HK$300（6 张×HK$50），合计最高 HK$388。(3)交易任务：开户当日起至 2026-12-31 23:59，美股/港股/美股期权各完成 10 笔有效交易，各送价值 HK$200 对应市场专用股票现金券，最高共 HK$600。(4)留存任务：自首次达标当日起连续维持每日净资产不低于门槛满 30 个自然日，维持 HK$10,000 送价值 HK$200 股票现金券（4 张×HK$50，分 4 个月每月依次生效 1 张）；维持 HK$100,000 送价值 HK$600（3 张×HK$200，分 3 个月依次生效）；两档可叠加。注意：①帖子“留存满 31 天”与官方“连续 30 个自然日”不符，以官方为准；②帖子“官方 300+ HKD 股票现金券、可套出来 300 左右”是约数/乐观口径，入金 1 万档官方部分实为入金券 HK$88 + 留存券 HK$200 = HK$288，且券不是现金，须按规则交易、券面额于到期后次月内以现金奖赏回赠，分月生效；③“我这边直接返现 300 HKD（12 月达标，预计 1 月中旬返现）”明确是发帖人自己的渠道返现，不在官方条款内，无法以官方来源核实其可信度，不要把它当官方奖励；④股票现金券使用规则：单笔交易订单金额须大于 HK$1，每笔交易仅可用 1 张，不可叠加；券自生效日起 30 个自然日内有效；留存奖于 2027 年 2 月内完成审核派发首期；⑤据跟帖，内地开户需要有港卡。",
+      "score": 77,
+      "title": "致富证券 11 月开户迎新：入金 1 万港币留存 30 天，官方送约 HK$388 股票现金券（11-30 截止）",
+      "url": "https://x.com/SecJack96/status/2123307509561860435",
+      "value": "入金 HK$10,000：入金券 HK$88 + 留存券 HK$200，另开户约 HK$100 SpaceX 股票券；仅限新客户；推广期 11-01 至 11-30"
+    },
+    {
+      "author": "OnlyJettTian",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 492,
+      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）：独立浏览器重抓X原帖全文+官方核实。lightvela.com 首页写“新用户免费体验 1 个月，送 4,500 AI 积分”，页脚“腾讯轻量云出品”；定价页 lightvela.com/subscribe：启航 Launch 档“首单免费 1 个月 ¥0.00/月（原价 ¥68.00）”，配置 2 核 8G 云电脑、50GB 云存储、4,500 积分/月、Bot 5 个，免费期后 ¥68.00/月；额外积分包 ¥18.00/2,000 积分、有效期 1 个月。注意：①实名认证在首次开通任意套餐前必须完成，当前仅支持中国大陆居民身份证，须填真实姓名与 18 位身份证号，认证一次生效；登录可用微信/QQ/手机号验证码；②定价页只写套餐积分“4,500 积分/月”，未明确写套餐积分是否结转/过期，额外积分包明确有效期 1 个月；③免费期结束后 ¥68/月，首月结束前需自行处理续费，别脑子一热续费。",
+      "score": 77,
+      "title": "LightVela 云端 Agent：新用户首月免费，2核8G云电脑+50G存储+4500积分",
+      "url": "https://x.com/OnlyJettTian/status/2123289164279927019",
+      "value": "首月免费（原价¥68/月）；2核8G云电脑、50GB存储、4500积分/月、Bot 5个；须大陆身份证实名；续费¥68/月"
+    },
+    {
       "author": "Ylj158852",
       "category": "免费额度",
       "expiry_date": "2026-11-25",
@@ -2739,6 +2783,17 @@
       "title": "Ondo Perps 每周 500 万积分 + USDC 池：交易量与持仓分奖励",
       "url": "https://x.com/AllForAirdrop/status/2080828560336679096",
       "value": "每周 500 万 Ondo 积分 + USDC 池（约 17.5–25 万美元），按交易量与持仓分配；需入金交易"
+    },
+    {
+      "author": "Ylj158852",
+      "category": "金融卡券",
+      "expiry_date": null,
+      "id": 495,
+      "notes": "75分（来源20/可验证25/价值10/时效15/风险5）：X Article 全文+ Velo 官网核实。远程开户属实：velobank.com 首页称“No branch visits. No video calls. Apply remotely in minutes.”，接受证件明确列有“People’s Republic of China Passport and Identity Card”（中国护照+身份证），另接受港台证件；申请须经银行审核批准。但帖子说的奖励多处不属实，系误读官方条款：①“开户送 $25”不属实——官网及站内搜索未找到任何 $25 开户奖励，$25 是 Global Checking 月管理费；②“60 天内存 $25,000 得 $300”不属实——$25,000 为最低开户存款，须在开户后 60 天内一次性存入，否则账户将被关闭；$300 是开户费（Account Opening Fee），在首次注资后扣除，并非存款奖励；该 $300 仅在 Gold 下可退：开户后前 12 个月内，任一符合资格月份的合并月均余额达 $100,000 可退 $100，最多 3 个月、共 $300；③“Gold $25/月、含 $100×3 返利”系混淆——$25/月是 Global Checking 月管理费，月均余额≥$25,000 可免；Gold 本身官网未写月费，Gold 资格为合并月末均余额≥$100,000，低于则取消资格，权益为免电汇入账费、免国际借记卡邮寄费等；④推荐码各得 $20 部分属实、形式有误——官方推荐页称推荐人与被推荐人各得“$20 Fee Credit”（费用抵扣，非现金），上限每位推荐人最多 5 人、5 笔奖励；被推荐人须在申请时填推荐码、60 天内完成最低开户存款；奖励在条件满足后 30 天内发放。注意：①费用表（2026-01-30 生效）：电汇入账 $10、出账境外美元 $40/外币 $25、美国境内 $30；开户后 120 天内销户收 $20；国际借记卡邮寄 $20（Gold 免）；②官网未找到“降级免费账户”的说法，Global Checking 免月费的唯一公开条件是月均余额≥$25,000；③官网另有一份 2023 年修订的旧版条款写最低开户 $2,500、月费豁免门槛 $2,500，与当前产品页 $25,000 不一致，应以当前产品页为准。",
+      "score": 75,
+      "title": "Velo 华美银行远程开户：护照+身份证可开美国账户（帖子说的 $25+$300 奖励不属实，$25,000 为最低开户存款）",
+      "url": "https://x.com/Ylj158852/status/2123298015159132648",
+      "value": "中国大陆居民凭护照+身份证远程开美国银行账户，不用飞美国；$25,000 最低开户存款（60 天内一次性存入）；$300 为开户费（Gold 下余额达 $100,000 可退，最多 $300）；推荐码各得 $20 费用抵扣（非现金）"
     },
     {
       "author": "Javary324",
@@ -4930,6 +4985,17 @@
       "value": "免费调 deepseek-v4-flash 与 glm-5.3-flash，条款未核实，先小量试用。"
     },
     {
+      "author": "lovethelife2333",
+      "category": "免费额度",
+      "expiry_date": "2027-01-31",
+      "id": 494,
+      "notes": "62分（来源15/可验证20/价值7/时效10/风险10）：日报原说法不属实，系把两家公司搞混——Vercel 官网未公布“每月 5,000 次任务免费、可自动续费、可用 Claude Code/Codex 生成内容”的说法，vercel.com/parallel 实测跳转登录页、无公开免费额度页；每月 5,000 次的数字属于另一家公司 Parallel Web Systems（parallel.ai），其定价页写的是 Build 计划每月最多 5,000 次免费请求（requests，非 tasks），且 Launch 免费层称“无需账户、可在 Cursor、Claude、ChatGPT/Codex 中使用”是指将其搜索接入这些工具，并非用 Claude Code/Codex 生成内容，也不是 Vercel 的产品。但同日 Vercel 官方更新日志（2026-11-18 发布）证实了一件相关的真事：Parallel（Parallel Web Systems）的网页搜索 fast 模式在 Vercel AI Gateway 上免费至 1 月 31 日，且“只有 fast 模式免费，其他模式按标准价格计费”。本条按 changelog 的真实口径收录，与日报原说法区分。注意：①截止日 2027-01-31 系按 2026-11-18 公告推断（标题未注明年份）；②与在册 id277（Vercel AI Gateway：Parallel Decisions Fast 免费到 11 月 23 日）是不同产品（Decisions 判题模型 vs 网页搜索），不重复。",
+      "score": 62,
+      "title": "Vercel AI Gateway：Parallel 网页搜索 fast 模式免费至 1 月 31 日",
+      "url": "https://x.com/lovethelife2333/status/2123279914006675627",
+      "value": "Parallel 网页搜索 fast 模式在 Vercel AI Gateway 免费至 1 月 31 日（仅 fast 模式免费）"
+    },
+    {
       "author": "OnlyJettTian",
       "category": "软件工具",
       "expiry_date": null,
@@ -5131,5 +5197,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-19T15:05:29+08:00"
+  "updated_at": "2026-11-19T16:05:49+08:00"
 }
