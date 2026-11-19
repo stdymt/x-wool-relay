@@ -1,5 +1,5 @@
 {
-  "count": 446,
+  "count": 449,
   "items": [
     {
       "author": "yedabinbinah",
@@ -176,6 +176,17 @@
       "title": "Kiroween 黑客松：申请领 4000 个 Kiro credits（约 160 美元）",
       "url": "https://x.com/Aisiverto/status/2119322778641834402",
       "value": "4000 credits，约 160 美元，需参赛"
+    },
+    {
+      "author": "Aisiverto",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 471,
+      "notes": "88分；官网 mineru.net 核实：精准解析 API 每个账号每天 1000 页最高优先级解析额度，超量降优先级不停；单文件≤200MB/≤200页；需注册登录拿 Token，未提绑卡；Agent 轻量版免登录免 Token（单文件≤10MB/≤20页，仅出 Markdown）；开源本地版 AGPL-3.0、44.9k stars，自部署无页数限制；帖称可出 EPUB，官方文档只列 docx/html/latex，未见 EPUB。独立浏览器核实+搜索二审佐证一致。",
+      "score": 88,
+      "title": "MinerU 文档转 Markdown：在线版每天 1000 页免费额度",
+      "url": "https://x.com/Aisiverto/status/2123204859012804764",
+      "value": "每天1000页免费转 Markdown，PDF/Word/图片都能转，超量只降优先级"
     },
     {
       "author": "Lovislexus",
@@ -1210,6 +1221,28 @@
       "title": "Google Colab 免费版可用 16GB 显存 T4（另有 TPU）",
       "url": "https://x.com/Lovislexus/status/2119465791674540075",
       "value": "免费云端 GPU/TPU 算力，按需分配不保证"
+    },
+    {
+      "author": "BlockInsight214",
+      "category": "免费额度",
+      "expiry_date": "2026-11-23",
+      "id": 472,
+      "notes": "82分；Nous Research 官方原帖证实 Qwen4-Max 在 Nous Portal 免费 5 天（11-18 起，官方未公布确切结束时间，按 5 天推算约 11-23，作者提醒不要指望最后几小时）；1M 上下文、原生视觉；官网另有 qwen/qwen4-max:free 常驻免费模型条目与 $0 免费套餐；同作者另一帖给 Hermes 别名配置可直接调用免费模型（cost=0），alias 未逐项验证；注册流程是否要求绑卡未核实，官网公开页只显示 $0 套餐与 Stripe/加密货币充值。",
+      "score": 82,
+      "title": "Qwen4-Max 在 Nous Portal 免费 5 天：11-18 起约至 11-23",
+      "url": "https://x.com/BlockInsight214/status/2123189037141811287",
+      "value": "旗舰模型 5 天免费窗口，长上下文 coding 可当主力模型试用"
+    },
+    {
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 470,
+      "notes": "82分；GitHub shoyrulove-dev/PureHub 核实：MIT 协议，452 stars；26 个工具全免费，核心小工具无广告、无需注册、数据在本地；版本 1.0.0-beta.60，另有网页版 hub.blissbiovn.com；注意 README 注明个别 SEO 转换页面可能出现原生横幅广告，并非全站绝对零广告。",
+      "score": 82,
+      "title": "PureHub 开源工具合集：26 个小工具免费、无广告、免注册",
+      "url": "https://x.com/tantanyuli/status/2123206871905648979",
+      "value": "一个 App 集 OCR、PDF 扫描、二维码、指南针等 26 个常用小工具"
     },
     {
       "author": "tantanyuli",
@@ -3185,7 +3218,7 @@
       "category": "云服务器",
       "expiry_date": "限时免费（结束日未公布，以官方为准）",
       "id": 226,
-      "notes": "72分（来源20/可验证20/价值12/时效12/风险8；NodeSeek转述 + jidan.si 11月12日文章与中国电信TeleAI官方页交叉证实：TeleAgent网页版3.0于11月2日上线，现阶段限时免费，首次使用分配一台专属Windows云电脑，任务在云端跑、不占本机，可开桌面装软件、定时任务到点自动执行；新用户注册送3000积分（3个月有效），每月首次登录再送3000积分，每日打卡100积分。注意：①须手机号注册登录；②NodeSeek原帖post-1052046-1未读到正文（全站IP屏蔽），本条以TeleAgent限时免费offer为准；③免费期结束日未公布，随时可能收费；④文件须放云电脑D盘data目录才会被用到。补充（2026-11-13）：yedabinbinah X 帖与 NodeLoc 帖同为本活动：入口为星辰超级智能体 → 启动天翼云电脑，或下载 ta.teleai.com.cn 客户端切换云电脑进入；注册邀请码 FPEVRL 送 3000 积分，与本条新用户送 3000 积分为同一活动，不另立。补充（2026-11-14）：0xjackkk X 帖同为本活动，称分配的云电脑为 4核8G/140G SSD/Windows Server 2022、万兆网络，实测用了 2 天速度快、可挂远程。补充（2026-11-14）：KOF97AI X 帖同为本活动，称入口走电信星辰超级智能体、右上角启动天翼云电脑，配网易UU远程桌面连接，实测延迟极低、连续运行 2 天无异常，适合挂轻量脚本与临时开发测试。补充（2026-11-14）：leeking420 X 帖同为本活动（原帖已读），称移动手机号接码即开通、无门槛，云电脑 8GB 内存、江苏南京家宽 IP；与本条 4核8G 口径一致。",
+      "notes": "72分；中国电信 TeleAgent 网页版限时免费：自带一台 Windows 云电脑（新用户送3000积分）。2026-11-19 补充核实：帖称 6000 积分是注册 3000（三个月有效，至 2027 年 2 月）+ 每月登录再赠 3000（当月有效）的叠加，并非注册一次性到账；另每日打卡赠 100 积分（30 天内有效）；手机号登录即可，未提绑卡；4 核 8G、磁盘约 140GB、同时跑 3 个任务、长期有效等说法在公开页看不到，须登录后查看，未核实。",
       "score": 72,
       "title": "中国电信 TeleAgent 网页版限时免费：自带一台 Windows 云电脑（新用户送3000积分）",
       "url": "https://t.me/nodeseekc/1006882",
@@ -4911,5 +4944,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-19T07:56:37+08:00"
+  "updated_at": "2026-11-19T09:02:42+08:00"
 }
