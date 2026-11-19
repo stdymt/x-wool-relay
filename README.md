@@ -7,10 +7,10 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 - 范围：以 AI 为主（AI 会员、免费额度、VPS/VPN、AI 赚钱新路子）
 - 更新时间：见 wool.json 里的 `updated_at`（北京时间）
 
-## 本次更新（2026-11-19 07:56，446 条，本轮新增 0 条）
+## 本次更新（2026-11-19 09:02，449 条，本轮新增 3 条）
 
 | 分 | 内容 |
-|---|---|
+|---|---}|
 | 95 | Perch AI 每月免费 20000 PT（约 20 美元），不用绑卡 |
 | 92 | ChatGPT Pro 用户 API 额度福利：每月最高 $500，别忘领 |
 | 90 | 微软 MarkItDown：Office/PDF/图片万物转 Markdown，开源免费（MIT，196k stars） |
@@ -27,6 +27,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 90 | 魔搭 ModelScope × AMD 激励计划 2.0：注册 AMD 开发者计划送 100 小时 192GB 显存 Notebook（帖称 12 月底截止（官方活动页未见明确截止日，以活动页为准）） |
 | 90 | Oracle Free 账户注册实测成功（香港区 + 86 手机号 + Visa） |
 | 90 | Kiroween 黑客松：申请领 4000 个 Kiro credits（约 160 美元）（2026-12-01） |
+| 88 | MinerU 文档转 Markdown：在线版每天 1000 页免费额度 |
 | 87 | DeepAI 免费聊 Claude Fable 5.2：每天免费额度，免绑卡（含 Opus 5.5/Sonnet 5.5） |
 | 87 | Parallel MCP：免注册免 API Key 的免费搜索/抓取/判题，接 Muse 即用 |
 | 87 | Cohere 免费 trial key：每月 1000 次 API 调用，Embed/Rerank 免绑卡 |
@@ -121,6 +122,8 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 82 | UnoRouter 新增 8 个免费端点（含 GPT 5.6 Luna），免绑卡 |
 | 82 | Kaggle 免费 2 张 T4 GPU（每张 16GB），每周约 30 小时 |
 | 82 | Google Colab 免费版可用 16GB 显存 T4（另有 TPU） |
+| 82 | Qwen4-Max 在 Nous Portal 免费 5 天：11-18 起约至 11-23（2026-11-23） |
+| 82 | PureHub 开源工具合集：26 个小工具免费、无广告、免注册 |
 | 80 | FluentDictation：粘贴 YouTube 链接生成分级英语听写练习，基础功能免费免登录 |
 | 80 | LiteLLM：开源 AI 网关，100+ 模型商一个 OpenAI 兼容接口（MIT，约61k stars） |
 | 80 | Google 账号三套系统 11 个官方后台直链合集：查归属国/改付款地/管订阅一次扒齐 |
