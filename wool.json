@@ -1,5 +1,5 @@
 {
-  "count": 452,
+  "count": 454,
   "items": [
     {
       "author": "yedabinbinah",
@@ -187,6 +187,17 @@
       "title": "MinerU 文档转 Markdown：在线版每天 1000 页免费额度",
       "url": "https://x.com/Aisiverto/status/2123204859012804764",
       "value": "每天1000页免费转 Markdown，PDF/Word/图片都能转，超量只降优先级"
+    },
+    {
+      "id": 476,
+      "title": "Poke 免费送 Devin Bot：发短信说想法，最高领 1 万美元额度（1 万个名额）",
+      "url": "https://t.me/baipiaofl/65341",
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "score": 88,
+      "expiry_date": null,
+      "value": "最高 1 万美元 Devin Bot 额度，1 万个名额；能拿多少看 Poke 怎么评你的想法",
+      "notes": "88分：Cognition 官方活动核实——2026-11-18 官方在 X 宣布，发短信给 Poke、说清想做的东西，Poke 决定给多少 Devin Bot 额度；1 万个名额、每人最高 1 万美元（总额最高 1 亿美元）；入口 poke.com/bots，官网页面标题与活动一致，限时（本周实验）。注意：额度多少由 Poke 说了算，不保证拿满、也不保证人人有份；需发短信/iMessage 给 Poke，国内用户发国际短信或用 iMessage 可能有门槛；NodeLoc 帖称 Stripe 结算页无需绑卡、直接订阅成功，未独立核实；Devin Bot 为 11-17 上线的常驻 Agent，可接 Slack/Linear/Sentry 全天候跑任务。二审已做（重开 poke.com/bots 官网与 NodeLoc 原帖核实）。"
     },
     {
       "author": "Lovislexus",
@@ -4941,6 +4952,17 @@
       "value": "免费 eSIM 流量，邀请得 500MB（官网另处写 250MB，存疑），不用绑卡"
     },
     {
+      "id": 477,
+      "title": "星驰公益 API：注册领 1000 刀额度，GPT-6.1-SOL 可用（每日 14:00 TG 机器人发码）",
+      "url": "https://t.me/baipiaofl/65343",
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "score": 60,
+      "expiry_date": null,
+      "value": "1000 刀兑换码，0.5 倍率；多人实测为 luna、有断流反馈，谨慎领",
+      "notes": "60分：linux.do 与 linux.sb 多方佐证——星驰公益 xingchiapi.com，注册后进 TG 机器人领 1000 刀兑换码，每天 14:00 发一波，先到先得；支持 gpt-6.1-sol（0.5 倍率混合池）。注意：多人实测模型实际为 gpt-5.6-luna、质量差，有断流/用不了的反馈，货不对板风险大；原帖注册链接含 aff 邀请码，领码须先进 TG 群，流程繁琐；第三方公益中转站，额度与稳定性无保障，领前自行验证。NodeSeek 原帖 403 未读到，核实走论坛交叉佐证。"
+    },
+    {
       "author": "yedabinbinah",
       "category": "订阅优惠",
       "expiry_date": "2026-11-09闪购（限2000名，先到先得）",
@@ -4977,5 +4999,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-19T09:51:02+08:00"
+  "updated_at": "2026-11-19T10:46:43+08:00"
 }
