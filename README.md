@@ -7,10 +7,10 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 - 范围：以 AI 为主（AI 会员、免费额度、VPS/VPN、AI 赚钱新路子）
 - 更新时间：见 wool.json 里的 `updated_at`（北京时间）
 
-## 本次更新（2026-11-19 12:44，460 条，本轮新增 1 条）
+## 本次更新（2026-11-19 15:05，466 条，本轮新增 6 条）
 
 | 分 | 内容 |
-|---|---|
+|---|---:|
 | 95 | Perch AI 每月免费 20000 PT（约 20 美元），不用绑卡 |
 | 92 | ChatGPT Pro 用户 API 额度福利：每月最高 $500，别忘领 |
 | 90 | 微软 MarkItDown：Office/PDF/图片万物转 Markdown，开源免费（MIT，196k stars） |
@@ -65,6 +65,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 84 | Cloudflare Workers AI 每天免费 1 万 Neurons |
 | 84 | Bolt.new 免费档：每天 30 万 token、每月 100 万 token，免绑卡（无固定截止日（免费档随时可能调整）） |
 | 84 | Hermes Agent：会越用越懂你的开源 AI Agent（NousResearch，MIT 免费）（无固定截止日（开源项目长期有效）） |
+| 83 | Oumi 免费送 $50 训练额度 + Vercel 免费 30B/501B 推理模型 |
 | 83 | Coarena 每天 $5 免费调 22 个模型：含 Opus 5.5、GPT-6.1 Sol、Gemini 4 Carbon，免绑卡（无固定截止日（免费档持续有效，以官方文档为准）） |
 | 83 | Pulsar Money 11月返现提到4%：Pro用户前$3000消费全按4%返积分（到11月30日）（2026-11-30） |
 | 82 | RakSmart 硅谷三网优化 VPS $4.99/月：2核4G/50G NVMe/5Gbps/5TB，续费同价 |
@@ -127,6 +128,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 82 | UnoRouter 新增 8 个免费端点（含 GPT 5.6 Luna），免绑卡 |
 | 82 | Kaggle 免费 2 张 T4 GPU（每张 16GB），每周约 30 小时 |
 | 82 | Google Colab 免费版可用 16GB 显存 T4（另有 TPU） |
+| 80 | OpenAI Rosalind 学术计划：美国大学生物实验室申 30 个 Business 席位免费用 12 个月 |
 | 80 | FluentDictation：粘贴 YouTube 链接生成分级英语听写练习，基础功能免费免登录 |
 | 80 | LiteLLM：开源 AI 网关，100+ 模型商一个 OpenAI 兼容接口（MIT，约61k stars） |
 | 80 | Google 账号三套系统 11 个官方后台直链合集：查归属国/改付款地/管订阅一次扒齐 |
@@ -231,6 +233,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 77 | 华为云小红书活动 200 元券有货了：6 个月国内/7 个月新加坡服务器 |
 | 77 | 开源 Toonflow：两小时做一部 AI 短剧的工具 |
 | 77 | 腾讯 LightVela 新用户首月免费：4500 AI 积分 |
+| 75 | 白嫖API又来一批：注册送1亿，每周白拿5000万（Fikra/Dahl/Tokion/RusherAI/Perch AI）（2026-11-25） |
 | 75 | Yubico 官网黑五 15% off：YubiKey 5/Bio/Security Key 系列最多 4 把（11-30 截止，不支持寄中国）（2026-11-30） |
 | 75 | 免费 LLM API 11月又少一家：Mistral 免费 API 已取消，剩 6 家可白嫖 |
 | 75 | Seal Plus：安卓视频下载神器，1000+ 站点免费开源（GPL-3.0，1.6k stars） |
@@ -263,6 +266,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 74 | VPS.Taxi 新加坡 ISP VPS：1核1G/4TB 年付$40（续费同价） |
 | 74 | RackNerd 年付 $21.99：1核1G/20G SSD/每月3TB 流量 KVM（续费同价）（无明确截止日（常驻特价，以官网 Specials 页为准；RAKsmart 闪购 11 月 11–17 日另见 id79）） |
 | 74 | 10个免费工具凑一套AI工作室 |
+| 73 | 云悠香港荃湾 VPS ¥19.99/月：2核1G/30G/50Mbps/400G（年付 ¥216.99） |
 | 73 | HPC-AI Model APIs：注册领一次性$2试用金，Kimi K2.5/MiniMax M2.5 OpenAI兼容 |
 | 73 | WhatsApp 自家云备份免费 2GB：对话备份不再占 Google Drive（Android Beta 分批推送） |
 | 73 | 小爱音箱Pro刷机接豆包：变儿童英语口语陪练（开源MIT，148 stars） |
@@ -338,6 +342,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 72 | OpenRouter 免费隐秘模型 stealth/crouton-alpha，1M 上下文写代码 |
 | 72 | Cloady 免费小服务器跑 24 小时青龙面板（不绑卡） |
 | 72 | AI 免费资源清单：Simular Box、Kaggle、Codespaces 等 6 项 |
+| 70 | QuickDesk：AI原生开源远程桌面，多设备编排+免费中继+可自托管（原帖未读到，项目身份为推断） |
 | 70 | Retell AI 新用户送 $10 免费额度：AI 电话客服，免绑卡（约 67–90 分钟通话） |
 | 70 | Decentralized Intelligence (DI)：每日签到攒分，30 天连签获 Genesis NFT 资格（潜在 $DI 空投） |
 | 70 | Cerebras 新号 $5 免费试用金：30天有效，需绑验证过的付款方式 |
@@ -372,6 +377,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 68 | Awesome Cloudflare Self-Hosted：用免费 Workers/D1/R2 替代付费 SaaS 的开源整理 |
 | 68 | Sixpence 积分活动：Robinhood Chain 上 10,000 USDG 奖池（11月23日结束）（2026-11-23（活动 10 月 26 日–11 月 23 日 UTC，分两期各 5,000 USDG）） |
 | 68 | Pionex Card（派网卡）：虚拟卡免开卡费/年费，Visa 返现 1% 抵手续费、卡内 USDT 享 5% 年化（大陆办不了）（无明确截止日（以 Pionex 官方页为准）） |
+| 67 | Starryblu 免费版开放领取：新加坡万事达卡 Free 档，需护照、排队分批开 |
 | 67 | X Premium 土区年付约 ¥260/年：土耳其区 Apple ID 订阅，月均 ¥22（年付价未逐项核实） |
 | 67 | Google Antigravity 官方自带手机远控：手机/iPad 遥控电脑端写代码 |
 | 67 | cloud-exit-node-deploy：让 Agent 在免费云上自建中继节点，出小火箭订阅（Coze 复刻未完成） |
