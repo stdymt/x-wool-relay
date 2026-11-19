@@ -1,5 +1,5 @@
 {
-  "count": 490,
+  "count": 492,
   "items": [
     {
       "author": "yedabinbinah",
@@ -1399,6 +1399,17 @@
       "value": "12-01 前注册领 VIP 年卡五折：¥119/年（原价 ¥238/年，省 ¥119）；连续包月 ¥24/月；基础远控持续免费不限次不限时"
     },
     {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": "2026-11-30",
+      "id": 514,
+      "notes": "82分（来源26/可验证23/价值15/时效10/风险8）。cent-ai.dev 官网核实：hy4-flash:free，Free until Nov 30，输入/缓存/输出均为 $0.00；须修正帖子“每日调用不限”——/event 页写明每日免费额度为共享池，先到先得，池子用完返回 429 直至 UTC 00:00 重置，每天随机抽一个模型免费，活动可随时更改/停止；需 GitHub/Google 登录并创建 API Key，无需绑卡，平台预付制。截止 2026-11-30，核实时剩约 10 天。",
+      "score": 82,
+      "title": "Cent AI 免费 AI API HY4 Flash：11 月免费（共享池先到先得，至 11-30）",
+      "url": "https://t.me/baipiaofl/65441",
+      "value": "HY4 Flash 免费调用至 11-30，输入/输出 $0；每日共享池先到先得，需 GitHub/Google 登录领 API Key，免绑卡"
+    },
+    {
       "author": "yedabinbinah",
       "category": "免费额度",
       "expiry_date": "进行中（活动随时可能调整）",
@@ -2629,6 +2640,17 @@
       "title": "LightVela 云端 Agent：新用户首月免费，2核8G云电脑+50G存储+4500积分",
       "url": "https://x.com/OnlyJettTian/status/2123289164279927019",
       "value": "首月免费（原价¥68/月）；2核8G云电脑、50GB存储、4500积分/月、Bot 5个；须大陆身份证实名；续费¥68/月"
+    },
+    {
+      "author": "AirdropAlert-com | Crypto Airdrops for Everyone",
+      "category": "其他",
+      "expiry_date": "无固定截止日（测试网进行中）",
+      "id": 515,
+      "notes": "76分（来源25/可验证23/价值12/时效9/风险7）。AirdropAlert 页（已重定向至 /airdrops/tzero-testnet/）与项目官方 testnet.tzer0.fun/docs/points 核实：$T0 的 11% 用于空投，测试网 Season 0 占 5%、未来主网季占 6%；需 500 积分才有资格，单钱包上限为供应量的 0.1%，按积分比例分配，Base Sepolia 测试网，测试 ETH 可领，90 天内未领取滚入下一季。积分规则：Fuel 每买 1 ETH 得 1,000 分（需持有 60 分钟、每日每钱包最多计 1 ETH、低于 0.0005 ETH 不计），Crew +150（每日最多 5 次）、Liftoff 创建者 +500、质押每日共 5,000 分（单钱包每日上限 1,000 分）、Signal 回复/引用 +200、关注 @T0dotfun +100；快照提前 7 天公告，快照前公开女巫审查。无需押金、无邀请要求，只需钱包 + X 账号关联；主网上线时间、代币价格均未公布，分配为未来空投、非即时到账。",
+      "score": 76,
+      "title": "TZERO 测试网空投：$T0 的 11% 用于空投（Season 0 占 5%，需 500 积分）",
+      "url": "https://t.me/airdrop_alert_dot_com/3653",
+      "value": "测试网做任务攒积分，$T0 11% 空投（Season 0 5% + 未来主网季 6%）；需 500 积分才有资格，单钱包上限 0.1%"
     },
     {
       "author": "AllForAirdrop",
@@ -5395,5 +5417,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-20T06:45:20+08:00"
+  "updated_at": "2026-11-20T06:57:20+08:00"
 }
