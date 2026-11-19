@@ -1,5 +1,5 @@
 {
-  "count": 449,
+  "count": 452,
   "items": [
     {
       "author": "yedabinbinah",
@@ -319,6 +319,17 @@
       "title": "Articul8 Bivia 免费领 10 亿 Token：前 10000 名，免绑卡",
       "url": "https://x.com/yedabinbinah/status/2119047941101109491",
       "value": "免费 10 亿决策 tokens（约 42 美元），免绑卡，API 可用"
+    },
+    {
+      "id": 473,
+      "title": "DeepSeek模型触发的服务端搜索/抓取不再单独计费",
+      "url": "https://t.me/baipiaofl/65329",
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "score": 87,
+      "expiry_date": null,
+      "value": "模型触发的搜索/抓取免单，只收token；直接调Search/Fetch API仍5元/千次；API重度用户省搜索费，轻度用户省得少",
+      "notes": "87分：DeepSeek官方文档核实——模型调用时触发的服务端搜索/网页抓取不再单独计费，只按模型token收费（联网工具、Responses API web_search、Claude Code Web Search、Harness默认均适用）；直接调用Search/Fetch API仍按5元/千次成功请求计费。生效时间2026-11-18 12:00引自IT之家等多家媒体对官网的报道，官方文档页本身未标注该日期。已扣费用不退。"
     },
     {
       "author": "KOF97AI",
@@ -4754,6 +4765,28 @@
       "value": "免费调 deepseek-v4-flash 与 glm-5.3-flash，条款未核实，先小量试用。"
     },
     {
+      "id": 474,
+      "title": "BitsFlow黑五VPS 139元/年起（美国弗里蒙特）",
+      "url": "https://x.com/fwqgo_com/status/2123197309345505623",
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "score": 62,
+      "expiry_date": null,
+      "value": "139/249/399元/年三档，24小时退款；纯国际线路无大陆优化，适合海外业务",
+      "notes": "62分：独立浏览器重抓X原帖全文核实。BitsFlow黑五特惠Black Friday 2026-US-FRM，美国弗里蒙特，AMD EPYC 7V13，1/2/4核+1/2/4G内存+20/40/80G NVMe，2.5Gbps@4TB/5Gbps@8TB/10Gbps@16TB双向流量，美国原生IPv4+IPv6/64，139/249/399元/年；附赠首年免费IP Care+；24小时退款保证。纯国际线路、无大陆优化。帖文未写具体截止日期与名额；官网价格未逐项核对。"
+    },
+    {
+      "id": 475,
+      "title": "JoysolData移动专属优化VPS 年付160元",
+      "url": "https://x.com/fwqgo_com/status/2123212158813048838",
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "score": 62,
+      "expiry_date": null,
+      "value": "8折码Kiyzl2Pw，年付160元约13元/月；只推荐移动宽带用户，小商家、广播IP",
+      "notes": "62分：独立浏览器重抓X原帖全文核实。JoysolData移动专属优化VPS，1核E5+1G内存/10G SSD/1000Mbps端口/1TB流量，广播IPv4+原生IPv6，回程CMIN2/CMI，广东移动27ms、单线程249Mbps；8折循环码Kiyzl2Pw，年付最低160元。电信/联通回程走普通骨干网、表现一般。主帖未写名额与截止时间；官网价格未逐项核对。"
+    },
+    {
       "author": "OnlyJettTian",
       "category": "软件工具",
       "expiry_date": null,
@@ -4944,5 +4977,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-19T09:02:42+08:00"
+  "updated_at": "2026-11-19T09:51:02+08:00"
 }
