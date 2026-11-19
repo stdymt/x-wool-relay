@@ -182,7 +182,7 @@
       "category": "免费额度",
       "expiry_date": null,
       "id": 476,
-      "notes": "88分：Cognition 官方活动核实——2026-11-18 官方在 X 宣布，发短信给 Poke、说清想做的东西，Poke 决定给多少 Devin Bot 额度；1 万个名额、每人最高 1 万美元（总额最高 1 亿美元）；入口 poke.com/bots，官网页面标题与活动一致，限时（本周实验）。注意：①额度多少由 Poke 说了算，不保证拿满、也不保证人人有份；②需发短信/iMessage 给 Poke，国内用户发国际短信或用 iMessage 可能有门槛；③NodeLoc 帖称 Stripe 结算页无需绑卡、直接订阅成功，未独立核实；④Devin Bot 为 11-17 上线的常驻 Agent，可接 Slack/Linear/Sentry 全天候跑任务。二审已做（重开 poke.com/bots 官网与 NodeLoc 原帖核实）。",
+      "notes": "88分：Cognition 官方活动核实——2026-11-18 官方在 X 宣布，发短信给 Poke、说清想做的东西，Poke 决定给多少 Devin Bot 额度；1 万个名额、每人最高 1 万美元（总额最高 1 亿美元）；入口 poke.com/bots，官网页面标题与活动一致，限时（本周实验）。注意：①额度多少由 Poke 说了算，不保证拿满、也不保证人人有份；②需发短信/iMessage 给 Poke，国内用户发国际短信或用 iMessage 可能有门槛；③NodeLoc 帖称 Stripe 结算页无需绑卡、直接订阅成功，未独立核实；④Devin Bot 为 11-17 上线的常驻 Agent，可接 Slack/Linear/Sentry 全天候跑任务。二审已做（重开 poke.com/bots 官网与 NodeLoc 原帖核实）。【2026-11-19 15:40复核：poke.com/bots 15:54 重读倒计时显示剩余约 4 天（约 11-23 前后结束），活动仍在进行中；14:40 所见 00:00:00 系页面倒计时未加载完成，并非活动已结束。Poke 定价页证实 Free $0/月、免绑卡；yedabinbinah 同主题帖称登录送 AWS 8核32G VM、出口 IP 美国加州，未在官网公开页证实。NodeSeek“Devin Max $200/m 免费薅”帖（post-1065445-1）因 NodeSeek 站点限流未读到，“一个月 Devin Max”与官方“免费 Devin Bot 额度”是否为同一口径无法确认，不另收。】【2026-11-19 16:40补充：linux.do 两帖称领 Devin Bot 需在网页绑定外国手机号（Mac 版经 Poke 领取页跳转登录、无绑手机号领不了）；早期 0 元 Poke Pro 绑 86 号的用户反映换绑外国号后再换回 86 号可能收不到验证码、换不回来，换绑需谨慎。】",
       "score": 88,
       "title": "Poke 免费送 Devin Bot：发短信说想法，最高领 1 万美元额度（1 万个名额）",
       "url": "https://t.me/baipiaofl/65341",
@@ -5197,5 +5197,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-19T16:05:49+08:00"
+  "updated_at": "2026-11-19T16:50:02+08:00"
 }
