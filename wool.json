@@ -1,5 +1,5 @@
 {
-  "count": 454,
+  "count": 459,
   "items": [
     {
       "author": "yedabinbinah",
@@ -178,6 +178,17 @@
       "value": "4000 credits，约 160 美元，需参赛"
     },
     {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 476,
+      "notes": "88分：Cognition 官方活动核实——2026-11-18 官方在 X 宣布，发短信给 Poke、说清想做的东西，Poke 决定给多少 Devin Bot 额度；1 万个名额、每人最高 1 万美元（总额最高 1 亿美元）；入口 poke.com/bots，官网页面标题与活动一致，限时（本周实验）。注意：①额度多少由 Poke 说了算，不保证拿满、也不保证人人有份；②需发短信/iMessage 给 Poke，国内用户发国际短信或用 iMessage 可能有门槛；③NodeLoc 帖称 Stripe 结算页无需绑卡、直接订阅成功，未独立核实；④Devin Bot 为 11-17 上线的常驻 Agent，可接 Slack/Linear/Sentry 全天候跑任务。二审已做（重开 poke.com/bots 官网与 NodeLoc 原帖核实）。",
+      "score": 88,
+      "title": "Poke 免费送 Devin Bot：发短信说想法，最高领 1 万美元额度（1 万个名额）",
+      "url": "https://t.me/baipiaofl/65341",
+      "value": "最高 1 万美元 Devin Bot 额度，1 万个名额；能拿多少看 Poke 怎么评你的想法"
+    },
+    {
       "author": "Aisiverto",
       "category": "免费额度",
       "expiry_date": null,
@@ -189,15 +200,15 @@
       "value": "每天1000页免费转 Markdown，PDF/Word/图片都能转，超量只降优先级"
     },
     {
-      "id": 476,
-      "title": "Poke 免费送 Devin Bot：发短信说想法，最高领 1 万美元额度（1 万个名额）",
-      "url": "https://t.me/baipiaofl/65341",
       "author": "白嫖福利推送",
       "category": "免费额度",
-      "score": 88,
       "expiry_date": null,
-      "value": "最高 1 万美元 Devin Bot 额度，1 万个名额；能拿多少看 Poke 怎么评你的想法",
-      "notes": "88分：Cognition 官方活动核实——2026-11-18 官方在 X 宣布，发短信给 Poke、说清想做的东西，Poke 决定给多少 Devin Bot 额度；1 万个名额、每人最高 1 万美元（总额最高 1 亿美元）；入口 poke.com/bots，官网页面标题与活动一致，限时（本周实验）。注意：额度多少由 Poke 说了算，不保证拿满、也不保证人人有份；需发短信/iMessage 给 Poke，国内用户发国际短信或用 iMessage 可能有门槛；NodeLoc 帖称 Stripe 结算页无需绑卡、直接订阅成功，未独立核实；Devin Bot 为 11-17 上线的常驻 Agent，可接 Slack/Linear/Sentry 全天候跑任务。二审已做（重开 poke.com/bots 官网与 NodeLoc 原帖核实）。"
+      "id": 473,
+      "notes": "87分：DeepSeek官方文档核实——模型调用时触发的服务端搜索/网页抓取不再单独计费，只按模型token收费（联网工具、Responses API web_search、Claude Code Web Search、Harness默认均适用）；直接调用Search/Fetch API仍按5元/千次成功请求计费。生效时间2026-11-18 12:00引自IT之家等多家媒体对官网的报道，官方文档页本身未标注该日期。已扣费用不退。",
+      "score": 87,
+      "title": "DeepSeek模型触发的服务端搜索/抓取不再单独计费",
+      "url": "https://t.me/baipiaofl/65329",
+      "value": "模型触发的搜索/抓取免单，只收token；直接调Search/Fetch API仍5元/千次；API重度用户省搜索费，轻度用户省得少"
     },
     {
       "author": "Lovislexus",
@@ -330,17 +341,6 @@
       "title": "Articul8 Bivia 免费领 10 亿 Token：前 10000 名，免绑卡",
       "url": "https://x.com/yedabinbinah/status/2119047941101109491",
       "value": "免费 10 亿决策 tokens（约 42 美元），免绑卡，API 可用"
-    },
-    {
-      "id": 473,
-      "title": "DeepSeek模型触发的服务端搜索/抓取不再单独计费",
-      "url": "https://t.me/baipiaofl/65329",
-      "author": "白嫖福利推送",
-      "category": "免费额度",
-      "score": 87,
-      "expiry_date": null,
-      "value": "模型触发的搜索/抓取免单，只收token；直接调Search/Fetch API仍5元/千次；API重度用户省搜索费，轻度用户省得少",
-      "notes": "87分：DeepSeek官方文档核实——模型调用时触发的服务端搜索/网页抓取不再单独计费，只按模型token收费（联网工具、Responses API web_search、Claude Code Web Search、Harness默认均适用）；直接调用Search/Fetch API仍按5元/千次成功请求计费。生效时间2026-11-18 12:00引自IT之家等多家媒体对官网的报道，官方文档页本身未标注该日期。已扣费用不退。"
     },
     {
       "author": "KOF97AI",
@@ -616,6 +616,39 @@
       "title": "Pulsar Money 11月返现提到4%：Pro用户前$3000消费全按4%返积分（到11月30日）",
       "url": "https://x.com/SecJack96/status/2120889366524698761",
       "value": "11月内Pro用户前$3000消费返4%积分（最高约$120积分）"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 481,
+      "notes": "82分（来源20/可验证25/价值12/时效15/风险10）：独立浏览器重抓X原帖全文+打开 RakSmart 官网配置页核实，价格/配置/线路/续费同价全部一致。SV 硅谷圣何塞，2核/4G/50G NVMe（25000 IOPS，750MB/s）、5Gbps端口/5TB月流量、大陆优化 VIP（联通 CU4837/电信 CT/移动 CMI），独立 IPv4；原价 $15.25/月，立减 $10.26，实付 $4.99/月，续费同价。注意：①帖子链接含 aff 推广参数；②有评论称今早发现 IP 被封、上不去，未经核实；③共享型 VM，小商家，介意者慎入。",
+      "score": 82,
+      "title": "RakSmart 硅谷三网优化 VPS $4.99/月：2核4G/50G NVMe/5Gbps/5TB，续费同价",
+      "url": "https://x.com/fwqgo_com/status/2123242356736741567",
+      "value": "$4.99/月（原价$15.25，立减$10.26），续费同价；2核4G/50G NVMe/5Gbps端口/5TB流量，三网优化"
+    },
+    {
+      "author": "BlockInsight214",
+      "category": "免费额度",
+      "expiry_date": "2026-11-23",
+      "id": 472,
+      "notes": "82分；Nous Research 官方原帖证实 Qwen4-Max 在 Nous Portal 免费 5 天（11-18 起，官方未公布确切结束时间，按 5 天推算约 11-23，作者提醒不要指望最后几小时）；1M 上下文、原生视觉；官网另有 qwen/qwen4-max:free 常驻免费模型条目与 $0 免费套餐；同作者另一帖给 Hermes 别名配置可直接调用免费模型（cost=0），alias 未逐项验证；注册流程是否要求绑卡未核实，官网公开页只显示 $0 套餐与 Stripe/加密货币充值。11-19 补充：同作者新帖称 Nous Portal 不绑卡也能用免费模型，官网 Free Models 列表核实与配图一致：LongCat-2.5 Free、Qwen4-Max Free、StepFun Step 3.7 Flash、Tencent Hy4 Flash、Upstage Solar Mini 4；免费套餐 $0/月、标准限速。注意：①“不绑卡”的具体步骤因引用帖被截断未读全；②官网首页写明 API Key 调用走余额（pay-as-you-go），免费模型主要在 Hermes 内使用，是否全程无需绑卡未明示。",
+      "score": 82,
+      "title": "Qwen4-Max 在 Nous Portal 免费 5 天：11-18 起约至 11-23",
+      "url": "https://x.com/BlockInsight214/status/2123189037141811287",
+      "value": "旗舰模型 5 天免费窗口，长上下文 coding 可当主力模型试用"
+    },
+    {
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 470,
+      "notes": "82分；GitHub shoyrulove-dev/PureHub 核实：MIT 协议，452 stars；26 个工具全免费，核心小工具无广告、无需注册、数据在本地；版本 1.0.0-beta.60，另有网页版 hub.blissbiovn.com；注意 README 注明个别 SEO 转换页面可能出现原生横幅广告，并非全站绝对零广告。",
+      "score": 82,
+      "title": "PureHub 开源工具合集：26 个小工具免费、无广告、免注册",
+      "url": "https://x.com/tantanyuli/status/2123206871905648979",
+      "value": "一个 App 集 OCR、PDF 扫描、二维码、指南针等 26 个常用小工具"
     },
     {
       "author": "tantanyuli",
@@ -1243,28 +1276,6 @@
       "title": "Google Colab 免费版可用 16GB 显存 T4（另有 TPU）",
       "url": "https://x.com/Lovislexus/status/2119465791674540075",
       "value": "免费云端 GPU/TPU 算力，按需分配不保证"
-    },
-    {
-      "author": "BlockInsight214",
-      "category": "免费额度",
-      "expiry_date": "2026-11-23",
-      "id": 472,
-      "notes": "82分；Nous Research 官方原帖证实 Qwen4-Max 在 Nous Portal 免费 5 天（11-18 起，官方未公布确切结束时间，按 5 天推算约 11-23，作者提醒不要指望最后几小时）；1M 上下文、原生视觉；官网另有 qwen/qwen4-max:free 常驻免费模型条目与 $0 免费套餐；同作者另一帖给 Hermes 别名配置可直接调用免费模型（cost=0），alias 未逐项验证；注册流程是否要求绑卡未核实，官网公开页只显示 $0 套餐与 Stripe/加密货币充值。",
-      "score": 82,
-      "title": "Qwen4-Max 在 Nous Portal 免费 5 天：11-18 起约至 11-23",
-      "url": "https://x.com/BlockInsight214/status/2123189037141811287",
-      "value": "旗舰模型 5 天免费窗口，长上下文 coding 可当主力模型试用"
-    },
-    {
-      "author": "tantanyuli",
-      "category": "软件工具",
-      "expiry_date": null,
-      "id": 470,
-      "notes": "82分；GitHub shoyrulove-dev/PureHub 核实：MIT 协议，452 stars；26 个工具全免费，核心小工具无广告、无需注册、数据在本地；版本 1.0.0-beta.60，另有网页版 hub.blissbiovn.com；注意 README 注明个别 SEO 转换页面可能出现原生横幅广告，并非全站绝对零广告。",
-      "score": 82,
-      "title": "PureHub 开源工具合集：26 个小工具免费、无广告、免注册",
-      "url": "https://x.com/tantanyuli/status/2123206871905648979",
-      "value": "一个 App 集 OCR、PDF 扫描、二维码、指南针等 26 个常用小工具"
     },
     {
       "author": "tantanyuli",
@@ -2411,6 +2422,17 @@
       "value": "首月免费，约 10 美元；.env 外用法有风险"
     },
     {
+      "author": "Ylj158852",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 480,
+      "notes": "75分（来源20/可验证20/价值12/时效15/风险8）：独立浏览器重抓X原帖全文+官方核实。Mistral 免费 API 取消属实：mistral.ai/pricing 常见问题称免费档只提供 Vibe/Studio 有限访问，API 额度只在 Pro（$14.99/月，含 $25.5/月 API credits）及 Team 档；Large 4 输入 $0.70/输出 $2.10 经 Nous Portal 交叉印证。帖子列的 6 家：Google AI Studio（免费档存在）、Groq（官网限速表一致：每模型每天 1000 次/20 万 tokens/每分钟 30 次）、OpenRouter（剩 15 个免费模型未确认）、Cloudflare Workers AI（官网：每天 10000 Neurons，UTC 零点重置；Kimi/GLM 5.x/DeepSeek V4 须付费档）、SambaNova（每天 20 次/20 万 tokens 需登录才可见）、Cohere（每月 1000 次试用未在定价页见到）。注意：帖子称 Large 3/Medium 3.5 于 10-31 进入退役倒计时、2027-04-30 停服，未在定价页看到，未核实；Cerebras 一次性试用说法未另核。",
+      "score": 75,
+      "title": "免费 LLM API 11月又少一家：Mistral 免费 API 已取消，剩 6 家可白嫖",
+      "url": "https://x.com/Ylj158852/status/2123246953589063923",
+      "value": "Mistral 免费 API 11 月初下线；6 家免费 API 清单：Google AI Studio、Groq、OpenRouter、Cloudflare Workers AI、SambaNova、Cohere"
+    },
+    {
       "author": "tantanyuli",
       "category": "软件工具",
       "expiry_date": null,
@@ -2816,6 +2838,17 @@
       "title": "Simular Box 免费云电脑：一次性 $5 额度（约 5000 credits，90 天有效），每日免费已结束",
       "url": "https://x.com/Lovislexus/status/2119725396023545953",
       "value": "一次性 $5 额度（约 5000 credits，90 天有效），之后按量付费；每日免费已结束"
+    },
+    {
+      "author": "NodeSeek官方频道",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 482,
+      "notes": "72分（来源20/可验证25/价值7/时效15/风险5）：NodeSeek 论坛帖标题-only，搜索交叉核实属实——Google 2026-11-17 官宣 Tasks in Gemini（原 Gemini Spark）向免费用户开放：美/日/韩/加/澳/印 6 国免费，免费版 10 个有效日程、每天最多跑 1 次（早/日/晚时段）、同时最多 15 个任务；Pro（$19.99/月）为 50 个日程、可每小时/每周触发。注意：①中国不在免费名单内，国内账号仍需 AI Pro/Ultra 才能用；②须年满 18 岁个人 Google 账号、Gemini 历史记录须开启；③免费档算力紧张时可能先被限流。官方博客：blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "score": 72,
+      "title": "Gemini Tasks 向免费用户开放：美/日/韩/加/澳/印 6 国免费，每天 1 次（中国暂不在名单）",
+      "url": "https://t.me/nodeseekc/1018362",
+      "value": "免费版 10 个日程、每天最多跑 1 次、同时 15 个任务；中国不在免费名单内，需 Pro/Ultra"
     },
     {
       "author": "tantanyuli",
@@ -3896,6 +3929,17 @@
       "value": "iOS SSH 终端永久 Pro 免费领，美区/国区均为 0 元"
     },
     {
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 478,
+      "notes": "68分（来源20/可验证20/价值8/时效10/风险10）：独立浏览器重抓X原帖全文核实。帖子介绍 GitHub 仓库 theoephraim/awesome-cloudflare-selfhosted：用 Cloudflare Workers + D1 + R2 + KV 的免费额度自托管开源应用，替代网站统计、Bitwarden 类密码库、博客/CMS、在线聊天、文件分享、短链接、状态监控、Calendly/Canny/Zendesk/Ahrefs/Semrush 等付费 SaaS，不少项目配有一键部署。注意：帖子本身未给具体额度数字，Cloudflare 免费层额度（Workers/R2 等）以官网为准；仓库是整理清单，部署效果因项目而异。",
+      "score": 68,
+      "title": "Awesome Cloudflare Self-Hosted：用免费 Workers/D1/R2 替代付费 SaaS 的开源整理",
+      "url": "https://x.com/tantanyuli/status/2123237574579749228",
+      "value": "Cloudflare 免费层 + 开源自托管项目整理，可替代密码库/博客/短链/监控等付费 SaaS"
+    },
+    {
       "author": "Airdrop Cabin",
       "category": "免费额度",
       "expiry_date": "2026-11-23（活动 10 月 26 日–11 月 23 日 UTC，分两期各 5,000 USDG）",
@@ -4215,6 +4259,17 @@
       "value": "48 小时内填邀请码，双方各得 10 亿 token"
     },
     {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 479,
+      "notes": "65分（来源20/可验证15/价值10/时效15/风险5）：独立浏览器重抓X原帖全文核实，DotDotNetworks 官网被 Cloudflare 验证拦截（4 次尝试均未通过），官网标价未能独立核实。价格有第三方佐证：fwqgo.com 2026-10-31 评测列出 DotDotNetworks 洛杉矶 CN2 GIA 2C1G 套餐 $29.90/年。注意：①帖子称 1000Mbps 端口/1TB 月流量，但 fwqgo 评测中同价位两档为 50Mbps/500G 或 3Mbps 不限量，帖子规格与评测对不上，买前务必在官网确认实际配置；②帖子称普通数据中心 IP、不承诺解锁流媒体；③帖子链接含 aff 推广参数；④同系列其他配置缺货，只有这款 2 核 1G 年付版有货（帖子说法）。",
+      "score": 65,
+      "title": "DotDotNetworks 年付 $29.90：EPYC 2核1G 联通 4837 线路 VPS（官网未打开，规格待核）",
+      "url": "https://x.com/fwqgo_com/status/2123227259947356515",
+      "value": "$29.90/年约 215 元；2核1G/10G NVMe/1Gbps/1TB，联通 4837，普通数据中心 IP"
+    },
+    {
       "author": "白嫖福利推送",
       "category": "云服务器",
       "expiry_date": "2026-12-02",
@@ -4523,6 +4578,28 @@
       "value": "免费 1.1GB 境外漫游 eSIM 流量（App 注册 + 填码 TRAVELDEALZ），适合出境备用。"
     },
     {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 475,
+      "notes": "62分：独立浏览器重抓X原帖全文核实。JoysolData移动专属优化VPS，1核E5+1G内存/10G SSD/1000Mbps端口/1TB流量，广播IPv4+原生IPv6，回程CMIN2/CMI，广东移动27ms、单线程249Mbps；8折循环码Kiyzl2Pw，年付最低160元。电信/联通回程走普通骨干网、表现一般。主帖未写名额与截止时间；官网价格未逐项核对。",
+      "score": 62,
+      "title": "JoysolData移动专属优化VPS 年付160元",
+      "url": "https://x.com/fwqgo_com/status/2123212158813048838",
+      "value": "8折码Kiyzl2Pw，年付160元约13元/月；只推荐移动宽带用户，小商家、广播IP"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 474,
+      "notes": "62分：独立浏览器重抓X原帖全文核实。BitsFlow黑五特惠Black Friday 2026-US-FRM，美国弗里蒙特，AMD EPYC 7V13，1/2/4核+1/2/4G内存+20/40/80G NVMe，2.5Gbps@4TB/5Gbps@8TB/10Gbps@16TB双向流量，美国原生IPv4+IPv6/64，139/249/399元/年；附赠首年免费IP Care+；24小时退款保证。纯国际线路、无大陆优化。帖文未写具体截止日期与名额；官网价格未逐项核对。",
+      "score": 62,
+      "title": "BitsFlow黑五VPS 139元/年起（美国弗里蒙特）",
+      "url": "https://x.com/fwqgo_com/status/2123197309345505623",
+      "value": "139/249/399元/年三档，24小时退款；纯国际线路无大陆优化，适合海外业务"
+    },
+    {
       "author": "白嫖福利推送",
       "category": "软件工具",
       "expiry_date": null,
@@ -4776,28 +4853,6 @@
       "value": "免费调 deepseek-v4-flash 与 glm-5.3-flash，条款未核实，先小量试用。"
     },
     {
-      "id": 474,
-      "title": "BitsFlow黑五VPS 139元/年起（美国弗里蒙特）",
-      "url": "https://x.com/fwqgo_com/status/2123197309345505623",
-      "author": "fwqgo_com",
-      "category": "云服务器",
-      "score": 62,
-      "expiry_date": null,
-      "value": "139/249/399元/年三档，24小时退款；纯国际线路无大陆优化，适合海外业务",
-      "notes": "62分：独立浏览器重抓X原帖全文核实。BitsFlow黑五特惠Black Friday 2026-US-FRM，美国弗里蒙特，AMD EPYC 7V13，1/2/4核+1/2/4G内存+20/40/80G NVMe，2.5Gbps@4TB/5Gbps@8TB/10Gbps@16TB双向流量，美国原生IPv4+IPv6/64，139/249/399元/年；附赠首年免费IP Care+；24小时退款保证。纯国际线路、无大陆优化。帖文未写具体截止日期与名额；官网价格未逐项核对。"
-    },
-    {
-      "id": 475,
-      "title": "JoysolData移动专属优化VPS 年付160元",
-      "url": "https://x.com/fwqgo_com/status/2123212158813048838",
-      "author": "fwqgo_com",
-      "category": "云服务器",
-      "score": 62,
-      "expiry_date": null,
-      "value": "8折码Kiyzl2Pw，年付160元约13元/月；只推荐移动宽带用户，小商家、广播IP",
-      "notes": "62分：独立浏览器重抓X原帖全文核实。JoysolData移动专属优化VPS，1核E5+1G内存/10G SSD/1000Mbps端口/1TB流量，广播IPv4+原生IPv6，回程CMIN2/CMI，广东移动27ms、单线程249Mbps；8折循环码Kiyzl2Pw，年付最低160元。电信/联通回程走普通骨干网、表现一般。主帖未写名额与截止时间；官网价格未逐项核对。"
-    },
-    {
       "author": "OnlyJettTian",
       "category": "软件工具",
       "expiry_date": null,
@@ -4807,6 +4862,17 @@
       "title": "免费 X 账号体检小工具：查原创占比/最能打的帖子/500K 变现达标测算（免登录）",
       "url": "https://x.com/OnlyJettTian/status/2122977708162375817",
       "value": "作者自制免费小工具：输入 X 账号体检最近帖子（原创占比、最能打的帖子、收藏率/转帖率、上涨趋势及诊断），另有 500K 变现达标计算器；免登录、不存数据"
+    },
+    {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 477,
+      "notes": "60分：linux.do 与 linux.sb 多方佐证——星驰公益 xingchiapi.com，注册后进 TG 机器人领 1000 刀兑换码，每天 14:00 发一波，先到先得；支持 gpt-6.1-sol（0.5 倍率混合池）。注意：①多人实测模型实际为 gpt-5.6-luna、质量差，有断流/用不了的反馈，货不对板风险大；②原帖注册链接含 aff 邀请码，领码须先进 TG 群，流程繁琐；③第三方公益中转站，额度与稳定性无保障，领前自行验证。NodeSeek 原帖 403 未读到，核实走论坛交叉佐证。",
+      "score": 60,
+      "title": "星驰公益 API：注册领 1000 刀额度，GPT-6.1-SOL 可用（每日 14:00 TG 机器人发码）",
+      "url": "https://t.me/baipiaofl/65343",
+      "value": "1000 刀兑换码，0.5 倍率；多人实测为 luna、有断流反馈，谨慎领"
     },
     {
       "author": "hejushang8",
@@ -4952,17 +5018,6 @@
       "value": "免费 eSIM 流量，邀请得 500MB（官网另处写 250MB，存疑），不用绑卡"
     },
     {
-      "id": 477,
-      "title": "星驰公益 API：注册领 1000 刀额度，GPT-6.1-SOL 可用（每日 14:00 TG 机器人发码）",
-      "url": "https://t.me/baipiaofl/65343",
-      "author": "白嫖福利推送",
-      "category": "免费额度",
-      "score": 60,
-      "expiry_date": null,
-      "value": "1000 刀兑换码，0.5 倍率；多人实测为 luna、有断流反馈，谨慎领",
-      "notes": "60分：linux.do 与 linux.sb 多方佐证——星驰公益 xingchiapi.com，注册后进 TG 机器人领 1000 刀兑换码，每天 14:00 发一波，先到先得；支持 gpt-6.1-sol（0.5 倍率混合池）。注意：多人实测模型实际为 gpt-5.6-luna、质量差，有断流/用不了的反馈，货不对板风险大；原帖注册链接含 aff 邀请码，领码须先进 TG 群，流程繁琐；第三方公益中转站，额度与稳定性无保障，领前自行验证。NodeSeek 原帖 403 未读到，核实走论坛交叉佐证。"
-    },
-    {
       "author": "yedabinbinah",
       "category": "订阅优惠",
       "expiry_date": "2026-11-09闪购（限2000名，先到先得）",
@@ -4999,5 +5054,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-19T10:46:43+08:00"
+  "updated_at": "2026-11-19T12:05:07+08:00"
 }
