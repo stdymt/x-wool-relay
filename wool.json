@@ -1,5 +1,5 @@
 {
-  "count": 459,
+  "count": 460,
   "items": [
     {
       "author": "yedabinbinah",
@@ -2420,6 +2420,17 @@
       "title": "腾讯 LightVela 新用户首月免费：4500 AI 积分",
       "url": "https://x.com/yedabinbinah/status/2119462302240121289",
       "value": "首月免费，约 10 美元；.env 外用法有风险"
+    },
+    {
+      "author": "NodeSeek官方频道",
+      "category": "订阅优惠",
+      "expiry_date": "2026-11-30",
+      "id": 483,
+      "notes": "75分（来源25/可验证25/价值5/时效15/风险5）：Yubico 官网黑五页面直接核实——YubiKey 5 系列、Bio 系列、Security Key 系列 15% off，混搭最多 4 把，购物车自动折扣，2026-11-30 23:59 PST 截止，每位顾客限 1 单，不可与其他优惠叠加。注意：①条款明确写明不支持寄往中国（Not valid for customers shipping to China），国内用户需海外地址或转运才能用；②单把省 €5.35–18.08（Security Key C NFC €35.67→€30.32；5C NFC €71.34→€57.07；Bio €120.54→€102.46），买满 4 把 Bio 最多省约 €72；③这是付费硬件折扣、不是免费领；④与在册 id237（OpenAI×Yubico 联名两支装 $68）是不同活动。",
+      "score": 75,
+      "title": "Yubico 官网黑五 15% off：YubiKey 5/Bio/Security Key 系列最多 4 把（11-30 截止，不支持寄中国）",
+      "url": "https://t.me/nodeseekc/1018400",
+      "value": "15% off，单把省€5–18，买满4把最多省约€72；不支持寄往中国，需海外地址或转运"
     },
     {
       "author": "Ylj158852",
@@ -5054,5 +5065,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-19T12:05:07+08:00"
+  "updated_at": "2026-11-19T12:44:58+08:00"
 }
