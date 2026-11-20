@@ -1,5 +1,5 @@
 {
-  "count": 565,
+  "count": 568,
   "items": [
     {
       "id": 6,
@@ -11,6 +11,17 @@
       "expiry_date": null,
       "value": "每月约 20 美元额度，全年约 240 美元",
       "notes": "评分 95 分（来源25/可验证25/价值20/时效15/风险10）。原帖与官网均已核实：Perch AI 官网文档证实 Starter 免费档每月 20000 PT（约 20 美元）、不用绑卡，网页/桌面/命令行三端通用。注意：免费额度默认参与 Starter Data Program（用量数据可能用于训练，可退出）；模型阵容每月轮换。"
+    },
+    {
+      "id": 592,
+      "title": "YouTube Premium 官方暂停 1-6 个月",
+      "url": "https://x.com/Aisiverto/status/2123864203492778334",
+      "author": "Aisiverto",
+      "category": "订阅优惠",
+      "score": 94,
+      "expiry_date": null,
+      "value": "官方功能：Premium暂停1-6个月，暂停期不扣费",
+      "notes": "94分：YouTube官方帮助中心核实（support.google.com/youtube/answer/11950175）：头像→Paid memberships→Manage membership→Deactivate→Pause instead→滑块选暂停月数；可暂停1-6个月，从当前账单周期结束后开始，暂停期间不扣费、本人及家庭成员无法使用Premium/Music Premium权益，已下载内容保留；可随时取消/恢复，恢复后按新价格计费，涨价前至少提前30天邮件通知。限制：年付套餐不能暂停，通过Apple计费的用户不能暂停/恢复。无截止，适用于已有付费会员。X原帖403未读到，结论以官方帮助中心为准。"
     },
     {
       "id": 590,
@@ -222,6 +233,17 @@
       "notes": "评分 90 分（来源25/可验证25/价值20/时效15/风险5）。原帖与 Devpost 官方规则均已核实：Kiroween 2026 黑客松参赛者可申请一次性 4000 Kiro credits（约 160 美元），用 Kiro 用户 ID 或 AWS 账户 ID 填表申请，48 个工作小时内审核。注意：需注册 Devpost + Kiro 账号、通过 Didit 身份验证（证件+自拍），且须提交参赛作品；申请截止 12 月 1 日 12:00 PT，兑换截止 12 月 4 日，额度 12 月 31 日到期。"
     },
     {
+      "id": 593,
+      "title": "Floorplan 3D 开源户型 3D 设计工具",
+      "url": "https://x.com/tantanyuli/status/2123878548071153744",
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "score": 89,
+      "expiry_date": null,
+      "value": "免费开源：浏览器画户型、一键转3D，导出JPG/PNG",
+      "notes": "89分：仓库 github.com/wy51ai/floorplan-3d，MIT，3.8k stars/810 forks，最近更新2026-10-02，单文件index.html本地打开即用；2D布局、拖拽60+家具、拆墙/改墙、测量，按T键一键切2D/3D（Three.js渲染），导出JPG/PNG。注意：自定义户型需编辑index.html中floorPlanData数据，非界面完全自由手画。无截止、无付费门槛。X原帖403未读到，结论以仓库页为准。"
+    },
+    {
       "id": 501,
       "title": "Envato 官方限免：MiniMax H3 视频生成 24 小时不限次数",
       "url": "https://t.me/baipiaofl/65398",
@@ -231,6 +253,17 @@
       "expiry_date": "2026-11-20",
       "value": "24 小时 MiniMax H3 视频生成不限次数（受公平使用政策约束）",
       "notes": "评分 89 分（来源30/可验证25/价值12/时效12/风险10）。Envato 官网活动页核实：北京时间 2026-11-19 21:00 至 11-20 21:00，免费账号可参加、无需购买订阅，MiniMax H3 视频生成“不限次数”但受 Fair Use Policy 约束，并非绝对无上限；活动开始前可提前注册账号。"
+    },
+    {
+      "id": 591,
+      "title": "VideoLingo 开源视频双语字幕工具",
+      "url": "https://x.com/Aisiverto/status/2123876537778704751",
+      "author": "Aisiverto",
+      "category": "软件工具",
+      "score": 88,
+      "expiry_date": null,
+      "value": "免费开源：视频转中英双语字幕，语音识别+翻译+配音",
+      "notes": "88分：仓库 github.com/Huanshere/VideoLingo，Apache-2.0，19.3k stars/2.1k forks，最新Release v3.2.0，最近提交2026-11-13；语音识别、字幕切分、翻译、对齐、配音/克隆，Streamlit网页操作；Windows下载最新Release源码、双击OneKeyStart.bat。注意：翻译/配音依赖外部模型服务，调用可能产生费用；运行.bat前自行核对来源。无截止。X原帖403未读到，结论以仓库页为准。"
     },
     {
       "id": 589,
@@ -6220,5 +6253,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-21T04:48:39+08:00"
+  "updated_at": "2026-11-21T06:55:03+08:00"
 }
