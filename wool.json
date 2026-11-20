@@ -1,5 +1,5 @@
 {
-  "count": 490,
+  "count": 491,
   "items": [
     {
       "author": "yedabinbinah",
@@ -2114,6 +2114,17 @@
       "value": "免费美国号码：收发短信/电话免费；30 天内用一次或留 30 积分保号；Eskimo 免费 500MB eSIM 可解注册 IP"
     },
     {
+      "author": "BlockInsight214",
+      "category": "免费额度",
+      "expiry_date": "2026-11-19（作者判断；OpenRouter 免费页未标截止）",
+      "id": 267,
+      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）。OpenRouter 官方模型页直接证实：inclusionai/ling-3.2-flash:free，输入/输出均为 $0，1M 上下文，2026-11-13 上线，服务方 Ant Digital；免费档限流 20 RPM、每天 50 次，充 $10（一次）提到每天 1000 次。注意：①“免费到 11 月 19 日左右”是作者判断：Ant 官网定价页称 Ling 3.2 Flash 上线后前两周免费（11 月 5 日上线、约 11 月 19 日结束），但 OpenRouter :free 页未标截止，以 OpenRouter 为准；②560B MoE、25B 激活，支持文本+图片输入；③免费档 provider 饱和时会 429。【2026-11-20 07:40晨报复核：已到作者判断的截止日（约11-19），OpenRouter 页未标截止、未再证实，降分77→55留档。】【同日补正：浏览器核实 OpenRouter 免费模型页（11-20）仍列 Ling 3.2 Flash（:free，$0，过去 7 天 284B tokens），免费档仍有效，分数恢复 77。】",
+      "score": 77,
+      "title": "Ling 3.2 Flash 560B 免费上 OpenRouter：1M 上下文、$0 调用（免费到约 11 月 19 日）",
+      "url": "https://x.com/BlockInsight214/status/2121557213001269483",
+      "value": "560B 旗舰模型免费调用：1M 上下文、$0，OpenAI 兼容接口；每天 50 次免费（充 $10 一次提到 1000 次/天）"
+    },
+    {
       "author": "KOF97AI",
       "category": "免费额度",
       "expiry_date": "长期（额度每月发放、有效期1年）",
@@ -2607,6 +2618,17 @@
       "title": "LightVela 云端 Agent：新用户首月免费，2核8G云电脑+50G存储+4500积分",
       "url": "https://x.com/OnlyJettTian/status/2123289164279927019",
       "value": "首月免费（原价¥68/月）；2核8G云电脑、50GB存储、4500积分/月、Bot 5个；须大陆身份证实名；续费¥68/月"
+    },
+    {
+      "author": "Lovislexus",
+      "category": "免费额度",
+      "expiry_date": "无固定截止日（官方称永久免费，以实际运营为准）",
+      "id": 516,
+      "notes": "77分（来源20/可验证25/价值13/时效13/风险6）。merkium.nl 官网定价页与模型页逐字核实：恰好 7 个模型全部 Free（ganymede-1.1、pluto-1.2-flash、pluto-1.2-pro、ceres-1.0、ceres-1.0-pro、pluto-1.1-flash、pluto-1.1-pro），定价页原话为永久免费、不是试用，无到期日、无需信用卡、无账单，现有免费模型日后不会转为收费；限速每 API Key 每分钟最多 30 次请求（建议间隔 2 秒）；须在 chat.merkium.nl 注册/登录并在控制台创建 API Key，Base URL https://chat.merkium.nl/api/v1，OpenAI 兼容。注意：①官网页脚写明“Not a registered company”，荷兰个人开发者小项目，“永久”以实际运营为准；②模型非主流大厂模型，最大输出 900–16384 tokens 偏低；③ganymede-1.1 为 1M 上下文。",
+      "score": 77,
+      "title": "Merkium 免费 API：7 个 AI 模型永久免费，不绑卡（荷兰个人开发者项目）",
+      "url": "https://x.com/Lovislexus/status/2123447525609013716",
+      "value": "7 个模型 API 永久免费，不绑卡；限速每 Key 每分钟 30 次；须注册领 API Key"
     },
     {
       "author": "AirdropAlert-com | Crypto Airdrops for Everyone",
@@ -5359,17 +5381,6 @@
       "value": "两周免费调用 560B 多模态大模型 API（输入输出均 ¥0），OpenAI/Anthropic 双协议"
     },
     {
-      "author": "BlockInsight214",
-      "category": "免费额度",
-      "expiry_date": "2026-11-19（作者判断；OpenRouter 免费页未标截止）",
-      "id": 267,
-      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）。OpenRouter 官方模型页直接证实：inclusionai/ling-3.2-flash:free，输入/输出均为 $0，1M 上下文，2026-11-13 上线，服务方 Ant Digital；免费档限流 20 RPM、每天 50 次，充 $10（一次）提到每天 1000 次。注意：①“免费到 11 月 19 日左右”是作者判断：Ant 官网定价页称 Ling 3.2 Flash 上线后前两周免费（11 月 5 日上线、约 11 月 19 日结束），但 OpenRouter :free 页未标截止，以 OpenRouter 为准；②560B MoE、25B 激活，支持文本+图片输入；③免费档 provider 饱和时会 429。【2026-11-20 07:40晨报复核：已到作者判断的截止日（约11-19），OpenRouter 页未标截止、未再证实，降分77→55留档。】",
-      "score": 55,
-      "title": "Ling 3.2 Flash 560B 免费上 OpenRouter：1M 上下文、$0 调用（免费到约 11 月 19 日）",
-      "url": "https://x.com/BlockInsight214/status/2121557213001269483",
-      "value": "560B 旗舰模型免费调用：1M 上下文、$0，OpenAI 兼容接口；每天 50 次免费（充 $10 一次提到 1000 次/天）"
-    },
-    {
       "author": "NodeSeek官方频道",
       "category": "免费额度",
       "expiry_date": "2026-11-15（11月16日起新注册/新升级的赠金不再抵 Gemini 平台费用；$300 额度本身 90 天有效）",
@@ -5395,5 +5406,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-20T07:49:36+08:00"
+  "updated_at": "2026-11-20T08:08:43+08:00"
 }
