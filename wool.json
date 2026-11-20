@@ -1,5 +1,5 @@
 {
-  "count": 491,
+  "count": 499,
   "items": [
     {
       "author": "yedabinbinah",
@@ -376,6 +376,17 @@
       "value": "模型触发的搜索/抓取免单，只收token；直接调Search/Fetch API仍5元/千次；API重度用户省搜索费，轻度用户省得少"
     },
     {
+      "author": "0xjackkk",
+      "category": "免费额度",
+      "expiry_date": "无固定截止日（每月发放，单笔赠金有效期12个月）",
+      "id": 521,
+      "notes": "87分（来源25/可验证25/价值15/时效15/风险7）。Google Developer Program Benefits FAQ 官方页逐字核实：Pro 每月 $10、Ultra 5x $40、Ultra 20x $100 GenAI 与 GCP 开发者赠金；按首次领取开发者权益的月周年发放；单笔赠金有效期 12 个月、可累积；可用于 Gemini API、AI Studio、Firebase 等 Google Cloud 与 Maps 产品；仅主订阅人可领。注意：用 Gemini API 计费需先预存 $5；2026-11-13 起领取流程已并入 AI Studio。85+ 二审：官方 FAQ 页重开核实一致；原帖全文未重读（同上口径）。",
+      "score": 87,
+      "title": "Google AI Pro 每月领 $10 GCP 赠金（Ultra $40/$100），可攒一年",
+      "url": "https://x.com/0xjackkk/status/2123410130834477544",
+      "value": "Pro 每月 $10、Ultra $40/$100 GCP 赠金，可攒一年；须预存 $5 才能用于 Gemini API"
+    },
+    {
       "author": "NodeSeek官方频道",
       "category": "云服务器",
       "expiry_date": null,
@@ -627,6 +638,17 @@
       "title": "bilingual_book_maker：开源工具一条命令做中英对照电子书（翻译费另计）",
       "url": "https://x.com/Aisiverto/status/2123492756140200000",
       "value": "开源免费工具，epub/txt/md/srt/pdf 转中英对照版；翻译须自备 API Key（付费）或走免费翻译路线"
+    },
+    {
+      "author": "0xjackkk",
+      "category": "免费额度",
+      "expiry_date": "2027-06-13",
+      "id": 523,
+      "notes": "85分（来源25/可验证25/价值15/时效13/风险7）。Google One 条款页（one.google.com/offer/terms-and-conditions/xiaomi_3month_aip_trial）逐字核实：印度在列；指定机型 Xiaomi 15/15T/17/18 系列与 Poco F9 系列，2025-03-02 至 2027-06-13 间购买；每设备限领一次、不可与其他 Google One 优惠叠加；须 Google Payments 绑符合条件的支付方式。帖子“通过认证白送3个月”基本属实，但前提是买指定机型，不是人人可领；新模型 Neon/Argon 包含在 Pro 权益内。85+ 二审：官方条款页重开核实一致；原帖全文未重读（浏览器/x.com 403、wool-fetch 空回，与 06:40 轮同口径，结论不依赖原帖全文）。",
+      "score": 85,
+      "title": "小米手机送 3 个月 Google AI Pro：印度区官方活动（指定机型，至 2027-06-13）",
+      "url": "https://x.com/0xjackkk/status/2123343896482554216",
+      "value": "买指定小米机型送 3 个月 Pro（约 $60），含最新 Gemini 模型；须 Google Payments 绑卡"
     },
     {
       "author": "tantanyuli",
@@ -1399,6 +1421,17 @@
       "value": "HY4 Flash 免费调用至 11-30，输入/输出 $0；每日共享池先到先得，需 GitHub/Google 登录领 API Key，免绑卡"
     },
     {
+      "author": "Lovislexus",
+      "category": "免费额度",
+      "expiry_date": "无固定截止日（实验期，随时可能结束）",
+      "id": 518,
+      "notes": "82分（来源25/可验证25/价值15/时效10/风险7）。Hetzner 官方文档页（docs.hetzner.com，11-20 实测）核实：实验性 Inference API，OpenAI 兼容，Base URL https://inference.hetzner.com/api/v1；两模型 Qwen3.6-35B-A3B-FP8（MoE，35B/3B active）与 Qwen3.8-27B（稠密），均为 262,144 上下文、支持图文；实验期内免费；限速每 Key 每 60 秒 10 请求/400 万输入/10 万输出 Token；须在 experiments.hetzner.com 建 Token。注意：①有第三方文章称免费实验 12-08 结束且停发新 Key，与 11-20 实测官方文档页现状不符，以官方文档为准；②官方明言无 SLA、模型清单随时可变、仅限实验用途。",
+      "score": 82,
+      "title": "Hetzner 免费 AI API：Qwen 3.6-35B/3.8-27B，26 万上下文（实验期免费）",
+      "url": "https://x.com/Lovislexus/status/2123400912244985914",
+      "value": "两 Qwen 大模型 API 实验期免费，26 万上下文；限速每 60 秒 10 请求"
+    },
+    {
       "author": "yedabinbinah",
       "category": "免费额度",
       "expiry_date": "进行中（活动随时可能调整）",
@@ -1606,6 +1639,17 @@
       "title": "Gemini 3.8 Flash TTS 免费档：AI Studio 里输入输出全免（单人+双人对白）",
       "url": "https://x.com/KOF97AI/status/2123324435876979045",
       "value": "gemini-3.8-flash-tts 与 lite 版免费档输入输出全免；付费档输入 $0.50/百万、输出 $9.00/百万音频 tokens"
+    },
+    {
+      "author": "Lovislexus",
+      "category": "免费额度",
+      "expiry_date": "无固定截止日（Beta期，规则可变）",
+      "id": 517,
+      "notes": "80分（来源20/可验证25/价值15/时效13/风险7）。多家实测评测与官方定价页核实：Codebuff 团队（YC 支持）的免费 AI 编程 Agent，npm install -g freebuff，免绑卡、免 API Key，广告支撑；免费档每天 30 小时（美国；加拿大/英国/德国 21 小时，法国/西班牙/意大利 12 小时，中国等受限地区 5 小时、VPN 4 小时），按会话时长计、每日午夜重置不结转；GLM 5.3 Flash 与 DeepSeek V4.1 Flash 不限量，部分模型（Claude Haiku 5.5 等）有小时上限。注意：①提示词与代码会被用于广告定向；②一人一号，须手机号验证；③Beta 期，额度与规则可变。",
+      "score": 80,
+      "title": "Freebuff 免费 AI 编程 Agent：每天 30 小时（中国用户 5 小时），免绑卡",
+      "url": "https://x.com/Lovislexus/status/2123430848640737490",
+      "value": "每天免费 30 小时编程额度（中国 5 小时），免绑卡；提示词可被用于广告定向"
     },
     {
       "author": "Lovislexus",
@@ -2629,6 +2673,17 @@
       "title": "Merkium 免费 API：7 个 AI 模型永久免费，不绑卡（荷兰个人开发者项目）",
       "url": "https://x.com/Lovislexus/status/2123447525609013716",
       "value": "7 个模型 API 永久免费，不绑卡；限速每 Key 每分钟 30 次；须注册领 API Key"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": "无固定截止日（特价机限量，先到先得）",
+      "id": 524,
+      "notes": "77分（来源20/可验证25/价值12/时效13/风险7）。多家比价站与官网特价页核实：洛杉矶 CN 优化 2 核/2G/40G SSD/200Mbps 不限流量 $25.99/年（约 187 元，帖子“一年不到 190 块”属实），独立 IPv4 + 双 IPv6；另有 Global 路线 1 核/1G/20G $12.99/年、CN2 GIA $35.88/年起。注意：特价机限量、库存以官网为准；续费价未核实；三网直连为商家口径，实际线路须实测。",
+      "score": 77,
+      "title": "DediOne 洛杉矶特惠 VPS：2核2G/200Mbps不限流量 $25.99/年",
+      "url": "https://x.com/fwqgo_com/status/2123562968487166024",
+      "value": "洛杉矶 2核2G/200Mbps不限流量 $25.99/年；特价机限量"
     },
     {
       "author": "AirdropAlert-com | Crypto Airdrops for Everyone",
@@ -4248,6 +4303,17 @@
       "value": "Cloudflare 免费层 + 开源自托管项目整理，可替代密码库/博客/短链/监控等付费 SaaS"
     },
     {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": "无固定截止日（免费灰度进行中，先到先得抢手柄）",
+      "id": 522,
+      "notes": "68分（来源18/可验证18/价值12/时效13/风险7）。LINUX DO 11-20 00:07 帖（linux.do/t/topic/3207183）核实：多名用户证实免费用户已能开 @muse.ai 邮箱，路径为 Muse 左下角设置-连接器-搜索 muse-选择 muse 邮箱，三字母手柄仍有；但同帖评论显示部分人搜不到连接器/未灰度到，免费开放仍在分批灰度、不是人人可开。与 06:40 轮 58 分结论不同：当时仅美加付费用户可开，11-20 免费灰度已开始；官方 11-11 表态称免费“即将开放”但未给日期。注意：手柄唯一、先到先得；中国区能否开到以 App 内实际出现为准。",
+      "score": 68,
+      "title": "muse.ai 邮箱免费用户已能开：灰度进行中，三字母手柄仍有",
+      "url": "https://t.me/baipiaofl/65450",
+      "value": "免费用户灰度开放 @muse.ai 邮箱，三字母手柄仍有；不是人人可开"
+    },
+    {
       "author": "Lovislexus",
       "category": "免费额度",
       "expiry_date": null,
@@ -4842,6 +4908,17 @@
       "value": "PayPal $50（每工作区最多 3 次共 $150，仅限美国用户）+ HubSpot $25×2 + Klaviyo $50×2；须先接受优惠再安装连接、7 天内完成一次真实插件调用；额度 30 天过期；须 Business 付费套餐"
     },
     {
+      "author": "0xjackkk",
+      "category": "金融卡券",
+      "expiry_date": "无固定截止日（2026-08-18美国上线，进行中）",
+      "id": 520,
+      "notes": "65分（来源20/可验证15/价值12/时效13/风险5）。帖子核心说法“送一个花旗银行个人账户”不实：Krak 卡发卡行是 Lead Bank（Stripe 发卡条款原文：账户由 Lead Bank 持有），不是花旗银行；花旗只在同期另一条新闻里出现（收购 Kard、机构比特币托管计划），与 Krak 无关。卡本身真实：Krak（Kraken 旗下支付 App）Visa 借记卡 2026-08-18 美国上线，最高 2% 返现（美元或比特币）、免月费/年费，可花 600+ 种资产、实时换汇；英国/欧洲经济区为万事达卡。ITIN 能否开户未独立核实；加密交易所发卡，资金合规与风控以官方条款为准。",
+      "score": 65,
+      "title": "Krak Visa 借记卡：最高 2% 返现、免月费（帖子说的花旗账户不实，发卡行是 Lead Bank）",
+      "url": "https://x.com/0xjackkk/status/2123431200069234988",
+      "value": "Krak Visa 借记卡免费开，最高 2% 返现；不是花旗账户，发卡行 Lead Bank"
+    },
+    {
       "author": "fwqgo_com",
       "category": "云服务器",
       "expiry_date": "无明确截止日（以结算页为准）",
@@ -4873,6 +4950,17 @@
       "title": "Altare 免费云：Minecraft/应用托管 4GB 内存免费（帖子说的 6G 内存+10G 硬盘不属实）",
       "url": "https://t.me/baipiaofl/65436",
       "value": "4GB 内存免费托管（Minecraft/应用容器），免绑卡；扩容靠拉新/每日奖励或付费买 credits"
+    },
+    {
+      "author": "SecJack96",
+      "category": "金融卡券",
+      "expiry_date": "2026-12-31",
+      "id": 519,
+      "notes": "64分（来源20/可验证15/价值12/时效12/风险5）。“首笔满 $40 减 $20”的优惠形式真实：Remitly 大使/推荐计划与多家券码站均证实新用户首笔 $40+ 减 $20（券码站口径称部分码至 12-31），在账户内 Redeem Offer 页兑换、限新用户、每人一次。但帖子给的码 RELY3K3 全网查不到，未独立核实，疑似作者个人推广码（用码后作者可能得推荐奖励）；“全程美国 IP 防风控”是绕地区口径。仅作优惠形式备案，领用前须在 Remitly 账户内确认码有效。",
+      "score": 64,
+      "title": "Remitly 新用户首笔满 $40 减 $20（码 RELY3K3 未独立核实）",
+      "url": "https://x.com/SecJack96/status/2123366068081377653",
+      "value": "新用户首笔满 $40 减 $20；码 RELY3K3 未核实，领用前须在账户内确认"
     },
     {
       "author": "白嫖福利推送",
@@ -5406,5 +5494,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-20T08:08:43+08:00"
+  "updated_at": "2026-11-20T09:02:17+08:00"
 }
