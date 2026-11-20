@@ -1,5 +1,5 @@
 {
-  "count": 518,
+  "count": 525,
   "items": [
     {
       "author": "yedabinbinah",
@@ -244,6 +244,17 @@
       "value": "首次升级 Pro 当月剩余时间免费 + 500 试用积分（12 个月内有效）；Pro $20/月、每月 1000 积分"
     },
     {
+      "author": "Airdrop Alert Daily",
+      "category": "免费额度",
+      "expiry_date": "2026-12-15（奖励领取截止；任务12月5日结束）",
+      "id": 545,
+      "notes": "88分（来源30/可验证25/价值10/时效13/风险10）。Galxe官网领取页app.galxe.com/sunset横幅确认：任务12月5日结束、奖励须12月15日前领取；crypto.news 11-09报道佐证。可领Gravity Alpha sunset资产（G holder/G Staking/Latch ETH/Latch USDT/wG holder五类），须登录按地址查看额度。仅适合已有$G持有/质押的用户；是Quest/ID/Passport服务并入Gravity，并非Galxe整体消失。",
+      "score": 88,
+      "title": "Galxe 领取入口：Quest奖励须在12月15日前领取",
+      "url": "https://t.me/AirdropAlertDaily/18215",
+      "value": "已有$G持有/质押者须在12-15前领取，否则作废"
+    },
+    {
       "author": "yedabinbinah",
       "category": "免费额度",
       "expiry_date": "前10000名先到先得（官网未写截止日；作者称90天有效，未证实）",
@@ -429,6 +440,17 @@
       "title": "RakSmart 黑五预热：注册绑卡领 $300 代金券，VPS 4 折（11-30 截止）",
       "url": "https://x.com/fwqgo_com/status/2123456654574600437",
       "value": "注册绑卡得 $300 代金券 + VPS 4 折券、CN2 服务器 7 折券；单次充值满 $100 再得全场 6.5 折且续费同享"
+    },
+    {
+      "author": "NodeSeek官方频道",
+      "category": "云服务器",
+      "expiry_date": "2026-11-30（Cyber Monday；闪购每天限量3台）",
+      "id": 544,
+      "notes": "86分（来源25/可验证20/价值18/时效15/风险8）。商家LowEndTalk官方发帖（2026-11-19）与VNCoupon文章交叉核实：闪购gc.nano-mini $7/年（1 vCPU/1GB/15GB NVMe/3TB流量）每天只放3台、共44台，11-19当日已售罄、美东午夜补货；gc.medium闪购$7.50/月（5折，30台）；常规月付7折、年付65折至Cyber Monday（11-30），gc.nano $2.10/月、$18.72/年起；坦帕机房；凭VPS ID可领双倍内存。官网黑五页因Cloudflare人机验证未直接打开。须付费购买。",
+      "score": 86,
+      "title": "LayerOne 黑五：闪购 $7/年，月付7折/年付65折至11-30",
+      "url": "https://t.me/nodeseekc/1020727",
+      "value": "$7/年闪购（每天3台）；常规月付7折/年付65折至11-30"
     },
     {
       "author": "tantanyuli",
@@ -1487,6 +1509,28 @@
       "value": "两 Qwen 大模型 API 实验期免费，26 万上下文；限速每 60 秒 10 请求"
     },
     {
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "expiry_date": "无固定截止日（开源项目进行中）",
+      "id": 546,
+      "notes": "82分（来源20/可验证25/价值12/时效15/风险10）。GitHub上游yang0/handraw-style核实：免费开源MIT（须署名原作者yang0及原仓库链接），看图选编号生成中/英文提示词，本身不直接出图、需接生图工具。发帖时261种，截至11-19上游v1.9.12已扩至365种（画廊371张图）。原帖X 403未读到，t.co目标以Bing索引摘要与GitHub仓库简介逐字一致为准。",
+      "score": 82,
+      "title": "手绘插画风格库：看图选编号生成双语提示词，已扩至365种（开源免费）",
+      "url": "https://x.com/tantanyuli/status/2123662625506545821",
+      "value": "免费开源提示词库，365种风格"
+    },
+    {
+      "author": "SecJack96",
+      "category": "金融卡券",
+      "expiry_date": "2026-12-31",
+      "id": 547,
+      "notes": "82分（来源25/可验证25/价值12/时效15/风险5）。uSMART官网活动页（活动574，2026-09-01至12-31）核实：香港客户首存HK$10,000得0.5股DRAM.US（官网标价值约HK$220）+HK$40现金券（须经智方便注册）+HK$60 IPO手续费减免券等。X帖说的“存10,100留10天”官方细则无此要求；“20港币现金券”只是新人礼包7项任务中的一张；非香港客户无DRAM.US股票。发帖人自称返300港币是拉新返佣，不计入官方奖励。须入金1万港币+身份验证。",
+      "score": 82,
+      "title": "盈立证券开户：首存1万港币得0.5股DRAM.US约220港币+现金券（至12-31）",
+      "url": "https://x.com/SecJack96/status/2123660012140863743",
+      "value": "首存1万港币得约220港币股票+现金券"
+    },
+    {
       "author": "KOF97AI",
       "category": "软件工具",
       "expiry_date": "无固定截止日（开源项目）",
@@ -1738,6 +1782,17 @@
       "title": "网易有道“叭哥说”语音输入：官网称终身免费不限额度",
       "url": "https://x.com/KOF97AI/status/2123574233066561722",
       "value": "语音输入终身免费不限额度；支持Win/Mac/iOS/安卓/鸿蒙"
+    },
+    {
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "expiry_date": "无固定截止日（开源项目进行中）",
+      "id": 548,
+      "notes": "80分（来源20/可验证25/价值10/时效15/风险10）。官网ronaldo-avalos.github.io/Maya核实：“100% Free. No subscriptions, no watermarks, no accounts.”，免费开源MIT，GitHub ronaldo-avalos/Maya v1.0.0。macOS免费应用：iPhone录屏套设备框、加电影感缩放导出；要求macOS 26.3+，仅处理iPhone录屏。原帖X 403未读到。",
+      "score": 80,
+      "title": "Maya：iPhone录屏套设备框做产品演示视频（macOS免费开源）",
+      "url": "https://x.com/tantanyuli/status/2123646519303709104",
+      "value": "免费开源，替代付费演示视频工具"
     },
     {
       "author": "Lovislexus",
@@ -3137,6 +3192,17 @@
       "value": "免费档可用 Muse 语音对话，仅限美国；代打商家电话仅付费用户"
     },
     {
+      "author": "OnlyJettTian",
+      "category": "软件工具",
+      "expiry_date": "无固定截止日（开源项目进行中）",
+      "id": 549,
+      "notes": "75分（来源20/可验证20/价值12/时效15/风险8）。GitHub rany2/edge-tts核实：免费开源GPL-3.0，12.6k stars，最新7.3.1，活跃维护，pip安装、无需API key。“318个音色、中文14个”未在README逐字核实（第三方现列322个神经语音）；非官方调用微软Edge在线TTS，微软可随时限制，自定义SSML已被限制。",
+      "score": 75,
+      "title": "edge-tts：微软Edge免费语音接口开源调用，318个音色",
+      "url": "https://x.com/OnlyJettTian/status/2123635446164947034",
+      "value": "免费TTS，替代付费语音接口"
+    },
+    {
       "author": "Lovislexus",
       "category": "免费额度",
       "expiry_date": null,
@@ -4059,6 +4125,17 @@
       "title": "巴西学生 Google AI Pro：R$23.99/月（75% off，附带YouTube Premium Lite）——帖子说的27元不准确",
       "url": "https://x.com/Lovislexus/status/2123597195064791382",
       "value": "巴西学生价R$23.99/月（75% off），附带YouTube Premium Lite；须SheerID验证、巴西在读学生"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": "无固定截止日（常规价进行中）",
+      "id": 550,
+      "notes": "71分（来源20/可验证20/价值8/时效15/风险8）。官网Ultra大阪页（bandwagonhost.com/order/ultra/Osaka）核实：机房JPOS_6 Equinix OS1，入门款$49.99/月、年付$499.99/年，2核CPU/2GB内存/40GB RAID-10 SSD/500GB月流量/1.5Gbps；CN2 GIA专页确认香港、日本提供CN2 GIA/CTGNet。$49.99为常规价、无促销截止。未证实：帖子说的“上海电信36ms、联通38ms”、“三网回程100%走CTGNet”、“日本广播IP可用日区TikTok/Netflix/Disney+/ChatGPT”，官网未给具体延迟数字与流媒体说明，需实测。注意：$49.99对应Ultra系列，大阪E-Commerce系列月付最低$56.99，不要混淆。原帖X 403未读到。",
+      "score": 71,
+      "title": "搬瓦工大阪 Equinix Ultra：$49.99/月，2核2G/40G SSD/500G流量（延迟与流媒体说法未证实）",
+      "url": "https://x.com/fwqgo_com/status/2123634943838564863",
+      "value": "$49.99/月常规价；大阪Equinix机房，CN2 GIA回国优化"
     },
     {
       "author": "0xjackkk",
@@ -5132,7 +5209,7 @@
       "category": "云服务器",
       "expiry_date": null,
       "id": 508,
-      "notes": "64分（来源20/可验证15/价值12/时效11/风险6）。官网 altr.cc 核实：现行免费档是 4GB 内存，不是帖子说的 6GB；10GB 硬盘官网找不到。免费 Minecraft 托管与免费应用托管页均写 4GB RAM、24/7 在线、免绑卡。所谓“免费云”实为 Minecraft 服务器/应用容器托管，不是通用 VPS。后期可加部分属实：FAQ 称可通过拉新或每日奖励扩容，或付费买 credits；定价页为灵活 credits 制、无固定套餐。无需绑卡、无押金，但小厂商免费档可持续性与扩容依赖拉新是不确定因素。",
+      "notes": "64分（来源20/可验证15/价值12/时效11/风险6）。官网 altr.cc 核实：现行免费档是 4GB 内存，不是帖子说的 6GB；10GB 硬盘官网找不到。免费 Minecraft 托管与免费应用托管页均写 4GB RAM、24/7 在线、免绑卡。所谓“免费云”实为 Minecraft 服务器/应用容器托管，不是通用 VPS。后期可加部分属实：FAQ 称可通过拉新或每日奖励扩容，或付费买 credits；定价页为灵活 credits 制、无固定套餐。无需绑卡、无押金，但小厂商免费档可持续性与扩容依赖拉新是不确定因素。【11-20复核】LINUX DO 11-20帖与官网altare.gg定价页：Always Free $0（沙盒6GB/150%CPU/10GB、每人最多4台、洛杉矶），但截至11-20当天无剩余资源、无法新建（“No allocations satisfying requirements”，注册都busy了）。",
       "score": 64,
       "title": "Altare 免费云：Minecraft/应用托管 4GB 内存免费（帖子说的 6G 内存+10G 硬盘不属实）",
       "url": "https://t.me/baipiaofl/65436",
@@ -5703,5 +5780,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-20T13:44:55+08:00"
+  "updated_at": "2026-11-20T15:00:06+08:00"
 }
