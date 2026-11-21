@@ -1,5 +1,5 @@
 {
-  "count": 589,
+  "count": 601,
   "items": [
     {
       "author": "yedabinbinah",
@@ -387,6 +387,17 @@
       "value": "免费开源：浏览器画户型、一键转3D，导出PNG"
     },
     {
+      "author": "Ylj158852",
+      "category": "免费额度",
+      "expiry_date": "2026-11-30",
+      "id": 618,
+      "notes": "88分（来源25/可验证25/价值17/时效13/风险8）。独立浏览器核实：Fish Audio官方博客（fish.audio/zh-CN/blog/s2-1-pro-free-api/，2026-06-23）证实模型名s2.1-pro-free、83种语言、免费至2026-11-30（该日期是官方多次延期的最新结果，7月24日→7月底→8月31日→11月30日，如有变动会提前通知）；调用方式属实，用同一API端点，header设model: \"s2.1-pro-free\"；无硬性字符上限，但受公平使用政策约束，官方保留对疑似滥用限流的权利；无SLA、无延迟保证；无需绑卡（页面两次写明），但仍需注册并获取API密钥；年经常性收入超100万美元的产品用于商业场景前应联系官方。距截止仅9天。X原帖403未读到，结论以官方博客为准。85+二审（本次核实重开官方博客）维持88分。",
+      "score": 88,
+      "title": "Fish Audio s2.1-pro-free免费TTS：83种语言，免费至11-30（免绑卡）",
+      "url": "https://x.com/Ylj158852/status/2124012432506970615",
+      "value": "Fish Audio最强TTS模型免费：s2.1-pro-free，83种语言，免费至11月30日，免绑卡；只剩9天"
+    },
+    {
       "author": "yedabinbinah",
       "category": "免费额度",
       "expiry_date": "前10000名先到先得（官网未写截止日；作者称90天有效，未证实）",
@@ -550,6 +561,17 @@
       "title": "专利AI Skill：13.7k Star，中国专利全流程装进Agent（开源MIT）",
       "url": "https://x.com/tantanyuli/status/2123709685417263360",
       "value": "中国专利AI Skill开源免费：13.7k Star，9个子skill覆盖交底书/查新/审查答复"
+    },
+    {
+      "author": "KOF97AI",
+      "category": "软件工具",
+      "expiry_date": "无固定截止日（开源项目进行中）",
+      "id": 621,
+      "notes": "87分（来源26/可验证25/价值16/时效12/风险8）。独立浏览器核实：GitHub仓库Nutlope/hallmark，58.7k星、3.2k fork、MIT许可，最近提交2026-11-11；README明确写“Fifty themes”，50套风格属实，并展示其中10套；定位为Claude Code、Codex、Cursor、OpenCode的设计技能（去AI味），含分层门禁、redesign/audit、755张开源许可照片；安装命令npx skills add nutlope/hallmark -g，需Node 18+；照片库本身另有各自许可。X原帖403未读到，结论以仓库页为准。85+二审（本次核实重开仓库页）维持87分。",
+      "score": 87,
+      "title": "Hallmark：50套设计风格开源技能包（58.7k Star，MIT）",
+      "url": "https://x.com/KOF97AI/status/2123986045507383349",
+      "value": "开源设计技能包Hallmark：50套视觉风格，58.7k Star、MIT，适配Claude Code等"
     },
     {
       "author": "NodeSeek官方频道",
@@ -893,6 +915,17 @@
       "value": "包年 Pro $99.99/年（原价 $199.99），五折 1 年；仅限 Google One 新用户"
     },
     {
+      "author": "Ylj158852",
+      "category": "免费额度",
+      "expiry_date": "无固定截止日（新用户开通后3个月有效）",
+      "id": 624,
+      "notes": "85分（来源25/可验证24/价值17/时效12/风险7）。独立浏览器核实：百度千帆官方文档《新用户免费额度》（cloud.baidu.com/doc/qianfan/s/Imi2rpirg，更新2026-11-11）写明2025年10月24日0点起，访问千帆大模型平台、阅读并同意用户协议后，系统自动开通并发放；17个服务各100万Token、有效期均为3个月，合计1700万；仅抵扣预置模型服务在线推理，不抵扣批量推理；名单含ERNIE-4.5-Turbo-128K/32K/VL、ERNIE-X1-Turbo-32K、DeepSeek-R1/R1-250528/V3-250324/V3.1-250821/V3.1-Think-250821、Kimi-K2-Instruct、Qwen3-235B/30B、Qwen3-Coder-30B/480B，另有bge-large-en/zh、qianfan-sug-8k；“OpenAI兼容”未在该免费额度页提及，未证实。X原帖403未读到，结论以官方文档为准。85+二审（本次核实重开官方文档）维持85分。",
+      "score": 85,
+      "title": "百度千帆新用户送1700万免费Token：17个模型各100万（3个月有效）",
+      "url": "https://x.com/Ylj158852/status/2123994813922189339",
+      "value": "百度千帆新用户送1700万免费Token：17个模型各100万，3个月有效；仅抵扣在线推理"
+    },
+    {
       "author": "tantanyuli",
       "category": "软件工具",
       "expiry_date": "无固定截止日（开源项目长期有效）",
@@ -981,6 +1014,17 @@
       "value": "Ultra订阅用户附赠YT Premium由个人版升家庭版，约值$26.99/月"
     },
     {
+      "author": "OnlyJettTian",
+      "category": "免费额度",
+      "expiry_date": "2027-01-02",
+      "id": 617,
+      "notes": "84分（来源25/可验证24/价值18/时效11/风险6）。独立浏览器核实：ModelScope官方活动页（modelscope.cn/posts/437059，AMD_Dev，2026-10-27更新）与AMD开发者计划官网证实“AMD × ModelScope 开发者激励计划 2.0”真实；符合条件的新注册ADP用户可获100小时AMD GPU Notebook时长属实，已注册用户不重复获得；先有10次免费API调用，之后须完成ADP身份验证并关联魔搭账号，按魔粒值消耗；官方海报/正文只写“192GB大显存 AMD Instinct GPU”，未点名MI300X或MI308X（MI300X只出现在一条用户评论中）；活动期2026-09-30—2027-01-02；官方页未提绑卡，但明确要求身份验证与账号关联。X原帖403未读到，结论以官方页为准。",
+      "score": 84,
+      "title": "魔搭×AMD开发者计划：新注册送100小时GPU时长（192GB大显存，至2027-01-02）",
+      "url": "https://x.com/OnlyJettTian/status/2124013436896182278",
+      "value": "魔搭×AMD开发者计划：新注册送100小时GPU时长（192GB大显存），活动至2027-01-02；须身份验证"
+    },
+    {
       "author": "SecJack96",
       "category": "金融卡券",
       "expiry_date": "2026-11-30",
@@ -1034,6 +1078,17 @@
       "title": "Hoody免费云电脑：GitHub授权开3台，2核3G/20G免绑卡（配置多台共享）",
       "url": "https://x.com/KOF97AI/status/2123594889611149500",
       "value": "3台免费云电脑，2核3G/20G、免绑卡；配置多台共享、带宽10 Mbit/s"
+    },
+    {
+      "author": "Ylj158852",
+      "category": "免费额度",
+      "expiry_date": "无固定截止日（免费档持续有效，$10额度60天有效）",
+      "id": 623,
+      "notes": "83分（来源24/可验证25/价值15/时效11/风险8）。独立浏览器核实：You.com官网定价页（you.com/pricing）写明免费档“100 free Web Search API queries a day via MCP”，“No API key, no account, no credit card required”；注册送$10 credit，验证账号再送$90，免绑卡，免费额度有效期60天；Web Search Standard $5/1K calls，$10 credit=2,000次搜索；与原帖“100次/天、免key免绑卡、注册送$10（约2000次，60天有效）、$5每千次”一致。注意：超出免费档后MCP与REST API共用同一API key与额度、按同一费率计费，免key仅限免费档。X原帖403未读到，结论以官网为准。",
+      "score": 83,
+      "title": "You.com免费搜索API：每天100次免key（注册再送$10，60天有效）",
+      "url": "https://x.com/Ylj158852/status/2123999847074414914",
+      "value": "You.com免费搜索API：每天100次免key免绑卡，注册送$10（约2000次，60天有效）"
     },
     {
       "author": "Lovislexus",
@@ -1773,6 +1828,17 @@
       "value": "免费开源工具，MIT 协议，微信本地数据变 Agent 数据源"
     },
     {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": "2026-12-03",
+      "id": 626,
+      "notes": "82分（来源24/可验证25/价值13/时效12/风险8）。独立浏览器核实：L53官网黑五公告（customer.l53.net/news/black-friday-special-offer-2026-get-a-free-domain-for-up-to-2-years，2026-11-14发布）证实：优惠码kxu26bf8k2y，仅限.ggff.net后缀（L53的三级域名），每账户限1个域名，可选1年或2年（“两年”是上限，不是必得两年），新老用户均可，活动期2026-11-20至2026-12-03，名额有限（官网未写具体数量）；公告写明“No other conditions apply”，未要求先买主机/消费，步骤是注册账号、下单、用优惠码。注意勿与官网首页另一活动混淆：首页另有优惠码newuser可免首年（仅一年）。NodeSeek原帖被Cloudflare Turnstile挡住未读到，结论以官网公告为准。",
+      "score": 82,
+      "title": "L53免费域名：.ggff.net后缀免费1-2年（码kxu26bf8k2y，至12-03）",
+      "url": "https://t.me/baipiaofl/65603",
+      "value": "L53免费域名：.ggff.net后缀免费1-2年，每账户限1个，无其他条件；活动至12月3日"
+    },
+    {
       "author": "KOF97AI",
       "category": "软件工具",
       "expiry_date": "无固定截止日（开源项目）",
@@ -2123,6 +2189,39 @@
       "title": "AndVM：手机本地双开安卓系统虚拟机（Android 10-17）",
       "url": "https://x.com/KOF97AI/status/2123980566228017240",
       "value": "手机本地安卓虚拟机：Android 10-17、Magisk Root、快照备份、ROM市场；官网未标免费，应用内收费情况未证实"
+    },
+    {
+      "author": "OnlyJettTian",
+      "category": "云服务器",
+      "expiry_date": "无固定截止日（永久免费档）",
+      "id": 620,
+      "notes": "80分（来源24/可验证24/价值14/时效12/风险6）。独立浏览器核实：Altare官网定价页（altare.gg/en/pricing）证实Always Free $0：每团队6GB内存、150% CPU（1.5核）、10GB硬盘、最多4台服务器、10GB U3对象存储+5个桶，另有1GB KV、每月300万次KV读取；资源是团队共用池，不是每台独享；注册表单只有邮箱、用户名、密码及“Continue with Discord”选项，无绑卡字段，注册不要卡属实；但定价页FAQ明确Bolts、奖励和商店需要绑定Discord账号，完整免费档权益/奖励另需Discord；无强制月费，超额用量要付费（250 bolts=$1，U3存储$0.01/GB·月），付不起时写入暂停、读取继续。无截止时间。X原帖403未读到，结论以官网为准。",
+      "score": 80,
+      "title": "Altare Always Free云服务器：6GB/1.5核/10GB/最多4台（免绑卡，领奖励须绑Discord）",
+      "url": "https://x.com/OnlyJettTian/status/2123987264300839198",
+      "value": "Altare永久免费档：每团队6GB/1.5核/10GB、最多4台+10GB对象存储，免绑卡；领奖励须绑Discord"
+    },
+    {
+      "author": "Lovislexus",
+      "category": "云服务器",
+      "expiry_date": "无固定截止日（分批发放，剩余名额未明）",
+      "id": 622,
+      "notes": "80分（来源24/可验证22/价值18/时效10/风险6）。独立浏览器核实：LowEndTalk活动帖（lowendtalk.com/discussion/221872，发帖人dustinc，2026-10-08）写明与AdminBolt合办，送出100台免费VPS、免费一年，“No obligation to renew, no payment method on file required”，“No purchase required”；配置3 vCPU、4GB RAM、60GB SSD、7TB月流量、1Gbps、1个独立IPv4、完整root权限；分多批、惊喜公布；首批规则为“接下来10条带指定关键词的评论可获得一台免费4GB VPS”，与“每轮10台、先到先得”基本一致。注意：首批机房写明为Los Angeles，全帖第1页检索无Toronto，原帖“多伦多机房”不属实；活动发起于10月8日，并非黑五活动（黑五另有付费帖，4GB VPS为$47.98/年）；AdminBolt授权免费至VPS首年结束，须先完成30天试用后的反馈步骤；截至2026-11-21该帖仍有新参与评论，但公开页未说明剩余名额与下一批时间，是否仍可参与无法确认。与在册id505（RackNerd黑五付费VPS）不是同一活动。X原帖403未读到，结论以LowEndTalk活动帖为准。",
+      "score": 80,
+      "title": "RackNerd免费送4GB VPS一年：3核4G/60G/7TB（LowEndTalk活动，洛杉矶）",
+      "url": "https://x.com/Lovislexus/status/2123986842983051265",
+      "value": "RackNerd免费送4GB VPS一年：3核4G/60G/7TB、洛杉矶、免绑卡；分批评论抢，剩余名额未明"
+    },
+    {
+      "author": "Ylj158852",
+      "category": "软件工具",
+      "expiry_date": "无固定截止日（永久免费档）",
+      "id": 625,
+      "notes": "80分（来源24/可验证25/价值13/时效11/风险7）。独立浏览器核实：kiro.dev/pricing写明KIRO FREE $0/月、50 credits，含open-weight模型与Claude Sonnet 4.5；常见问题称“perpetual Kiro Free tier”；首次从Free升Pro，“the rest of that month is free, and you get 500 trial credits to use within 12 months”。注意：Sonnet 4.5免费档提示为“以社交登录或AWS Builder ID注册的用户”可用；升付费订阅“requires a valid credit card”，Pro试用并非免绑卡，免绑卡仅对应$0免费档本身；当月未用完的credits不结转。与在册id511（Kiro Pro首次升级免单）不是同一活动，这是永久免费档本身。X原帖403未读到，结论以官网为准。",
+      "score": 80,
+      "title": "Kiro免费版：每月50 credits，能用Claude Sonnet 4.5（永久免费，免绑卡）",
+      "url": "https://x.com/Ylj158852/status/2123987264040776116",
+      "value": "Kiro永久免费档：每月50 credits，能用Claude Sonnet 4.5，免绑卡；当月不用完不结转"
     },
     {
       "author": "Lovislexus",
@@ -3163,7 +3262,7 @@
       "category": "云服务器",
       "expiry_date": null,
       "id": 492,
-      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）：独立浏览器重抓X原帖全文+官方核实。lightvela.com 首页写“新用户免费体验 1 个月，送 4,500 AI 积分”，页脚“腾讯轻量云出品”；定价页 lightvela.com/subscribe：启航 Launch 档“首单免费 1 个月 ¥0.00/月（原价 ¥68.00）”，配置 2 核 8G 云电脑、50GB 云存储、4,500 积分/月、Bot 5 个，免费期后 ¥68.00/月；额外积分包 ¥18.00/2,000 积分、有效期 1 个月。注意：①实名认证在首次开通任意套餐前必须完成，当前仅支持中国大陆居民身份证，须填真实姓名与 18 位身份证号，认证一次生效；登录可用微信/QQ/手机号验证码；②定价页只写套餐积分“4,500 积分/月”，未明确写套餐积分是否结转/过期，额外积分包明确有效期 1 个月；③免费期结束后 ¥68/月，首月结束前需自行处理续费，别脑子一热续费。",
+      "notes": "77分（来源20/可验证25/价值12/时效15/风险5）：独立浏览器重抓X原帖全文+官方核实。lightvela.com 首页写“新用户免费体验 1 个月，送 4,500 AI 积分”，页脚“腾讯轻量云出品”；定价页 lightvela.com/subscribe：启航 Launch 档“首单免费 1 个月 ¥0.00/月（原价 ¥68.00）”，配置 2 核 8G 云电脑、50GB 云存储、4,500 积分/月、Bot 5 个，免费期后 ¥68.00/月；额外积分包 ¥18.00/2,000 积分、有效期 1 个月。注意：①实名认证在首次开通任意套餐前必须完成，当前仅支持中国大陆居民身份证，须填真实姓名与 18 位身份证号，认证一次生效；登录可用微信/QQ/手机号验证码；②定价页只写套餐积分“4,500 积分/月”，未明确写套餐积分是否结转/过期，额外积分包明确有效期 1 个月；③免费期结束后 ¥68/月，首月结束前需自行处理续费，别脑子一热续费。2026-11-21复核：KOF97AI同日帖称“新用户1个月+连续签到3天再送1个月=2个月、2C/5.5G”，经核实：官网配置确为2核8G（帖称2C/5.5G不属实）；“签到3天送1个月”在官网首页、订阅页及官方FAQ（最后更新2026-11-14）中均未找到，无法证实，2个月合计不成立；FAQ明确启航套餐“不是永久免费”。",
       "score": 77,
       "title": "LightVela 云端 Agent：新用户首月免费，2核8G云电脑+50G存储+4500积分",
       "url": "https://x.com/OnlyJettTian/status/2123289164279927019",
@@ -3614,11 +3713,22 @@
       "category": "订阅优惠",
       "expiry_date": "2026-12-20",
       "id": 580,
-      "notes": "评分 75 分（来源25/可验证22/价值15/时效8/风险5）。Caffeine 官方 X 确认 BLACKFRIDAY 码可让无有效订阅的用户免费获得一个月付费功能；LINUX DO 帖 3213151 多名用户实测成功，步骤：注册→头像→Use Code→填码→绑卡，Bybit 卡可用；实测到账 100 订阅积分＋注册赠送 15 积分，订阅积分 2026-12-20 到期。官网定价页 Studio 月付 $25/月、年付 $20/月。须绑卡属实。注意：原帖“免费模型含 Claude Fable 5.1 等”有水分——Caffeine Inference 官网明确是智能路由、用户不选模型，未找到官方把 Fable 5.1 列入免费模型的直接证据；免费月只有 100 积分，高价模型很快耗尽；未找到官方明确的黑五截止日期；有用户称提前取消后积分消失、另一用户称取消后仍在，须注意自动续费。",
+      "notes": "评分 75 分（来源25/可验证22/价值15/时效8/风险5）。Caffeine 官方 X 确认 BLACKFRIDAY 码可让无有效订阅的用户免费获得一个月付费功能；LINUX DO 帖 3213151 多名用户实测成功，步骤：注册→头像→Use Code→填码→绑卡，Bybit 卡可用；实测到账 100 订阅积分＋注册赠送 15 积分，订阅积分 2026-12-20 到期。官网定价页 Studio 月付 $25/月、年付 $20/月。须绑卡属实。注意：原帖“免费模型含 Claude Fable 5.1 等”有水分——Caffeine Inference 官网明确是智能路由、用户不选模型，未找到官方把 Fable 5.1 列入免费模型的直接证据；免费月只有 100 积分，高价模型很快耗尽；未找到官方明确的黑五截止日期；有用户称提前取消后积分消失、另一用户称取消后仍在，须注意自动续费。2026-11-21复核：BLACKFRIDAY码当日仍有效（官方X当日发布）；绑卡时有$1临时预授权，次月按原价自动续费，记得处理。",
       "score": 75,
       "title": "Caffeine 黑五优惠码 BLACKFRIDAY：绑卡领 Studio 1 个月免费（约值 $20-25）",
       "url": "https://x.com/yedabinbinah/status/2123782411947319346",
       "value": "Studio 1 个月免费，约值 $20-25（月付 $25，年付 $20/月）"
+    },
+    {
+      "author": "OnlyJettTian",
+      "category": "软件工具",
+      "expiry_date": "无固定截止日（开源项目进行中）",
+      "id": 619,
+      "notes": "75分（来源24/可验证22/价值14/时效10/风险5）。独立浏览器核实：官网trybounty.ai与GitHub仓库trybounty-ai/bounty-plugins真实，MIT许可，0星、0 fork、16次提交，最近提交2026-11-17；官方插件分发任务方bounty-buyer与接单方bounty-agent，支持Codex、Claude Code、Cursor，MCP接入，插件用Bounty账号OAuth登录、不用API key；机制与帖子基本一致：发任务免费，Agent可发现任务、提问、竞价、提交成果，平台用oracle校验，通过后自动放款、不通过可返工或退款。注意：收款的不是AI本身，而是Agent运营者，须通过Stripe Connect在支持国家收款；Agent不收押金、订阅费、API接入费或单独提现费；官网自称2K+任务完成、200+活跃Agent、$100K+已核实收入、97.5%无纠纷（平台自述，未独立核实）；原帖截断后的“晒单”部分未核实。X原帖403未读到，结论以官网与仓库为准。",
+      "score": 75,
+      "title": "Bounty：AI Agent接单赚钱平台开源（MIT，收款须Stripe Connect）",
+      "url": "https://x.com/OnlyJettTian/status/2124002364025876808",
+      "value": "AI Agent接单赚钱平台Bounty开源：发任务免费，Agent接单、平台校验后放款；收款须Stripe Connect"
     },
     {
       "author": "Lovislexus",
@@ -4985,6 +5095,17 @@
       "value": "免费开源管理后台参考实现，1.69 万 Star"
     },
     {
+      "author": "Ciciyingying",
+      "category": "其他",
+      "expiry_date": "无固定截止日（游戏进行中，赛季天梯已开启）",
+      "id": 628,
+      "notes": "70分（来源22/可验证23/价值11/时效10/风险4）。独立浏览器核实：官网ctpacks.cc可直接读到并以访客身份进入：显示12 packs、自然补充上限10包；任务页有每日签到（第1天2包，7天含Prismatic/Black包）、每日任务（开包、抽卡、玩Auto Chess等均奖卡包）、关注@tiger_WEB3一次性任务+10包；CT按钮注明“CT Points: sell cards for points; restore streaks, extra joker runs, name colors”，即CT是站内积分，可卖卡换取、用于游戏内消耗；必应索引的@tiger_web3官方帖证实卡可按稀有度卖成CT（C 1、UC 2、R 4、SR 10、SSR 30、UR 120……），赛季天梯已于11月4日前后开启。注意：任务页全文未出现“airdrop”字样，未见官方明确的空投/未来奖励承诺，“CT可能会和未来奖励有关”只是原帖作者的推测，不算承诺；无需入金即可玩（登录仅用于解锁更多签到奖励），但站内另有CASINO（赌场模式）玩法，注意；原帖所称“刚上线”不实，官方相关帖至少可追溯到11月1日、11月4日。X原帖403未读到，结论以官网为准。",
+      "score": 70,
+      "title": "Tiger卡牌游戏：免费领卡包抽卡，卖卡换CT站内积分（无空投承诺）",
+      "url": "https://x.com/Ciciyingying/status/2124000062267388000",
+      "value": "Tiger卡牌游戏免费领卡包：每日签到+任务奖卡包，卖卡换CT站内积分；无官方空投承诺，站内有赌场模式"
+    },
+    {
       "author": "白嫖福利推送",
       "category": "软件工具",
       "expiry_date": null,
@@ -5953,6 +6074,17 @@
       "value": "香港移动CMIN2 VPS ¥38/月起，移动回程直连CMIN2；电信联通几乎不可用"
     },
     {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": "无固定截止日（每日发码，先到先得）",
+      "id": 627,
+      "notes": "63分（来源22/可验证18/价值10/时效10/风险3）。独立浏览器核实：NodeSeek原帖被Cloudflare Turnstile挡住未读到；同服务商的NodeLoc平行帖（Lolaliy，11-16发布、11-20编辑，nodeloc.com/t/topic/118028）证实活动模式属实：商家为ZooProxy节点、服务商CliProxy（cliproxy.com），每日在TG群@CliproxyFree更新CDK，领取方式是先在cliproxy.com注册，再私信作者留账号、由作者直接发码，无AFF链接。注意：帖内未写每个流量CDK含多少流量，官网首页只写动态住宅IP $0.58–$0.72/GB、有“Free trial”按钮，未写试用量，因此“每天免费多少流量”无法证实，不要按具体流量数理解；该帖快照中“Traffic IPs”一栏写着“None below”（无剩余），另有9个短期IP码（按个数提取、可用数小时）；CliProxy官网页脚声明“该代理服务因政策原因不支持在中国大陆使用”。未见截止时间。",
+      "score": 63,
+      "title": "每日免费CDK：CliProxy住宅代理IP流量（每日TG群发码，先到先得）",
+      "url": "https://t.me/baipiaofl/65602",
+      "value": "CliProxy每日TG群发免费CDK：注册后私信留账号领码；每码流量数额未证实，不支持大陆使用"
+    },
+    {
       "author": "BlockInsight214",
       "category": "免费额度",
       "expiry_date": null,
@@ -6484,5 +6616,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-21T13:45:59+08:00"
+  "updated_at": "2026-11-21T15:06:56+08:00"
 }
