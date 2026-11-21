@@ -7,10 +7,11 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 - 范围：以 AI 为主（AI 会员、免费额度、VPS/VPN、AI 赚钱新路子）
 - 更新时间：见 wool.json 里的 `updated_at`（北京时间）
 
-## 本次更新（2026-11-22 02:51，646 条，本轮新增 3 条）
+## 本次更新（2026-11-22 04:53，647 条，本轮新增 1 条）
 
 | 分 | 内容 |
 |---|---|
+
 | 96 | Thinking Machines Lab Inkling 2 Mini开源权重（Apache 2.0，笔记本可跑） |
 | 96 | NVIDIA Nemotron 3 Ultra免费版登顶OpenRouter免费榜（1M上下文、$0） |
 | 95 | AWS 新户 $200 credits：Free Tier 免费账户 |
@@ -29,6 +30,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 91 | HeyGen Voice Turbo免费至11月30日（语音榜第一）（2026-11-30） |
 | 91 | Infini四张卡对比（首张免费，返现1.5%起） |
 | 91 | BitsFlowCloud 伦敦黑五 M 档：¥249/年，EPYC 7763/2核2G/40G NVMe/5Gbps/8TB（S/L 档已售罄）（黑五活动进行中（页面未标明截止时间）） |
+| 91 | 人大开源 EvoOntology：数据智能体自演进本体层（MIT，约1.3k Stars） |
 | 90 | Highball：Apple Silicon Mac免费开源玩Windows游戏（Wine一键配置） |
 | 90 | chinese-novelist：AI写小说技能包开源（5.1k Star） |
 | 90 | 微软 MarkItDown：Office/PDF/图片万物转 Markdown，开源免费（MIT，196k stars） |
