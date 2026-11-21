@@ -1,5 +1,5 @@
 {
-  "count": 575,
+  "count": 588,
   "items": [
     {
       "author": "yedabinbinah",
@@ -22,6 +22,17 @@
       "title": "YouTube Premium 官方暂停 1-6 个月",
       "url": "https://x.com/Aisiverto/status/2123864203492778334",
       "value": "官方功能：Premium暂停1-6个月，暂停期不扣费"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 610,
+      "notes": "93分。独立浏览器核实：官网订购页（ccp.bitsflow.cloud/order/main/packages/bf-mci，货币CNY）逐字吻合：US-MCI-Black Friday-S，1年¥359，2 vCPU（AMD EPYC 7B13均衡分配）、8G DDR4内存、80GB NVMe RAID 10、2.5Gbps共享端口、8TB双向流量（激活日重置，用尽后限速1Mbps）、1个美国原生IPv4 + IPv6 /64、位置堪萨斯城；M档16G/¥649/年、L档32G/¥1,029/年；另有24小时退款保证、6次幸运大转盘 + IP Care+首年免费。注意端口为共享、流量用尽后限速1Mbps。X原帖403未读到，结论以官网为准。二审（本次核实重开官网）维持93分。",
+      "score": 93,
+      "title": "BitsFlowCloud堪萨斯城黑五8G大内存¥359/年",
+      "url": "https://x.com/fwqgo_com/status/2123967131666784538",
+      "value": "BitsFlowCloud黑五：堪萨斯城8G内存、80GB NVMe、2.5Gbps端口、8TB流量、原生IPv4+IPv6，¥359/年；流量用尽后限速1Mbps"
     },
     {
       "author": "Lovislexus",
@@ -57,6 +68,28 @@
       "value": "免费开源长寿指南：64篇研究摘要+可执行行动清单，GitHub Pages在线读或离线打开，无门槛。"
     },
     {
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 604,
+      "notes": "92分。独立浏览器核实：仓库 KKKKhazix/AIHOT，11,153星、2.6k Fork、MIT许可、338次提交，最近提交2026-11-21；README证实信息采集、预筛、双评分、写作、聚簇与热度算法、提示词原文与入选门槛全部公开，industry/prompts/目录即精选标准与写作要求，线上站aihot.news。限制：不含真实信源名单与运营数据（只带18个公开海外AI资讯源示范）；名称与Logo不在MIT许可内；自建需Docker、Node.js 24、PostgreSQL及自备OpenAI兼容模型API Key，并非零成本。X原帖403未读到，结论以仓库页为准。二审（本次核实重开仓库页）维持92分。",
+      "score": 92,
+      "title": "AIHOT 整套系统开源（AI热点站后台全公开）",
+      "url": "https://x.com/tantanyuli/status/2123954800542814385",
+      "value": "AI热点站整套系统开源：采集、评分、聚簇、提示词全公开，11.2k Star、MIT许可，当天仍在更新；自建需自备模型API Key"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 607,
+      "notes": "92分。独立浏览器核实：官网黑五页（racknerd.com/BlackFriday，虚拟主机分类）逐字吻合：Shared – 35 GB，$9.49/年、5个Hosted Domains、35GB SSD存储、每月5TB流量、LiteSpeed，另含免费迁移、每日备份、免费SSL、Softaculous、CloudLinux，机房美国达拉斯，面板AdminBolt；另有90GB/$21.99/年、200GB/$49.88/年两档。未在页面看到明确截止日期与续费价，$9.49是否为首年价页面未标明，下单前需在结算页确认续费价。X原帖403未读到，结论以官网为准。二审（本次核实重开官网）维持92分。",
+      "score": 92,
+      "title": "RackNerd黑五虚拟主机$9.49/年（35GB SSD/5TB流量）",
+      "url": "https://x.com/fwqgo_com/status/2123982235137405178",
+      "value": "RackNerd黑五虚拟主机：$9.49/年，5个域名、35GB SSD、每月5TB流量、LiteSpeed；续费价需结算页确认"
+    },
+    {
       "author": "fwqgo_com",
       "category": "云服务器",
       "expiry_date": "黑五活动进行中（页面未标明截止时间）",
@@ -66,6 +99,28 @@
       "title": "BitsFlowCloud 伦敦黑五 M 档：¥249/年，EPYC 7763/2核2G/40G NVMe/5Gbps/8TB（S/L 档已售罄）",
       "url": "https://x.com/fwqgo_com/status/2123619848936734736",
       "value": "伦敦 M 档 ¥249/年：2核2G/40G NVMe/5Gbps/8TB，英国原生 IP；S/L 档已售罄"
+    },
+    {
+      "author": "Javary324",
+      "category": "金融卡券",
+      "expiry_date": null,
+      "id": 609,
+      "notes": "91分。独立浏览器核实：官网卡片对比页（infini.money/zh-CN/personal/cards）逐项吻合：Pro外汇转换费1%、无小额交易费；Lite支持ChatGPT、Claude，外汇3%、跨境费3%，支持Apple Pay；Lite Plus外汇0%、支持ChatGPT/Claude/Kiro，仅Professional（近30天日均资产≥$2,000）及Elite（≥$100,000）可开；Max大额消费、Apple Pay、外汇0%。四张相同点属实：首张免费、之后每张$10，月费/年费均为$0，合格消费返现1.5%起；Professional每月前$1,000享3%、Elite每月前$10,000享5%（11月1日起规则）；AI订阅另有返现（Standard 30%、Professional/Elite 50%，月上限$10/$10/$100）。脚注：Max的0%不代表免除其他费用——香港以外交易另收1%跨境费、低于$50的交易每笔另收$0.30；四张卡退款费均为1%，首次充值至少$10。X原帖403未读到，结论以官网为准。二审（本次核实重开官网）维持91分。",
+      "score": 91,
+      "title": "Infini四张卡对比（首张免费，返现1.5%起）",
+      "url": "https://x.com/Javary324/status/2123969612954103834",
+      "value": "Infini U卡四档对比：首张免费、无年费、返现1.5%起，Lite是AI订阅首选，Max大额+Apple Pay外汇0%（有跨境费与小额费例外）"
+    },
+    {
+      "author": "Ylj158852",
+      "category": "免费额度",
+      "expiry_date": "2026-11-30",
+      "id": 611,
+      "notes": "91分。独立浏览器核实：官方文档（developers.heygen.com/docs/voices/heygen-voice-speech）与博客（2026-11-02，HeyGen Voice Turbo Is Free for Developers）逐字证实：模型名heygen-voice-1-turbo-free，免费至2026年11月30日，共享容量下可能返回429；Set the model to heygen-voice-1-turbo-free, You will not be charged；Turbo Free不需Voice Clone或任何积分；通用限速为每API端点每workspace成员每分钟30次请求，超限429；博客称其在Artificial Analysis语音榜排名第一。需API key调用；官方页未找到“不用绑卡”的逐字表述。截至核实日2026年11月21日，距截止仅9天。X原帖403未读到，结论以官方文档与博客为准。二审（本次核实重开官方文档）维持91分。",
+      "score": 91,
+      "title": "HeyGen Voice Turbo免费至11月30日（语音榜第一）",
+      "url": "https://x.com/Ylj158852/status/2123956365291053121",
+      "value": "HeyGen最强TTS模型免费：heygen-voice-1-turbo-free，免费至11月30日，每分钟30次，共享容量可能429；只剩9天"
     },
     {
       "author": "Aisiverto",
@@ -220,6 +275,17 @@
       "title": "微软 MarkItDown：Office/PDF/图片万物转 Markdown，开源免费（MIT，196k stars）",
       "url": "https://x.com/Aisiverto/status/2123017122150273146",
       "value": "微软官方开源小工具，pip 安装，一行命令把 Word/Excel/PPT/PDF/图片/音频等转成 Markdown 喂给 AI"
+    },
+    {
+      "author": "OnlyJettTian",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 605,
+      "notes": "90分。独立浏览器核实：仓库 PenglongHuang/chinese-novelist-skill，5,122星（原帖称5,105，核查时已增长）、707 Fork、MIT许可；最新提交上周，最新Release v2.3.2为3周前；README原文安装命令与原帖完全一致（npx skills add PenglongHuang/chinese-novelist-skill）；用途为从零生成10-50章完整中文小说，三层问答、创作记忆、悬念钩子、自动校验，适配主流coding agent。注意仓库简介含Infistar.cc赞助及“注册送$5”信息，与技能本身免费开源无关。X原帖403未读到，结论以仓库页为准。二审（本次核实重开仓库页）维持90分。",
+      "score": 90,
+      "title": "chinese-novelist：AI写小说技能包开源（5.1k Star）",
+      "url": "https://x.com/OnlyJettTian/status/2123956814446293327",
+      "value": "开源免费的AI写小说技能包：10-50章完整中文小说，三层问答+创作记忆+悬念钩子+自动校验，5.1k Star、MIT许可"
     },
     {
       "author": "Aisiverto",
@@ -807,9 +873,9 @@
     {
       "author": "Lovislexus",
       "category": "订阅优惠",
-      "expiry_date": "限时，未公布具体截止日（条款页 2026-11-17 更新）",
+      "expiry_date": "2026-11-26",
       "id": 595,
-      "notes": "85分（来源26/可验证24/价值18/时效10/风险7）。Google AI 订阅页 one.google.com/ai 核实：顶部横幅“会员专享：Google AI 方案最高可省 50%”（Black Friday Early Access）；包年 Pro US$99.99/年、原价 US$199.99，明确标注“为期 1 年，之后 US$199.99/年”，即五折 1 年属实。注意：Ultra 起步价 US$99.99/月、仅按月结算，页面未标注原价，折扣幅度未证实；月付 Pro US$19.99/月未见折扣价，与原帖“月/年付五折”不完全相符；Plus 是另一项已有优惠（US$0/月 12 个月、之后 US$4.99/月），不在本次黑五五折升级项内。门槛：特价条款页 one.google.com/offer/specialoffer 只写“限时提供”，未公布具体截止日；仅面向 Google One 新用户提供，须有 Google Payments 账号及符合条件的支付方式，不可与其他 Google One 优惠叠加，优惠期结束后按标准价自动续费。价格为美元标价；“最高可省 50%”不等于所有档位、所有周期都是五折。X原帖403未读到，结论以官方订阅页与条款页为准；85+二审已做。",
+      "notes": "85分（来源26/可验证24/价值18/时效10/风险7）。Google AI 订阅页 one.google.com/ai 核实：顶部横幅“会员专享：Google AI 方案最高可省 50%”（Black Friday Early Access）；包年 Pro US$99.99/年、原价 US$199.99，明确标注“为期 1 年，之后 US$199.99/年”，即五折 1 年属实。注意：Ultra 起步价 US$99.99/月、仅按月结算，页面未标注原价，折扣幅度未证实；月付 Pro US$19.99/月未见折扣价，与原帖“月/年付五折”不完全相符；Plus 是另一项已有优惠（US$0/月 12 个月、之后 US$4.99/月），不在本次黑五五折升级项内。门槛：特价条款页 one.google.com/offer/specialoffer 只写“限时提供”，未公布具体截止日；仅面向 Google One 新用户提供，须有 Google Payments 账号及符合条件的支付方式，不可与其他 Google One 优惠叠加，优惠期结束后按标准价自动续费。价格为美元标价；“最高可省 50%”不等于所有档位、所有周期都是五折。X原帖403未读到，结论以官方订阅页与条款页为准；85+二审已做。【11-21 11:40轮补充核实】NodeSeek帖（Google已开启今年黑色星期五优惠活动，nodeseek post-1069209）证实为同一活动，新增信息：活动截止11月26日；Google AI Plus亦在活动之列（“最高50%”为各档上限，并非每档均五折）；Pro 5TB包年首12个月$99.99（之后$199.99/年）。Ultra 20TB/30TB仅按月计费，未见Ultra折扣与月付折扣。",
       "score": 85,
       "title": "黑五：Google AI Pro 包年五折 US$99.99/年（原价 US$199.99），仅限新用户",
       "url": "https://x.com/Lovislexus/status/2123891635914428896",
@@ -2037,6 +2103,17 @@
       "value": "免费开源终端智能体，30.8k Star，接多家模型"
     },
     {
+      "author": "KOF97AI",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 606,
+      "notes": "80分。独立浏览器核实：官网andvm.cn及FAQ证实为Android GSI虚拟机，手机上提供独立Android环境；支持Android 10-17的AOSP、LineageOS、PixelOS，可直接运行官方系统包；支持Magisk Root、系统补丁、第三方组件与OTA升级，快照保存/恢复状态、暂停保存后恢复、直接ADB连接、悬浮窗、ROM市场；下载为官方APK（andvm.cn/app），要求ARM64手机、Android 10或更高。未证实：官网首页/FAQ未出现“免费”字样与任何价格，未见付费墙，应用内是否收费未证实；“不用刷机”未在官网原文逐字出现，属GSI方案隐含含义。X原帖403未读到，结论以官网为准。",
+      "score": 80,
+      "title": "AndVM：手机本地双开安卓系统虚拟机（Android 10-17）",
+      "url": "https://x.com/KOF97AI/status/2123980566228017240",
+      "value": "手机本地安卓虚拟机：Android 10-17、Magisk Root、快照备份、ROM市场；官网未标免费，应用内收费情况未证实"
+    },
+    {
       "author": "Lovislexus",
       "category": "免费额度",
       "expiry_date": null,
@@ -3108,7 +3185,7 @@
       "category": "免费额度",
       "expiry_date": "无固定截止日（学生优惠进行中，最长4年，期满转标准价）",
       "id": 528,
-      "notes": "77分（来源20/可验证23/价值13/时效15/风险6）。ITmedia 2026-08-20报道与Google官方学生页核实：日本大学生Google AI Pro通常2,900日元/月，学生价75% off为720日元/月，最长4年，附带YouTube Premium Lite（Pro+完整YouTube Premium套餐1,280日元/月，不要混淆）。注意：①“国内万事达卡可付”未获官方证实——官方要求付款方式须为当地合规方式且付款国家与居住/就读国一致，面向在日本居住的18–24岁大学生，非日本居民仅凭国内万事达卡不能保证支付成功，改区/冒充居住地属违规；②原帖全文未读到（X 403）。",
+      "notes": "77分（来源20/可验证23/价值13/时效15/风险6）。ITmedia 2026-08-20报道与Google官方学生页核实：日本大学生Google AI Pro通常2,900日元/月，学生价75% off为720日元/月，最长4年，附带YouTube Premium Lite（Pro+完整YouTube Premium套餐1,280日元/月，不要混淆）。注意：①“国内万事达卡可付”未获官方证实——官方要求付款方式须为当地合规方式且付款国家与居住/就读国一致，面向在日本居住的18–24岁大学生，非日本居民仅凭国内万事达卡不能保证支付成功，改区/冒充居住地属违规；②原帖全文未读到（X 403）。【11-21 11:40轮补充核实】NodeSeek日区学生优惠帖（nodeseek post-1069184）与本条同一活动（帖子本身因Cloudflare未读到全文）。新增信息：使用时需挂日区IP；学生计划有clawback报道（美卡论坛10月18日帖称Google student新计划一次性付$8.99后被clawback并收回学生Pro）。",
       "score": 77,
       "title": "日本学生 Google AI Pro 720日元/月（原价2900日元，75% off，最长4年）",
       "url": "https://x.com/Lovislexus/status/2123582102126112998",
@@ -3135,6 +3212,17 @@
       "title": "哈萨克斯坦电子居留 $49 办 Freedom Bank 卡：拿 IIN+eSIM，应用内开多币种卡（eSIM 次月起 $15/月）",
       "url": "https://x.com/KOF97AI/status/2123807302960779283",
       "value": "$49一次性服务费办电子居留拿IIN，应用内开多币种卡，支持Apple/Google Pay"
+    },
+    {
+      "author": "Ylj158852",
+      "category": "免费额度",
+      "expiry_date": "2026-12-28",
+      "id": 615,
+      "notes": "77分。独立浏览器核实：官方文档（docs.inceptionlabs.ai/get-started）写明新账号一次性100M免费Token（New accounts start with 100M free tokens，one-time，do not reset）；Mercury 3（mercury-3）为扩散式大模型、1M上下文、输入$0.10/百万、输出$0.35/百万（50% OFF launch pricing），端点api.inceptionlabs.ai/v1/chat/completions，OpenAI兼容；官网首页称每秒1000+ Token。注意：Mercury API将于2026年12月28日下线，此后API访问及所有密钥与Token均不可用；“建key即到账、不用绑卡”因平台页需登录未在登录墙外核实；“1000万涨到1亿”的旧额度未在当前官方文档中找到出处。X原帖403未读到，结论以官方文档为准。",
+      "score": 77,
+      "title": "Inception新账号送1亿免费Token（Mercury 3，12月28日下线）",
+      "url": "https://x.com/Ylj158852/status/2123973674562625774",
+      "value": "Inception新账号一次性100M免费Token，Mercury 3扩散模型、1M上下文、OpenAI兼容；Mercury API 2026年12月28日下线"
     },
     {
       "author": "AirdropAlert-com | Crypto Airdrops for Everyone",
@@ -3168,6 +3256,17 @@
       "title": "免费开源可视化提示词库：AI绘画服饰/姿态/机位（Deeyu/ai-costume-gallery-zh）",
       "url": "https://x.com/KOF97AI/status/2123734998151008530",
       "value": "免费开源AI绘画提示词库：服饰/姿态/机位可视化选图"
+    },
+    {
+      "author": "Ylj158852",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 612,
+      "notes": "76分。独立浏览器核实：build.nvidia.com模型页当时共94个模型，其中Free Endpoint 39个；实测：DeepSeek 0个模型、Qwen 0个免费端点（仅可下载/合作伙伴端点）、Gemma有gemma-4-31b-it、Kimi有kimi-k3.1-pro（1M上下文）、MiniMax有minimax-m3.1-flash（均为Free Endpoint）；Gemma页显示OpenAI兼容端点integrate.api.nvidia.com/v1/chat/completions与Get API Key；官方文档只写free, rate-limited API access，未公布统一40 RPM（第三方指南称限速按模型而定，用户账号页有报告Up to 40 RPM，热门模型可能更低就429）；密钥前缀nvapi-属实，一把密钥覆盖有权限的托管模型；免费仅限开发/测试原型，不可用于生产；注册需免费NVIDIA账号，可能要邮箱/手机验证并接受API试用条款。无截止时间、无名额数字可核实。X原帖403未读到，结论以官方页为准。",
+      "score": 76,
+      "title": "英伟达免费调模型（39个Free Endpoint，nvapi-密钥）",
+      "url": "https://x.com/Ylj158852/status/2123978457537229122",
+      "value": "NVIDIA免费推理：39个Free Endpoint（Gemma/Kimi/MiniMax等），OpenAI兼容，nvapi-密钥；但DeepSeek、Qwen无免费端点，限速按模型而定，仅限开发测试"
     },
     {
       "author": "AllForAirdrop",
@@ -3740,6 +3839,17 @@
       "title": "Explee 新用户 $30 免费额度：约 750 封冷邮件（须绑卡验证）",
       "url": "https://x.com/KOF97AI/status/2123943944149168435",
       "value": "$30 免费额度约 750 封邮件，按量付费无订阅"
+    },
+    {
+      "author": "SecJack96",
+      "category": "金融卡券",
+      "expiry_date": "2026-12-01",
+      "id": 608,
+      "notes": "73分。独立浏览器核实：Pulsar Beyond Friday双倍返现活动真实（官网博客2026-11-03与活动条款）：Pro会员在指定品牌周享双倍返现，奖励为Pulsar Points（可兑换USDC）；活动期北京时间11月3日8:00至12月1日8:00；11月Pro每月前$3,000合格消费享4%返现，指定商户双倍即8%，Pro会费$9.99/月或$99.99/年，每商户限2笔合格交易，Points有效期Pro为60天。但原帖关键错误：11月23-30日当周参与品牌是Lidl、Rossmann、dm、Aldi、Bolt、Glovo，四周名单全程没有淘宝；“30日8点结束”比官方（北京时间12月1日8:00）早一天；“除去汇损还有5-6%”官方页无依据；开卡邀请码9MN3W官方页未见。结论：不要为淘宝去开Pro。X原帖403未读到，结论以官网为准。",
+      "score": 73,
+      "title": "Pulsar Pro指定品牌周双倍返现8%（淘宝不在名单）",
+      "url": "https://x.com/SecJack96/status/2123982232255697186",
+      "value": "Pulsar Beyond Friday活动：Pro会员指定品牌周双倍返现至8%（每月前$3,000），活动至12月1日；但淘宝不在参与品牌名单内"
     },
     {
       "author": "Lovislexus",
@@ -4996,6 +5106,17 @@
       "value": "香港荃湾4核/80Mbps/500G ¥36.99/月，核查时售罄"
     },
     {
+      "author": "白嫖福利推送",
+      "category": "订阅优惠",
+      "expiry_date": "2026-12-31",
+      "id": 614,
+      "notes": "69分。独立浏览器核实：NodeSeek原帖被Cloudflare Turnstile挡住未读到全文，改走必应已索引摘要核实：权益Calm Premium，有效期至2026-12-31，兑换步骤为Play Store下载Calm并注册Profile→Settings（后半截被截断）；同一内容亦见于美卡论坛同日帖。官方Calm仅能佐证一般规则：网页14天免费试用（仅限新用户，试用后按年$79.99/年或按月$16.99/月扣费）、App内7天试用、Guest Pass 30天，未见“免费至2026-12-31”这一具体优惠，无法确认该帖是何种渠道（促销码/合作伙伴/Guest Pass），也未见名额与是否需绑卡。TG原帖即NodeSeek帖转发。",
+      "score": 69,
+      "title": "Calm Premium免费会员（有效期至2026-12-31）",
+      "url": "https://t.me/baipiaofl/65587",
+      "value": "Calm Premium免费至2026-12-31（必应摘要证实）；兑换步骤后半截未读到，具体渠道与是否绑卡未证实"
+    },
+    {
       "author": "Javary324",
       "category": "金融卡券",
       "expiry_date": "无明确截止日（以 Pionex 官方页为准）",
@@ -5755,6 +5876,17 @@
       "value": "新用户首笔满 $40 减 $20；码 RELY3K3 未核实，领用前须在账户内确认"
     },
     {
+      "author": "NodeSeek官方频道",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 613,
+      "notes": "64分。独立浏览器核实：NodeSeek原帖与LegendVPS官网均被Cloudflare Turnstile挡住未读到全文，改走必应已索引摘要核实：帖子标题“【NQ】LegendVPS Lax 1C-512M-2G-1Gbps@2T $0.5/月 福利机”与摘要一致，摘要另给实测信息：CPU为Intel Xeon E5-1650 v3 @ 3.50GHz，系统Debian 12；官网为legendvps.com，GitHub相关页亦称月付最低$0.5起。但官网在售价与库存均未核实：官网搜索摘要显示同系列US-LAX-1G为1 vCPU/1024M RAM/2GB SSD/1000Mbps/2TB/1x IPv4、限购1件，另有一条“产品正在准备中，尚未开放购买”，提示该福利机未必随时可买。不宜按“随时可买$0.5/月”理解。",
+      "score": 64,
+      "title": "LegendVPS洛杉矶福利机$0.5/月（1核512M/2TB流量）",
+      "url": "https://t.me/nodeseekc/1022062",
+      "value": "LegendVPS洛杉矶福利机：1核512M、2TB流量，$0.5/月；官网在售价与库存未核实，可能尚未开放购买"
+    },
+    {
       "author": "白嫖福利推送",
       "category": "免费额度",
       "expiry_date": "兑换后有效期约 1 年（论坛口径，以 App 内为准）",
@@ -6294,6 +6426,17 @@
       "value": "开源免费 WHMCS 对接 PVE 自动化售卖方案"
     },
     {
+      "author": "KOF97AI",
+      "category": "订阅优惠",
+      "expiry_date": null,
+      "id": 603,
+      "notes": "60分。独立浏览器核实：xAI官方文档（docs.x.ai/x-subscription/referral-program，最后更新2026-11-03）证实邀请好友试用Grok Bot，被邀人可得2-week free trial of Premium；但流程要求注册并绑信用卡才能开始试用（A credit card is required），首次扣费前7天提醒，与原帖“零门槛零绑卡”不符。条件：邀请人须为美国付费Premium/Super/Ultra用户且结账满7天；被邀人须为Grok新用户，位于美国、加拿大、新加坡、日本、韩国、中国台湾、澳大利亚、新西兰、英国、德国、法国、荷兰、西班牙、瑞典、丹麦或挪威（不含中国大陆），用合格邮箱并绑卡；每个邀请码最多兑换10次；Apple/Google内购不计入；项目可能随时更改、暂停或结束，文档未写具体截止时间。试用的是Premium，不是“Grok完整体验”/SuperGrok；不取消会在试用到期后扣费。帖内专属链接打不开（X图片页403），链接本身是否真实有效无法证实。",
+      "score": 60,
+      "title": "Grok两周免费试用（邀请通道，须绑卡）",
+      "url": "https://x.com/KOF97AI/status/2123952343159111850",
+      "value": "xAI官方邀请试用：被邀人得2周Premium免费试用，但必须绑信用卡、中国大陆不在支持地区；不取消到期后扣费"
+    },
+    {
       "author": "Lovislexus",
       "category": "免费额度",
       "expiry_date": "2026-11-19",
@@ -6330,5 +6473,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-21T10:46:07+08:00"
+  "updated_at": "2026-11-21T13:04:23+08:00"
 }
