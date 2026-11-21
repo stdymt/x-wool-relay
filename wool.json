@@ -2195,7 +2195,7 @@
       "category": "免费额度",
       "expiry_date": "2026-12-15",
       "id": 587,
-      "notes": "评分 79 分（来源24/可验证22/价值15/时效13/风险5）。基本属实：官方Token Factory页 packet.ai/token-factory 写明“Token Factory is live - free for all users”“Free at launch (one month), then billed per 1M tokens”；DeepSeek V4.1 Flash NVFP4已上线，1M上下文，MIT许可，OpenAI兼容接口api.packet.ai/v1，另有MiniMax M3.1 Flash与Qwen2.5 1.5B。LINUX DO原帖3213470写明“免费DeepSeek截止12月15”，推算12-16起按标准计费；官方页未写具体日历日期，也未公布免费期后单价。须注册：dash.packet.ai/serverless重定向至登录页，“No credit card to start”，支持GitHub/Google/邮箱登录。注意：跟帖反馈需验证手机号、国内号码用不了（国外号码通过）；实测约40 token/秒、首字约18秒、速度偏慢；手机验证与地区限制仅见用户反馈，条款受限司法管辖区名单未确认。",
+      "notes": "评分 79 分（来源24/可验证22/价值15/时效13/风险5）。基本属实：官方Token Factory页 packet.ai/token-factory 写明“Token Factory is live - free for all users”“Free at launch (one month), then billed per 1M tokens”；DeepSeek V4.1 Flash NVFP4已上线，1M上下文，MIT许可，OpenAI兼容接口api.packet.ai/v1，另有MiniMax M3.1 Flash与Qwen2.5 1.5B。LINUX DO原帖3213470写明“免费DeepSeek截止12月15”，推算12-16起按标准计费；官方页未写具体日历日期，也未公布免费期后单价。须注册：dash.packet.ai/serverless重定向至登录页，“No credit card to start”，支持GitHub/Google/邮箱登录。注意：跟帖反馈需验证手机号、国内号码用不了（国外号码通过）；实测约40 token/秒、首字约18秒、速度偏慢；手机验证与地区限制仅见用户反馈，条款受限司法管辖区名单未确认。补充（2026-11-21 NodeLoc原帖核实）：平台截图显示上下文窗口131K（与模型原生1M上下文有出入，以平台端点为准）、实测量化版31 TPS；平台提示：自2026年11月24日(UTC)起，未完成手机验证的密钥API调用将被拒绝；NodeLoc帖称活动截至北京时间12月16日，与官方截图“免费至12月15日”差一天。TG白嫖福利推送11-21 13:08同活动转发因与本条同一活动，不另立新条。",
       "score": 79,
       "title": "packet.ai 免费 DeepSeek V4.1 Flash：首月免费，截至 12-15（须注册+手机验证，国内号或不可用）",
       "url": "https://t.me/baipiaofl/65567",
@@ -6484,5 +6484,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-21T13:33:31+08:00"
+  "updated_at": "2026-11-21T13:45:59+08:00"
 }
