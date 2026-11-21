@@ -1,5 +1,5 @@
 {
-  "count": 605,
+  "count": 616,
   "items": [
     {
       "author": "yedabinbinah",
@@ -22,6 +22,17 @@
       "title": "YouTube Premium 官方暂停 1-6 个月",
       "url": "https://x.com/Aisiverto/status/2123864203492778334",
       "value": "官方功能：Premium暂停1-6个月，暂停期不扣费"
+    },
+    {
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 641,
+      "notes": "93分（来源30/可验证24/价值15/时效14/风险10）。独立浏览器核实：GitHub Kuddev/pebrel，3.9k stars、223 forks、GPL-3.0 协议、46 个 Releases，核实时 25 分钟前仍有提交；仓库简介为 AI-native、GPU 加速终端，支持 SSH、会话保持、分屏、一等公民 AI CLI 工作流；README 确认免费开源、SSH & SFTP（浏览/上传下载/文件夹传输）、会话保持、分屏、Claude Code & Codex 工作流、智能补全；不止 Windows，也支持 macOS 与 Linux。85+二审由本次核实重开官方页完成，维持93。",
+      "score": 93,
+      "title": "Pebrel免费开源AI终端（Windows/macOS/Linux，SSH/SFTP+Claude Code/Codex）",
+      "url": "https://x.com/tantanyuli/status/2124076603038634273",
+      "value": "GitHub 3.9k stars、GPL-3.0，免费开源AI终端，SSH/SFTP、会话保持、Claude Code/Codex工作流"
     },
     {
       "author": "fwqgo_com",
@@ -288,6 +299,17 @@
       "value": "4000 credits，约 160 美元，需参赛"
     },
     {
+      "author": "BlockInsight214",
+      "category": "免费额度",
+      "expiry_date": "2026-11-24",
+      "id": 643,
+      "notes": "89分（来源28/可验证21/价值18/时效13/风险9）。独立浏览器核实：Hermes 是 Nous Research 的 AI Agent（桌面 App/终端安装，支持 macOS/Linux/Windows），免费档 $0 按量付费、仅限免费模型、标准速率限制；Nous Portal 模型页“Free Models”栏明确列出 Qwen: Qwen4 Max（QWEN/QWEN4-MAX:FREE），同列还有 LongCat-2.5、Step 3.7 Flash、Hy4 flash、Solar Mini 4；注意普通版 Qwen4 Max 另有标价（输入 $1.42/1M、输出 $4.27/1M），免费的是 :free 版本；Nous 官方帖称 Qwen4-Max 免费 5 天、输入输出均为 $0，约 11 月 19 日开始，11 月 21 日确为第三天，预计约 11 月 24 日结束；官网模型页未标注每日用量上限与具体结束日，截止日为预计值。85+二审由本次核实重开官方页完成，维持89。",
+      "score": 89,
+      "title": "Hermes Agent免费调用Qwen4-Max（:free版，免费5天约至11-24）",
+      "url": "https://x.com/BlockInsight214/status/2124063722666905731",
+      "value": "Nous Portal免费模型含Qwen4-Max :free版；官方免费5天，11-21为第三天；用量上限与结束日官网未标"
+    },
+    {
       "author": "Ylj158852",
       "category": "免费额度",
       "expiry_date": "2026-11-30",
@@ -396,6 +418,17 @@
       "title": "MinerU 文档转 Markdown：在线版每天 1000 页免费额度",
       "url": "https://x.com/Aisiverto/status/2123204859012804764",
       "value": "每天1000页免费转 Markdown，PDF/Word/图片都能转，超量只降优先级"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": "2026-11-30",
+      "id": 640,
+      "notes": "87分（来源28/可验证20/价值18/时效13/风险8）。独立浏览器核实：官网黑五预热活动 2026-11-18 至 11-30（美西时间），限时秒杀、续费同价、每批限量；秒杀区 SV-VPS/Cloud-VM(Shared)：2 核 4G、50G 系统盘、1 个 IP、Enterprise CN2 G 1T（1Gbps 端口、1TB 流量），月付 $4.99（原价 $14.99，立减 $10），核实时 Buy Now 可点、在售；年付同款 $59.90/年；Enterprise CN2 专区同配置月付 $10.50（七折），$4.99 仅限秒杀区，认准秒杀区；帖子所称线路细节“去程电信 CN2 GT、联通 AS4837、移动 CMIN2，回程 CN2 GIA”官网活动页未写到，官网只写 Enterprise CN2；磁盘类型、CPU 型号秒杀区未注明；官网未公示剩余数量，仅显示限量批次。85+二审由本次核实重开官方页完成，维持87。",
+      "score": 87,
+      "title": "RakSmart黑五秒杀VPS $4.99/月（2核4G/1TB流量，续费同价，至11-30）",
+      "url": "https://x.com/fwqgo_com/status/2124050180588642759",
+      "value": "黑五预热11-18至11-30（美西时间），秒杀区2核4G/50G/1IP/Enterprise CN2 G 1T月付$4.99（原价$14.99），续费同价；仅限秒杀区，专区同配置$10.50"
     },
     {
       "author": "KOF97AI",
@@ -574,6 +607,17 @@
       "value": "免费 10 亿决策 tokens（约 42 美元），免绑卡，API 可用"
     },
     {
+      "author": "yedabinbinah",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 639,
+      "notes": "86分（来源28/可验证20/价值18/时效11/风险9）。独立浏览器核实：官网 maas.unisound.com/token-plan 证实 U Plan Free 档 ¥0/月、每周 2,500 Credits，含 U2-Flash（编程与办公）、U2-Med（专业医疗），另附 U2-TTS 4万字、U2-ASR 8小时、U2-OCR 7.375M Tokens；Standard ¥59/月（每周10,000）、Plus ¥269/月（每周60,000）；官网集成区含 Claude、Hermes Agent、OpenCode、Codex；领取需登录 Token Hub（第三方汇总页称需 +86 手机号登录）；每周额度自开通起每 7 天刷新、不累积，每 5 小时窗口最多 500 Credits。未证实：“原定 10 月 20 日结束、又延期到何时”——官网未标任何截止日，U Plan 是 11 月 9 日改版上线的新订阅体系，并非简单延期。85+二审由本次核实重开官方页完成，维持86。",
+      "score": 86,
+      "title": "云知声 U Plan 免费档：每周2500 Credits可调U2-Flash/U2-Med（¥0/月）",
+      "url": "https://x.com/yedabinbinah/status/2124047688266363009",
+      "value": "Free档¥0/月、每周2500 Credits，U2-Flash/U2-Med等；每7天刷新不累积；延期截止日官网未标、未证实"
+    },
+    {
       "author": "白嫖福利推送",
       "category": "免费额度",
       "expiry_date": "2026-12-31",
@@ -627,6 +671,17 @@
       "title": "RackNerd 2026 黑五：VPS 最低 $15.98/年、终身续费同价（帖子说的 $7.99/年不属实）",
       "url": "https://t.me/nodeseekc/1019919",
       "value": "VPS 1GB $15.98/年起，黑五价终身续费同价；共享主机 $9.49/年起"
+    },
+    {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 634,
+      "notes": "85分。官方价目页 docs.capy.ai/models-and-pricing 证实免费带广告版 deepseek/deepseek-v4.1-flash-ads $0.00；仅限美国、加拿大、英国、澳大利亚、新西兰等地区，需挂美国节点；仅限 Capy 网页或桌面端发起的对话；免费版无 ZDR，广告合作方可能保留对话数据以匹配广告；官方价目页未见明确每月次数/额度上限；原帖楼主本人未实测。85+二审由本次核实重开官方价目页完成，维持85。",
+      "score": 85,
+      "title": "CAPY免费DeepSeek V4.1 Flash（带广告版）",
+      "url": "https://t.me/baipiaofl/65617",
+      "value": "免费调用 DeepSeek V4.1 Flash（带广告版），$0"
     },
     {
       "author": "Ylj158852",
@@ -3357,6 +3412,17 @@
       "value": "首月免费，约 10 美元；.env 外用法有风险"
     },
     {
+      "author": "NodeSeek官方频道",
+      "category": "订阅优惠",
+      "expiry_date": null,
+      "id": 636,
+      "notes": "76分（来源20/可验证23/价值15/时效12/风险6）。独立浏览器核实：NodeSeek原帖被Cloudflare Turnstile挡住未读到全文；华为云官方文档（2026-11-16更新）证实Token Plan是华为云MaaS官方订阅服务：Lite档¥59/月、每订阅月5000万Tokens，模型GLM-5.3、DeepSeek-V4.1-Flash-1017，仅支持西南-贵阳一区域，面向个人开发者；个人版通用Token统一抵扣，不区分输入/输出/缓存命中；额度仅在AI工具中生效（CodeArts、Claude Code、OpenClaw、OpenCode、Cherry Studio等），须用指定模型与专属Base URL。发帖人“59元能用官key 4元额度”的换算不成立：是按其DeepSeek样本（1297万Token花1.16元）线性外推，DeepSeek官方按缓存命中/未命中与输出分别计价，无统一换算。限制：每日限量发售、每月限购一次、自然月有效、到期清零、不支持退订、仅支持升配。",
+      "score": 76,
+      "title": "华为云Token Plan Lite：¥59/月5000万Token（GLM-5.3/DeepSeek-V4.1-Flash，仅贵阳一）",
+      "url": "https://t.me/nodeseekc/1023135",
+      "value": "¥59/月5000万Token通用抵扣，可在Claude Code等AI工具中使用；每日限量发售、自然月清零、不退订"
+    },
+    {
       "author": "Ylj158852",
       "category": "免费额度",
       "expiry_date": null,
@@ -3405,7 +3471,7 @@
       "category": "其他",
       "expiry_date": "2026-11-22",
       "id": 631,
-      "notes": "75分。HiDNS官方公告证实：周年邀请码84QGX77USri67oVs，开放窗口2026-11-21 08:00至11-22 07:59（CST），邀请码不限次数、一人限一个账号。这是免费二级域名服务（.hidns.cc/.hidns.co/.hidns.vip等），免费永久有效，无绑卡、无续费价；可疑信息或一次性邮箱可能触发KYC，拒绝验证则账号删除、域名随之处理；.hidns.cc未列入公共后缀列表。NodeSeek原帖被Cloudflare挡住未读到，以官方公告为准。",
+      "notes": "75分。HiDNS官方公告证实：周年邀请码84QGX77USri67oVs，开放窗口2026-11-21 08:00至11-22 07:59（CST），邀请码不限次数、一人限一个账号。这是免费二级域名服务（.hidns.cc/.hidns.co/.hidns.vip三个后缀任选），免费永久有效，无绑卡、无续费价；可疑信息或一次性邮箱可能触发KYC，拒绝验证则账号删除、域名随之处理；.hidns.cc未列入公共后缀列表，.hidns.co与.hidns.vip自2025年8月起已在PSL内、可托管Cloudflare，.hidns.cc暂不能按常规方式托管。补充（2026-11-21 19:40轮核实）：每人可注册几个域名官方未写明，有回帖称注册第2个时提示额度已用完，勿理解为每人必得3个；论坛补充限制（非官方公告原文）：需中国IP访问注册，注册时要填手机号（据称不验证），注册后需工单提交域名用途并人工审核。NodeSeek原帖被Cloudflare挡住未读到，以官方公告为准。",
       "score": 75,
       "title": "HIDNS免费二级域名开放注册24小时",
       "url": "https://t.me/baipiaofl/65611",
@@ -4820,6 +4886,17 @@
       "value": "6 项免费资源一次收齐，Kaggle GPU 与 Codespaces 最实在。"
     },
     {
+      "author": "NodeSeek官方频道",
+      "category": "订阅优惠",
+      "expiry_date": "2026-11-26",
+      "id": 635,
+      "notes": "71分（来源18/可验证20/价值16/时效13/风险4）。独立浏览器核实：NodeSeek原帖被Cloudflare Turnstile挡住未读到全文；土区月付价官方页直接证实Google AI Pro ₺869.99/月；年付原价₺7,199.99/年由多家2025-2026来源交叉佐证，美区官方页实测同一黑五机制（年付$199.99→$99.99），土区₺7,199.99×50%=₺3,599.99/年与标题一致，属实。黑五官方活动AI计划最高五折、仅首年，次年按原价自动续费。仅土耳其区合规订阅者可享，须身处土耳其且有土耳其支付方式，改区后90天内不可再改，家庭群组成员不可改区；仅新Google One用户、资格因国家而异，违规可取消优惠或终止订阅。现有订阅者提前享截止2026-11-26（美东时间），新用户优惠自2026-11-27起、结束日官方未公布，以结账页为准。",
+      "score": 71,
+      "title": "黑五：Google AI Pro土耳其区年付五折₺3,599.99/年（原价₺7,199.99/年，仅首年）",
+      "url": "https://t.me/nodeseekc/1022991",
+      "value": "年付原价₺7,199.99/年，黑五五折后₺3,599.99/年，省约₺3,600，月均约₺299.99；仅首年，次年按原价自动续费；仅土区合规订阅者，须土耳其支付方式"
+    },
+    {
       "author": "duola_eth",
       "category": "其他",
       "expiry_date": "未核实（BGE日期待公布）",
@@ -5282,6 +5359,17 @@
       "value": "iOS SSH 终端永久 Pro 免费领，美区/国区均为 0 元"
     },
     {
+      "author": "0xjackkk",
+      "category": "其他",
+      "expiry_date": null,
+      "id": 642,
+      "notes": "68分（来源16/可验证16/价值16/时效13/风险7）。独立浏览器核实：建行官网未检索到该活动的公开活动页，活动仅在建行 App 内；LINUX DO 同日帖子所附建行 App 截图证实活动名“2026新客礼遇季”，入口为 App 首页搜索“活动日历”→精选活动→新客礼遇季；关键修正：不是“有建行卡就能领”，而是活动期间首次注册手机银行并实名绑卡的客户，登录手机银行进入活动获得一次抽奖，有机会获得 10-100 元微信立减金（另有建行生活等奖品）；抽中后次月可 0.01 元再得 3 元微信立减金；多位用户反馈自己 App 里没有该活动，属定向/新客活动；活动时间、名额等细则在公开渠道未找到官方页。注意：不要用自己或家人的商家码“无损抵扣”式自刷，存在套现合规风险，应按规则正常消费使用。",
+      "score": 68,
+      "title": "建行App“2026新客礼遇季”：首次签约手机银行抽10-100元微信立减金",
+      "url": "https://x.com/0xjackkk/status/2124064505043034526",
+      "value": "仅限首次注册手机银行并实名绑卡的新客抽奖，10-100元是“有机会获得”，非有卡即领；无公开官方活动页"
+    },
+    {
       "author": "白嫖福利推送",
       "category": "免费额度",
       "expiry_date": null,
@@ -5346,6 +5434,17 @@
       "title": "Pionex Card（派网卡）：虚拟卡免开卡费/年费，Visa 返现 1% 抵手续费、卡内 USDT 享 5% 年化（大陆办不了）",
       "url": "https://x.com/Javary324/status/2120387965293617361",
       "value": "免开卡费/年费的 U 卡，Visa 返现 1%、卡内 USDT 5% 年化；大陆 +86 无法注册/KYC，仅限海外身份参考。"
+    },
+    {
+      "author": "NodeSeek官方频道",
+      "category": "订阅优惠",
+      "expiry_date": "2026-11-29",
+      "id": 637,
+      "notes": "67分（来源18/可验证24/价值8/时效13/风险4）。独立浏览器核实：NodeSeek原帖被Cloudflare Turnstile挡住未读到全文；Norma Connect官网证实：Startpaket Black Weeks由9.95€降至2.99€（App订购1.99€），活动期2026-11-02至11-29、售完为止；含10€ Startguthaben（记入预付费账户，非现金）；Start Tarif €0/月、无合约、无包含流量，通话/短信9 Cent；eSIM可选；所有套餐前4周免费、EU漫游、D-Netz 5G。门槛高：激活前须完成德国Prepaid-Legitimation（Video-Ident或POSTIDENT，凭官方身份证件），非德国地址/证件能否通过未证实；10€话费有效期官网未写明。",
+      "score": 67,
+      "title": "Norma Connect德国eSIM：Black Weeks开卡€2.99送€10话费（至11-29，须德国身份验证）",
+      "url": "https://t.me/nodeseekc/1023153",
+      "value": "开卡€2.99含€10预付话费，Start套餐€0/月无流量；须德国身份证件Video-Ident验证，对国内用户门槛高"
     },
     {
       "author": "NodeSeek官方频道",
@@ -5687,6 +5786,17 @@
       "title": "RakSmart 精品 CN2 VPS：帖称新人券后 $4.52/月未证实（配置属实，官网黑五续费 7 折）",
       "url": "https://x.com/Lovislexus/status/2123799323465154713",
       "value": "帖称 1核1G/50G HDD/1TB 精品CN2 券后 $4.52/月，续费同价说法与官网不符"
+    },
+    {
+      "author": "NodeSeek官方频道",
+      "category": "云服务器",
+      "expiry_date": "2026-11-27",
+      "id": 638,
+      "notes": "65分（来源18/可验证18/价值12/时效13/风险4）。独立浏览器核实：NodeSeek原帖被Cloudflare Turnstile挡住未读到全文；NhanHoa官网黑五页证实活动期2026-11-23至11-27（核查时尚未开始）：Cloud VPS -80% 19,600đ/月、节省940,000đ/年，仅限11月27日当天通过网站注册的最早10名、注册期自1年起；11-23至11-27为-50%；新注册/续费/升级均可参加。关键缺口：黑五页未写明19,600đ/月对应哪款配置，按-80%反推原价约98,000đ/月，与常规价目表A-F（最低86,000đ/月）均不对应；-50%时同款价格、续费价、系统、支付方式均未写明。常规SSD Cloud VPS：A档86,000đ/月（1核/15GB SSD/1GB+0.5GB RAM）。",
+      "score": 65,
+      "title": "NhanHoa黑五：越南Cloud VPS -80%约19,600đ/月（仅11-27当天前10名，配置待确认）",
+      "url": "https://t.me/nodeseekc/1023174",
+      "value": "活动11-23至11-27，-80%仅11-27当天前10名、注册期1年起；19,600đ对应配置官网未写明"
     },
     {
       "author": "白嫖福利推送",
@@ -6448,6 +6558,17 @@
       "value": "作者自制免费小工具：输入 X 账号体检最近帖子（原创占比、最能打的帖子、收藏率/转帖率、上涨趋势及诊断），另有 500K 变现达标计算器；免登录、不存数据"
     },
     {
+      "author": "NodeSeek官方频道",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 633,
+      "notes": "60分。官网 kcloud.gcx.com.kh 首页横幅证实新用户 $30 免费云额度；最小档 BASIC-1C-1G-35GB $8/月，$30 约抵 3.75 个月（不含公网 IP，公网 IP 另收 $5/月）；“充$1送$30”仅平行帖说法、官网未证实；官网未标额度截止与有效期；原帖被 Cloudflare 验证挡住未读到，结论以官网为准。",
+      "score": 60,
+      "title": "Kcloud柬埔寨云新用户$30免费额度",
+      "url": "https://t.me/nodeseekc/1022942",
+      "value": "$30免费云额度，约抵最小档3.75个月"
+    },
+    {
       "author": "KOF97AI",
       "category": "订阅优惠",
       "expiry_date": null,
@@ -6660,5 +6781,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-21T15:50:37+08:00"
+  "updated_at": "2026-11-21T21:13:21+08:00"
 }
