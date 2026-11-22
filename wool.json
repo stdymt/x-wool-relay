@@ -1,5 +1,5 @@
 {
-  "count": 713,
+  "count": 723,
   "items": [
     {
       "author": "Lniosytest",
@@ -728,6 +728,28 @@
       "value": "每天1000页免费转 Markdown，PDF/Word/图片都能转，超量只降优先级"
     },
     {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 750,
+      "notes": "87分（来源25/可验证23/价值16/时效14/风险9）。dedione.com官网核实（Los Angeles KVM VPS - CMIN2+CUII，LAX.VPS.CMIN2.1C1G10G-Annual）：标价$29.99 USD/年，订购配置页亦显示$29.99 USD/yr、当期应付$29.99，页面未标首年优惠或另设续费价（按所见为同价年付）；配置1 vCPU、1GB RAM、10GB NVMe、500GB月流量、200Mbps端口、CMIN2+CUII（AS58807、AS10099/AS9929）、1个IPv4+2个IPv6、洛杉矶、测试IP 188.255.157.1、即时开通，Order Now可用、在售；公开订购页未见押金、KYC或绑卡要求（仅需填主机名、root密码和选系统，结账需登录、未登录核实）。注意与特价页另一款$19.99/年区分（不限流量但仅5Mbps）。85+二审由本次核实重开官网订购页完成。X原帖403未读到。",
+      "score": 87,
+      "title": "DediOne 洛杉矶 VPS $29.99/年（CMIN2+CUII 双精品线路）",
+      "url": "https://x.com/fwqgo_com/status/2124299572445102450",
+      "value": "$29.99/年，1核/1G/10G NVMe/500G流量/200Mbps，独立IPv4+双IPv6；在售"
+    },
+    {
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 744,
+      "notes": "87分（来源25/可验证22/价值16/时效15/风险9）。GitHub仓库核实（github.com/deepseek-ai/DeepInfer）：真实存在，约26.3k stars、3.2k forks，Apache-2.0协议；README称它是DeepSeek自研的生产级推理框架、支撑DeepSeek大规模线上服务，首发支持DeepSeek-V4.1-Flash，支持NVIDIA SM100 GPU与华为昇腾950 NPU（称更多硬件后续加入），并给出离线推理示例。注意：README限定构建完整服务所需的若干组件（如KV cache、agent routing等）未包含在此版本中，并非开箱即用的完整服务；无正式Release。85+二审由本次核实重开GitHub仓库页完成。X原帖403未读到。",
+      "score": 87,
+      "title": "DeepSeek 开源生产级推理框架 DeepInfer（Apache-2.0）",
+      "url": "https://x.com/tantanyuli/status/2124476236277957113",
+      "value": "开源免费；支持SM100与昇腾950，首发DeepSeek-V4.1-Flash，离线推理版本"
+    },
+    {
       "author": "白嫖福利推送",
       "category": "云服务器",
       "expiry_date": null,
@@ -1078,6 +1100,17 @@
       "title": "RackNerd 2026 黑五：VPS 最低 $15.98/年、终身续费同价（帖子说的 $7.99/年不属实）",
       "url": "https://t.me/nodeseekc/1019919",
       "value": "VPS 1GB $15.98/年起，黑五价终身续费同价；共享主机 $9.49/年起"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 748,
+      "notes": "85分（来源25/可验证22/价值16/时效13/风险9）。bitsflow.cloud订购页核实（ccp.bitsflow.cloud《Black Friday 2026-US-FRM》）：S款1年@￥139.00 CNY，1 vCPU AMD EPYC 7V13、1GB DDR4、20GB NVMe、2.5Gbps共享端口、4TB双向流量（激活日重置，用尽后限速1Mbps）、1个美国原生IPv4+IPv6 /64、弗里蒙特、24小时退款保证，S/M/L三档均显示Order Now、有货；M款￥249/年（2核/2GB/40GB/5Gbps/8TB），L款￥399/年（4核/4GB/80GB/10Gbps/16TB）。注意帖子“顶配10Gbps”指L款而非139元的S款；官网首页的1-2.5Gbps/2-8TB只是全系列区间，以订购页为准；订购页未写截止日期。85+二审由本次核实重开官网订购页完成。X原帖403未读到。",
+      "score": 85,
+      "title": "BitsFlowCloud 黑五弗里蒙特 VPS 139 元/年",
+      "url": "https://x.com/fwqgo_com/status/2124287492753105126",
+      "value": "139元/年，1核EPYC 7V13/1G/20G NVMe/2.5Gbps/4TB，美国原生IPv4+IPv6；在售"
     },
     {
       "author": "fwqgo_com",
@@ -1672,6 +1705,28 @@
       "title": "Pulsar Money 11月返现提到4%：Pro用户前$3000消费全按4%返积分（到11月30日）",
       "url": "https://x.com/SecJack96/status/2120889366524698761",
       "value": "11月内Pro用户前$3000消费返4%积分（最高约$120积分）"
+    },
+    {
+      "author": "Javary324",
+      "category": "金融卡券",
+      "expiry_date": null,
+      "id": 747,
+      "notes": "82分（来源25/可验证21/价值15/时效13/风险8）。Bybit官方公告核实（announcements.bybit.com，2026年11月16日《Airport Lounge Access Is Now Available with Bybit Card》）：活动存在，44 USDT/张、可用支持的加密货币支付，1人1次、最长2小时，830+间贵宾室、430+个机场，须在Bybit App内Card Dashboard→Lounge选贵宾室购买，无需提供卡号或另开账户，姓名须与护照完全一致，进场出示pass和有效带照片证件；须持有Bybit卡。与帖子不符：官方只写“符合条件的未使用pass可取消退款，以各贵宾室政策为准、退回原支付方式”，未写“提前1天取消一般能全退”，也没有pass有效期、名额和截止时间，退款并非无条件全退。X原帖403未读到。",
+      "score": 82,
+      "title": "Bybit 卡 44 USDT 买机场贵宾室（830+ 间）",
+      "url": "https://x.com/Javary324/status/2124285684055957523",
+      "value": "44 USDT一张，1人1次、2小时，830+贵宾室；须持Bybit卡；退款按贵宾室政策、非无条件全退"
+    },
+    {
+      "author": "Lovislexus",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 745,
+      "notes": "82分（来源24/可验证19/价值16/时效14/风险9）。GitHub仓库核实（github.com/pingdotgg/t3code）：真实存在，约70.7k stars、12.0k Fork、MIT协议，简介“The open-source control plane for coding agents”，作者Theo Browne；官方文档providers-antigravity.md明确“T3 Code runs Google's official Antigravity ACP agent”，需用自己的Google账号登录，ACP文档将Antigravity列为内置提供方、优先使用ACP v2 preview，“官方ACP接入、多Agent统一管理”属实。但与帖子不符：它并非专属“反重力反代”工具，而是本地运行官方Agent的多Agent控制台，支持Claude Code、Codex、Cursor、OpenCode、Antigravity等，文档写明“T3 Code does not resell tokens”；“Google DeepMind工程师亲自确认不会因此封号”无法证实——X原帖403未读到，GitHub文档中也未见任何不封号保证。",
+      "score": 82,
+      "title": "T3Code 免费开源多 Agent 控制台（官方 Antigravity ACP 接入）",
+      "url": "https://x.com/Lovislexus/status/2124468183180685491",
+      "value": "开源免费；统一管理Claude Code/Codex/Cursor/OpenCode/Antigravity，走官方ACP"
     },
     {
       "author": "Lovislexus",
@@ -2521,6 +2576,17 @@
       "value": "开源免费AI视频剪辑工具；用编程智能体做视频，可导出或带到PR/FCP/DaVinci"
     },
     {
+      "author": "BlockInsight214",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 742,
+      "notes": "80分（来源24/可验证18/价值15/时效14/风险9）。Groq官方限流页核实（console.groq.com/docs/rate-limits）：Free Plan Limits，openai/gpt-oss-120b与qwen/qwen3.8-27b均为30 RPM、1K RPD、8K TPM、200K TPD，与帖子“约30 RPM、每天1000次”一致；计费FAQ称从Free tier升级到Developer tier时才需提供支付方式，免费层本身不以绑卡为前提；但“永久免费”四字官方未如此承诺，groq.com/pricing已跳转回首页未看到定价页；模型名有误：官方为qwen/qwen3.8-27b，不是帖子所称Qwen3.5 27B。OpenTyphoon官方文档核实：Free Tier零成本、OpenAI兼容接口，须在Playground注册并生成免费API密钥（须注册，未提绑卡）；但“免费高并发OCR”夸大：typhoon-ocr限流仅2次/秒、20次/分钟，生产级使用官方建议走API Pro。X原帖403未读到。",
+      "score": 80,
+      "title": "Groq 永久免费层 + OpenTyphoon 免费 OCR",
+      "url": "https://x.com/BlockInsight214/status/2124480514522333248",
+      "value": "Groq免费层：GPT-OSS 120B/Qwen3.8 27B，30 RPM/每天1000次；OpenTyphoon免费层含OCR（限流2次/秒）"
+    },
+    {
       "author": "KOF97AI",
       "category": "云服务器",
       "expiry_date": null,
@@ -2904,6 +2970,39 @@
       "title": "讯飞Loomy免费领积分：每日登录送5000，邀请码再领10000",
       "url": "https://x.com/yedabinbinah/status/2119807386294817083",
       "value": "每天免费5000积分用AI模型（GLM-5.3-Flash等），另可领10000邀请积分"
+    },
+    {
+      "author": "0xjackkk",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 751,
+      "notes": "79分（来源24/可验证17/价值16/时效14/风险8）。三家计划均真实存在，但条件和期限各不相同、并非都面向学生作主申请人：OpenAI《ChatGPT for Academic Researchers》（2026年7月29日，11月16日扩展公告）目标10万名、试点已有2万名、33个国家，扩展至20万名，下一轮2026年11月23日（周一）开放申请、先到先得5万个新名额，每名额为获批者加最多2名协作者、免费ChatGPT Plus最长12个月（试点为Pro、新轮为Plus），主申请人须为参与院校的研究教职或博后、近3年有相关发表，学生只能作同校协作者，11月22日当时新申请暂关闭、仅可加入信息候补名单；Anthropic《Expanding our support for scientists》（2026年8月27日）开放1万个席位、Claude team plan for scientists一年，标准席位免费、高级席位$15/月（5倍用量），须为学术或非营利研究机构的PI或同等身份并通过验证后可加实验室成员，AI for Science项目另可申请每项目最高$50,000额度；帖子“原价20美元免费、原价100美元折后15美元”的对应关系在官方公告中未写出、仅$15与高级席位相符，且公告未写截止日期；Google官方博客《Gemini 4 Argon》（2026年10月13日）及Antigravity官网为1万名科学家提供最高档Antigravity+Gemini 4 Argon免费6个月（不是12个月）、滚动入组、受资格/容量/遴选限制、申请现已开放，官方未写“正规海外高校学生、博后或教职工”这一统一前提。X原帖403未读到；TG同题为同一LINUX DO汇总帖，不另立条目。",
+      "score": 79,
+      "title": "三大科学家计划：OpenAI/Anthropic/Google 免费算力（11-23 新一轮）",
+      "url": "https://x.com/0xjackkk/status/2124319944636870747",
+      "value": "OpenAI 11-23开放新一轮5万名额、免费Plus 12个月（须教职/博后主申）；Anthropic 1万席免费1年；Google 6个月（非12个月）"
+    },
+    {
+      "author": "NodeSeek官方频道",
+      "category": "云服务器",
+      "expiry_date": "2026-11-26",
+      "id": 746,
+      "notes": "79分（来源22/可验证20/价值15/时效13/风险9）。官网活动页核实（ph24.io/en/offers/2026-sale）：“The first ph24 deal in 2026”，截止2026年11月26日23:59（柏林时间），核实时剩余4天9小时；价格合约期内固定、无最低期限，按小时计费、上限为月价，AMD EPYC Milan、法兰克福机房；FLASH S €4.95/月（4 vCPU、8 GB、100 GB NVMe，25/25剩余）、FLASH M €6.95/月（6 vCPU、12 GB、200 GB，19/25剩余）、FLASH L €8.95/月（8 vCPU、16 GB、300 GB，已售罄0/25），另有同配置常规VPS S/M/L €6.40/€9.60/€12.80/月，均含1个IPv4、独立/64 IPv6、10 TB流量、3个备份位，德国区价格含19%增值税。与帖子不符：TG原文中帖主说的“4核16G 200G、一个月4欧”是其两年前旧活动机器的续费价，并非本次活动配置；官网卖的是通用VPS，“建站机”只是帖主的用法称呼，并非官方产品名。NodeSeek原帖被Cloudflare挡住未读到。",
+      "score": 79,
+      "title": "ph24.io 2026 闪购：法兰克福 VPS €4.95/月起（至 11-26）",
+      "url": "https://t.me/nodeseekc/1025166",
+      "value": "FLASH S €4.95/月（4核/8G/100G，25台）、FLASH M €6.95/月；FLASH L已售罄；截止11-26"
+    },
+    {
+      "author": "BlockInsight214",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 743,
+      "notes": "79分（来源24/可验证19/价值14/时效14/风险8）。Inferbase官网定价页核实（inferbase.ai/pricing）：Free档$0、无时间限制、No card required，每月5,000次请求，另含每天100次托管请求与每天$0.50托管模型额度（托管模型上限$2/1M输出tokens），60 RPM，支持任意OpenAI兼容SDK/客户端；模型目录首行即DeepSeek V4 Flash（1M上下文），但官网未明确标注它是否属于托管免费额度，需以控制台为准。Token Harbor官网核实（tokenharbor.ai/pricing、/faq）：注册免费、无信用卡要求、OpenAI兼容（base_url https://tokenharbor.ai/v1），免费访问通过带:free的模型ID实现，按价值计而非固定请求数，首个免费请求起个人滚动7天周期，免费账户限流60请求/分钟、1800/小时；但未给出固定每日/每月美元或次数额度，免费模型清单会随增减与推广活动变化；另注意FAQ称服务地区排除中国大陆等地。X原帖403未读到。",
+      "score": 79,
+      "title": "Inferbase 与 Token Harbor 免费大模型 API（免绑卡）",
+      "url": "https://x.com/BlockInsight214/status/2124469737170370607",
+      "value": "Inferbase免费：每月5000次+每天$0.50托管额度；Token Harbor免费模型按价值计（滚动7天），大陆除外"
     },
     {
       "author": "Javary324",
@@ -6283,6 +6382,17 @@
       "value": "iOS SSH 终端永久 Pro 免费领，美区/国区均为 0 元"
     },
     {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 749,
+      "notes": "68分（来源25/可验证15/价值12/时效8/风险8）。ccp.bitsflow.cloud订购页核实（《Black Friday 2026-US-LAX》）：S款1年@￥109.00 CNY，1 vCPU Intel金牌6252、1GB DDR4、20GB NVMe、2.5Gbps共享端口、4TB双向流量（激活日重置，用尽后限速1Mbps）、1个美国原生IPv4+IPv6 /64、洛杉矶、24小时退款保证，价格与配置属实；但核查时S款和L款（￥299/年）均显示Out of Stock，仅M款￥189/年（2核/2GB/40GB/5Gbps/8TB）可订购，故109元档目前买不到。注意勿把弗里蒙特的EPYC套用到洛杉矶（洛杉矶为Intel金牌6252）；官网首页洛杉矶VDS（£95.42/季）是另一款产品，不是本项黑五VPS。X原帖403未读到。",
+      "score": 68,
+      "title": "BitsFlowCloud 黑五洛杉矶 VPS 109 元/年（S 款已售罄）",
+      "url": "https://x.com/fwqgo_com/status/2124378592897282214",
+      "value": "109元/年 S款已售罄，目前仅M款¥189/年可买；1核/1G/20G NVMe/2.5Gbps/4TB"
+    },
+    {
       "author": "白嫖福利推送",
       "category": "免费额度",
       "expiry_date": "2027-01-31",
@@ -7848,5 +7958,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-22T21:37:35+08:00"
+  "updated_at": "2026-11-22T22:20:44+08:00"
 }
