@@ -1,5 +1,5 @@
 {
-  "count": 704,
+  "count": 713,
   "items": [
     {
       "author": "Lniosytest",
@@ -277,6 +277,17 @@
       "value": "伦敦 M 档 ¥249/年：2核2G/40G NVMe/5Gbps/8TB，英国原生 IP；S/L 档已售罄"
     },
     {
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 739,
+      "notes": "90分。GitHub仓库核实：xerj-org/xerj，19.3k星、Apache-2.0；README测试表与帖子逐数相符（8任务4语言：纯记忆11/16、$11.18；XERJ 16/16、$1.58）。注意Query-1模型只在发布二进制中、不在公开源码构建里。X原帖403未读到。",
+      "score": 90,
+      "title": "XERJ 开源 AI 代码搜索引擎",
+      "url": "https://x.com/tantanyuli/status/2124460885422842178",
+      "value": "开源免费；实测比纯记忆省约86% Token成本"
+    },
+    {
       "author": "OnlyJettTian",
       "category": "软件工具",
       "expiry_date": null,
@@ -484,6 +495,17 @@
       "title": "Kiroween 黑客松：申请领 4000 个 Kiro credits（约 160 美元）",
       "url": "https://x.com/Aisiverto/status/2119322778641834402",
       "value": "4000 credits，约 160 美元，需参赛"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 738,
+      "notes": "89分。官网黑五页核实：1GB KVM VPS $15.98/年，1核/20GB SSD/1GB内存/3TB月流量、1Gbps端口、完整Root、1个IPv4，在售；FAQ明确终身同价续费。无固定截止日，仅分钟级倒计时。X原帖403未读到。",
+      "score": 89,
+      "title": "RackNerd 黑五 1GB KVM $15.98/年",
+      "url": "https://x.com/fwqgo_com/status/2124450849141531105",
+      "value": "$15.98/年，终身同价续费"
     },
     {
       "author": "NodeSeek官方频道",
@@ -704,6 +726,17 @@
       "title": "MinerU 文档转 Markdown：在线版每天 1000 页免费额度",
       "url": "https://x.com/Aisiverto/status/2123204859012804764",
       "value": "每天1000页免费转 Markdown，PDF/Word/图片都能转，超量只降优先级"
+    },
+    {
+      "author": "白嫖福利推送",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 740,
+      "notes": "87分。官网套餐页核实（2026-11-22 20:34）：香港HK-Micro ¥1.90/月（1核/512MB/5GB、5000Mbps、500GB/月，库存18台）在售；美国US-Mini ¥5.00/月（1核/1GB/10GB、400Mbps、流量不限、独立IPv4，库存117台）在售；德国¥1.99/月（DE-Micro）确有标价但已售罄，同机房各档全部售罄，在售德国最低为另一机房DE-Micro ¥5.90/月（库存32台）；德国全部套餐均为IPv6 Only、无IPv4/NAT。NodeSeek原帖被Cloudflare挡住未读到。",
+      "score": 87,
+      "title": "LowEndCloud 补货：香港 ¥1.90/月、美国 ¥5/月",
+      "url": "https://t.me/baipiaofl/65749",
+      "value": "香港¥1.90/月、美国¥5/月在售；德国¥1.99已售罄，在售最低¥5.90/月"
     },
     {
       "author": "Airdrop Blogs",
@@ -1531,6 +1564,17 @@
       "value": "免费开源 AI Agent（MIT），262k stars；可自学/自部署，带记忆与技能自改进"
     },
     {
+      "author": "KOF97AI",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 737,
+      "notes": "83分。GitHub仓库核实：huilang-me/CF-Server-Monitor，3.6k星、MIT；基于Cloudflare Workers+D1+Durable Objects的免费多服务器监控，默认60秒上报可支持约60台；“实测7台”为作者自述、仓库无记录；“零成本”以不超Cloudflare免费额度为前提。X原帖403未读到。",
+      "score": 83,
+      "title": "CF-Server-Monitor 免费多服务器监控",
+      "url": "https://x.com/KOF97AI/status/2124443464209428835",
+      "value": "开源免费；Cloudflare免费额度内零成本监控多台VPS"
+    },
+    {
       "author": "tantanyuli",
       "category": "软件工具",
       "expiry_date": null,
@@ -1628,6 +1672,17 @@
       "title": "Pulsar Money 11月返现提到4%：Pro用户前$3000消费全按4%返积分（到11月30日）",
       "url": "https://x.com/SecJack96/status/2120889366524698761",
       "value": "11月内Pro用户前$3000消费返4%积分（最高约$120积分）"
+    },
+    {
+      "author": "Lovislexus",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 735,
+      "notes": "82分。官网核实：免费档每天30GiB；Pro $40/年或$5/月、每月10TiB+每天30GiB，14天免费试用；试用仅限年付卡付（月付与加密支付无试用），免费Instant Account无需邮箱/电话/密码；试用忘取消将按年费扣款。X原帖403未读到。",
+      "score": 82,
+      "title": "URnetwork Pro 免费试用 14 天，免费版每天 30GiB",
+      "url": "https://x.com/Lovislexus/status/2124442782227988654",
+      "value": "免费版每天30GiB；Pro 14天免费试用（仅年付卡付），之后$40/年"
     },
     {
       "author": "Ciciyingying",
@@ -3119,7 +3174,7 @@
       "category": "云服务器",
       "expiry_date": null,
       "id": 687,
-      "notes": "77分。官方定价页证实Always Free每团队0美元：6GB内存、150% CPU（1.5核）、10GB磁盘、最多4台；团队共享池属实（FAQ：团队共用内存/CPU/磁盘池、可自行分配）。但“12月1日后每月100美元AI额度”未获证实且与定价表冲突：免费档Token Plan为None，Plus（7.99美元/月）约150美元/月、Business（40美元/月）约600美元/月，定价页与首页均无“$100”“December”字样；“注册不绑卡、不是试用不会休眠”在定价页与首页未找到明文。官方：altare.gg/en/pricing",
+      "notes": "77分。官方定价页证实Always Free每团队0美元：6GB内存、150% CPU（1.5核）、10GB磁盘、最多4台；团队共享池属实（FAQ：团队共用内存/CPU/磁盘池、可自行分配）。但“12月1日后每月100美元AI额度”未获证实且与定价表冲突：免费档Token Plan为None，Plus（7.99美元/月）约150美元/月、Business（40美元/月）约600美元/月，定价页与首页均无“$100”“December”字样；“注册不绑卡、不是试用不会休眠”在定价页与首页未找到明文。官方：altare.gg/en/pricing。【2026-11-22 复核补充】KOF97AI 同款免费档帖子再次核实：与本条同一免费档，规格未变、不是新档位；原帖称“单台4G、125% CPU、40G存储、可领两台”有误：40GB磁盘超出整个10GB免费池、不可能，125%亦非官网数值；节点共11个地区，无新加坡，伦敦为Altare Plus专属、免费档不可用，洛杉矶、曼谷、法兰克福确有；另有Workstations免费档每团队2台、共4GB/60GB；创建团队须绑定Discord。",
       "score": 77,
       "title": "Altare 免费云 Always Free",
       "url": "https://x.com/Ylj158852/status/2124329519288852626",
@@ -5722,6 +5777,17 @@
       "value": "$49.99/月常规价；大阪Equinix机房，CN2 GIA回国优化"
     },
     {
+      "author": "白嫖福利推送",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 734,
+      "notes": "70分（来源27/可验证12/价值12/时效14/风险5）：LINUX DO原帖已读到全文（作者awe0，2026-11-22发布，Develop分类）；dl.awe0.com首页核实：明示无水印·高清·免费·无需注册，支持抖音/TikTok/哔哩哔哩视频/图片解析，无付费墙、登录墙、会员入口；站内计数296人来过、75视频已解析。注意：①核实时B站解析报错（Unexpected token），作者称正在修复，解析成功率待复核；②有Cloudflare验证；③视频链接须经第三方服务器处理，“不保存记录”仅为站方自述、无法验证，无运营者信息与隐私政策；④去水印下载涉及平台规则与版权风险，仅供个人学习交流。原帖：https://linux.do/t/topic/3221943",
+      "score": 70,
+      "title": "免费去水印视频下载：抖音 / TikTok / B站，无需注册（dl.awe0.com）",
+      "url": "https://t.me/baipiaofl/65747",
+      "value": "免费去水印下载抖音/TikTok/B站，无需注册无付费墙；B站解析故障修复中"
+    },
+    {
       "author": "Lovislexus",
       "category": "其他",
       "expiry_date": "2026-12-09",
@@ -6316,6 +6382,17 @@
       "value": "免开卡费/年费的 U 卡，Visa 返现 1%、卡内 USDT 5% 年化；大陆 +86 无法注册/KYC，仅限海外身份参考。"
     },
     {
+      "author": "白嫖福利推送",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 733,
+      "notes": "67分（来源18/可验证15/价值14/时效15/风险5）：NodeSeek原帖被Cloudflare验证挡住未读到，以同作者V2EX同标题帖全文+DataOnline官网为准。越南DataOnline免费虚拟主机Free Hosting 1GB，下单确认0 VND、不勾选附加服务；须邮箱验证、自备子域名、DNS放Cloudflare；MUSE提示词部署VLESS+WS+TLS节点，控制面板为DirectAdmin（无SSH/终端），Cron+keeper.sh守护CloudLinux自带Node.js，.htaccess反代到127.0.0.1高位端口，Cloudflare灰云，DirectAdmin免费Let's Encrypt证书；交付订阅地址/vless链接/Mihomo YAML。注意：①每月仅20GB流量，只适合轻量备用；②这是免费虚拟主机、不是免费VPS；③自动续约默认开启、续费价未核实；④是否须绑卡未核实；⑤在免费虚拟主机上跑VLESS可能违反服务商规则、有封号风险；⑥须向AI提供邮箱/域名/账号信息，UUID只交付本人。原帖：https://www.nodeseek.com/post-1072266-1，同文：https://www.v2ex.com/t/1258921",
+      "score": 67,
+      "title": "免费越南主机 DataOnline：MUSE 自动化提示词部署 VLESS+WS+TLS 节点（每月20GB）",
+      "url": "https://t.me/baipiaofl/65746",
+      "value": "DataOnline免费虚拟主机1GB，MUSE提示词零付费部署越南VLESS节点；每月仅20GB、轻量备用"
+    },
+    {
       "author": "tantanyuli",
       "category": "软件工具",
       "expiry_date": null,
@@ -6668,6 +6745,17 @@
       "value": "48 小时内填邀请码，双方各得 10 亿 token"
     },
     {
+      "author": "SecJack96",
+      "category": "金融卡券",
+      "expiry_date": "2026-12-31",
+      "id": 736,
+      "notes": "66分。官方X线程摘要证实首档：前100名持有$250+ limUSD得前$500消费4%返现，12月刷卡有效、一人一档、按合格存款顺序占位；“前50名/$2,500+得6%”未在可读摘要中独立证实，仅见转述；官网无活动页，未见持仓快照时间与名额剩余。按$500上限计4%档最高返$20。须先持仓$250/$2,500 limUSD，自托管稳定币卡，资金与资格风险较高。X原帖403未读到。",
+      "score": 66,
+      "title": "Elios limUSD 持仓加成返现（12 月刷卡）",
+      "url": "https://x.com/SecJack96/status/2124464956494262361",
+      "value": "12月刷卡前$500消费返4%（最高$20），须先持仓$250+ limUSD"
+    },
+    {
       "author": "OnlyJettTian",
       "category": "软件工具",
       "expiry_date": null,
@@ -6688,6 +6776,17 @@
       "title": "RakSmart 精品 CN2 VPS：帖称新人券后 $4.52/月未证实（配置属实，官网黑五续费 7 折）",
       "url": "https://x.com/Lovislexus/status/2123799323465154713",
       "value": "帖称 1核1G/50G HDD/1TB 精品CN2 券后 $4.52/月，续费同价说法与官网不符"
+    },
+    {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 741,
+      "notes": "65分。NodeLoc原帖可读：每张eSIM含1GB中国流量+一个奥地利号码，通过TG机器人@roam_esim_bot每日签到攒积分、5积分换一张，另可1 USDT购买、靓号6 USDT；Roam官网证实eSIM本身免费、无激活费、无订阅，但1GB免费流量、奥地利号码与签到积分无官方佐证，套餐内容仅见于推广帖；领取须经第三方TG机器人。英国eSIM两条NodeSeek帖正文未读到（Cloudflare挡住），极可能是同一活动的两种表述，不另立条目。",
+      "score": 65,
+      "title": "Roam eSIM 免费领：1GB 中国流量+奥地利号码",
+      "url": "https://t.me/baipiaofl/65753",
+      "value": "免费eSIM+1GB中国流量+奥地利号码，签到5积分换一张"
     },
     {
       "author": "NodeSeek官方频道",
@@ -7749,5 +7848,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-22T19:25:49+08:00"
+  "updated_at": "2026-11-22T21:37:35+08:00"
 }
