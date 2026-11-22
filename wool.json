@@ -1,5 +1,5 @@
 {
-  "count": 731,
+  "count": 734,
   "items": [
     {
       "id": 652,
@@ -1485,6 +1485,17 @@
       "expiry_date": null,
       "value": "免费搜无版权素材；桌面端超 5 GiB 导入需付费 Pro",
       "notes": "85分（来源25/可验证25/价值10/时效15/风险10）。原帖与 clipseek.ai 官网均已核实：ClipSeek 可用自然语言搜无版权免费素材（视频、照片、插画），Free media 页明确写明 royalty-free；桌面应用 Free 版 $0、本地运行、不用登录不用绑卡，可导入最多 5 GiB。注意：桌面端超过 5 GiB 导入量需 Pro（一次性付费、早鸟价 $15，原价 $29，终身使用、14 天退款）。"
+    },
+    {
+      "id": 762,
+      "title": "CSTserver 洛杉矶三网精品 VPS $3.19/月（码 CSTOU4，60% 循环折扣）",
+      "url": "https://x.com/fwqgo_com/status/2124549317646229685",
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "score": 84,
+      "expiry_date": null,
+      "value": "原价$7.98/月，码CSTOU4（60%循环折扣）折后$3.19/月；2核/2G/50G SSD/1TB流量；电信CN2 GIA+联通9929+移动CMIN2；限时、无明确截止日，截至11-23仍有效有货",
+      "notes": "84分（来源25/可验证23/价值16/时效12/风险8）。CSTserver官网核实（Los Angeles Cloud Server, China Premium CN2, Limit flow）：产品CVM EPYC LACN2 X2，2 vCPU、2GB DDR4、50GB SSD、1024GB流量、1个IP、10Gbps DDoS，标价$7.98 USD/月；订购页月付总价同样$7.98。优惠码实测有效：2026-11-23 02:53 CST官网购物车输入CSTOU4显示“Promotion Code Accepted!”，小计$7.98、60% Recurring Discount −$4.79、合计$3.19 USD/月、今日应付$3.19，且为循环折扣（续费同样打折，非仅首月）。官网2026-11-22 18:06公告《Los Angeles China Premium CN2 Now Available》称“LAUNCH SPECIAL · LIMITED-TIME OFFER 60% OFF … Use coupon code CSTOU4”，只写“限时”、未写具体截止日期；该码此前2026-08-20秋季特惠与2026-11-07双11公告也在用。核实当日X2显示可下单、有货，官网未写限量（同页VIP线路LAX1显示缺货可作对照）。三网回程官网公告写明：China Telecom CN2 GIA、China Unicom AS9929、China Mobile CMIN2；订购页测试IP 38.189.57.1。注意：不要与另一条“China Optimized VIP”线路的LAX2（$6.73/月）混淆；帖子“EPYC 7K62”具体型号在官网产品页、订购页、公告及测评文章中均未出现，各方只写“EPYC / 2 vCPU”，该型号未证实。fwqgo_com同一活动5帖合一条。X原帖403未读到，结论以官网为准。"
     },
     {
       "id": 752,
@@ -5073,6 +5084,17 @@
       "notes": "73分（来源25/可验证25/价值8/时效10/风险5）。【2026-11-18 07:40晨报复核改写】原每日 1000 credits 免费已结束：aipromonow 2026-11-13 更新核实，Simular 11 月 12 日发邮件称免费测试当天关闭、每日额度不再刷新；测试用户得一次性 $5 额度（约 5000 credits，90 天有效），之后按量付费或订订阅（simular.ai 官方比价页亦写“$5 of free credit once”）。仍有效的部分：约 4 核 8G/40GB Ubuntu 云电脑，给 AI Agent 用（MCP 接入），免绑卡，Google/GitHub 登录即可；$5 额度约合 2 核 4G 机型 50 小时。注意：无公网入口、闲置休眠，不能当 VPS/节点用；$5 额度用完须付费（约 $0.10/小时）。"
     },
     {
+      "id": 760,
+      "title": "Infini Card 虚拟卡：仅 Lite/Lite Plus 支持 ChatGPT/Claude 订阅（首张免费）",
+      "url": "https://t.me/nodeseekc/1025650",
+      "author": "NodeSeek官方频道",
+      "category": "金融卡券",
+      "score": 72,
+      "expiry_date": null,
+      "value": "首张虚拟卡免费、$0月费年费；仅Lite/Lite Plus支持ChatGPT/Claude等AI订阅（Pro/Max不支持）；AI订阅返现最高50%；首次最低充值$10；须KYC",
+      "notes": "72分（来源22/可验证20/价值15/时效10/风险5）。Infini官网（infini.money/zh-CN/personal/cards）与两家独立评测（U卡观察2026-11-18、KK Investing 2026-11-15）核实：Infini为USDT/USDC消费虚拟卡（Visa/Mastercard网络，运营主体Cynosure Technology LLC），四款个人虚拟预付卡Lite、Lite Plus、Pro、Max；首张虚拟卡免费、之后每张$10，$0月费/$0年费，首次最低充值$10（计入卡内余额，非发行费），退款费1%。关键限定：只有美国商业Visa BIN的Lite与Lite Plus支持ChatGPT、Claude等AI订阅（Lite Plus实测Claude Pro、ChatGPT、Kiro Pro首次扣款成功），Pro与Max官方明文标注不支持AI订阅；AI订阅返现Standard 30%、Professional/Elite 50%，月上限$10/$10/$100，仅限Lite/Lite Plus支付的合格AI订阅/API充值；基础返现自11月1日起1.5%。FX：Pro 1%、Lite 3%、Lite Plus 0%、Max 0%（香港以外另收1%跨境费，低于$50每笔$0.30）。流程：注册并完成身份验证→存入USDT或USDC→选卡开卡，须KYC（L1证件+人脸可开Pro/Lite，Max需L2）；大陆用户：官方受限名单未点名中国大陆，但L2地址证明不收中国大陆签发文件，能否开卡以App审核为准。未证实：“$10新人开卡福利”官网当前页未见，旧帖标题称有但未证实。风险：Infini 2025年6月停过旧版卡（评测称此前传出约5000万美元被盗），2026年重新上线四款新卡；Infini不是银行，资金不受存款保险保护。NodeSeek原帖1073040未读到（IP被屏蔽），结论以官网与评测为准。"
+    },
+    {
       "id": 758,
       "title": "AFK Pilot免费扩展：Muse Code图形界面",
       "url": "https://x.com/BlockInsight214/status/2124505680853753934",
@@ -6943,6 +6965,17 @@
       "notes": "评分 67 分（来源20/可验证15/价值12/时效15/风险5）。原帖已核实存在且内容相符，但说法需打折：多方 10 月实测证实邮箱注册是主流程、部分用户确实免手机号免绑卡通过，但年龄验证（绑卡 1 美元预授权或关联 IG/FB）与美国 IP 地区风控仍在，“门槛消失”只对部分用户成立，且原帖作者自己也用“好像”表述。另：注册后 48 小时内兑换邀请码双方各得 10 亿 token；同号另一条帖子的邀请码 YXEARY（先到先得，名额无法核实）。"
     },
     {
+      "id": 761,
+      "title": "电信 TeleAgent 免费云电脑：限时免费体验 4核8G（闲置自动回收）",
+      "url": "https://x.com/KOF97AI/status/2124537228387074552",
+      "author": "KOF97AI",
+      "category": "云服务器",
+      "score": 66,
+      "expiry_date": null,
+      "value": "TeleAgent网页端限时免费体验，4核8G云电脑；闲置自动关机/回收资源；保活只能用官方定时任务做真实任务，5分钟发消息保活有封号风险",
+      "notes": "66分（来源20/可验证18/价值13/时效10/风险5）。X原帖403未读到，以短链跳转目标+官网+第三方教程核实：短链指向中国电信星辰超级智能体TeleAgent（agent.teleai.com.cn/square），中国电信官网2026-11-09报道确认TeleAgent V3.0于11月6日发布，首创“智能体+云电脑”模式。免费属实但有限期：官方《网页端操作手册》V3.0.0（2026-11-18更新）写明“现阶段网页端处于限时免费体验期，各项功能均可免费使用”，用户协议称提供“一定数量的免费积分额度”；未找到免费截止日期。配置为第三方实测：Windows Server 2022、Intel Xeon Skylake 2.99GHz 4核、8GB内存、C盘119GB+D盘20GB，官网手册未公布具体配置。帖子须修正：“每7天才重启一次”虚假/无依据——官方手册只写长时间未使用自动关机、未写任何时长，用户协议称持续未调用智能体功能将回收计算资源、运行环境不固定绑定、再次调用需重新分配、资源不足要排队；第三方教程称默认每1小时自动关机一次；没有任何来源提到“7天”。“国内手机号直接支持登录”过于肯定：登录页确有手机号登录选项，但页面提示“手机号登录服务可能异常，请使用账号登录”，且须先注册天翼AI开放平台账号并完成认证。保活方法有封号风险：官方手册的“定时任务”是平台自带功能、可定时自动启动云电脑执行真实任务，属合规用法；但每5分钟发无意义消息伪造“正在调用”以规避资源回收，属用户协议禁止的“采用技术手段规避正常计费或访问控制机制”，可处永久封禁，且每次发起对话都会扣积分。故不按原文收录，改写为限时免费体验、闲置自动回收，保活只能用官方定时任务做真实任务。"
+    },
+    {
       "id": 736,
       "title": "Elios limUSD 持仓加成返现（12 月刷卡）",
       "url": "https://x.com/SecJack96/status/2124464956494262361",
@@ -6984,7 +7017,7 @@
       "score": 65,
       "expiry_date": null,
       "value": "免费eSIM+1GB中国流量+奥地利号码，签到5积分换一张",
-      "notes": "65分。NodeLoc原帖可读：每张eSIM含1GB中国流量+一个奥地利号码，通过TG机器人@roam_esim_bot每日签到攒积分、5积分换一张，另可1 USDT购买、靓号6 USDT；Roam官网证实eSIM本身免费、无激活费、无订阅，但1GB免费流量、奥地利号码与签到积分无官方佐证，套餐内容仅见于推广帖；领取须经第三方TG机器人。英国eSIM两条NodeSeek帖正文未读到（Cloudflare挡住），极可能是同一活动的两种表述，不另立条目。"
+      "notes": "65分。NodeLoc原帖可读：每张eSIM含1GB中国流量+一个奥地利号码，通过TG机器人@roam_esim_bot每日签到攒积分、5积分换一张，另可1 USDT购买、靓号6 USDT；Roam官网证实eSIM本身免费、无激活费、无订阅，但1GB免费流量、奥地利号码与签到积分无官方佐证，套餐内容仅见于推广帖；领取须经第三方TG机器人。英国eSIM两条NodeSeek帖正文未读到（Cloudflare挡住），极可能是同一活动的两种表述，不另立条目。2026-11-23 02:40轮补核（NodeSeek 1072981/1072999/1073019/1073029/1073047、NodeLoc 118970）：与本条同一活动，无新规则；新增核实：每日签到+1分、邀请1人+1分，5分换一张即需签到5天；NodeLoc 118970机器人截图显示2026-11-23约02:17库存846张（快照，会变动）；“1GB中国流量”在多帖中表述为“中国漫游流量”；“可用于注册WhatsApp”仅见于发帖标题、无成功注册截图/实测，列为未证实，NodeLoc正文只写可注册Telegram；更早的NodeSeek帖1072659说明活动早于本次5帖；未见截止时间与流量/号码有效期；注意roamesims.com是澳大利亚旅行eSIM商站，与本次TG机器人活动无关。分数不变。"
     },
     {
       "id": 709,
@@ -8046,5 +8079,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-23T01:01:25+08:00"
+  "updated_at": "2026-11-23T02:59:39+08:00"
 }
