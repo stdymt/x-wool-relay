@@ -1,5 +1,5 @@
 {
- "count": 690,
+ "count": 693,
  "items": [
   {
    "id": 652,
@@ -22,6 +22,17 @@
    "expiry_date": null,
    "value": "OpenRouter免费调用，1M上下文、零费用；限流20次/分钟、50次/天",
    "notes": "96分。OpenRouter官方免费模型合集确认：免费榜第一NVIDIA Nemotron 3 Ultra (free)，近7天3.91T tokens；第二百度ERNIE-5.5-Flash-Preview (free) 3.79T；榜按近7天经API处理的token总量排。完整模型ID nvidia/nemotron-3-ultra-550b-a55b:free（帖子简写nvidia/nemotron-3-ultra:free非完整ID，直接访问返回找不到），$0输入/$0输出、上下文1,000,000、最大补全65,536；开源MoE，55B激活/550B总参数。限流属实：免费版20次/分钟、50次/天（购$10信用后1000次/天，失败请求也计入），OpenAI兼容。注意：免费榜第一≠总榜第一（总榜第9），与第二差距仅0.12T，排名随时翻转；付费版上下文仅262K、$0.50/$2.20每百万tokens，不要混淆。85+二审由本次核实重开OpenRouter官方页完成，维持96。"
+  },
+  {
+   "id": 719,
+   "title": "阿里云 ECS e 实例 99 元/年可续费（至 2029-03-31）",
+   "url": "https://t.me/nodeseekc/1024728",
+   "author": "NodeSeek官方频道",
+   "category": "云服务器",
+   "score": 95,
+   "expiry_date": "2029-03-31",
+   "value": "ECS e 实例 2核2G ¥99/年，每服务年可续费 1 次，至 2029-03-31",
+   "notes": "95分。阿里云官网特惠页证实：云服务器 ECS e 实例 2核2G 标价 ¥99.00/1年起（99计划、限1件）；官方“99套餐活动规则”明确：即日起至 2029-03-31 23:59:59，实名认证用户可以 99元/年购买指定配置 ECS 经济型 e 实例（2核2G、3M 固定带宽、40G ESSD Entry 系统盘，北京/杭州/上海等 10 个地域）；同一用户同一时段只能有一台享受优惠；每个服务年最多可 99元/年续费 1 次，续费须在 2029-03-31 前发起、须保持原始配置不变，变配期间不享 99 元续费、变回原配置可恢复；退订/释放后资格保留，可再次购买。纠正产品归属：99 元对应 ECS e 实例，不是轻量应用服务器（同页轻量 2核2G 为 ¥68/年新人专享）。NodeSeek 原帖因 Cloudflare 验证未读到；原活动地址 aliyun.com/activity/ecs 本次打开为 404，结论以可访问的官方特惠页及规则弹窗为准。85+ 二审由本次核实重开官网特惠页与规则弹窗完成。"
   },
   {
    "id": 717,
@@ -517,6 +528,17 @@
    "expiry_date": "2026-11-24",
    "value": "Nous Portal免费模型含Qwen4-Max :free版；官方免费5天，11-21为第三天；用量上限与结束日官网未标",
    "notes": "89分（来源28/可验证21/价值18/时效13/风险9）。独立浏览器核实：Hermes 是 Nous Research 的 AI Agent（桌面 App/终端安装，支持 macOS/Linux/Windows），免费档 $0 按量付费、仅限免费模型、标准速率限制；Nous Portal 模型页“Free Models”栏明确列出 Qwen: Qwen4 Max（QWEN/QWEN4-MAX:FREE），同列还有 LongCat-2.5、Step 3.7 Flash、Hy4 flash、Solar Mini 4；注意普通版 Qwen4 Max 另有标价（输入 $1.42/1M、输出 $4.27/1M），免费的是 :free 版本；Nous 官方帖称 Qwen4-Max 免费 5 天、输入输出均为 $0，约 11 月 19 日开始，11 月 21 日确为第三天，预计约 11 月 24 日结束；官网模型页未标注每日用量上限与具体结束日，截止日为预计值。85+二审由本次核实重开官方页完成，维持89。"
+  },
+  {
+   "id": 720,
+   "title": "Parallel 免费 AI 工具：搜索/抓取/信息判断免注册免 Key",
+   "url": "https://x.com/0xjackkk/status/2124413960908837205",
+   "author": "0xjackkk",
+   "category": "软件工具",
+   "score": 88,
+   "expiry_date": null,
+   "value": "免费：MCP 快速模式免注册免 Key 可用搜索/抓取/信息判断；有额度上限",
+   "notes": "88分。Parallel 官网定价页证实免费档 Launch：MCP 快速模式下 web_search、web_fetch、web_decisions、image_search 免注册、免 API Key；可用于 Claude Code、Claude Desktop、Cursor、Windsurf 等（MCP 接入）。创始人说法：Reuters 报道由前 Twitter CEO Parag Agrawal 创办（官网 About 页未列创始人姓名）。注意：免费并非无限量——快速模式为 lower rate limits、官网称仅够个人使用；完整 Research（web_research）须认证/付费；独立 Decisions API 不在免费档；完整 API 须 Build 付费档（每月 $5 免费额度、注册最高 $80，须留卡）。原帖 403 未读到，结论以官网为准。85+ 二审由本次核实重开官网定价页与 MCP 文档完成。"
   },
   {
    "id": 714,
@@ -7020,6 +7042,17 @@
    "notes": "63分（来源15/可验证20/价值5/时效15/风险8）：白嫖福利推送转发 NodeSeek 帖 + 搜索交叉证实：Red Bull MOBILE Data（奥地利 A1 旗下旅行 eSIM）App 注册后在 ReferralCode 填 TRAVELDEALZ，再领 TRAVELDEALZ1GB，共得 1.1GB 免费流量（首 100MB 官方免费 + 邀请码 1GB）。注意：①1GB 邀请码奖励为论坛长期流传口径，官方未公布奖励，以 App 内显示为准；②流量有效期据论坛说法为 1 年；③须装 App 注册、设备须支持 eSIM；④奥地利/漫游数据包，覆盖 100+ 国家地区，网速无 5G。"
   },
   {
+   "id": 721,
+   "title": "Gemini 4 四模型开通教程（Neon/Carbon/Hydrogen/Argon）",
+   "url": "https://x.com/Mileson07/status/2124425937769095453",
+   "author": "Mileson07",
+   "category": "软件工具",
+   "score": 62,
+   "expiry_date": null,
+   "value": "四模型代号属实，但免费开通不成立（Neon 须付费）；教程本身未核实",
+   "notes": "62分。四个代号属实：Google AI Studio 官方模型页列出 Gemini 4 Carbon（最强推理）、Neon、Hydrogen、Argon，均为 1M 上下文；官方博客四篇介绍（Argon 09-30、Carbon 10-28、Hydrogen 11-12、Neon 11-18）；Neon 2026-11-18 起在 Gemini API、AI Studio、Gemini for Business 上线，应用内面向付费 Pro 与 Ultra 用户，API 每百万输入 $3。关键纠正：官方定价页明确 Neon 不在免费档（not available on the Free tier），“免费开通”的暗示不成立，须付费。原帖 403 未读到，帖内教程链接未知，教程是否“保姆级”、是否真实可用、如何选模型/套餐均未核实；官方页未见地区限制或等候名单说明。"
+  },
+  {
    "id": 567,
    "title": "免费领pu.gy子域名：每人3个，5字符以上前缀免费（302/反代/有效期未证实）",
    "url": "https://x.com/Lniosytest/status/2123719401568415914",
@@ -7595,5 +7628,5 @@
  "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
  "source": "st3 twikit + TG 频道监控，本侧每小时审计打分",
  "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
- "updated_at": "2026-11-22T17:22:10+08:00"
+ "updated_at": "2026-11-22T17:29:07+08:00"
 }
