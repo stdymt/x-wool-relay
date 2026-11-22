@@ -1,5 +1,5 @@
 {
-  "count": 728,
+  "count": 731,
   "items": [
     {
       "id": 652,
@@ -3126,6 +3126,17 @@
       "notes": "79分（来源22/可验证20/价值15/时效15/风险7）。已核实：Kaggle官方文档确认T4 x2（2×16GB）、每周约30小时、单次最长12小时、需手机验证、无需绑卡。注意：Kaggle可接受使用政策把与机器学习无关的跑服务列为滥用，长期挂Ollama对外提供接口有封号风险；30B量化版需自行调显存。"
     },
     {
+      "id": 757,
+      "title": "Serv00长期免费虚拟主机",
+      "url": "https://x.com/BlockInsight214/status/2124525561095860660",
+      "author": "BlockInsight214",
+      "category": "云服务器",
+      "score": 78,
+      "expiry_date": null,
+      "value": "长期免费虚拟主机：3GB SSD、无限流量、可建100站；名额近上限（167634/170000），一人限一号，90天不登录删号",
+      "notes": "78分。官网 serv00.com 条款与 FAQ 核实：全部服务免费、无需信用卡；3GB SSD NVMe、不限流量、可建100站、MySQL 10+PostgreSQL 3+MongoDB 3、免费 Let's Encrypt SSL；90天须经 DevilWEB 或 SSH 面板登录否则删号。限制：官网显示 167634/170000 账户近上限，一人限一号，1核/512MB，官方保留封号权利。无明确截止，长期免费服务。X原帖403未读到，结论以官网为准。"
+    },
+    {
       "id": 754,
       "title": "汇丰香港信用卡内地地铁100%返现每卡上限25元",
       "url": "https://x.com/SecJack96/status/2124477950825509014",
@@ -4369,6 +4380,17 @@
       "notes": "76分（来源25/可验证23/价值12/时效9/风险7）。AirdropAlert 页（已重定向至 /airdrops/tzero-testnet/）与项目官方 testnet.tzer0.fun/docs/points 核实：$T0 的 11% 用于空投，测试网 Season 0 占 5%、未来主网季占 6%；需 500 积分才有资格，单钱包上限为供应量的 0.1%，按积分比例分配，Base Sepolia 测试网，测试 ETH 可领，90 天内未领取滚入下一季。积分规则：Fuel 每买 1 ETH 得 1,000 分（需持有 60 分钟、每日每钱包最多计 1 ETH、低于 0.0005 ETH 不计），Crew +150（每日最多 5 次）、Liftoff 创建者 +500、质押每日共 5,000 分（单钱包每日上限 1,000 分）、Signal 回复/引用 +200、关注 @T0dotfun +100；快照提前 7 天公告，快照前公开女巫审查。无需押金、无邀请要求，只需钱包 + X 账号关联；主网上线时间、代币价格均未公布，分配为未来空投、非即时到账。"
     },
     {
+      "id": 759,
+      "title": "ShopBack跳转eBay首单挂售拿$10",
+      "url": "https://t.me/baipiaofl/65781",
+      "author": "白嫖福利推送",
+      "category": "金融卡券",
+      "score": 75,
+      "expiry_date": "2026-11-23",
+      "value": "仅限新用户首次卖家挂单，Boosted $10 仅剩约15小时（约11-23 16:00 CST 结束）；返现7天追踪、65天确认，最低提现$10，可提PayPal/ACH",
+      "notes": "75分。ShopBack 官方活动页 shopback.com/ebay-seller（USA）证实：eBay Sell and Earn，Boosted $10 返现（Standard $5），仅限新用户首次卖家挂单（New User First Seller Listing），仅新挂单计入。截止极近：核实观测时页面倒计时约15小时，约 2026-11-23 16:00 CST 结束（推算值，以页面实时倒计时为准）。到账周期长：返现7天内追踪、65天内确认；最低提现 $10 Confirmed Cashback，可提 PayPal 或 ACH 到美国银行账户，无手续费。原帖 NodeSeek 1072893 未读到（Cloudflare 挡住），以官方活动页为准。"
+    },
+    {
       "id": 686,
       "title": "Infini Lite 纯血美卡",
       "url": "https://x.com/Javary324/status/2124326834661982534",
@@ -5049,6 +5071,17 @@
       "expiry_date": "一次性 $5 额度 90 天有效（每日 1000 credits 免费测试已于 11-12 结束）",
       "value": "一次性 $5 额度（约 5000 credits，90 天有效），之后按量付费；每日免费已结束",
       "notes": "73分（来源25/可验证25/价值8/时效10/风险5）。【2026-11-18 07:40晨报复核改写】原每日 1000 credits 免费已结束：aipromonow 2026-11-13 更新核实，Simular 11 月 12 日发邮件称免费测试当天关闭、每日额度不再刷新；测试用户得一次性 $5 额度（约 5000 credits，90 天有效），之后按量付费或订订阅（simular.ai 官方比价页亦写“$5 of free credit once”）。仍有效的部分：约 4 核 8G/40GB Ubuntu 云电脑，给 AI Agent 用（MCP 接入），免绑卡，Google/GitHub 登录即可；$5 额度约合 2 核 4G 机型 50 小时。注意：无公网入口、闲置休眠，不能当 VPS/节点用；$5 额度用完须付费（约 $0.10/小时）。"
+    },
+    {
+      "id": 758,
+      "title": "AFK Pilot免费扩展：Muse Code图形界面",
+      "url": "https://x.com/BlockInsight214/status/2124505680853753934",
+      "author": "BlockInsight214",
+      "category": "软件工具",
+      "score": 72,
+      "expiry_date": null,
+      "value": "免费 VS Code/Cursor 扩展：给 Muse Code 等 Agent 加图形界面，支持手机远程控制；各 Agent 另须自有账号/订阅",
+      "notes": "72分。VS Code Marketplace 与 GitHub 核实：AFK Pilot 扩展免费（Marketplace 标价 Free，39,296 次安装，5/5 分），把 Meta Muse Code 等 Agent 接进 VS Code/Cursor 侧边栏 GUI，支持手机浏览器远程控制；许可证为 FSL-1.1-MIT，非 MIT/Apache 式纯开源。注意：扩展免费不等于 Agent 免费，各 Agent 须自有账号/订阅。无截止时间/名额限制。X原帖403未读到，结论以官方来源为准。"
     },
     {
       "id": 677,
@@ -8013,5 +8046,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-22T23:14:01+08:00"
+  "updated_at": "2026-11-23T01:01:25+08:00"
 }
