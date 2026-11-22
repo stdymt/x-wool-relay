@@ -1,5 +1,5 @@
 {
-  "count": 734,
+  "count": 738,
   "items": [
     {
       "id": 652,
@@ -1485,6 +1485,28 @@
       "expiry_date": null,
       "value": "免费搜无版权素材；桌面端超 5 GiB 导入需付费 Pro",
       "notes": "85分（来源25/可验证25/价值10/时效15/风险10）。原帖与 clipseek.ai 官网均已核实：ClipSeek 可用自然语言搜无版权免费素材（视频、照片、插画），Free media 页明确写明 royalty-free；桌面应用 Free 版 $0、本地运行、不用登录不用绑卡，可导入最多 5 GiB。注意：桌面端超过 5 GiB 导入量需 Pro（一次性付费、早鸟价 $15，原价 $29，终身使用、14 天退款）。"
+    },
+    {
+      "id": 766,
+      "title": "Owncast：免费开源自托管直播服务器（MIT）",
+      "url": "https://x.com/Aisiverto/status/2124614648154759559",
+      "author": "Aisiverto",
+      "category": "软件工具",
+      "score": 84,
+      "expiry_date": null,
+      "value": "免费开源（MIT）：OBS 推 RTMP 转 HLS，直播页/聊天室/管理后台一体；无订阅、无观众上限；须自备服务器",
+      "notes": "84分（来源26/可验证23/价值12/时效13/风险10）。官网 owncast.online 与 GitHub 核实：开源自托管直播软件，MIT 协议，11.7k stars、1.2k forks，最新版 v0.3.0（2026-09-03）；官网原话“无订阅、无观众上限、无强制广告”，无需注册即可下载；兼容 RTMP（OBS/Streamlabs/FFmpeg 推流）、HLS 分发，内置实时聊天与管理后台。无付费版本或订阅档位，仅自愿捐赠。注意：软件免费但须自备服务器运行，服务器成本不含。X 原帖 403 未读到，结论以官方来源为准。"
+    },
+    {
+      "id": 763,
+      "title": "dsh-context：DeepSeek Harness 上下文洞察插件（免费开源）",
+      "url": "https://x.com/tantanyuli/status/2124614648360321371",
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "score": 84,
+      "expiry_date": null,
+      "value": "免费开源插件（Apache-2.0）：看 Agent 上下文组成、7 天 token/费用、8 周热力图；DSH 团队成员推荐",
+      "notes": "84分（来源26/可验证23/价值12/时效13/风险10）。GitHub 仓库核实：bowenliang123/dsh-context，5.4k stars、240 forks，最新 release v0.87.1（核实当日发布），Apache-2.0；功能与帖子相符：上下文洞察页、最近 7 天计费 Token 与预估成本、最近 8 周每日热力图、上下文里程碑、Agent 间消息追踪；README 明确获 DSH 团队成员 @tianyicui 与 @turtle1999 推荐并加星；DeepSeek Harness 本身为 DeepSeek 官方开源项目（286k stars）。注意：插件免费不等于 Agent 免费，调用仍按所用模型计费；deepseekharness.dev 插件页许可证与版本号信息滞后（MIT/v1.2.0），以 GitHub 为准。X 原帖 403 未读到，结论以官方来源为准。"
     },
     {
       "id": 762,
@@ -4389,6 +4411,17 @@
       "expiry_date": "无固定截止日（测试网进行中）",
       "value": "测试网做任务攒积分，$T0 11% 空投（Season 0 5% + 未来主网季 6%）；需 500 积分才有资格，单钱包上限 0.1%",
       "notes": "76分（来源25/可验证23/价值12/时效9/风险7）。AirdropAlert 页（已重定向至 /airdrops/tzero-testnet/）与项目官方 testnet.tzer0.fun/docs/points 核实：$T0 的 11% 用于空投，测试网 Season 0 占 5%、未来主网季占 6%；需 500 积分才有资格，单钱包上限为供应量的 0.1%，按积分比例分配，Base Sepolia 测试网，测试 ETH 可领，90 天内未领取滚入下一季。积分规则：Fuel 每买 1 ETH 得 1,000 分（需持有 60 分钟、每日每钱包最多计 1 ETH、低于 0.0005 ETH 不计），Crew +150（每日最多 5 次）、Liftoff 创建者 +500、质押每日共 5,000 分（单钱包每日上限 1,000 分）、Signal 回复/引用 +200、关注 @T0dotfun +100；快照提前 7 天公告，快照前公开女巫审查。无需押金、无邀请要求，只需钱包 + X 账号关联；主网上线时间、代币价格均未公布，分配为未来空投、非即时到账。"
+    },
+    {
+      "id": 764,
+      "title": "AWS Quick 免费版可用 Claude Opus 5.5（Smart 模式对应未证实）",
+      "url": "https://x.com/Lovislexus/status/2124623960125923735",
+      "author": "Lovislexus",
+      "category": "免费额度",
+      "score": 75,
+      "expiry_date": null,
+      "value": "Free 版 $0/月长期免费、30 天试用针对 Enterprise 计划且无需信用卡；Opus 5.5 于 2026-09-22 上线 Bedrock；免费版 agent hours 额度官方未公布",
+      "notes": "75分（来源24/可验证18/价值14/时效10/风险9）。AWS 官方博客与定价页核实：Claude Opus 5.5 真实存在，2026-09-22 上线 Bedrock/Claude Platform on AWS；AWS Quick Free 版 $0/用户/月长期免费，30 天试用针对 Enterprise 计划（新客户最多 25 用户，订阅费与 $250 基础设施费全免，无需信用卡），个人版邮箱/社交账号注册、无需 AWS 账号。须修正：帖子称“送 Opus 5.5 免费用 30 天”有混淆——30 天是 Enterprise 试用期，非针对 Opus 5.5 的免费额度；Smart 模式存在但官方未点名任何模型，resolved_model_id 显示 claude-opus-5-5 属帖主个人观测、未证实；免费版 agent hours 额度官方未公布，流传的“每月免费 10 小时”无官方依据；Magpie 为第三方开源工具（MIT），可接 Claude Code/Codex，非 AWS 官方提供。X 原帖 403 未读到，结论以官方来源为准。"
     },
     {
       "id": 759,
@@ -7372,6 +7405,17 @@
       "notes": "65分（来源22/可验证10/价值10/时效15/风险8）。与本轮另一条Kaggle帖同源，属于同一玩法的概念版，无具体步骤；核心事实（T4 x2、每周约30小时）已按Kaggle官方文档核实。"
     },
     {
+      "id": 765,
+      "title": "Nodaroo 免费 VPS：2核6GB/50GB NVMe（需申请，期限与绑卡未核实）",
+      "url": "https://x.com/Lovislexus/status/2124608861394833830",
+      "author": "Lovislexus",
+      "category": "云服务器",
+      "score": 64,
+      "expiry_date": null,
+      "value": "免费 VPS：2核/6GB内存/50GB NVMe；官网或 Discord 提交申请；期限、绑卡/KYC、名额未核实",
+      "notes": "64分（来源20/可验证10/价值16/时效13/风险5）。Bing 官方页搜索摘要证实：免费页写“2 CPU, 6GB RAM, 50GB NVMe”，官网首页有 Free VPS 入口，付费 VPS 起价 $4.00/月；官方博客摘要称可官网申请或加入 Discord 提交申请。未核实：官网首页与免费页被 Cloudflare Turnstile 拦截未能打开，免费期限、能否长期用、是否绑卡/KYC/押金、名额与排队均未确认；“免费领取”不能确认是即领即用。X 原帖 403 未读到。"
+    },
+    {
       "id": 613,
       "title": "LegendVPS洛杉矶福利机$0.5/月（1核512M/2TB流量）",
       "url": "https://t.me/nodeseekc/1022062",
@@ -8079,5 +8123,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-23T04:43:28+08:00"
+  "updated_at": "2026-11-23T07:04:59+08:00"
 }
