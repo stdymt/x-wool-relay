@@ -7,7 +7,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 - 范围：以 AI 为主（AI 会员、免费额度、VPS/VPN、AI 赚钱新路子）
 - 更新时间：见 wool.json 里的 `updated_at`（北京时间）
 
-## 本次更新（2026-11-24 02:54，797 条，本轮新增 1 条）
+## 本次更新（2026-11-24 02:59，802 条，本轮新增 5 条）
 
 | 分 | 内容 |
 |---|--- |
@@ -69,6 +69,8 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 90 | 魔搭 ModelScope × AMD 激励计划 2.0：注册 AMD 开发者计划送 100 小时 192GB 显存 Notebook（帖称 12 月底截止（官方活动页未见明确截止日，以活动页为准）） |
 | 90 | Oracle Free 账户注册实测成功（香港区 + 86 手机号 + Visa） |
 | 90 | Kiroween 黑客松：申请领 4000 个 Kiro credits（约 160 美元）（2026-12-01） |
+| 90 | Qoder匿名模型HungerG限时免费：7天零Credits无限次（2026-11-30） |
+| 90 | OpenAI科学家计划：5万份ChatGPT Plus免费12个月（本人+2名合作者） |
 | 89 | 微信 AI 小程序成长计划：10 亿 Token + 生图 10 万张（至 12-31，需有小程序）（2026-12-31） |
 | 89 | GitHub 官方 MCP 服务器：免费开源，把仓库/Issue/PR 交给 Agent（34.7k stars，MIT） |
 | 89 | RackNerd 黑五 1GB KVM $15.98/年 |
@@ -170,6 +172,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 85 | 阿里云ESA+腾讯EdgeOne免费CDN：永久免费套餐，1个免费站点（长期有效） |
 | 85 | 开源 ccteam：把 Claude Code、Codex、Grok、Kimi 编成一队派活 |
 | 85 | ClipSeek：一句话搜无版权免费视频、照片、插画素材 |
+| 85 | LabEx免费实验：每天3次启动，1000+免费实验无需绑卡 |
 | 84 | 100milionseek：每天免费 1 亿 deepseek-4.1-flash tokens（注册分批放号） |
 | 84 | Owncast：免费开源自托管直播服务器（MIT） |
 | 84 | dsh-context：DeepSeek Harness 上下文洞察插件（免费开源） |
@@ -277,6 +280,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 82 | UnoRouter 新增 8 个免费端点（含 GPT 5.6 Luna），免绑卡 |
 | 82 | Kaggle 免费 2 张 T4 GPU（每张 16GB），每周约 30 小时 |
 | 82 | Google Colab 免费版可用 16GB 显存 T4（另有 TPU） |
+| 82 | FreeDns免费二级域名：pvf.cc/kz.ci/xyz.ci三后缀，可接Cloudflare |
 | 81 | OpenGame 首届游戏开发赛：$100K 现金奖池（11-18 至 12-18）（2026-12-18） |
 | 81 | Regolo 试用每天 100 万 Token + IteraCompute 免费 30M/月（2026-11-24） |
 | 81 | figures4papers：给 Codex/Claude Code/Cursor 的论文绘图 Skill（12.3k Star，CC BY-NC 仅限非商业）（无固定截止日（开源项目进行中）） |
@@ -320,6 +324,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 80 | 开源 Seedance 2.0 Skill OS：把视频生成拉到影视工作流（长期有效） |
 | 80 | 讯飞Loomy免费领积分：每日登录送5000，邀请码再领10000（进行中（活动随时可能调整）） |
 | 80 | Bing积分任务搜索5天送90天Discord Nitro会员（2027-11-03） |
+| 80 | BNESIM中国eSIM 50GB永久有效：七折后约128.23元（2026-11-30） |
 | 79 | 六六云美国家宽 AT&T 节点 ¥200/月 |
 | 79 | 三大科学家计划：OpenAI/Anthropic/Google 免费算力（11-23 新一轮） |
 | 79 | ph24.io 2026 闪购：法兰克福 VPS €4.95/月起（至 11-26）（2026-11-26） |
