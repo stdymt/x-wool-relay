@@ -1,5 +1,5 @@
 {
-  "count": 737,
+  "count": 740,
   "items": [
     {
       "id": 652,
@@ -495,6 +495,17 @@
       "expiry_date": "2026-12-01",
       "value": "4000 credits，约 160 美元，需参赛",
       "notes": "评分 90 分（来源25/可验证25/价值20/时效15/风险5）。原帖与 Devpost 官方规则均已核实：Kiroween 2026 黑客松参赛者可申请一次性 4000 Kiro credits（约 160 美元），用 Kiro 用户 ID 或 AWS 账户 ID 填表申请，48 个工作小时内审核。注意：需注册 Devpost + Kiro 账号、通过 Didit 身份验证（证件+自拍），且须提交参赛作品；申请截止 12 月 1 日 12:00 PT，兑换截止 12 月 4 日，额度 12 月 31 日到期。"
+    },
+    {
+      "id": 770,
+      "title": "GitHub 官方 MCP 服务器：免费开源，把仓库/Issue/PR 交给 Agent（34.7k stars，MIT）",
+      "url": "https://x.com/Aisiverto/status/2124629999391240656",
+      "author": "Aisiverto",
+      "category": "软件工具",
+      "score": 89,
+      "expiry_date": null,
+      "value": "MIT 开源免费；须 GitHub 账号 + OAuth/PAT 认证；默认工具集不含 Actions，须显式启用",
+      "notes": "89分（来源26/可验证24/价值17/时效14/风险8）。X原帖403未读到，以官方仓库为准。GitHub 官方仓库 github/github-mcp-server 核实：About 栏即写“GitHub's official MCP Server”，Public；2026-11-23 查看时 34.7k stars、5.4k forks；许可证 MIT。功能：把 AI 工具直连 GitHub 平台，仓库管理、Issue 与 PR 自动化、CI/CD 与 Actions 工作流、代码分析、团队协作；工具集可按 repos、issues、pull_requests、actions、code_security 等开关。仓库本身 MIT 开源、公开免费；使用须有 GitHub 账号并以 OAuth 或 GitHub Personal Access Token 认证，远程服务由 GitHub 托管。接入：“一行配置”基本属实，远程版只需在 MCP 客户端加入官方 http 端点，支持 VS Code 1.101+、Claude Desktop、Cursor、Windsurf 等；本地版可用 Docker 镜像 ghcr.io/github/github-mcp-server 或源码 go build。注意：默认工具集为 context、repos、issues、pull_requests、users，不含 actions，如需把 Actions 交给 agent 须显式启用 actions 工具集。85+二审由本次核实重开 GitHub 仓库页完成。"
     },
     {
       "id": 738,
@@ -2640,6 +2651,17 @@
       "expiry_date": "无固定截止日（开源项目）",
       "value": "开源免费AI视频剪辑工具；用编程智能体做视频，可导出或带到PR/FCP/DaVinci",
       "notes": "81分（来源20/可验证25/价值13/时效15/风险8）。GitHub仓库 openfilm/openfilm 核实：MIT协议开源，最新版0.4.1，8.6k Stars、848 Forks（帖称“约4.4K Stars”已过时、实际更高）；中文README称“开源的 AI 视频智能体”，把Claude Code、Codex等任意编程智能体变成视频智能体，配放映/剪辑/画布/调色四个编辑器，可导出视频或把时间线带到Final Cut Pro、Premiere Pro、DaVinci Resolve。注意：①“国产”一说仓库未明示公司国籍，中文README与中文社区入口可作旁证、未证实；②用编程智能体做视频可能另需模型API费用。原帖全文未读到（X 403）。"
+    },
+    {
+      "id": 769,
+      "title": "Simafri 学生免费 VPS 10个月（VPS Pro 1：1核2G/20G NVMe，限合作学校学生）",
+      "url": "https://x.com/BlockInsight214/status/2124628797924458992",
+      "author": "BlockInsight214",
+      "category": "云服务器",
+      "score": 80,
+      "expiry_date": null,
+      "value": "免费10个月 VPS，常规价 US$4.99/月；仅限合作学校学生，须学校确认在读身份",
+      "notes": "80分（来源24/可验证24/价值14/时效12/风险6）。X原帖403未读到，以官网为准。Simafri官网 free-vps-for-students 页证实：Fondation Simafri 提供，免费10个月；配置确为 VPS Pro 1：1 vCPU（Intel Xeon）、2GB ECC内存、20GB NVMe存储（镜像）；含 root 权限（SSH，自带密钥）、每晚加密备份（保留最近7夜）、Full-Stack Assistance，另含 Anti-DDoS、可用性监控、HTTPS证书、任意 Linux 发行版。门槛：须为与 Fondation Simafri 合作的学校的学生，由学校确认在读身份；未合作学校可由校方发邮件至 fondation@simafri.com 申请成为合作伙伴；获批后在 my.simafri.com 添加公钥 SSH 密钥即可上线。名额有限、以库存为准，无具体名额数与截止日。申请表字段仅姓名、邮箱、电话（可选）、学校与专业、项目，可见范围无绑卡/KYC/押金要求，但页面未明文写“无需绑卡”，后续流程是否另有要求无法断言。到期提前30天通知，可按常规价续用或取回数据；VPS Pro 1 常规价 US$4.99/月（年付 US$54.89，不含税）。"
     },
     {
       "id": 742,
@@ -6349,6 +6371,17 @@
       "notes": "70分（来源20/可验证20/价值5/时效15/风险10）。原帖与 Chrome 应用商店核实：同名同功能的 X Rewind: Post History Tracker 真实存在、免费，自动记录刷过的帖子、侧栏回看、可搜索、数据只存本地。注意：原帖称“开源”未证实，商店页未写开源；同类插件有多个（X 历史记录、Tweet Trail 等），以帖子截图的为准；这是免费小工具，不省钱、省时间。"
     },
     {
+      "id": 768,
+      "title": "Noxc 免费二级域名已恢复申请（365天有效期，积分制）",
+      "url": "https://t.me/baipiaofl/65812",
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "score": 69,
+      "expiry_date": null,
+      "value": "免费二级域名 365 天，可自定义解析/NS 委托；积分制每日签到可攒",
+      "notes": "69分（来源20/可验证18/价值13/时效13/风险5）。NodeLoc原帖（2026-11-23 08:10）正文仅一句英文感叹，无恢复截图或测试证据；但时间线吻合：同一楼主前一晚发帖称因 Cloudflare 免费计划 D1 触及上限暂停申请至 08:00，恢复帖发于 08:10。官方站核实：Noxc 为 Cloudflare Workers+D1 免费二级域名分发与 DNS 管理系统，可申请 <前缀>.<根域名>、自行解析记录、做 NS 委托；主域名 meoy.top，noxc.uk 为首推后缀（另有 v-1.top 等）；默认有效期 365 天，剩余不足一半时可续期；积分制：每日签到+30、新用户初始100、普通域名消耗60、单字域名消耗300、积分上限10000；仅支持 Gmail/QQ 邮箱注册；无绑卡/KYC/押金；明确不是通用顶级域名注册商、不托管网站内容、不提供 SLA。风险：D1 上限刚导致过暂停，可持续性存疑；X 上称注册期限延长至 3650 天的说法与官方条款 365 天不一致，不采信。"
+    },
+    {
       "id": 702,
       "title": "RAKsmart 硅谷双 ISP VPS $3.87/月（黑五）",
       "url": "https://x.com/Lovislexus/status/2124367030656917800",
@@ -8112,5 +8145,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-23T08:00:17+08:00"
+  "updated_at": "2026-11-23T08:52:51+08:00"
 }
