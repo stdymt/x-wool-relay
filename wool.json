@@ -1,5 +1,5 @@
 {
-  "count": 802,
+  "count": 809,
   "items": [
     {
       "id": 802,
@@ -970,6 +970,17 @@
       "notes": "88分；官网 mineru.net 核实：精准解析 API 每个账号每天 1000 页最高优先级解析额度，超量降优先级不停；单文件≤200MB/≤200页；需注册登录拿 Token，未提绑卡；Agent 轻量版免登录免 Token（单文件≤10MB/≤20页，仅出 Markdown）；开源本地版 AGPL-3.0、44.9k stars，自部署无页数限制；帖称可出 EPUB，官方文档只列 docx/html/latex，未见 EPUB。独立浏览器核实+搜索二审佐证一致。"
     },
     {
+      "author": "SecJack96",
+      "category": "金融卡券",
+      "expiry_date": "2026-12-06",
+      "id": 840,
+      "notes": "88分（来源28/可验证24/价值14/时效13/风险9）。汇丰官方条款+多家指南证实：2027年度最红自主奖赏，已登记2026年度者须于11-23至12-06经Reward+重新登记，否则2027年失去额外5X；额外5X最高多2%+基本0.4%=最高2.4%；适用于多数汇丰信用卡（Red/EveryMile/Privé除外）；新客户可2027-01-01起登记。",
+      "score": 88,
+      "title": "汇丰最红自主奖赏2027登记：11-23至12-06，最高2.4%回赠",
+      "url": "https://x.com/SecJack96/status/2124678525739565288",
+      "value": "登记后指定类别签账最高2.4%回赠一年，错过12-06须等2027年再登记"
+    },
+    {
       "id": 774,
       "title": "OpenCode免费调用腾讯混元Hy4 flash（限时免费，1M上下文）",
       "url": "https://x.com/KOF97AI/status/2124688131928817831",
@@ -1254,6 +1265,17 @@
       "expiry_date": "前10000名先到先得（官网未写截止日；作者称90天有效，未证实）",
       "value": "免费 10 亿决策 tokens（约 42 美元），免绑卡，API 可用",
       "notes": "评分87分（来源25/可验证25/价值12/时效15/风险10）。原帖与官网 articul8.ai/bivia 均已核实：Bivia 决策模型首发优惠，前 10000 名免费领 10 亿 tokens（10亿=1B），免订阅；定价 $0.042/百万输入 tokens、输出 $0；Articul8 为 Intel 背景 AI 公司，Bivia 2026-10-28 发布。注意：①“90天有效”是作者后续帖说法，官网未写截止日与有效期；②链接指向 app.articul8.ai 登录页，需注册领 API Key；③这是决策模型（只做判断、不生成文本），不是通用大模型，适合接 Agent/工作流。"
+    },
+    {
+      "author": "KOF97AI",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 837,
+      "notes": "87分（来源29/可验证25/价值16/时效8/风险9）。AMD官网证实：免费加入，$100 AMD Developer Cloud额度、1个月DeepLearning.AI Pro、私人Discord、每月硬件抽奖、积分升级解锁AMD Vault周边；无截止日、长期有效。",
+      "score": 87,
+      "title": "AMD AI开发者计划：免费加入，$100云算力+DeepLearning.AI一个月",
+      "url": "https://x.com/KOF97AI/status/2124696095347650939",
+      "value": "$100云算力+一个月课程，适合想在AMD硬件上跑AI的开发者"
     },
     {
       "id": 800,
@@ -1782,6 +1804,17 @@
       "title": "LabEx免费实验：每天3次启动，1000+免费实验无需绑卡",
       "url": "https://x.com/tantanyuli/status/2124889459229708595",
       "value": "每天3次启动/3台虚拟机，1000+免费实验，无需绑卡，适合练Linux/Docker/基础安全与运维"
+    },
+    {
+      "author": "BlockInsight214",
+      "category": "订阅优惠",
+      "expiry_date": null,
+      "id": 838,
+      "notes": "85分（来源28/可验证25/价值13/时效10/风险9）。OpenAI官方文档证实：Responses API后台模式2h窗口7折、8h窗口6折（标准价基础），适用于GPT-6.2 Astra/Sol、GPT-6.1 Terra、GPT-6 Luna，公开测试版；12小时提示词缓存写入价为输入价2.5倍亦与价目表一致。注意：折扣仅针对能等2-8小时的批量任务，需service_tier=default。",
+      "score": 85,
+      "title": "OpenAI Responses API后台窗口：2小时7折、8小时6折（GPT-6.2等）",
+      "url": "https://x.com/BlockInsight214/status/2124703735448588739",
+      "value": "批量/夜间任务调用GPT-6.2等模型可省30-40% token费用"
     },
     {
       "id": 767,
@@ -3027,6 +3060,17 @@
       "notes": "81分（来源20/可验证25/价值13/时效15/风险8）。GitHub仓库 openfilm/openfilm 核实：MIT协议开源，最新版0.4.1，8.6k Stars、848 Forks（帖称“约4.4K Stars”已过时、实际更高）；中文README称“开源的 AI 视频智能体”，把Claude Code、Codex等任意编程智能体变成视频智能体，配放映/剪辑/画布/调色四个编辑器，可导出视频或把时间线带到Final Cut Pro、Premiere Pro、DaVinci Resolve。注意：①“国产”一说仓库未明示公司国籍，中文README与中文社区入口可作旁证、未证实；②用编程智能体做视频可能另需模型API费用。原帖全文未读到（X 403）。"
     },
     {
+      "author": "Ylj158852",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 842,
+      "notes": "81分（来源26/可验证22/价值12/时效12/风险9）。多方证实（36氪及多篇实测）：DeepSeek Harness桌面版首次登录送6元体验赠金，7天内有效，限量、每账号一次，免绑卡、需手机号；36氪文内“有效期到10月6日”疑为首批批次，与11-15第三方核实“仍可领”不一致，以客户端实际到账为准。",
+      "score": 81,
+      "title": "DeepSeek Harness桌面版：首次登录送6元体验金（7天有效、限量）",
+      "url": "https://x.com/Ylj158852/status/2124717073146511489",
+      "value": "6元体验金约可跑少量任务，7天内用完"
+    },
+    {
       "id": 772,
       "title": "VPSServer 30天免费VPS试用（含$100额度，须绑卡验证）",
       "url": "https://x.com/BlockInsight214/status/2124657178451787812",
@@ -3454,6 +3498,17 @@
       "title": "BNESIM中国eSIM 50GB永久有效：七折后约128.23元",
       "url": "https://x.com/Lniosytest/status/2124909151839272992",
       "value": "50GB中国eSIM流量永不过期，七折后约128.23元，联通5G纯流量"
+    },
+    {
+      "author": "白嫖福利推送",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 843,
+      "notes": "80分（来源26/可验证22/价值15/时效9/风险8）。微软官方证实Azure for Students：$100额度、12个月有效、免绑卡，须年满18岁全日制高校在读+学校邮箱验证；NodeSeek帖称用该额度在India South Central开免费CPU+双64G硬盘（帖子留档转载，具体配置未直接核实，以Azure门户实际可选为准）。注意：额度用完即停，虚拟机不关会持续扣费。",
+      "score": 80,
+      "title": "Azure学生版：$100额度免绑卡，可开免费CPU+双64G硬盘（印度中南部）",
+      "url": "https://t.me/baipiaofl/65949",
+      "value": "学生$100云额度，可开免费配置练手"
     },
     {
       "id": 783,
@@ -4787,6 +4842,17 @@
       "notes": "评分 77 分（来源25/可验证20/价值12/时效15/风险5）。原帖与多方来源均已核实：腾讯 LightVela（轻量云云端 Agent）新用户首单免费 1 个月启航 AI 套餐，每月含 4500 AI 积分，平时标价 10 美元/月；国内站需实名认证，国际站免 KYC。注意两点：①原帖“4500积分3个月”未证实，官方口径是首月免费、每月 4500 积分；②原帖教的“从云存储下载 .env 文件当 API key 外用”属非官方用法，有被封号风险，不建议照搬。"
     },
     {
+      "author": "SecJack96",
+      "category": "金融卡券",
+      "expiry_date": "2026-12-31",
+      "id": 839,
+      "notes": "77分（来源24/可验证20/价值15/时效12/风险6）。建行亚洲官网证实：TRAVO World卡海外签账最高10%回赠（TRAVO Rewards 4%+飞常赏6%），迎新首2月签满HK$6000得HK$600或Chill分期满HK$15000得HK$800，TRAVO Rewards至2026-12-31；e账户定存5.88%三个月（1-5万）+盈富基金HK$800亦为官方活动。注意：帖称“定存5万三个月即可批卡、额度约10%”仅为群友反馈，官网无此承诺；内地居民开户须人在香港。",
+      "score": 77,
+      "title": "建行亚洲TRAVO World卡：海外签账最高10%回赠，迎新HK$600/800",
+      "url": "https://x.com/SecJack96/status/2124699539789775234",
+      "value": "迎新HK$600/800+海外最高10%回赠，须赴港开户并定存"
+    },
+    {
       "id": 705,
       "title": "LumeAny 免费万能视频解析平台",
       "url": "https://t.me/baipiaofl/65703",
@@ -5445,6 +5511,17 @@
       "expiry_date": null,
       "value": "Kaggle、Colab免费GPU + GitHub Actions、Supabase、OpenRouter、Cloudflare Workers/R2等免费额度合集",
       "notes": "74分（来源22/可验证12/价值15/时效15/风险10）。清单里的Kaggle、Colab免费GPU已按官方口径核实；Simular Box、Cloady、Sakupa等其余免费额度未逐项核实，以各家官网为准。"
+    },
+    {
+      "author": "AirdropAlert-com | Crypto Airdrops for Everyone",
+      "category": "其他",
+      "expiry_date": null,
+      "id": 841,
+      "notes": "74分（来源24/可验证21/价值13/时效10/风险6）。Liquity官方博客及多家空投站证实：16个以上友好分叉各出4%代币奖励Liquity生态参与者，路径为Stability Pool存BOLD、质押yBOLD、提供流动性或质押LQTY；BOLD最高91% LTV、自设利率。注意：须投入资金参与DeFi，非免费领取；奖励为分叉代币、金额未定，LQTY近30天下跌约37%。",
+      "score": 74,
+      "title": "Liquity空投：16个友好分叉各出4%代币，BOLD用户可参与",
+      "url": "https://t.me/airdrop_alert_dot_com/3662",
+      "value": "参与分叉空投须存入BOLD/提供流动性，奖励未定、有DeFi风险"
     },
     {
       "id": 793,
@@ -8827,5 +8904,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-24T02:59:54+08:00"
+  "updated_at": "2026-11-24T06:48:38+08:00"
 }
