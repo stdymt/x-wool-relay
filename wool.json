@@ -1,5 +1,5 @@
 {
-  "count": 797,
+  "count": 802,
   "items": [
     {
       "id": 802,
@@ -638,6 +638,28 @@
       "expiry_date": "2026-12-01",
       "value": "4000 credits，约 160 美元，需参赛",
       "notes": "评分 90 分（来源25/可验证25/价值20/时效15/风险5）。原帖与 Devpost 官方规则均已核实：Kiroween 2026 黑客松参赛者可申请一次性 4000 Kiro credits（约 160 美元），用 Kiro 用户 ID 或 AWS 账户 ID 填表申请，48 个工作小时内审核。注意：需注册 Devpost + Kiro 账号、通过 Didit 身份验证（证件+自拍），且须提交参赛作品；申请截止 12 月 1 日 12:00 PT，兑换截止 12 月 4 日，额度 12 月 31 日到期。"
+    },
+    {
+      "author": "Lovislexus",
+      "category": "免费额度",
+      "expiry_date": "2026-11-30",
+      "id": 832,
+      "notes": "90分（来源27/可验证24/价值18/时效13/风险8）。Qoder官方活动页证实：匿名模型HungerG限时免费，免费档用户0 Credits、无限次使用，无需绑卡；Max thinking也免费；限Qoder、Qoder IDE使用，JetBrains插件、CLI、Wake、Cloud Agents、移动端/Web端暂不支持；模型身份匿名，Qoder不透露底层模型。免费期2026-11-23 24:00至2026-11-30 24:00（新加坡时间）。85+二审由本次核实完成。",
+      "score": 90,
+      "title": "Qoder匿名模型HungerG限时免费：7天零Credits无限次",
+      "url": "https://x.com/Lovislexus/status/2124911964749250675",
+      "value": "7天免费、零Credits无限次，含Max thinking，无需绑卡"
+    },
+    {
+      "author": "KOF97AI",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 835,
+      "notes": "90分（来源29/可验证24/价值17/时效13/风险7）。OpenAI官方公告（2026-11-16）与帮助中心证实：新一轮申请于11月23日（周一）开放，先到先得发放5万份新资助；获批者本人加最多2名合作者，共3个免费ChatGPT Plus席位，最长12个月；本轮是Plus不是Pro，不含API额度；目标是把受支持科学家总数扩至20万人。资格：受支持国家的学术机构研究教员或博士后，过去3年内在相关领域发表过研究，并计划用于学术研究；提交申请不保证获批。无固定截止日，5万份先到先得发完即止。85+二审由本次核实完成。",
+      "score": 90,
+      "title": "OpenAI科学家计划：5万份ChatGPT Plus免费12个月（本人+2名合作者）",
+      "url": "https://x.com/KOF97AI/status/2124905490908078179",
+      "value": "每位获批者共3个Plus席位（本人+2名合作者），最长12个月，不含API额度，不是Pro"
     },
     {
       "id": 817,
@@ -1749,6 +1771,17 @@
       "expiry_date": null,
       "value": "免费搜无版权素材；桌面端超 5 GiB 导入需付费 Pro",
       "notes": "85分（来源25/可验证25/价值10/时效15/风险10）。原帖与 clipseek.ai 官网均已核实：ClipSeek 可用自然语言搜无版权免费素材（视频、照片、插画），Free media 页明确写明 royalty-free；桌面应用 Free 版 $0、本地运行、不用登录不用绑卡，可导入最多 5 GiB。注意：桌面端超过 5 GiB 导入量需 Pro（一次性付费、早鸟价 $15，原价 $29，终身使用、14 天退款）。"
+    },
+    {
+      "author": "tantanyuli",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 834,
+      "notes": "85分（来源27/可验证23/价值15/时效12/风险8）。LabEx官方免费实验FAQ证实：免费用户每天最多启动实验3次，Pro用户没有每日启动次数限制；定价页写明免费档“每天可使用3台虚拟机”，Pro为$99/年（黑五$69.9/年）；定价页明确“尝试我们的免费实验……无需信用卡”。免费实验1000+个，覆盖Linux、DevOps、网络安全、Docker、Kubernetes等30+领域，有中文界面。常驻免费档，每日重置，无固定截止日。85+二审由本次核实完成。",
+      "score": 85,
+      "title": "LabEx免费实验：每天3次启动，1000+免费实验无需绑卡",
+      "url": "https://x.com/tantanyuli/status/2124889459229708595",
+      "value": "每天3次启动/3台虚拟机，1000+免费实验，无需绑卡，适合练Linux/Docker/基础安全与运维"
     },
     {
       "id": 767,
@@ -2928,6 +2961,17 @@
       "notes": "评分 82 分（来源20/可验证25/价值12/时效15/风险10）。原帖与 Google Colab 官方 FAQ 及多方实测均已核实：免费档常分到 NVIDIA T4（16GB 显存），也可分到 TPU v5e。注意：Google 不保证型号与可用性，高峰可能分不到 GPU；单会话最长约 12 小时、闲置约 90 分钟断开；属长期免费档，不是限时活动。"
     },
     {
+      "author": "KOF97AI",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 836,
+      "notes": "82分（来源26/可验证22/价值16/时效12/风险7）。平台为FreeDns（freedns.my），三个后缀为pvf.cc、kz.ci、xyz.ci；官网写明注册、续期均免费、无广告，支持A/AAAA/CNAME/TXT等记录，申请表开放、通常数日内人工审核，记录变更须经运营方审核后才生效；Public Suffix List官方列表已收录freedns.my提交的pvf.cc、kz.ci、xyz.ci，PSL后缀可指向自有NS，即可接入Cloudflare托管。两处修正：注册页只有用户名/邮箱/密码+邮箱确认链接，未见“使用Google登录”按钮，所谓“支持Google邮箱登录注册”应理解为可用Gmail邮箱注册，而非Google SSO；pvf.cc直访会跳转至freedns.my/abuse.php。永久免费，含续期免费。",
+      "score": 82,
+      "title": "FreeDns免费二级域名：pvf.cc/kz.ci/xyz.ci三后缀，可接Cloudflare",
+      "url": "https://x.com/KOF97AI/status/2124882898201481506",
+      "value": "3个后缀免费二级域名，均已列入PSL，可自指NS接入Cloudflare，但须经人工审核，需耐心等待"
+    },
+    {
       "id": 795,
       "title": "OpenGame 首届游戏开发赛：$100K 现金奖池（11-18 至 12-18）",
       "url": "https://x.com/lovethelife2333/status/2124745097874952264",
@@ -3399,6 +3443,17 @@
       "title": "Bing积分任务搜索5天送90天Discord Nitro会员",
       "url": "https://t.me/baipiaofl/65919",
       "value": "90天Discord Nitro试用（须绑支付方式，到期自动续费）"
+    },
+    {
+      "author": "Lniosytest",
+      "category": "订阅优惠",
+      "expiry_date": "2026-11-30",
+      "id": 833,
+      "notes": "80分（来源25/可验证20/价值17/时效11/风险7）。BNESIM官方商店证实：中国50GB“Non-expiring”套餐标价$24.99，纯流量不含电话号码，无需证件，即时激活，网络为UNICOM、5G。发帖人按美元结算原价$24.99（折合人民币183.18元），用ESIMS30或TRAVELESIMEXPERT七折后为128.23元，算术吻合；官网黑五码BLACK30（七折，单笔最高减免€10）有效期2026-11-23至2026-11-30。未核实到的一点：官网详情页只写网络为UNICOM，未载明“以前香港、新加坡自动分流，现在只剩新加坡”的出口线路变化，该说法无法以官方来源证实。流量本身永不过期，黑五码至11-30。",
+      "score": 80,
+      "title": "BNESIM中国eSIM 50GB永久有效：七折后约128.23元",
+      "url": "https://x.com/Lniosytest/status/2124909151839272992",
+      "value": "50GB中国eSIM流量永不过期，七折后约128.23元，联通5G纯流量"
     },
     {
       "id": 783,
@@ -8772,5 +8827,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-24T02:54:28+08:00"
+  "updated_at": "2026-11-24T02:59:54+08:00"
 }
