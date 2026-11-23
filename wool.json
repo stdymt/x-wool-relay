@@ -1,5 +1,5 @@
 {
-  "count": 809,
+  "count": 811,
   "items": [
     {
       "id": 802,
@@ -1815,6 +1815,17 @@
       "title": "OpenAI Responses API后台窗口：2小时7折、8小时6折（GPT-6.2等）",
       "url": "https://x.com/BlockInsight214/status/2124703735448588739",
       "value": "批量/夜间任务调用GPT-6.2等模型可省30-40% token费用"
+    },
+    {
+      "author": "duola_eth",
+      "category": "其他",
+      "expiry_date": "2026-11-30",
+      "id": 844,
+      "notes": "85分（来源27/可验证23/价值15/时效13/风险7）。全文经Followin转载页补全，三项均已核实：①LayerZero创世质押11-23开放、主网11-30上线、锁至2027-03-31、目标通胀1%（官方博客证实；源链ZRO烧掉重铸亦经多家报道证实）；②Extended $XTEN 11-30上线、社区分配3亿枚占总量30%、TGE全解锁，TGE前签署进第一批（官方文档证实，接受期至12-31）；③FLOP公共测试网11-24启动（Phemex 11-12报道，创始人Arthur Hayes），devnet重置细节未独立核实。注意：质押锁仓4个月无提前退出，年化仅约0.9%，只适合本就看好并持有ZRO者。85+二审：三项事实均经官方来源复核。",
+      "score": 85,
+      "title": "三个小任务：LayerZero创世质押+Extended签领XTEN+FLOP测试网",
+      "url": "https://x.com/duola_eth/status/2124683390494654705",
+      "value": "XTEN签领与FLOP测试网在即，ZRO质押须锁仓至2027-03-31"
     },
     {
       "id": 767,
@@ -5524,6 +5535,17 @@
       "value": "参与分叉空投须存入BOLD/提供流动性，奖励未定、有DeFi风险"
     },
     {
+      "author": "Ciciyingying",
+      "category": "其他",
+      "expiry_date": "2026-11-26",
+      "id": 845,
+      "notes": "74分（来源24/可验证20/价值13/时效11/风险6）。正文由twikit抓取+Google片段拼合（X原帖403未逐字读到，个别尾句措辞未核实），三项实质均已核实：①oripaxyz填邮箱抽白名单+早鸟徽章，11-26 20:00领取、仅gas费、每钱包1枚不可转让，白名单11-25先行、公开12-02，代币2027-01-13才可转；②meetmotes（Robinhood Chain NFT智能体）测试网将开、日期未公布，积分关联分配，$MOTES占总量10%空投给NFT持有者；③Deca Labs（Polychain等参投1200万美元，领投未单独证实）积分任务，社交任务赚积分，暂无已确认代币/空投。",
+      "score": 74,
+      "title": "三个小任务：oripaxyz早鸟徽章+meetmotes测试网+Deca Labs积分",
+      "url": "https://x.com/Ciciyingying/status/2124745118934790288",
+      "value": "三项均为早期项目，奖励未定、无已确认代币"
+    },
+    {
       "id": 793,
       "title": "MiniMax H3-Image 在 fal 免费生成（随时可能结束）",
       "url": "https://x.com/Ylj158852/status/2124737206548111784",
@@ -8904,5 +8926,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-24T06:48:38+08:00"
+  "updated_at": "2026-11-24T06:59:33+08:00"
 }
