@@ -7,7 +7,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 - 范围：以 AI 为主（AI 会员、免费额度、VPS/VPN、AI 赚钱新路子）
 - 更新时间：见 wool.json 里的 `updated_at`（北京时间）
 
-## 本次更新（2026-11-23 07:04，738 条，本轮新增 4 条）
+## 本次更新（2026-11-23 08:00，737 条，本轮新增 1 条）
 
 | 分 | 内容 |
 |---|--- |
@@ -60,7 +60,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 89 | OpenCode DS V4.1/GLM 5.3 API 降至四折 |
 | 89 | ModelTrace：本地跑的 AI 模型归因开源工具 |
 | 89 | AID Studio：开源 AI 短剧工作台 |
-| 89 | Hermes Agent免费调用Qwen4-Max（:free版，免费5天约至11-24）（2026-11-24） |
+| 89 | Hermes Agent免费调用Qwen4-Max（:free版，免费5天约至11-24）（2026-11-23） |
 | 88 | Parallel 免费 AI 工具：搜索/抓取/信息判断免注册免 Key |
 | 88 | apfel：M 芯片 Mac 零成本跑标准 OpenAI 接口 |
 | 88 | Mirobody 开源本地健康管理工具 |
@@ -94,7 +94,6 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 87 | DeepAI 免费聊 Claude Fable 5.2：每天免费额度，免绑卡（含 Opus 5.5/Sonnet 5.5） |
 | 87 | Parallel MCP：免注册免 API Key 的免费搜索/抓取/判题，接 Muse 即用 |
 | 87 | Cohere 免费 trial key：每月 1000 次 API 调用，Embed/Rerank 免绑卡 |
-| 87 | Daisy Desk Challenge：免费回测赢 5,000,000 $DAISY（一人独得），报名至 11-23（2026-11-23） |
 | 87 | Tavily 免 Key 调用搜索与抓取：请求头加一行即可，不用注册绑卡 |
 | 87 | Vercel AI Gateway：Parallel Decisions Fast 免费到 11 月 23 日（联网检索判题模型）（2026-11-23） |
 | 87 | Novita Sandbox 新账号 $100 促销额度：免绑卡，5 个免费并发沙箱（额度 90 天有效）（无公开活动截止日（额度领到后 90 天有效）） |
@@ -146,6 +145,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 85 | 阿里云ESA+腾讯EdgeOne免费CDN：永久免费套餐，1个免费站点（长期有效） |
 | 85 | 开源 ccteam：把 Claude Code、Codex、Grok、Kimi 编成一队派活 |
 | 85 | ClipSeek：一句话搜无版权免费视频、照片、插画素材 |
+| 84 | 100milionseek：每天免费 1 亿 deepseek-4.1-flash tokens（注册分批放号） |
 | 84 | Owncast：免费开源自托管直播服务器（MIT） |
 | 84 | dsh-context：DeepSeek Harness 上下文洞察插件（免费开源） |
 | 84 | CSTserver 洛杉矶三网精品 VPS $3.19/月（码 CSTOU4，60% 循环折扣） |
@@ -210,7 +210,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 82 | Google Labs 开源 Stitch Design Skills：15 个 UI 设计技能，兼容 Claude Code/Cursor（GitHub 9.7k Star） |
 | 82 | uuuvps 洛杉矶 LA ntt s1 补货：双 ISP 住宅 IP/9929，¥388/年 |
 | 82 | OpenCode 免费放出混元 Hy4 flash：hy4-flash-free，限时免费、零留存 |
-| 82 | 智谱 AutoClaw 第三周：登录领 1 亿 Tokens，11-16 至 11-22（2026-11-22） |
+| 82 | 智谱 AutoClaw 第三周：登录领 1 亿 Tokens，11-16 至 11-22（2026-11-29） |
 | 82 | Firecrawl 免费档：每月 1,000 credits 抓取 API，不用绑卡（常驻免费（以官网为准）） |
 | 82 | Recraft V4.1 Flash V2 免费生图：OpenRouter $0/张，11 月 28 日下线（2026-11-28） |
 | 82 | 长期免费BaaS：TiDB Cloud Starter 每组织5个实例免费（5GiB行存+5GiB列存+5000万RU/月）（长期免费（以官网为准）） |
@@ -277,7 +277,6 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 80 | Marker：PDF 转 Markdown 开源工具，纯 CPU 能跑（Apache-2.0，41k stars） |
 | 80 | faster-whisper：本地转字幕神器，Whisper 快 4 倍、不用另装 FFmpeg（开源 MIT，25k stars） |
 | 80 | 小艺 AI 会员体验版：每月免费领 200 AI 积分（华为官方 11 月 16 日上线） |
-| 80 | OpenCode Go：$10/月 GLM-5.3 用量上限涨到 $500（到本周末，Go Plus $1000）（2026-11-22） |
 | 80 | Antseed：付费使用 AI 赚积分，每周四领 $ANTS 空投（须先花钱，代币暂不可转让） |
 | 80 | 富邦 iN ShopBack Visa 白金卡：网购 8% 回赠，迎新满 HK$3,000 送 HK$600（2026-12-31） |
 | 80 | 腾讯智囊团 ExpertHub 专家招募：认证奖100元、首题通过再奖200元、每题200-2000元（长期招募（无固定截止日，以小程序内显示为准）） |
@@ -496,7 +495,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 72 | 微信小程序成长计划二期：报名领 10 亿 Token + 10 万张生图（须企业认证，6 个月有效） |
 | 72 | 免费 eSIM 盘点：Firsty 看广告永久免费流量 + Nomad 新用户 1GB/3 天（Airalo 公开试用已停） |
 | 72 | Wirex 卡：免费开卡，每月 ATM 免费额度 200 英镑/欧元（澳洲 400 澳元），超出收 2% |
-| 72 | 智谱 AutoClaw 本周登录领 1 亿 Tokens（11/16–11/22）（2026-11-22） |
+| 72 | 智谱 AutoClaw 本周登录领 1 亿 Tokens（11/16–11/22）（2026-11-29） |
 | 72 | NoSLA Cloud 法兰克福黑五：三网精品 CN2/9929/CMIN2，Tiny 399元/年（1核/768M/10G） |
 | 72 | BitsFlowCloud 黑五堪萨斯：2核8G/80G NVMe，359元/年（EPYC 7B13） |
 | 72 | 云悠德国法兰克福 VPS：1核/1G/10G/200Mbps，¥15.99/月（年付 ¥179.99） |
@@ -612,7 +611,6 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 68 | SmolVLM2-256M：仅需 1.38GB 显存的视频理解模型（Apache-2.0 开源） |
 | 68 | muse.ai 邮箱免费用户已能开：灰度进行中，三字母手柄仍有（无固定截止日（免费灰度进行中，先到先得抢手柄）） |
 | 68 | Awesome Cloudflare Self-Hosted：用免费 Workers/D1/R2 替代付费 SaaS 的开源整理 |
-| 68 | Sixpence 积分活动：Robinhood Chain 上 10,000 USDG 奖池（11月23日结束）（2026-11-23（活动 10 月 26 日–11 月 23 日 UTC，分两期各 5,000 USDG）） |
 | 68 | Pionex Card（派网卡）：虚拟卡免开卡费/年费，Visa 返现 1% 抵手续费、卡内 USDT 享 5% 年化（大陆办不了）（无明确截止日（以 Pionex 官方页为准）） |
 | 67 | 免费越南主机 DataOnline：MUSE 自动化提示词部署 VLESS+WS+TLS 节点（每月20GB） |
 | 67 | Grok Bot Clipper 开源插件 |
@@ -745,7 +743,8 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 60 | 快跑AI：Qwen Audio 系列 72 折，注册送 $10（第三方中转站）（无固定截止日（注册送 $10 进行中，以平台页为准）） |
 | 60 | Arc 训练营可拿 300 分（Arc House 积分，朝 500 分建筑师门槛）（无固定截止日） |
 | 60 | Eskimo eSIM 免费流量，邀请双方各得 500MB（流量不过期） |
-| 55 | HIDNS免费二级域名开放注册24小时（2026-11-22） |
+| 55 | Daisy Desk Challenge：免费回测赢 5,000,000 $DAISY（一人独得），报名至 11-23（2026-11-23） |
+| 55 | Sixpence 积分活动：Robinhood Chain 上 10,000 USDG 奖池（11月23日结束）（2026-11-23（活动 10 月 26 日–11 月 23 日 UTC，分两期各 5,000 USDG）） |
 | 55 | 蚂蚁百灵 Ling-3.2-flash API 上线前两周免费：560B 多模态、1M 上下文（约 11 月 19–20 日截止）（2026-11-19） |
 | 50 | GCP $300 赠金 11 月 16 日起不再抵扣 Vertex AI：须在截止前注册并升级付费（2026-11-16） |
 | 50 | GCP $300 免费额度玩 Gemini 4 Argon / 3.8 Flash：接入 OpenCode 与 Codex 配置指南（2026-11-15（11月16日起新注册/新升级的赠金不再抵 Gemini 平台费用；$300 额度本身 90 天有效）） |
