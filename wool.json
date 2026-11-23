@@ -1,6 +1,17 @@
 {
-  "count": 748,
+  "count": 776,
   "items": [
+    {
+      "id": 802,
+      "title": "Google Cloud 免费试用：$300 额度，90 天有效",
+      "url": "https://x.com/Lovislexus/status/2124744395819991253",
+      "author": "Lovislexus",
+      "category": "云服务器",
+      "score": 96,
+      "expiry_date": null,
+      "value": "$300/90天（须绑卡仅预授权，不自动扣费）",
+      "notes": "96分。Google Cloud官网与文档证实：免费试用送$300 Welcome credit，90天内有效，用完$300或满90天未升级试用账户关闭、资源停止，并进入30天宽限期；注册须提供信用卡或其他付款方式验证身份，仅为$0.00–$1.00临时预授权，不是实际扣费；升级为付费账号之前不扣款，无自动扣费；升级后未用完的赠金仍可在自注册起90天内使用。注意：台湾节点asia-east1（彰化）正常可用，但免费层级e2-micro免费实例仅限美国区域，台湾节点需用$300赠金支付；试用有GPU、Windows Server虚拟机等限制；仅限从未成为付费客户、从未注册过试用的新客户。长期有效项目，无截止日。85+二审由本次核实重开官网与文档完成。"
+    },
     {
       "id": 652,
       "title": "Thinking Machines Lab Inkling 2 Mini开源权重（Apache 2.0，笔记本可跑）",
@@ -22,6 +33,17 @@
       "expiry_date": null,
       "value": "OpenRouter免费调用，1M上下文、零费用；限流20次/分钟、50次/天",
       "notes": "96分。OpenRouter官方免费模型合集确认：免费榜第一NVIDIA Nemotron 3 Ultra (free)，近7天3.91T tokens；第二百度ERNIE-5.5-Flash-Preview (free) 3.79T；榜按近7天经API处理的token总量排。完整模型ID nvidia/nemotron-3-ultra-550b-a55b:free（帖子简写nvidia/nemotron-3-ultra:free非完整ID，直接访问返回找不到），$0输入/$0输出、上下文1,000,000、最大补全65,536；开源MoE，55B激活/550B总参数。限流属实：免费版20次/分钟、50次/天（购$10信用后1000次/天，失败请求也计入），OpenAI兼容。注意：免费榜第一≠总榜第一（总榜第9），与第二差距仅0.12T，排名随时翻转；付费版上下文仅262K、$0.50/$2.20每百万tokens，不要混淆。85+二审由本次核实重开OpenRouter官方页完成，维持96。"
+    },
+    {
+      "id": 794,
+      "title": "Fireworks Muse Glimmer 30B 免费训练到 11 月 30 日",
+      "url": "https://x.com/KOF97AI/status/2124750855748612476",
+      "author": "KOF97AI",
+      "category": "免费额度",
+      "score": 95,
+      "expiry_date": "2026-11-30",
+      "value": "免费训练SFT/DPO/RL（无须绑卡）",
+      "notes": "95分。Fireworks官方博客2026-10-20《Train Muse Glimmer for free》证实：Muse Glimmer 30B免费训练SFT、DPO、RL，截至11月30日，是Free Weights Club活动的一部分，无需信用卡。注意：“延到”一词不准确，博客10月20日已写through November 30，未见“延期”表述，核心日期无误。85+二审由本次核实重开官方博客完成。"
     },
     {
       "id": 719,
@@ -79,6 +101,17 @@
       "notes": "评分 95 分（来源25/可验证25/价值20/时效15/风险10）。原帖与官网均已核实：Perch AI 官网文档证实 Starter 免费档每月 20000 PT（约 20 美元）、不用绑卡，网页/桌面/命令行三端通用。注意：免费额度默认参与 Starter Data Program（用量数据可能用于训练，可退出）；模型阵容每月轮换。"
     },
     {
+      "id": 796,
+      "title": "Docker 新注册领 $250 云沙箱额度（至 2027-01-31）",
+      "url": "https://x.com/KOF97AI/status/2124745386736910418",
+      "author": "KOF97AI",
+      "category": "免费额度",
+      "score": 94,
+      "expiry_date": "2027-01-31",
+      "value": "新注册 $250 沙箱额度（须绑卡，超额扣费）",
+      "notes": "94分。Docker官网活动页证实：新注册Docker Agentic Platform一次性获$250云沙箱计算额度（替代常规$25），每用户/账号限1次，活动至2027-01-31 11:59 PM PT；注册时须绑定有效信用卡，超出额度才扣卡；额度自领取起6个月后过期；仅抵沙箱计算（按秒计费，安装、空闲、重试都计费），模型API与Agent订阅另计。85+二审由本次核实重开官网活动页完成。"
+    },
+    {
       "id": 656,
       "title": "Muse 官方 Chrome 插件：接管本地 Chrome 干活",
       "url": "https://x.com/OnlyJettTian/status/2124133478098673991",
@@ -121,6 +154,28 @@
       "expiry_date": null,
       "value": "BitsFlowCloud黑五：堪萨斯城8G内存、80GB NVMe、2.5Gbps端口、8TB流量、原生IPv4+IPv6，¥359/年；流量用尽后限速1Mbps",
       "notes": "93分。独立浏览器核实：官网订购页（ccp.bitsflow.cloud/order/main/packages/bf-mci，货币CNY）逐字吻合：US-MCI-Black Friday-S，1年¥359，2 vCPU（AMD EPYC 7B13均衡分配）、8G DDR4内存、80GB NVMe RAID 10、2.5Gbps共享端口、8TB双向流量（激活日重置，用尽后限速1Mbps）、1个美国原生IPv4 + IPv6 /64、位置堪萨斯城；M档16G/¥649/年、L档32G/¥1,029/年；另有24小时退款保证、6次幸运大转盘 + IP Care+首年免费。注意端口为共享、流量用尽后限速1Mbps。X原帖403未读到，结论以官网为准。二审（本次核实重开官网）维持93分。"
+    },
+    {
+      "id": 805,
+      "title": "WIRO学生计划免费领$200 API额度（学校邮箱申请，有效期12个月）",
+      "url": "https://t.me/baipiaofl/65873",
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "score": 93,
+      "expiry_date": null,
+      "value": "$200 API额度（学校邮箱申请，12个月有效）",
+      "notes": "93分（来源30/可验证25/价值18/时效12/风险8）。NodeLoc帖与官网 https://wiro.ai/student 完全一致，官网现显示“NOW ACCEPTING APPLICATIONS”。关键事实：$200 Wiro credits，1000+模型、一个API/一个密钥，OpenAI兼容端点 llm.wiro.ai/v1，支持 Cursor/VS Code；有效期自到账起12个月，无自动续费；无需绑卡；条件为在读高等教育（本科、硕士、博士，全球均可），用学校邮箱注册账号（不要求.edu，个人邮箱不行），在App内点Apply写明学校、专业、年级及想做的项目，人工审核通常约2个工作日，通过后发单次兑换码，每人限领一次，禁转售、禁客户项目。NodeLoc帖所列 Opus 5.5、GPT-6.2、Gemini 4 Neon、Veo 3.1、Nano Banana 2、Seedance 2.5 等具体型号在官网学生页未逐一列出，官网仅以 FLUX、Nano Banana、Seedance、Sora 2、Veo 3.1 等举例，入册以官网口径为准。85+二审由本次核实重开官网完成。"
+    },
+    {
+      "id": 785,
+      "title": "BitsFlowCloud 黑五 2026 香港特价 ¥139/年",
+      "url": "https://x.com/fwqgo_com/status/2124676809950380417",
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "score": 92,
+      "expiry_date": null,
+      "value": "香港原生IP VPS ¥139/年（2.5Gbps端口、1TB流量）",
+      "notes": "92分。官网黑五订购页逐项证实：CN-HKG-Black Friday-S 1年¥139，1核铂金8269CY/1G DDR4/20GB SSD、2.5Gbps共享端口、1TB双向流量（激活日重置，用尽后限速1Mbps）、香港原生IPv4+IPv6 /64、24小时退款保证。注意：标准国际线路（无中国优化）、共享端口；官网未标库存与截止日期。85+二审由本次核实重开官网订购页完成。"
     },
     {
       "id": 647,
@@ -187,6 +242,17 @@
       "expiry_date": null,
       "value": "Pro $100/$200/$500 三档每月对应 $100/$200/$500 API 额度，年省最高 $6000；需已是付费 Pro 订阅，额度按账单周期过期不结转",
       "notes": "92分。来源：@Lovislexus；已核实：OpenAI 官方文档 developers.openai.com/api/docs/guides/chatgpt-api-credits 确认，2026-10-28 起付费 ChatGPT Pro（$100/$200/$500 三档）每月可领等额 API 额度（$100/$200/$500），Business 按席位累计、上限 $500/月。条件：付费订阅满 7 天、Plus/免费试用/Enterprise 不参加、ChatGPT 与 API 账号须同邮箱、每订阅只能绑定一个 API 组织；额度随账单周期过期、不结转、不含 Codex API 调用。领取路径：ChatGPT 设置→账单→API 额度福利卡片→绑定组织。帖子本身未写金额、未附链接，金额与条款以官方文档为准。"
+    },
+    {
+      "id": 784,
+      "title": "RackNerd 黑五 2.5GB 档 $27.98/年",
+      "url": "https://x.com/fwqgo_com/status/2124661709734298048",
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "score": 91,
+      "expiry_date": null,
+      "value": "2.5GB KVM VPS $27.98/年（终身同价续费）",
+      "notes": "91分。官网黑五页逐项证实：2核/30GB SSD/2.5GB内存、每月6TB流量、1Gbps端口、完整Root、独立IPv4；FAQ称特价终身同价续费。注意：页面倒计时为分钟级滚动、无固定截止日；普通美国线路、无优化。85+二审由本次核实重开官网黑五页完成。"
     },
     {
       "id": 712,
@@ -275,6 +341,17 @@
       "expiry_date": "黑五活动进行中（页面未标明截止时间）",
       "value": "伦敦 M 档 ¥249/年：2核2G/40G NVMe/5Gbps/8TB，英国原生 IP；S/L 档已售罄",
       "notes": "91分（来源28/可验证25/价值17/时效13/风险8）。官网黑五页（ccp.bitsflow.cloud，Black Friday 2026-UK-LON，CNY 计价）逐项核实：中配 UK-LON-Black Friday-M：1 年 ¥249.00，2 vCPU（AMD EPYC 7763 均衡分配）、2G DDR4、40GB NVMe、5 Gbps 共享端口、8TB 流量（双向，激活日重置，用尽后限速 1Mbps）、1 个英国原生 IPv4 + IPv6 /64、伦敦，有货；另有 24 小时退款保证、6 次幸运大转盘 + IP Care+（首年免费）。同系列 S 款 ¥139/年、L 款 ¥399/年均已售罄。页面未标明黑五截止时间。85+二审已由本次浏览器重开官网黑五页复核完成。原帖 X 403 未读到。"
+    },
+    {
+      "id": 779,
+      "title": "IPv64 免费 DynDNS 子域名：19 个后缀，每人 3 个（无绑卡/KYC）",
+      "url": "https://t.me/baipiaofl/65845",
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "score": 90,
+      "expiry_date": null,
+      "value": "免费版 3 个 DynDNS 域名，19 个后缀；注册与 DynDNS 服务完全免费",
+      "notes": "90分（来源28/可验证23/价值16/时效14/风险9）。官网 ipv64.net/dyndns 明确注册完全免费、使用 DynDNS 服务也完全免费，免费版最多 3 个 DynDNS 域名；官方文档列出全部 19 个后缀（ipv64.net、ipv64.de、any64.de、api64.de 等），名称 3–64 字符、小写字母数字连字符，每后缀同名唯一，默认后缀 .ipv64.de。关键纠正：这是共享后缀下的 DynDNS 子域名（如 yourdomain.ipv64.net），不是独立域名注册，自带域名须付费账户等级。官网未见绑卡、实名、KYC 或隐藏费用；运营方德国 Prox IT UG。无截止时间、无名额说明。85+二审由本次核实重开官网与官方文档页完成，维持90。"
     },
     {
       "id": 739,
@@ -561,6 +638,50 @@
       "expiry_date": "2026-11-23",
       "value": "Nous Portal免费模型含Qwen4-Max :free版；官方免费5天，11-21为第三天；用量上限与结束日官网未标",
       "notes": "89分（来源28/可验证21/价值18/时效13/风险9）。独立浏览器核实：Hermes 是 Nous Research 的 AI Agent（桌面 App/终端安装，支持 macOS/Linux/Windows），免费档 $0 按量付费、仅限免费模型、标准速率限制；Nous Portal 模型页“Free Models”栏明确列出 Qwen: Qwen4 Max（QWEN/QWEN4-MAX:FREE），同列还有 LongCat-2.5、Step 3.7 Flash、Hy4 flash、Solar Mini 4；注意普通版 Qwen4 Max 另有标价（输入 $1.42/1M、输出 $4.27/1M），免费的是 :free 版本；Nous 官方帖称 Qwen4-Max 免费 5 天、输入输出均为 $0，约 11 月 19 日开始，11 月 21 日确为第三天，预计约 11 月 24 日结束；官网模型页未标注每日用量上限与具体结束日，截止日为预计值。85+二审由本次核实重开官方页完成，维持89。【2026-11-23 07:47 晨报复核】免费版仍在，今天到期；更正：免费 5 天自 11-18 起至 11-23 结束，非约至 11-24，截止日已改为 11-23。"
+    },
+    {
+      "id": 798,
+      "title": "英伟达 Nemotron 3.5 Lightning 在 Vercel AI Gateway 免费",
+      "url": "https://x.com/Ylj158852/status/2124744503978582514",
+      "author": "Ylj158852",
+      "category": "免费额度",
+      "score": 88,
+      "expiry_date": null,
+      "value": "输入输出均 $0（1M上下文，仅限试用）",
+      "notes": "88分。Vercel AI Gateway模型页证实：模型ID nvidia/nemotron-3.5-lightning-free，Price Free，Input/Output均为Free，1M上下文、Max Output 65K，30B参数（每token激活3B），发布2026-10-14。注意：接入页签未见Cursor，“一句命令接进Cursor”未证实；免费端点会记录全部提示词与输出以改进NVIDIA产品，仅限试用、不得用于生产或业务关键系统、不得上传个人/机密/敏感信息，Zero Data Retention为No。85+二审由本次核实重开模型页完成。"
+    },
+    {
+      "id": 791,
+      "title": "六六云香港 1核1G ¥55/月",
+      "url": "https://x.com/fwqgo_com/status/2124722106416210408",
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "score": 88,
+      "expiry_date": null,
+      "value": "香港优化线路 ¥55/月（150Mbps、820GB流量）",
+      "notes": "88分。六六云官网证实：香港优化线路1核/1G/15G硬盘、150Mbps、820GB月流量、1个IPv4，¥55/月按月付，库存388台。注意：CTGNet转CN2 GIA、AS10099、CMIN2回程与8-14ms延迟官网商城页未载明（可能出自测评）。85+二审由本次核实重开官网完成。"
+    },
+    {
+      "id": 788,
+      "title": "腾讯混元 Hy4 flash 免费到 11 月 30 日",
+      "url": "https://x.com/Ylj158852/status/2124701974796828799",
+      "author": "Ylj158852",
+      "category": "免费额度",
+      "score": 88,
+      "expiry_date": "2026-11-30",
+      "value": "WorkBuddy限时免费（API 5折）",
+      "notes": "88分。腾讯混元官网研究页证实：总参数224B（64B Engram）、激活12B、多模态、1M上下文；原文“11月30日前，用户可在WorkBuddy限时免费使用，腾讯云TokenHub API限时5折使用”——WorkBuddy免费、API仅5折。注意：每日额度具体数额官网未载明；WorkBuddy内使用，未见须绑卡或订阅。85+二审由本次核实重开混元官网完成。"
+    },
+    {
+      "id": 781,
+      "title": "NetSpend 免费拿 $200（$400 DD）",
+      "url": "https://t.me/baipiaofl/65828",
+      "author": "白嫖福利推送",
+      "category": "金融卡券",
+      "score": 88,
+      "expiry_date": "2027-12-31",
+      "value": "$200 credit（60天内DD $400）",
+      "notes": "88分。官网活动页逐项核实属实：2026-05-01至2027-12-31新开 NetSpend 预付卡/借记账户并通过身份验证，60天内收到合计$400+ Direct Deposit（不含ACH转账、P2P和退税），保持账户及DD有效至第90天，达标后5-7个工作日入账$200 credit；每SSN限一次；须提供姓名、地址、出生日期及政府证件号码（SSN）并通过身份验证。NodeSeek原帖因站方冷却未读到，Bing摘要与美卡论坛交叉佐证一致；“用Chrome”官网条款无此要求。注意：须美国SSN实名+真实工资类DD并持有90天，国内用户基本无法参与。85+二审由本次核实重开官网活动页完成。"
     },
     {
       "id": 720,
@@ -1025,6 +1146,17 @@
       "notes": "评分87分（来源25/可验证25/价值12/时效15/风险10）。原帖与官网 articul8.ai/bivia 均已核实：Bivia 决策模型首发优惠，前 10000 名免费领 10 亿 tokens（10亿=1B），免订阅；定价 $0.042/百万输入 tokens、输出 $0；Articul8 为 Intel 背景 AI 公司，Bivia 2026-10-28 发布。注意：①“90天有效”是作者后续帖说法，官网未写截止日与有效期；②链接指向 app.articul8.ai 登录页，需注册领 API Key；③这是决策模型（只做判断、不生成文本），不是通用大模型，适合接 Agent/工作流。"
     },
     {
+      "id": 800,
+      "title": "SurferCloud ULightHost 轻量 VPS $9.9/年、$2.9/月",
+      "url": "https://x.com/fwqgo_com/status/2124737207927980133",
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "score": 86,
+      "expiry_date": null,
+      "value": "Lite $9.9/年（续费$48/年）；Essential $2.9/月",
+      "notes": "86分。官网证实：Lite体验款$9.9/年（划线价$48/年，省80%），1vCPU/1GB内存/40GB NVMe/1个独立IPv4/30M带宽/200GB出站流量，Linux/Windows，续费价$48/年；Essential款$2.9/月（划线价$7.5/月），1vCPU/2GB/40GB NVMe/1个独立IPv4/30M/1TB出站，续费$7.5/月（注意$2.9/月是高一档Essential款，不是Lite款）；节点共17个（美洲3、EMEA4、亚洲10），“全球16个节点”属实（略保守）。条款：新用户价、续费按原价；每位客户每档限购1台；不支持更换区域与配置，中途删除按原价退款；均为数据中心IP、不可更换、默认封25端口。官网未公布活动截止日。85+二审由本次核实重开官网完成。"
+    },
+    {
       "id": 730,
       "title": "Kilo AI Gateway 个人免费版永久 $0 免绑卡",
       "url": "https://x.com/BlockInsight214/status/2124414076680052997",
@@ -1111,6 +1243,17 @@
       "expiry_date": null,
       "value": "VPS 1GB $15.98/年起，黑五价终身续费同价；共享主机 $9.49/年起",
       "notes": "86分（来源28/可验证22/价值16/时效12/风险8）。官网 2026 黑五页 racknerd.com/BlackFriday 核实属实，但 $7.99/年全站找不到，与 2026 现行价及 2025 年最低档 $10.60/年均对不上，疑似旧档或误传。VPS：1GB $15.98/年（1核、20GB SSD、1GB 内存、3TB 流量）、2.5GB $27.98/年、4GB $47.98/年（主推）、6GB $74.98/年、8GB $94.98/年；共享主机最低 $9.49/年；分销主机 $29.88/年起；独立服务器 $64/月起。FAQ 称黑五价格为终身续费同价。注意：页顶倒计时为滚动式短倒计时（核查时仅约 10 分钟且在走动），官网未给出黑五固定结束日。机房为美国达拉斯，共享面板为 AdminBolt。85+ 二审：浏览器核实已重开原帖与官方来源复核一致，留待晨报头条。"
+    },
+    {
+      "id": 797,
+      "title": "WaveSpeedAI 新账号送 $1 试用额度",
+      "url": "https://x.com/KOF97AI/status/2124748174770524245",
+      "author": "KOF97AI",
+      "category": "免费额度",
+      "score": 85,
+      "expiry_date": null,
+      "value": "新账号 $1 免费额度（免绑卡）",
+      "notes": "85分。官网定价页FAQ原文证实：符合条件的新账号获赠$1免费额度，注册无需信用卡，部分高级模型不适用试用额度。注意：页面未写有效期，未定义“eligible”，金额小。85+二审由本次核实重开官网定价页完成。"
     },
     {
       "id": 778,
@@ -1674,6 +1817,17 @@
       "notes": "84分（来源22/可验证25/价值12/时效15/风险10）：X 原帖 + GitHub 官方仓库 NousResearch/hermes-agent 浏览器只读核实：公开仓库、MIT 协议、262.4k stars、58.6k forks，最新版 v0.23.1（约 19 小时前发布）；自带学习循环的 AI Agent，可从经验中创建并改进技能，支持多步任务执行、工具调用与记忆。注意：README 另提到可选的 Nous Portal 订阅（一份订阅覆盖多项服务），属可选服务，仓库本身免费；跑起来须自备模型 API 或本地模型。"
     },
     {
+      "id": 782,
+      "title": "RackNerd 黑五入门款 $15.98/年",
+      "url": "https://x.com/fwqgo_com/status/2124706755468726292",
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "score": 83,
+      "expiry_date": null,
+      "value": "1GB KVM VPS $15.98/年（可申请流量翻倍至6TB）",
+      "notes": "83分。官网黑五页证实：1核/20GB SSD/1GB内存、每月3TB流量、1Gbps端口、完整Root、独立IPv4。注意：6TB不是默认配置，须下单后凭订单号到LowEndTalk活动帖跟帖申请翻倍、是否获批以商家处理为准；今年官方明确无闪购活动、库存有限、线路无优化。"
+    },
+    {
       "id": 756,
       "title": "UUUVPS七周年LA ntt s1双ISP住宅IP 388元/年",
       "url": "https://x.com/fwqgo_com/status/2124471278300267002",
@@ -1793,6 +1947,17 @@
       "expiry_date": "2026-11-30",
       "value": "11月内Pro用户前$3000消费返4%积分（最高约$120积分）",
       "notes": "83分（来源25/可验证23/价值15/时效13/风险7）：Pulsar官方帮助中心“Pulsar Points Explained”（2026-11-12更新）原文核实：11月剩余时间Pro用户前$3000合规消费按4%返Pulsar Points（$0–$1000/$1000–$2000/$2000–$3000三档均为4%，$3000以上回落至0.5%），新老Pro用户同享，返现按月计算、次月10日前到账；另有Beyond Friday活动11月3–30日指定商户（Amazon/eBay/SHEIN/TEMU/Steam等）双倍返现。注意：①须Pro订阅$9.99/月（年付$99.99），返的是积分（100积分=$1，可抵扣消费），不是现金；②与在册id104（首开Pro返$10积分）是同一产品的不同活动：本条是11月限时返现档位提升；③“首月会员费返还”只见于10月活动（限前100名、已于2026-11-01截止），11月官方页未见此口径，不要按11月权益算；④积分Pro有效期6个月；⑤Pulsar为罗马尼亚公司、Wirex提供Visa发卡，属小牌照预付产品，别大额充值；⑥另有11月推荐返现（推荐人对被推荐人合计前$3000享3%、上限$90）与本人消费4%是两回事，别混淆。补充（2026-11-16 10:40轮，Javary324帖 + 官网帮助中心复核）：Free前$3000分档为$0–$1000 0.5%、$1000–$2000 1%、$2000–$3000 2%，Pro前$3000统一4%，超$3000后Free 0.25%、Pro 0.5%；但《Pulsar Pro》同页对照表写Free首$500为0.5%、之后一律0.25%，与前表Free 1%/2%分档互相矛盾，两篇均标“Updated this week”，以哪篇为准未定；Pro的4%是11月活动价、非标准费率；特定商户翻倍仅ChatGPT、Claude、X、Uber、Bolt五家，翻倍后Free 2%→4%（仅$2000–$3000档）、Pro 4%→8%；积分抵扣：25%/50%档100积分=$1、75%档112积分=$1、全额100%档125积分=$1（全额抵只值8折），单笔抵扣至少$0.5，退款以USDC到账。补充（2026-11-17 00:40轮，SecJack96帖 + Pulsar官网博客/活动条款复核）：Beyond Friday 11-16–22 为 Tech and gaming 周，参与品牌 PlayStation Store、Steam、MediaMarkt、Worten，Pro 会员在这些品牌消费享双倍返现（以 Pulsar Points 发放），每个商家最多 2 笔合规消费享双倍；“8%”为按 Pro 标准 4% 双倍推算，官方条款只写“双倍于适用标准返现率”，未直接写 8%。帖内首月返 10U、白色 Pro 卡、每月返现上限 100U 本次未在 Beyond Friday 公告/条款中逐条核查。"
+    },
+    {
+      "id": 806,
+      "title": "Google AI Pro黑五5折：年付$99.99含5TB（早鸟至11月26日，仅现有订阅者）",
+      "url": "https://t.me/nodeseekc/1026491",
+      "author": "NodeSeek官方频道",
+      "category": "订阅优惠",
+      "score": 83,
+      "expiry_date": "2026-11-26",
+      "value": "年付$99.99含5TB（早鸟至11-26，仅现有订阅者）",
+      "notes": "83分（来源25/可验证20/价值18/时效13/风险7）。早鸟价 Google AI Pro 年付由 $199.99 降至 $99.99/年（约$8.33/月），含5TB存储、Gemini 4 Neon；AI Plus 由 $4.99/月降至约 $2.50/月；Ultra（$99.99/月）不参与；早鸟窗口11月20—26日面向现有订阅者，新用户自11月27日起；折扣仅首个年付周期、次年恢复原价。限制：价格为美元区定价，各区定价不同；优惠不直接显示在公开落地页，需登录后在 one.google.com/settings 切换 Annual 查看；免费账号需先订阅低价档成为活跃订阅者才可能触发；经运营商（Verizon/Jio等）绑定订阅的用户需先解绑。NodeSeek楼主称今天收到邮件可5折购买，现用Plus 2TB、升级5TB。"
     },
     {
       "id": 775,
@@ -2653,6 +2818,17 @@
       "notes": "评分 82 分（来源20/可验证25/价值12/时效15/风险10）。原帖与 Google Colab 官方 FAQ 及多方实测均已核实：免费档常分到 NVIDIA T4（16GB 显存），也可分到 TPU v5e。注意：Google 不保证型号与可用性，高峰可能分不到 GPU；单会话最长约 12 小时、闲置约 90 分钟断开；属长期免费档，不是限时活动。"
     },
     {
+      "id": 795,
+      "title": "OpenGame 首届游戏开发赛：$100K 现金奖池（11-18 至 12-18）",
+      "url": "https://x.com/lovethelife2333/status/2124745097874952264",
+      "author": "lovethelife2333",
+      "category": "免费额度",
+      "score": 81,
+      "expiry_date": "2026-12-18",
+      "value": "$100K现金奖池；赞助商额度基本已领完",
+      "notes": "81分。官网证实：Game Jam #1，2026-11-18至12-18（报名截止12月18日11:59 pm PT，奖项12月30日公布），现金奖池$100,000（最佳游戏总奖$50,000，10个赛道各$5,000）；赞助商ElevenLabs、fal.ai、Meshy AI；仅限18岁以上个人创作者，不可组队，每人最多2个作品。注意：“参赛就领赞助商免费额度”已基本失效：fal Batch 1（$50）已结束、Batch 2（$25）已领完；ElevenLabs免费1个月Creator计划已领完；Meshy是$1买1个月Pro（含1,000额度）+年付5折，并非免费；另有Chroma Awards另设$20,500现金（与$100,000奖池分开）。"
+    },
+    {
       "id": 732,
       "title": "Regolo 试用每天 100 万 Token + IteraCompute 免费 30M/月",
       "url": "https://x.com/BlockInsight214/status/2124404010404684237",
@@ -3104,6 +3280,17 @@
       "notes": "评分80分（来源25/可验证20/价值12/时效15/风险8）。讯飞Loomy官网确认是讯飞AI助手客户端；每日登录送5000积分（GLM-5.3-Flash等模型可用）经多方来源佐证，另有邀请码可再领10000积分。作者回复里的aidaxue活动页（注册5000+领取5000）与该帖为同一活动的不同入口，未单独成条。注意：登录需+86手机号验证码；每日积分当天有效、次日刷新。"
     },
     {
+      "id": 783,
+      "title": "六六云美国家宽 AT&T 节点 ¥200/月",
+      "url": "https://x.com/fwqgo_com/status/2124672424235159745",
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "score": 79,
+      "expiry_date": null,
+      "value": "美国家宽AT&T IP，200Mbps/2TB流量",
+      "notes": "79分。官网证实：美国家宽IP-AT&T仅1档，1核1G/20G系统盘、200Mbps、2TB流量、1个IP，¥200/月，“本次到货仅50个”属实；但库存13:53与13:56两次核对均为16台（帖称还剩33台已过时），余量下降快。页面未见优惠码与截止时间。注意：Bing搜到的666clouds.com/market/102是二手已售转手单，勿混淆。"
+    },
+    {
       "id": 751,
       "title": "三大科学家计划：OpenAI/Anthropic/Google 免费算力（11-23 新一轮）",
       "url": "https://x.com/0xjackkk/status/2124319944636870747",
@@ -3388,6 +3575,17 @@
       "expiry_date": "长期免费（每月 5 CPU 小时，随时可能调整）",
       "value": "每月免费 5 CPU 小时、最多 10 个并发 Box：2 vCPU/4GB/10GB，内置 Claude Code/Codex",
       "notes": "78分（来源20/可验证25/价值8/时效15/风险10；Upstash 官网 upstash.com/box 与定价页直接核实：免费档每月 5 CPU 小时、最多 10 个并发 Box，每个 Box 2 vCPU/4GB 内存/10GB 存储，内置 Claude Code、Codex、OpenCode、Cursor，文件系统持久、支持 Git 与无头浏览器，闲置 1 小时自动暂停不计费；注册免绑卡。注意：①免费的是沙箱算力、不是模型额度，模型调用须自带 Provider Key（Anthropic/OpenAI/OpenRouter 等）；②5 小时/月只够轻量任务，按量价 $0.10/活跃 CPU 小时（Small），超额自费；③目前仅 AWS us-east-1 区域；④存储 $0.10/GB/月，含快照）"
+    },
+    {
+      "id": 804,
+      "title": "抽奖送域名 old.chat（11月29日开奖，续费约480余）",
+      "url": "https://t.me/baipiaofl/65872",
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "score": 78,
+      "expiry_date": "2026-11-29",
+      "value": "抽奖送域名×1（11-29开奖，续费约480余）",
+      "notes": "78分（来源27/可验证23/价值10/时效13/风险5）。NodeLoc抽奖帖（kevin387，2026-11-23 15:01）可直接打开：抽奖组件显示OPEN，开奖2026年11月29日00:00；奖品 old.chat 域名×1，中奖后楼主转到中奖者账户；参与者5人、已达最低5人门槛；每用户最多100000票。规则是抽奖、非先到先得，尚未结束。楼主回帖补充：域名在 Spaceship、还剩几个月（未给确切到期日）、续费为溢价、约480余（原帖未注明币种）。风险：续费高昂是主要成本，中奖后若不续费域名价值有限。"
     },
     {
       "id": 755,
@@ -4391,6 +4589,17 @@
       "notes": "评分 77 分（来源25/可验证20/价值12/时效15/风险5）。原帖与多方来源均已核实：腾讯 LightVela（轻量云云端 Agent）新用户首单免费 1 个月启航 AI 套餐，每月含 4500 AI 积分，平时标价 10 美元/月；国内站需实名认证，国际站免 KYC。注意两点：①原帖“4500积分3个月”未证实，官方口径是首月免费、每月 4500 积分；②原帖教的“从云存储下载 .env 文件当 API key 外用”属非官方用法，有被封号风险，不建议照搬。"
     },
     {
+      "id": 803,
+      "title": "支付宝/淘宝搜“农信天天减”满20随机立减（需农信卡，先报名，连续20天）",
+      "url": "https://t.me/baipiaofl/65870",
+      "author": "白嫖福利推送",
+      "category": "金融卡券",
+      "score": 77,
+      "expiry_date": "2026-12-12",
+      "value": "满20随机立减（需农信卡，先报名，连续20天）",
+      "notes": "77分（来源24/可验证18/价值14/时效14/风险7）。支付宝/淘宝搜“农信天天减”满20元随机立减；需农信/农商银行卡支付、先报名再参加；每天立减一笔、连续20天（11月23日起约至12月12日，官方结束日未统一公布，各省活动、名额、卡种以支付宝内报名页为准）；随机金额原帖及各省细则均未公布具体数额。注意：“转账可无损”在原帖中无操作方法、无人证实，勿作保证。贵州农商联合银行官网2026年11月17日有同类活动“黔农惠付·安心消费，贵州农信消费随机立减活动开始啦”。"
+    },
+    {
       "id": 705,
       "title": "LumeAny 免费万能视频解析平台",
       "url": "https://t.me/baipiaofl/65703",
@@ -4897,6 +5106,17 @@
       "notes": "评分75分（来源20/可验证25/价值10/时效15/风险5）。原帖经 st3 CDP wool-fetch.py 核实存在；Ondo Perps 积分计划经多方来源核实：Ondo Foundation 每周固定发 500 万 Ondo Points，按交易量与持仓开仓量加权分配；另有每周 USDC 池（11 月 3–9 日那周 25 万美元，分做市/交易量/持仓三池），奖励 48 小时内直接入账、无需领取。注意：①这不是白拿——要入金 USDC 做永续合约交易（最高 20 倍杠杆），本金有亏损风险；积分本身无代币兑换承诺、未定价。②小额参与者按量分配，分到的 USDC 很少。③美国、加拿大、巴拿马等地区不可用。④推荐奖励至 11 月 11 日，每位合格推荐最高 60 美元 USDC。更新（2026-11-17 AIRDROPS.IO 日报）：Season 1 于 11 月 30 日结束（至 11 月 30 日 1.2 倍积分），12 月初须手动领取，逾期作废；仅限非美国用户。"
     },
     {
+      "id": 787,
+      "title": "Devin SWE-2 Flash 免费到 11 月 30 日（原帖误作 SWE-2）",
+      "url": "https://x.com/lovethelife2333/status/2124718366300438865",
+      "author": "lovethelife2333",
+      "category": "免费额度",
+      "score": 74,
+      "expiry_date": "2026-11-30",
+      "value": "SWE-2 Flash 限时免费（须付费自助计划）",
+      "notes": "74分。关键纠正：免费到11月30日的是SWE-2 Flash（276B总参、12B激活，Cognition 11月4日博客“Free through 11/30”），不是2.8T参数的旗舰SWE-2（9月10日博客全文未提免费）；付费计划条件属实：Devin定价页Free版SWE-2仅Slow，Pro $20/月、Max $200/月、Teams $80/月可用。注意：定价页未标注11月30日截止日。"
+    },
+    {
       "id": 731,
       "title": "AI 短剧 skill 清单 117 个开源精选",
       "url": "https://x.com/tantanyuli/status/2124430434515730765",
@@ -5027,6 +5247,17 @@
       "expiry_date": null,
       "value": "Kaggle、Colab免费GPU + GitHub Actions、Supabase、OpenRouter、Cloudflare Workers/R2等免费额度合集",
       "notes": "74分（来源22/可验证12/价值15/时效15/风险10）。清单里的Kaggle、Colab免费GPU已按官方口径核实；Simular Box、Cloady、Sakupa等其余免费额度未逐项核实，以各家官网为准。"
+    },
+    {
+      "id": 793,
+      "title": "MiniMax H3-Image 在 fal 免费生成（随时可能结束）",
+      "url": "https://x.com/Ylj158852/status/2124737206548111784",
+      "author": "Ylj158852",
+      "category": "免费额度",
+      "score": 73,
+      "expiry_date": null,
+      "value": "免费生图（页面实时显示剩余次数，API按原价）",
+      "notes": "73分。2026-11-23 14:53实测fal工具页仍显示“This image is on us. 3 free runs left. Free image up to 16 MP.”，免费本身属实且当时仍可领；规格最高20MP、1–16张参考图；API原价$2.30/1M输入文本token、$3.80/1M输出图像token。注意：“今天（11-23）最后一天”与“免登录每天3张、登录4张”在fal官网均未找到：fal官方X于11-10称免费两周，按此推算约到11-24而非11-23；页面只显示剩余3次，未写“每天”与登录后4张。按“随时可能结束”处理，立即使用。"
     },
     {
       "id": 676,
@@ -5192,6 +5423,28 @@
       "expiry_date": "一次性 $5 额度 90 天有效（每日 1000 credits 免费测试已于 11-12 结束）",
       "value": "一次性 $5 额度（约 5000 credits，90 天有效），之后按量付费；每日免费已结束",
       "notes": "73分（来源25/可验证25/价值8/时效10/风险5）。【2026-11-18 07:40晨报复核改写】原每日 1000 credits 免费已结束：aipromonow 2026-11-13 更新核实，Simular 11 月 12 日发邮件称免费测试当天关闭、每日额度不再刷新；测试用户得一次性 $5 额度（约 5000 credits，90 天有效），之后按量付费或订订阅（simular.ai 官方比价页亦写“$5 of free credit once”）。仍有效的部分：约 4 核 8G/40GB Ubuntu 云电脑，给 AI Agent 用（MCP 接入），免绑卡，Google/GitHub 登录即可；$5 额度约合 2 核 4G 机型 50 小时。注意：无公网入口、闲置休眠，不能当 VPS/节点用；$5 额度用完须付费（约 $0.10/小时）。"
+    },
+    {
+      "id": 792,
+      "title": "DediRock 洛杉矶特价款补货 $12.88/年",
+      "url": "https://x.com/SecJack96/status/2124725296717058202",
+      "author": "SecJack96",
+      "category": "云服务器",
+      "score": 72,
+      "expiry_date": null,
+      "value": "洛杉矶 2GB KVM $12.88/年（2TB流量，IPv6/双倍流量须工单申请）",
+      "notes": "72分。独立库存跟踪站证实：Promo 2 GB KVM VPS LA，洛杉矶，1核/2GB内存/30GB SSD、2TB流量、1Gbps端口、1个IPv4，$12.88/年；DediRock Tracker记录2026-11-23 00:33补货、首次出现于11-23，核查时在售。注意：官网洛杉矶常规页与促销页均未列出$12.88/年款（隐藏年付促销）；默认流量是2TB，4TB只有工单申请双倍流量成功后才达到；IPv6亦非默认配置，需购买后提工单申请，官网未公开承诺该规则，存在不确定性。"
+    },
+    {
+      "id": 786,
+      "title": "CSTserver 洛杉矶三网精品裸金属 $19.90/月",
+      "url": "https://x.com/fwqgo_com/status/2124669262979572074",
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "score": 72,
+      "expiry_date": null,
+      "value": "独享裸金属 $19.90/月（原价$49.75，4折码CSTOU4）",
+      "notes": "72分。商家CSTserver（原帖未读到，经Bing摘要与测评文章交叉确认）。官网证实原价$49.75/月、20Gbps防护、不限流量，49.75×0.4=$19.90算术成立；但$19.90折后价与优惠码CSTOU4官网无载、未在结账页实测；官网仅标题写China Premium CN2，未列CN2 GIA/AS9929/CMIN2明细。注意：带宽仅30M、老款E5平台。"
     },
     {
       "id": 760,
@@ -6096,6 +6349,39 @@
       "notes": "71分（来源20/可验证20/价值8/时效15/风险8）。官网Ultra大阪页（bandwagonhost.com/order/ultra/Osaka）核实：机房JPOS_6 Equinix OS1，入门款$49.99/月、年付$499.99/年，2核CPU/2GB内存/40GB RAID-10 SSD/500GB月流量/1.5Gbps；CN2 GIA专页确认香港、日本提供CN2 GIA/CTGNet。$49.99为常规价、无促销截止。未证实：帖子说的“上海电信36ms、联通38ms”、“三网回程100%走CTGNet”、“日本广播IP可用日区TikTok/Netflix/Disney+/ChatGPT”，官网未给具体延迟数字与流媒体说明，需实测。注意：$49.99对应Ultra系列，大阪E-Commerce系列月付最低$56.99，不要混淆。原帖X 403未读到。"
     },
     {
+      "id": 799,
+      "title": "RakSmart 圣何塞三网精品 $4.99/月（闪购价）",
+      "url": "https://x.com/fwqgo_com/status/2124748163051561298",
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "score": 70,
+      "expiry_date": null,
+      "value": "圣何塞 2核4G $4.99/月（闪购价，$10叠券说法不实）",
+      "notes": "70分。官网黑五活动页证实：SV-VPS圣何塞确有一款$4.99/月，2核/4G/50G HDD、IP数1、流量CN2 Only Enterprise CN2 G 1T（划线价$14.99）；另有一款同价2核/4G/NVMe 50G、China Optimized VIP 5G 5T（划线价$15.25）；1TB月流量、独立IPv4属实（指CN2款）。注意：“叠完立减$10.00优惠券只要$4.99”未证实且与官网不符：官网Coupon Pack只有满$10减$3、满$100减$30等，无$10立减券，$4.99本身就是闪购标价；$10 voucher只出现在转盘抽奖中奖名单，是随机奖品；闪购产品可能不支持叠加折扣。线路说法（CN2 GT/AS4837/CMIN2/GIA分运营商去回程）官网未给出明细，无法证实。官网未公布截止日与库存，续费价未注明（划线价$14.99提示续费可能回升），下单前再确认。"
+    },
+    {
+      "id": 790,
+      "title": "Dow AI Quest 积分活动：答题赚 XP",
+      "url": "https://x.com/Ciciyingying/status/2124718942958780419",
+      "author": "Ciciyingying",
+      "category": "免费额度",
+      "score": 70,
+      "expiry_date": null,
+      "value": "答题赚XP，未来兑换生态奖励（未定）",
+      "notes": "70分。Dow官网活动页实测打开：BNB Quest进行中，Roam、4DLabs、Venus Protocol、Aster等项目各50 XP/个；规则：每天最多完成2个项目测验（UTC日重置）、每测验5题答对至少3题得XP、答错不给且触发24小时冷却、Bonus XP先到先得名额有限。注意：奖励兑换只有“未来可兑换生态奖励”一句话，无具体奖励、兑换比例与截止日；须连接钱包参与，非纯0成本；融资1050万美元为媒体报道（MH Ventures、Mapleblock领投），官网页未见。"
+    },
+    {
+      "id": 789,
+      "title": "RAKsmart 香港独立 IPv4 云服务器 $2.99/月（限量秒杀）",
+      "url": "https://x.com/fwqgo_com/status/2124691907377004578",
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "score": 70,
+      "expiry_date": "2026-11-30",
+      "value": "香港VPS秒杀 $2.99/月（黑五周11月25-30日）",
+      "notes": "70分。商家RAKsmart（原帖未读到，经同账号另一帖与出海ABC整理页交叉确认）。配置与$2.99秒杀价基本对上：香港1核1G/50G HDD、1Gbps/3TB、国际BGP。注意：当前处于活动空档（双11大促11月11-17日已结束，黑五感恩周11月25-30日），$1.99档已结束；“每天20台”与NTT/PCCW接入未经官网证实，官方仅称各批次限量供应；秒杀款为HDD、不可用优惠券/赠送金、续费价以结算页为准、是否支持退款待核实。"
+    },
+    {
       "id": 771,
       "title": "Google AI Pro 4.99美元/月 前三个月（新用户定向优惠）",
       "url": "https://t.me/nodeseekc/1025818",
@@ -6446,6 +6732,17 @@
       "expiry_date": "长期有效",
       "value": "免费浏览器插件，解决 X 首页刷新丢帖的问题；不省钱，省时间",
       "notes": "70分（来源20/可验证20/价值5/时效15/风险10）。原帖与 Chrome 应用商店核实：同名同功能的 X Rewind: Post History Tracker 真实存在、免费，自动记录刷过的帖子、侧栏回看、可搜索、数据只存本地。注意：原帖称“开源”未证实，商店页未写开源；同类插件有多个（X 历史记录、Tweet Trail 等），以帖子截图的为准；这是免费小工具，不省钱、省时间。"
+    },
+    {
+      "id": 801,
+      "title": "B2Proxy 大促：3GB $2.99 起（新用户）",
+      "url": "https://t.me/baipiaofl/65862",
+      "author": "白嫖福利推送",
+      "category": "订阅优惠",
+      "score": 69,
+      "expiry_date": null,
+      "value": "3GB $2.99（新用户）；官网不提供免费试用",
+      "notes": "69分。官网证实：3GB新用户专享总价$2.99（原$3/GB，现$0.99/GB），流量永不过期；最高立减$350属实（高级套餐3000GB立减$350，总价$2250；100GB立减$20，总价$90）；另有下单送最高25% off下一单优惠券。注意：“免费试用”与官网直接矛盾：官网定价页FAQ明确不提供试用，官网弹窗的“1小时试用”实际是付费$10；NodeLoc帖的“免费试用”实际是新用户在本帖评论“申请试用”向商家申请免费流量，属商家酌情发放，额度和能否获批均未写明。活动无具体截止日，同一大促在16天、9天、2天前已有重复帖，属长期滚动促销。"
     },
     {
       "id": 768,
@@ -7493,6 +7790,17 @@
       "notes": "65分（来源22/可验证10/价值10/时效15/风险8）。与本轮另一条Kaggle帖同源，属于同一玩法的概念版，无具体步骤；核心事实（T4 x2、每周约30小时）已按Kaggle官方文档核实。"
     },
     {
+      "id": 780,
+      "title": "ZooProxy 免费住宅 IP 流量 CDK（新用户 5 折）",
+      "url": "https://t.me/baipiaofl/65848",
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "score": 64,
+      "expiry_date": null,
+      "value": "免费住宅 IP 流量 CDK（帖内 6 个兑换码，先到先得）；新用户 5 折",
+      "notes": "64分（来源22/可验证12/价值12/时效14/风险4）。大佬论坛官方账号发帖：免费住宅 IP 流量 CDK，帖内公布 6 个兑换码，先到先得；新用户 5 折；帖称 $0.38/GB、$0.9/IP、1 亿 IP 池、190+ 国家/地区。官网核实：首页确有 Residential/ISP 5 折标识，住宅代理起 $0.46/GB（定价页副标题称低至 $0.38/GB，但所列套餐最低为 $0.46/GB）；$0.9/IP 在官网无对应价格，存疑。门槛：须注册 + KYC（官网称 KYC 适用于所有客户）；页脚称代理服务不可在中国大陆使用。未核实：6 个 CDK 的面额、有效期及是否已被领完，未尝试兑换。"
+    },
+    {
       "id": 765,
       "title": "Nodaroo 免费 VPS：2核6GB/50GB NVMe（需申请，期限与绑卡未核实）",
       "url": "https://x.com/Lovislexus/status/2124608861394833830",
@@ -7501,7 +7809,7 @@
       "score": 64,
       "expiry_date": null,
       "value": "免费 VPS：2核/6GB内存/50GB NVMe；官网或 Discord 提交申请；期限、绑卡/KYC、名额未核实",
-      "notes": "64分（来源20/可验证10/价值16/时效13/风险5）。Bing 官方页搜索摘要证实：免费页写“2 CPU, 6GB RAM, 50GB NVMe”，官网首页有 Free VPS 入口，付费 VPS 起价 $4.00/月；官方博客摘要称可官网申请或加入 Discord 提交申请。未核实：官网首页与免费页被 Cloudflare Turnstile 拦截未能打开，免费期限、能否长期用、是否绑卡/KYC/押金、名额与排队均未确认；“免费领取”不能确认是即领即用。X 原帖 403 未读到。【2026-11-23 07:56 补充核实】同一免费档位的另一帖（NodeLoc 118974）证实：界面称 container/server，部署模板以游戏服（Paper/Vanilla/Forge/Bungeecord）与 node.js/python 通用运行时为主，非传统 VPS 表述；免费配置数字一致（CPU 200%=2 核、6GB、50GB），可选德国 DE3 与中国 CN1；作者称注册送 100 积分可升级配置、只有走邀请链接才能拿 100 积分，但原文用的是“It seems that…”、属作者推测、未获官方证实；中国区开通疑似报错、可能需联系管理员；官网邀请页被 Cloudflare 拦截未读到，积分有效期、免费期限、绑卡/KYC、名额均未证实；另注意“NVMe”一词在帖内截图与可查官方摘要中均未出现，NVMe 一项无法证实。分数维持 64。"
+      "notes": "64分（来源20/可验证10/价值16/时效13/风险5）。Bing 官方页搜索摘要证实：免费页写“2 CPU, 6GB RAM, 50GB NVMe”，官网首页有 Free VPS 入口，付费 VPS 起价 $4.00/月；官方博客摘要称可官网申请或加入 Discord 提交申请。未核实：官网首页与免费页被 Cloudflare Turnstile 拦截未能打开，免费期限、能否长期用、是否绑卡/KYC/押金、名额与排队均未确认；“免费领取”不能确认是即领即用。X 原帖 403 未读到。【2026-11-23 07:56 补充核实】同一免费档位的另一帖（NodeLoc 118974）证实：界面称 container/server，部署模板以游戏服（Paper/Vanilla/Forge/Bungeecord）与 node.js/python 通用运行时为主，非传统 VPS 表述；免费配置数字一致（CPU 200%=2 核、6GB、50GB），可选德国 DE3 与中国 CN1；作者称注册送 100 积分可升级配置、只有走邀请链接才能拿 100 积分，但原文用的是“It seems that…”、属作者推测、未获官方证实；中国区开通疑似报错、可能需联系管理员；官网邀请页被 Cloudflare 拦截未读到，积分有效期、免费期限、绑卡/KYC、名额均未证实；另注意“NVMe”一词在帖内截图与可查官方摘要中均未出现，NVMe 一项无法证实。分数维持 64。【2026-11-23 12:56 补充核实】同一免费档位的另一帖（NodeLoc 118992）称：注册送 100 积分，默认随机选区、自选区域 150 积分，做任务每分钟 1 积分（100+50 分钟，或挂机 150 分钟）；帖内链接含 AFF（楼主称可删后缀）；有用户贴出 'Something went wrong' 报错截图，楼主回复太多人薅、稍后再试，当前存在过载/报错。2C/6G/50G 配置、“永久免费”、“不绑卡”、三区域具体是哪些仅出现在标题，正文无，核心内容需点赞后可见未查看；官网 free.nodaroo.com 被 Cloudflare Turnstile 三次拦截未通过，官方条款仍未核实。分数维持 64。"
     },
     {
       "id": 613,
@@ -8233,5 +8541,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-23T11:53:43+08:00"
+  "updated_at": "2026-11-23T16:05:57+08:00"
 }
