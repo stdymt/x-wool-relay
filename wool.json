@@ -1,5 +1,5 @@
 {
-  "count": 740,
+  "count": 741,
   "items": [
     {
       "id": 652,
@@ -6030,6 +6030,17 @@
       "notes": "71分（来源20/可验证20/价值8/时效15/风险8）。官网Ultra大阪页（bandwagonhost.com/order/ultra/Osaka）核实：机房JPOS_6 Equinix OS1，入门款$49.99/月、年付$499.99/年，2核CPU/2GB内存/40GB RAID-10 SSD/500GB月流量/1.5Gbps；CN2 GIA专页确认香港、日本提供CN2 GIA/CTGNet。$49.99为常规价、无促销截止。未证实：帖子说的“上海电信36ms、联通38ms”、“三网回程100%走CTGNet”、“日本广播IP可用日区TikTok/Netflix/Disney+/ChatGPT”，官网未给具体延迟数字与流媒体说明，需实测。注意：$49.99对应Ultra系列，大阪E-Commerce系列月付最低$56.99，不要混淆。原帖X 403未读到。"
     },
     {
+      "id": 771,
+      "title": "Google AI Pro 4.99美元/月 前三个月（新用户定向优惠）",
+      "url": "https://t.me/nodeseekc/1025818",
+      "author": "NodeSeek官方频道",
+      "category": "订阅优惠",
+      "score": 70,
+      "expiry_date": null,
+      "value": "前三个月每月$4.99（常规$19.99/月），仅限新用户，优惠期后按标准价自动续费；截止时间与适用地区未证实；注意$4.99也是 AI Plus 的常规价，别混淆",
+      "notes": "70分（来源22/可验证20/价值15/时效8/风险5）。独立浏览器核实：Google One 官方定价页（one.google.com/about/plans，美元区）证实 AI Pro 常规价 US$19.99/月，US$4.99/月是 AI Plus 400GB 的常规价、不是 Pro 常规价；包年栏 Pro 首 12 个月 US$99.99、之后 US$199.99/年，页面有黑五横幅“会员专享：Google AI 方案最高可省 50%”。Google One 特价条款页（one.google.com/offer/specialoffer，2026-11-17 更新）写明特价仅限新的 Google One 用户、不可叠加、优惠期后按标准价自动续费、可随时取消，未给具体截止日。佐证：Google AI 开发者论坛 2026-11-19 帖称 promotional offer $4.99/month for first 3 months, followed by regular $19.99/month 并附截图；Google 支持论坛 2026-11-08 摘要亦有相同表述。未证实：NodeSeek 原帖全文未读到（nodeseek.com 冷却至 2026-11-23 23:03 UTC），适用地区、名额、截止时间均未证实。风险：时长因账号/地区/批次而异（有旧摘要称 4.99 美元可享 12 个月，与“前三个月”冲突）；有用户反映部分折扣订阅在 Antigravity 中被归类为 Trial 而非 Paid，可能限制高级模型。"
+    },
+    {
       "id": 734,
       "title": "免费去水印视频下载：抖音 / TikTok / B站，无需注册（dl.awe0.com）",
       "url": "https://t.me/baipiaofl/65747",
@@ -8145,5 +8156,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-23T08:52:51+08:00"
+  "updated_at": "2026-11-23T09:53:47+08:00"
 }
