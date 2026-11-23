@@ -7,7 +7,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 - 范围：以 AI 为主（AI 会员、免费额度、VPS/VPN、AI 赚钱新路子）
 - 更新时间：见 wool.json 里的 `updated_at`（北京时间）
 
-## 本次更新（2026-11-23 08:00，737 条，本轮新增 1 条）
+## 本次更新（2026-11-23 08:52，740 条，本轮新增 3 条）
 
 | 分 | 内容 |
 |---|--- |
@@ -56,6 +56,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 90 | 魔搭 ModelScope × AMD 激励计划 2.0：注册 AMD 开发者计划送 100 小时 192GB 显存 Notebook（帖称 12 月底截止（官方活动页未见明确截止日，以活动页为准）） |
 | 90 | Oracle Free 账户注册实测成功（香港区 + 86 手机号 + Visa） |
 | 90 | Kiroween 黑客松：申请领 4000 个 Kiro credits（约 160 美元）（2026-12-01） |
+| 89 | GitHub 官方 MCP 服务器：免费开源，把仓库/Issue/PR 交给 Agent（34.7k stars，MIT） |
 | 89 | RackNerd 黑五 1GB KVM $15.98/年 |
 | 89 | OpenCode DS V4.1/GLM 5.3 API 降至四折 |
 | 89 | ModelTrace：本地跑的 AI 模型归因开源工具 |
@@ -251,6 +252,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 81 | figures4papers：给 Codex/Claude Code/Cursor 的论文绘图 Skill（12.3k Star，CC BY-NC 仅限非商业）（无固定截止日（开源项目进行中）） |
 | 81 | LunaRoute Pro免费试用7天：$99/月档，含GLM 5.3/DeepSeek 4.1 Flash（需绑卡，到期自动扣费）（无固定截止日（7天试用进行中）） |
 | 81 | OpenFilm开源AI视频剪辑：把编程智能体变成视频智能体（MIT，8.6k Stars）（无固定截止日（开源项目）） |
+| 80 | Simafri 学生免费 VPS 10个月（VPS Pro 1：1核2G/20G NVMe，限合作学校学生） |
 | 80 | Groq 永久免费层 + OpenTyphoon 免费 OCR |
 | 80 | 微软 Azure 新客 12 个月免费云服务器 + $200 抵扣金 |
 | 80 | srt-whiteboard-animation：SRT字幕转白板手绘视频（开源免费） |
@@ -588,6 +590,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 70 | 学生认证福利汇总：Azure $100、GlaDOS 每月100G、GitHub学生包3域名、JetBrains全家桶免费（无固定到期日） |
 | 70 | 开源 PerkRadar：本地运行的羊毛线索聚合器，每 2 小时自动整理免费领取与限时优惠 |
 | 70 | Rewind for X：自动记录刷过的 X 帖子，侧栏回看可搜索（免费浏览器插件）（长期有效） |
+| 69 | Noxc 免费二级域名已恢复申请（365天有效期，积分制） |
 | 69 | RAKsmart 硅谷双 ISP VPS $3.87/月（黑五）（2026-11-30） |
 | 69 | hermes-harness-clone：把 Hermes Agent 克隆进 Antigravity 开源项目 |
 | 69 | Calm Premium免费会员（有效期至2026-12-31）（2026-12-31） |
