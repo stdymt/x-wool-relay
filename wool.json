@@ -1,5 +1,5 @@
 {
-  "count": 741,
+  "count": 748,
   "items": [
     {
       "id": 652,
@@ -739,6 +739,17 @@
       "notes": "88分；官网 mineru.net 核实：精准解析 API 每个账号每天 1000 页最高优先级解析额度，超量降优先级不停；单文件≤200MB/≤200页；需注册登录拿 Token，未提绑卡；Agent 轻量版免登录免 Token（单文件≤10MB/≤20页，仅出 Markdown）；开源本地版 AGPL-3.0、44.9k stars，自部署无页数限制；帖称可出 EPUB，官方文档只列 docx/html/latex，未见 EPUB。独立浏览器核实+搜索二审佐证一致。"
     },
     {
+      "id": 774,
+      "title": "OpenCode免费调用腾讯混元Hy4 flash（限时免费，1M上下文）",
+      "url": "https://x.com/KOF97AI/status/2124688131928817831",
+      "author": "KOF97AI",
+      "category": "免费额度",
+      "score": 87,
+      "expiry_date": "2026-11-30",
+      "value": "Hy4 flash Free在OpenCode Console模型文档中，模型ID hy4-flash-free，输入/输出/缓存全免费，1M上下文；限时免费约至11-28—11-30；Console须登录并添加账单信息才能取API Key",
+      "notes": "87分（来源26/可验证23/价值17/时效13/风险8）。OpenCode官方Console模型文档证实Hy4 flash Free在列，模型ID hy4-flash-free，输入/输出/缓存读取均为Free，“Free models”一节写明限时免费、提供方零留存；模型库显示Hy4 flash价格$0.00/$0.00，上下文1,048,576、输出65,536，2026-11-16发布。腾讯混元2026-11-19 15:00致谢帖经AREX报道间接证实。截止日官方口径不一：免费两周约至11-30、Go通道14天、另有10天口径约至11-28，以文档当前仍列Free为准。注意：Console须登录并添加账单信息和充值才能取API Key，免费模型通过OpenCode使用。85+二审：报前已重开官方文档复核，仍在列。"
+    },
+    {
       "id": 750,
       "title": "DediOne 洛杉矶 VPS $29.99/年（CMIN2+CUII 双精品线路）",
       "url": "https://x.com/fwqgo_com/status/2124299572445102450",
@@ -1100,6 +1111,17 @@
       "expiry_date": null,
       "value": "VPS 1GB $15.98/年起，黑五价终身续费同价；共享主机 $9.49/年起",
       "notes": "86分（来源28/可验证22/价值16/时效12/风险8）。官网 2026 黑五页 racknerd.com/BlackFriday 核实属实，但 $7.99/年全站找不到，与 2026 现行价及 2025 年最低档 $10.60/年均对不上，疑似旧档或误传。VPS：1GB $15.98/年（1核、20GB SSD、1GB 内存、3TB 流量）、2.5GB $27.98/年、4GB $47.98/年（主推）、6GB $74.98/年、8GB $94.98/年；共享主机最低 $9.49/年；分销主机 $29.88/年起；独立服务器 $64/月起。FAQ 称黑五价格为终身续费同价。注意：页顶倒计时为滚动式短倒计时（核查时仅约 10 分钟且在走动），官网未给出黑五固定结束日。机房为美国达拉斯，共享面板为 AdminBolt。85+ 二审：浏览器核实已重开原帖与官方来源复核一致，留待晨报头条。"
+    },
+    {
+      "id": 778,
+      "title": "IP-Guide 上线：VPS 筛选、家宽 IP 核验与网络实测免费站",
+      "url": "https://t.me/nodeseekc/1026130",
+      "author": "NodeSeek官方频道",
+      "category": "云服务器",
+      "score": 85,
+      "expiry_date": null,
+      "value": "全站免费，无注册/付费入口；核验 IP 为 ASN/路由查询，非直接家宽判定",
+      "notes": "85分。站点直接打开核实：https://ip-guide.pitopone.com/（注意不是 ip.guide，该域名另有他用且显示待售）。真实上线可直接用，全站免费浏览，未见注册、登录或付费入口。功能：查找方案（按地区、服务器类型、付款周期、线路/运营商、出口 IP 属性、端口速率、流量额筛选排序）、核验 IP（查路由前缀与起源 ASN，提交后 IP 发给 RIPE NCC）、测速（浏览器 HTTP 延迟/抖动/上下行并检查 IPv4/IPv6）、近期优惠、测评时间轴、选购指南；支持简/繁/英/日。首页数据：63 国家/地区、407 商家、5,448 方案、181 物理机、330 活动；站内统计自 2026-11-21 起，核查时累计 1,449 人次浏览。原帖称前身是 3 天前的黑五 VPS 查询页，本次正式命名 IP-Guide，链接无 AFF。注意：核验 IP 本质是 ASN/路由前缀查询，并非直接输出家宽/机房判定；方案价格为商家资料聚合，使用时应回原始资料核实。85+ 二审由本次核实直接打开站点完成。NodeSeek 原帖因站方冷却未直接打开（至 11-24 07:03）。"
     },
     {
       "id": 748,
@@ -1771,6 +1793,28 @@
       "expiry_date": "2026-11-30",
       "value": "11月内Pro用户前$3000消费返4%积分（最高约$120积分）",
       "notes": "83分（来源25/可验证23/价值15/时效13/风险7）：Pulsar官方帮助中心“Pulsar Points Explained”（2026-11-12更新）原文核实：11月剩余时间Pro用户前$3000合规消费按4%返Pulsar Points（$0–$1000/$1000–$2000/$2000–$3000三档均为4%，$3000以上回落至0.5%），新老Pro用户同享，返现按月计算、次月10日前到账；另有Beyond Friday活动11月3–30日指定商户（Amazon/eBay/SHEIN/TEMU/Steam等）双倍返现。注意：①须Pro订阅$9.99/月（年付$99.99），返的是积分（100积分=$1，可抵扣消费），不是现金；②与在册id104（首开Pro返$10积分）是同一产品的不同活动：本条是11月限时返现档位提升；③“首月会员费返还”只见于10月活动（限前100名、已于2026-11-01截止），11月官方页未见此口径，不要按11月权益算；④积分Pro有效期6个月；⑤Pulsar为罗马尼亚公司、Wirex提供Visa发卡，属小牌照预付产品，别大额充值；⑥另有11月推荐返现（推荐人对被推荐人合计前$3000享3%、上限$90）与本人消费4%是两回事，别混淆。补充（2026-11-16 10:40轮，Javary324帖 + 官网帮助中心复核）：Free前$3000分档为$0–$1000 0.5%、$1000–$2000 1%、$2000–$3000 2%，Pro前$3000统一4%，超$3000后Free 0.25%、Pro 0.5%；但《Pulsar Pro》同页对照表写Free首$500为0.5%、之后一律0.25%，与前表Free 1%/2%分档互相矛盾，两篇均标“Updated this week”，以哪篇为准未定；Pro的4%是11月活动价、非标准费率；特定商户翻倍仅ChatGPT、Claude、X、Uber、Bolt五家，翻倍后Free 2%→4%（仅$2000–$3000档）、Pro 4%→8%；积分抵扣：25%/50%档100积分=$1、75%档112积分=$1、全额100%档125积分=$1（全额抵只值8折），单笔抵扣至少$0.5，退款以USDC到账。补充（2026-11-17 00:40轮，SecJack96帖 + Pulsar官网博客/活动条款复核）：Beyond Friday 11-16–22 为 Tech and gaming 周，参与品牌 PlayStation Store、Steam、MediaMarkt、Worten，Pro 会员在这些品牌消费享双倍返现（以 Pulsar Points 发放），每个商家最多 2 笔合规消费享双倍；“8%”为按 Pro 标准 4% 双倍推算，官方条款只写“双倍于适用标准返现率”，未直接写 8%。帖内首月返 10U、白色 Pro 卡、每月返现上限 100U 本次未在 Beyond Friday 公告/条款中逐条核查。"
+    },
+    {
+      "id": 775,
+      "title": "AlexHost黑五：VPS七折€7/月+VPN首月免费（码30BF/BFVPN，限60台/前250名）",
+      "url": "https://x.com/Lovislexus/status/2124676807794536625",
+      "author": "Lovislexus",
+      "category": "云服务器",
+      "score": 82,
+      "expiry_date": null,
+      "value": "U2 2核4G/40G NVMe/1Gbps原价€10，码30BF七折€7/月循环续费同价，限英国/罗马尼亚/保加利亚、仅60台；VPN首月免费码BFVPN限前250名，VPN本身55国不限流量无日志、€3.33/月起；截止日未证实",
+      "notes": "82分（来源24/可验证22/价值16/时效13/风险7）。AlexHost官网promo页横幅“BLACK FRIDAY -30% FOR VPS, RO EN BG, Limited quantity”证实；官网VPS页U2套餐2核4G/40G NVMe/1Gbps、原价€10/月证实，€7为七折算术价、列表页仍显示€10，须结账时输优惠码；优惠码30BF（VPS七折循环续费同价）、BFVPN（VPN首月免费）与限量60台/前250名来自VN Coupon 2026-11-20文章转述官方发帖与LowEndTalk官方商家帖标题，未在官网直接证实；VPN“不买VPS也能领”未证实；活动截止日未证实。"
+    },
+    {
+      "id": 773,
+      "title": "三个免绑卡免费API备用池：Plugsky/Voyage AI/Jina AI",
+      "url": "https://x.com/BlockInsight214/status/2124677059545059623",
+      "author": "BlockInsight214",
+      "category": "免费额度",
+      "score": 82,
+      "expiry_date": null,
+      "value": "Plugsky Free $0：500次/天、25万Token/天、30 RPM，官网写明no card；Voyage AI新模型首2亿Token免费（一次性）；Jina AI Free每月1000万Token、500 RPM、No credit card required",
+      "notes": "82分（来源24/可验证21/价值17/时效13/风险7）。Plugsky官网定价页证实Free档$0、500次/天、25万Token/天、30 RPM，写明“Start on the free tier (no card, no commitment)”及OpenAI兼容，不拿免费数据训模型；但定价表标注新账号起始仅100次/天、5万Token/天，何时升至500/25万官网未说明，“永久”一词官网未出现。Voyage AI官方定价文档证实新模型（voyage-4等）每账号首2亿Token免费，但老模型仅首5千万或0，额度为每账号一次性、非每月重置；免绑卡未在官网证实。Jina AI官网首页定价区证实Free档“No credit card required”、每月1000万Token、500 RPM，但额度未区分到具体API产品。"
     },
     {
       "id": 753,
@@ -2651,6 +2695,17 @@
       "expiry_date": "无固定截止日（开源项目）",
       "value": "开源免费AI视频剪辑工具；用编程智能体做视频，可导出或带到PR/FCP/DaVinci",
       "notes": "81分（来源20/可验证25/价值13/时效15/风险8）。GitHub仓库 openfilm/openfilm 核实：MIT协议开源，最新版0.4.1，8.6k Stars、848 Forks（帖称“约4.4K Stars”已过时、实际更高）；中文README称“开源的 AI 视频智能体”，把Claude Code、Codex等任意编程智能体变成视频智能体，配放映/剪辑/画布/调色四个编辑器，可导出视频或把时间线带到Final Cut Pro、Premiere Pro、DaVinci Resolve。注意：①“国产”一说仓库未明示公司国籍，中文README与中文社区入口可作旁证、未证实；②用编程智能体做视频可能另需模型API费用。原帖全文未读到（X 403）。"
+    },
+    {
+      "id": 772,
+      "title": "VPSServer 30天免费VPS试用（含$100额度，须绑卡验证）",
+      "url": "https://x.com/BlockInsight214/status/2124657178451787812",
+      "author": "BlockInsight214",
+      "category": "云服务器",
+      "score": 80,
+      "expiry_date": null,
+      "value": "30天免费试用、额度最高$100、完整root、20+数据中心；须绑信用卡（$1-2验证扣款可撤销）；到期自动转付费",
+      "notes": "80分（来源24/可验证23/价值15/时效13/风险5）。VPSServer官网free-vps-server页证实：30天免费试用、额度最高$100、完整root权限、20+数据中心覆盖北美/欧洲/亚洲/澳大利亚，含1台自选配置云服务器、1TB云块存储、5TB出站流量（亚洲和澳大利亚为1TB）。关键限制：FAQ明确注册时发起$1–$2信用卡验证扣款（会撤销），即须绑信用卡，免费并非免卡；到期后服务自动转为付费，按所选方案标准价按小时或按月收费。"
     },
     {
       "id": 769,
@@ -4422,6 +4477,17 @@
       "expiry_date": "无固定截止日（测试网进行中）",
       "value": "测试网做任务攒积分，$T0 11% 空投（Season 0 5% + 未来主网季 6%）；需 500 积分才有资格，单钱包上限 0.1%",
       "notes": "76分（来源25/可验证23/价值12/时效9/风险7）。AirdropAlert 页（已重定向至 /airdrops/tzero-testnet/）与项目官方 testnet.tzer0.fun/docs/points 核实：$T0 的 11% 用于空投，测试网 Season 0 占 5%、未来主网季占 6%；需 500 积分才有资格，单钱包上限为供应量的 0.1%，按积分比例分配，Base Sepolia 测试网，测试 ETH 可领，90 天内未领取滚入下一季。积分规则：Fuel 每买 1 ETH 得 1,000 分（需持有 60 分钟、每日每钱包最多计 1 ETH、低于 0.0005 ETH 不计），Crew +150（每日最多 5 次）、Liftoff 创建者 +500、质押每日共 5,000 分（单钱包每日上限 1,000 分）、Signal 回复/引用 +200、关注 @T0dotfun +100；快照提前 7 天公告，快照前公开女巫审查。无需押金、无邀请要求，只需钱包 + X 账号关联；主网上线时间、代币价格均未公布，分配为未来空投、非即时到账。"
+    },
+    {
+      "id": 776,
+      "title": "ShieOrange（神盾橘）开源免费自部署：AI 清 TG 广告",
+      "url": "https://t.me/baipiaofl/65839",
+      "author": "白嫖福利推送",
+      "category": "软件工具",
+      "score": 75,
+      "expiry_date": null,
+      "value": "开源免费自部署；AI 识图需自备 API Key，付费模型另计费",
+      "notes": "75分。GitHub 直接核实：Kylin010/ShieOrange，MIT 协议，v0.2.0，公开仓库；免费自部署属实（Dockerfile/docker-compose/setup.sh，一行命令部署，需自备 TG Bot Token 与超管 User ID）。功能：TG AI 反广告守卫，任意 OpenAI 兼容单模型多模态识图；不填 AI Key 时本地硬防（CAS 黑库、防刷屏、入群验证等）。扣分：2026-11-23 当天刚发布，仅 3 星、2 次提交，未经长期验证；AI 功能需自备 API Key，付费模型另付费；curl|bash 一键安装部署前应先读 README 检查脚本。NodeSeek 原帖因站方冷却未直接打开（至 11-24 07:03），结论以 GitHub 为准。"
     },
     {
       "id": 764,
@@ -7911,6 +7977,17 @@
       "notes": "61分（来源15/可验证20/价值8/时效10/风险8）。浏览器实测打开作者评论区链接（Cloudflare Workers 临时域名 odd-tree-0c49.775501912.workers.dev）：页面标明免费、不用登录、不存数据，输入 X 账号即可体检最近 20–40 条帖子（走 FxTwitter 公开接口），另有 500K 达标计算器（填变现页合格曝光数，按 90 天内达 500K 测算、约每天 5,556）。注意：①临时域名、非独立域名/官方工具，随时可能失效；②“不存数据”仅为作者页面自述，未独立核实；③只对做 X 变现/运营的人有用，受众较窄。"
     },
     {
+      "id": 777,
+      "title": "Koti Networks 黑五：共享型首月77折、续费88折，至12/1",
+      "url": "https://t.me/nodeseekc/1026059",
+      "author": "NodeSeek官方频道",
+      "category": "云服务器",
+      "score": 60,
+      "expiry_date": "2026-12-01",
+      "value": "首月77折、续费88折；原价 $29.90/月起，偏高；另有 Elisa NAT 线路抽奖（规则未读到）",
+      "notes": "60分。官网 kotinetworks.com 直接核实：芬兰赫尔辛基边缘 KVM VPS 属实；但官网首页与 Plans 页未见黑五横幅或折扣价，促销仅由 Google 对 NodeSeek 原帖的摘要证实：优惠码 BLACKFRIDAY，共享型三档与固定共享型首月 77 折、续费 88 折，到 12/1 止。官网原价：Shared 384GB $29.90/月、768GB $42.90/月、1TB $59.90/月，Fixed Shared $99/月；按折扣推算首月约 $23.02/$33.03/$46.12/$76.23（非官网标价，仅供参考）。另有 Elisa NAT 边缘线路抽奖，名额与开奖方式因原帖打不开未读到；“Elisa”之名仅见原帖标题，官网只写 Shared mobile edge line；官网提示 Shared 线路不建议用于银行/支付与交易网站。扣分：促销未在官网公示、折扣幅度不大、原价偏高。NodeSeek 原帖因站方冷却未直接打开（至 11-24 07:03）。"
+    },
+    {
       "id": 633,
       "title": "Kcloud柬埔寨云新用户$30免费额度",
       "url": "https://t.me/nodeseekc/1022942",
@@ -8156,5 +8233,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-23T09:53:47+08:00"
+  "updated_at": "2026-11-23T11:53:43+08:00"
 }
