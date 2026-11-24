@@ -1,5 +1,5 @@
 {
-  "count": 819,
+  "count": 823,
   "items": [
     {
       "id": 802,
@@ -1828,6 +1828,17 @@
       "notes": "85分（来源25/可验证25/价值10/时效15/风险10）。原帖与 clipseek.ai 官网均已核实：ClipSeek 可用自然语言搜无版权免费素材（视频、照片、插画），Free media 页明确写明 royalty-free；桌面应用 Free 版 $0、本地运行、不用登录不用绑卡，可导入最多 5 GiB。注意：桌面端超过 5 GiB 导入量需 Pro（一次性付费、早鸟价 $15，原价 $29，终身使用、14 天退款）。"
     },
     {
+      "id": 855,
+      "title": "德国免费建站 lxi.be：5GB空间+无限流量永久免费",
+      "url": "https://t.me/baipiaofl/65952",
+      "author": "白嫖福利推送",
+      "category": "云服务器",
+      "score": 84,
+      "expiry_date": null,
+      "value": "永久免费建站：5GB空间+无限流量+免费子域名，免绑卡",
+      "notes": "84分（来源25/可验证20/价值15/时效15/风险9）。官网证实永久免费：5GB空间、无限流量、PHP 8.3、MySQL兼容库、自动HTTPS、lxi.be子域名（最多5个）、免信用卡、无广告；SSH仅为发帖人一次实测自述、官网托管页未提及；所谓8核/11GiB是宿主机总量、不是个人配额；无root、sudo不可用；内存/CPU配额、有效期、名额限制官网均未写明。LINUX DO原帖截图末行被截断。"
+    },
+    {
       "id": 849,
       "title": "Antigravity全员重置额度：Pro可用Carbon，Argon/3.8 Flash 11-30下线",
       "url": "https://x.com/mjjwiki/status/2124986133859930431",
@@ -2002,6 +2013,17 @@
       "expiry_date": "无固定截止日（开源项目长期有效）",
       "value": "免费开源 AI Agent（MIT），262k stars；可自学/自部署，带记忆与技能自改进",
       "notes": "84分（来源22/可验证25/价值12/时效15/风险10）：X 原帖 + GitHub 官方仓库 NousResearch/hermes-agent 浏览器只读核实：公开仓库、MIT 协议、262.4k stars、58.6k forks，最新版 v0.23.1（约 19 小时前发布）；自带学习循环的 AI Agent，可从经验中创建并改进技能，支持多步任务执行、工具调用与记忆。注意：README 另提到可选的 Nous Portal 订阅（一份订阅覆盖多项服务），属可选服务，仓库本身免费；跑起来须自备模型 API 或本地模型。"
+    },
+    {
+      "id": 856,
+      "title": "哈萨克斯坦电子居民 $49：拿IIN税号+eSIM+Freedom Bank账户借记卡",
+      "url": "https://t.me/baipiaofl/65953",
+      "author": "白嫖福利推送",
+      "category": "金融卡券",
+      "score": 83,
+      "expiry_date": "2026-11-30（教程转述俄语客户频道称延至11-30，未获银行官方确认）",
+      "value": "$49一次性拿IIN+数字身份证+eSIM，再开Freedom Bank账户与借记卡",
+      "notes": "83分（来源27/可验证23/价值17/时效11/风险5）。Freedom Bank官网证实：$49一次性（仅Freedom Banker入口；直接装eResidency App标价$120–$299）、IIN依法无有效期、eSIM首月含在$49内、次月起$15/月可选不续、借记卡开卡/使用/充值0坚戈、支持USD/KZT/EUR/RUB/CNY/TRY/AED及Apple Pay/Google Pay；须NFC芯片护照+活体KYC；拿IIN不保证开户、被拒$49不退；实体卡寄境外约$110；哈萨克斯坦参加CRS、账户信息交换给税务居民国。NodeSeek原帖被Cloudflare拦截未直接打开，结论以银行官网+搜索摘要为准。"
     },
     {
       "id": 813,
@@ -3883,6 +3905,28 @@
       "expiry_date": "长期免费（每月 5 CPU 小时，随时可能调整）",
       "value": "每月免费 5 CPU 小时、最多 10 个并发 Box：2 vCPU/4GB/10GB，内置 Claude Code/Codex",
       "notes": "78分（来源20/可验证25/价值8/时效15/风险10；Upstash 官网 upstash.com/box 与定价页直接核实：免费档每月 5 CPU 小时、最多 10 个并发 Box，每个 Box 2 vCPU/4GB 内存/10GB 存储，内置 Claude Code、Codex、OpenCode、Cursor，文件系统持久、支持 Git 与无头浏览器，闲置 1 小时自动暂停不计费；注册免绑卡。注意：①免费的是沙箱算力、不是模型额度，模型调用须自带 Provider Key（Anthropic/OpenAI/OpenRouter 等）；②5 小时/月只够轻量任务，按量价 $0.10/活跃 CPU 小时（Small），超额自费；③目前仅 AWS us-east-1 区域；④存储 $0.10/GB/月，含快照）"
+    },
+    {
+      "id": 857,
+      "title": "免费Pro的Gemini模型全开（Antigravity）",
+      "url": "https://t.me/baipiaofl/65954",
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "score": 77,
+      "expiry_date": "2026-11-30（Argon、Gemini 3.8 Flash、GPT-OSS 120B、Claude 4.6于11-30下线）",
+      "value": "Antigravity免费Pro试用可用Neon/Hydrogen等模型（不含学生/Jio）",
+      "notes": "77分（来源24/可验证20/价值16/时效11/风险6）。Google官方Antigravity服务、非第三方反代；但“全开”夸大：学生和Jio的免费Pro没有，Claude 5.5仅付费Pro，Gemini App内Carbon仅Ultra；发帖人截图含Claude 5.5、与试用Pro应有的Claude 4.6列表不符，疑点未证实；免费Pro试用须绑支付方式、到期自动续费；楼内回复互相矛盾、并非人人有。"
+    },
+    {
+      "id": 854,
+      "title": "阴云yin-net美国双ISP VPS $6/月，黑五5折码YINNETBF26",
+      "url": "https://t.me/nodeseekc/1027991",
+      "author": "NodeSeek官方频道",
+      "category": "云服务器",
+      "score": 77,
+      "expiry_date": "2026-11-30",
+      "value": "黑五5折后$3/月：1核1G/100Mbps/1000GB美国ISP IP",
+      "notes": "77分（来源22/可验证20/价值15/时效13/风险7）。官网证实$6/月：1核1G/10G/100Mbps/1000GB/1个ISP IPv4；黑五码YINNETBF26循环5折、折后$3/月、每用户限1次、至11-30，码未见于官网、限量余量未知（勿与疑似2025年旧码BF50YINNE混淆）；“双ISP/伪家宽”仅产品名与社区测评、无官方技术证明，实为落地鸡（普通直连、无DDoS防御），需另配线路鸡；商家2024年成立、官网公告停留在2024/11，退款政策未逐条核实。NodeSeek原帖被Cloudflare拦截未直接打开。"
     },
     {
       "id": 851,
@@ -9014,5 +9058,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-24T07:51:39+08:00"
+  "updated_at": "2026-11-24T08:59:17+08:00"
 }
