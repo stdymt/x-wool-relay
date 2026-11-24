@@ -1,5 +1,5 @@
 {
-  "count": 880,
+  "count": 889,
   "items": [
     {
       "id": 802,
@@ -1124,6 +1124,17 @@
       "value": "最高 $200 API 额度，到账起 12 个月有效，一次性发放"
     },
     {
+      "author": "0xjackkk",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 920,
+      "notes": "88分。GitHub仓库 github.com/ffroliva/gflow-cli 真实存在（572星、MIT免费、v0.106.0，11-24仍在更新）：开源MCP+CLI，用Claude Code/Cursor等驱动Google Flow，生Veo 3.1/Omni视频与Nano Banana/Imagen图片；工具本身免费，视频耗自己的Flow credits（须Google AI订阅额度）；Veo 3.1 Quality/Fast与Omni Flash将于12-05在Flow退役；非官方工具、用真实Chrome驱动已登录Flow会话，有封号/违规风险。85+二审由本次仓库核实完成。",
+      "score": 88,
+      "title": "gflow-cli：开源工具把 Google Flow 接进 AI 编程助手",
+      "url": "https://x.com/0xjackkk/status/2125216784026567110",
+      "value": "工具免费；视频生成须另耗Flow credits"
+    },
+    {
       "id": 906,
       "title": "RakSmart硅谷独服E3-1230 $59.90/月",
       "url": "https://x.com/fwqgo_com/status/2125159997348647020",
@@ -2224,6 +2235,28 @@
       "notes": "84分（来源22/可验证25/价值12/时效15/风险10）：X 原帖 + GitHub 官方仓库 NousResearch/hermes-agent 浏览器只读核实：公开仓库、MIT 协议、262.4k stars、58.6k forks，最新版 v0.23.1（约 19 小时前发布）；自带学习循环的 AI Agent，可从经验中创建并改进技能，支持多步任务执行、工具调用与记忆。注意：README 另提到可选的 Nous Portal 订阅（一份订阅覆盖多项服务），属可选服务，仓库本身免费；跑起来须自备模型 API 或本地模型。"
     },
     {
+      "author": "Lovislexus",
+      "category": "订阅优惠",
+      "expiry_date": "2026-11-26",
+      "id": 918,
+      "notes": "84分。6地区黑五价：美国年付$199.99→$99.99、台湾NT$6500→NT$3250经官网/台媒证实；日本/印尼/德国/新加坡学生价仅帖内自述、未逐一核对；优惠仅首年、期满原价自动续订、折扣因账号而异；现有会员提前优惠至11-26，新用户预计11-27推出。须付费，非免费领。85+二审由本次核实完成。",
+      "score": 84,
+      "title": "Google AI Pro 黑五 6 个地区价格汇总",
+      "url": "https://x.com/Lovislexus/status/2125216705224077784",
+      "value": "首年5折起，现有会员11-26截止，新用户11-27起"
+    },
+    {
+      "author": "NodeSeek官方频道",
+      "category": "订阅优惠",
+      "expiry_date": "2026-11-26",
+      "id": 919,
+      "notes": "84分。Google One官网证实：Pro首年$99.99（原价$199.99/年）、Plus首月$2.49；条款：仅现有付费用户最稳妥、优惠仅首年、续费按原价；截止11-26为第三方说法，Google条款页未写日期；Infini返现$21未证实。须付费，非免费领。",
+      "score": 84,
+      "title": "Google AI 黑五：Pro 首年 5 折 $99.99",
+      "url": "https://www.nodeseek.com/post-1077777-1",
+      "value": "Pro年付首年省$100，11-26前，现有付费用户最稳妥"
+    },
+    {
       "id": 902,
       "title": "日本 eSIM 0日元白嫖（eSIM-san 1GB/1天）",
       "url": "https://t.me/baipiaofl/66058",
@@ -3291,6 +3324,17 @@
       "notes": "评分 82 分（来源20/可验证25/价值12/时效15/风险10）。原帖与 Google Colab 官方 FAQ 及多方实测均已核实：免费档常分到 NVIDIA T4（16GB 显存），也可分到 TPU v5e。注意：Google 不保证型号与可用性，高峰可能分不到 GPU；单会话最长约 12 小时、闲置约 90 分钟断开；属长期免费档，不是限时活动。"
     },
     {
+      "author": "KOF97AI",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 915,
+      "notes": "82分。DataOnline.vn免费主机官网证实：Free Hosting 1GB（NVMe 1GB/20GB月流量/2域名/每账户最多3个）0元；续费码存在（以页面当前码为准，产品页与条款页码值写法不同）；DirectAdmin面板证实；“单次6个月”未证实（条款只说有期限、到期前60天内可续、不能连续多年续）；须真实邮箱+手机号验证、无须信用卡；禁转售/禁VPN类应用。85+二审由本次核实完成。",
+      "score": 82,
+      "title": "DataOnline.vn 免费虚拟主机 1GB/20GB（0 元续期）",
+      "url": "https://x.com/KOF97AI/status/2125205143620882742",
+      "value": "0元免费主机，须邮箱+手机号验证"
+    },
+    {
       "id": 858,
       "title": "US Mobile黑五：Unlimited Premium $16/月（18个月$288），Pixel 11 Pro $299",
       "url": "https://t.me/DocOfCard_Channel/2579",
@@ -3366,6 +3410,17 @@
       "expiry_date": "无固定截止日（开源项目）",
       "value": "开源免费AI视频剪辑工具；用编程智能体做视频，可导出或带到PR/FCP/DaVinci",
       "notes": "81分（来源20/可验证25/价值13/时效15/风险8）。GitHub仓库 openfilm/openfilm 核实：MIT协议开源，最新版0.4.1，8.6k Stars、848 Forks（帖称“约4.4K Stars”已过时、实际更高）；中文README称“开源的 AI 视频智能体”，把Claude Code、Codex等任意编程智能体变成视频智能体，配放映/剪辑/画布/调色四个编辑器，可导出视频或把时间线带到Final Cut Pro、Premiere Pro、DaVinci Resolve。注意：①“国产”一说仓库未明示公司国籍，中文README与中文社区入口可作旁证、未证实；②用编程智能体做视频可能另需模型API费用。原帖全文未读到（X 403）。"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 921,
+      "notes": "81分。DMIT香港Tier 1 HKG.AS3.T1.WEE官网定价页证实：套餐存在、$36.90/年、1核/1GB/20GB SSD/1000GB双向流量；EPYC 7C13精确型号未证实（官网仅写7003系列）、4Gbps端口与超量50M不限流未证实；续费价、截止日未证实；电信联通晚高峰绕路，不适合直连。",
+      "score": 81,
+      "title": "DMIT 香港 Tier 1 年付 $36.90",
+      "url": "https://x.com/fwqgo_com/status/2125206454672240880",
+      "value": "$36.90/年香港落地机，国际互联好"
     },
     {
       "id": 880,
@@ -4290,6 +4345,17 @@
       "expiry_date": "长期免费（每月 5 CPU 小时，随时可能调整）",
       "value": "每月免费 5 CPU 小时、最多 10 个并发 Box：2 vCPU/4GB/10GB，内置 Claude Code/Codex",
       "notes": "78分（来源20/可验证25/价值8/时效15/风险10；Upstash 官网 upstash.com/box 与定价页直接核实：免费档每月 5 CPU 小时、最多 10 个并发 Box，每个 Box 2 vCPU/4GB 内存/10GB 存储，内置 Claude Code、Codex、OpenCode、Cursor，文件系统持久、支持 Git 与无头浏览器，闲置 1 小时自动暂停不计费；注册免绑卡。注意：①免费的是沙箱算力、不是模型额度，模型调用须自带 Provider Key（Anthropic/OpenAI/OpenRouter 等）；②5 小时/月只够轻量任务，按量价 $0.10/活跃 CPU 小时（Small），超额自费；③目前仅 AWS us-east-1 区域；④存储 $0.10/GB/月，含快照）"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 922,
+      "notes": "78分。Panstar美西CN2GIA官网证实：$6.99/月（年付$69.90、月均$5.83、-17%）、1核/1GB/10GB/500Mbps/512GiB、双向CN2GIA+9929+CMIN2、超量后共享1Mbps、有货；续费价、截止日未证实。",
+      "score": 78,
+      "title": "Panstar 美西 CN2GIA $6.99/月（年付 $69.90）",
+      "url": "https://x.com/fwqgo_com/status/2125231233202606228",
+      "value": "$6.99/月三网优化，年付月均$5.83"
     },
     {
       "id": 886,
@@ -5500,6 +5566,17 @@
       "expiry_date": "无固定截止日（测试网进行中）",
       "value": "测试网做任务攒积分，$T0 11% 空投（Season 0 5% + 未来主网季 6%）；需 500 积分才有资格，单钱包上限 0.1%",
       "notes": "76分（来源25/可验证23/价值12/时效9/风险7）。AirdropAlert 页（已重定向至 /airdrops/tzero-testnet/）与项目官方 testnet.tzer0.fun/docs/points 核实：$T0 的 11% 用于空投，测试网 Season 0 占 5%、未来主网季占 6%；需 500 积分才有资格，单钱包上限为供应量的 0.1%，按积分比例分配，Base Sepolia 测试网，测试 ETH 可领，90 天内未领取滚入下一季。积分规则：Fuel 每买 1 ETH 得 1,000 分（需持有 60 分钟、每日每钱包最多计 1 ETH、低于 0.0005 ETH 不计），Crew +150（每日最多 5 次）、Liftoff 创建者 +500、质押每日共 5,000 分（单钱包每日上限 1,000 分）、Signal 回复/引用 +200、关注 @T0dotfun +100；快照提前 7 天公告，快照前公开女巫审查。无需押金、无邀请要求，只需钱包 + X 账号关联；主网上线时间、代币价格均未公布，分配为未来空投、非即时到账。"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 923,
+      "notes": "76分。Panstar香港三网优化官网证实：$99/年（月均$8.25）、1核/512MB/5GB/100Mbps/384GiB、原生IPv4、电信163PP+联通4837/10099+移动CMI、有货；续费价、截止日未证实；512MB仅适合轻量建站/静态托管/内网中转。",
+      "score": 76,
+      "title": "Panstar 香港三网优化 $99/年",
+      "url": "https://x.com/fwqgo_com/status/2125210519967842766",
+      "value": "$99/年香港原生IP三网优化"
     },
     {
       "id": 895,
@@ -7251,6 +7328,17 @@
       "notes": "72分（来源20/可验证20/价值12/时效15/风险5）。原帖已核实；Simular Box 免费档、Kaggle 每周约 30 小时 GPU、Codespaces 每月 120 核小时、Cloudflare Workers 每天 10 万次请求均已证实；Pxxl 台湾免费节点、Cloady 西雅图免费节点未核实，免费节点安全性不明，谨慎使用。"
     },
     {
+      "author": "Lniosytest",
+      "category": "金融卡券",
+      "expiry_date": "2026-11-30",
+      "id": 917,
+      "notes": "72分。BIT（Matrixport旗下，非Bitget）：美股0佣金、开户送$100平台费抵扣卡+30天实时行情；NVDA盲盒须开户+KYC并入金≥$1500（送$50股票现金卡起）或转仓≥$10000，盲盒90%仅$5 NVDA股票卡；须发海报+私信客户经理、资金留存至12-14；开户11.23-11.30、12.7达标截止、12.14开奖，首批50个。入金/转仓档位与盲盒概率仅见海报与官方X帖摘要，官网通用页无独立活动页。",
+      "score": 72,
+      "title": "BIT 开户领 NVDA 股票盲盒（须入金 $1500 起）",
+      "url": "https://x.com/Lniosytest/status/2125203289558208595",
+      "value": "开户0佣金；盲盒90%仅$5，须入金才有资格"
+    },
+    {
       "id": 893,
       "title": "Kiro付费订户12月2日赠1万积分（仅限已有付费订户）",
       "url": "https://t.me/baipiaofl/66033",
@@ -8052,6 +8140,17 @@
       "expiry_date": "无明确截止日（以 Pionex 官方页为准）",
       "value": "免开卡费/年费的 U 卡，Visa 返现 1%、卡内 USDT 5% 年化；大陆 +86 无法注册/KYC，仅限海外身份参考。",
       "notes": "68分（来源20/可验证20/价值8/时效15/风险5）：Javary324 原帖 + 两家第三方指南交叉核实（均整理自 Pionex 官方 Help Center，2026-10-28 核对）：Pionex Card（派网卡）虚拟卡免开卡费/年费/闲置费；Visa 消费手续费 1%、返现 1% 基本相抵；卡内 USDT 享 5% 年化、每小时派息。注意：①中国大陆 +86 无法注册手机、无法完成 KYC、办不了，仅限海外身份读者参考；②实体卡申请已关闭，目前只有虚拟卡；③长期不用的卡会被批量注销且无法恢复；④发起拒付须主账户备足 650 USDT 保证金、申诉费每件 50 USDT；⑤马来西亚证监会 2026 年 1 月已把 Pionex 列入投资者警示名单；⑥卡片账户为交易所托管、无链上地址。"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 916,
+      "notes": "68分。DataWave台湾G1年付黑五：218元/年（1核1G/2TB）、328元/年（2核2G/3TB），价格与流量由第三方jzbk当日整理交叉印证；官网无公开价目、须登录控制台，未直接证实；10GB SSD/5Gbps/双栈IP仅帖内自述；截止日未给；台湾IP流媒体定位不准、官方不以此退款；商家域名2025-06注册、较新。",
+      "score": 68,
+      "title": "DataWave 台湾 G1 年付黑五特惠 218 元/年起",
+      "url": "https://x.com/fwqgo_com/status/2125233557249413621",
+      "value": "年付218元起，台湾节点，定位问题不退款"
     },
     {
       "id": 898,
@@ -9685,5 +9784,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-24T21:50:16+08:00"
+  "updated_at": "2026-11-24T23:09:44+08:00"
 }
