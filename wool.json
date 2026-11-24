@@ -494,7 +494,7 @@
       "score": 90,
       "expiry_date": "2026-11-30",
       "value": "7天免费、零Credits无限次，含Max thinking，无需绑卡",
-      "notes": "90分（来源27/可验证24/价值18/时效13/风险8）。Qoder官方活动页证实：匿名模型HungerG限时免费，免费档用户0 Credits、无限次使用，无需绑卡；Max thinking也免费；限Qoder、Qoder IDE使用，JetBrains插件、CLI、Wake、Cloud Agents、移动端/Web端暂不支持；模型身份匿名，Qoder不透露底层模型。免费期2026-11-23 24:00至2026-11-30 24:00（新加坡时间）。85+二审由本次核实（重开官方活动页）完成。官方来源：https://docs.qoder.com/zh/events/hungerg-free"
+      "notes": "90分（来源27/可验证24/价值18/时效13/风险8）。Qoder官方活动页证实：匿名模型HungerG限时免费，免费档用户0 Credits、无限次使用，无需绑卡；Max thinking也免费；限Qoder、Qoder IDE使用，JetBrains插件、CLI、Wake、Cloud Agents、移动端/Web端暂不支持；模型身份匿名，Qoder不透露底层模型。免费期2026-11-23 24:00至2026-11-30 24:00（新加坡时间）。85+二审由本次核实（重开官方活动页）完成。官方来源：https://docs.qoder.com/zh/events/hungerg-free【2026-11-24 20:40轮补充：HungerG 也已上 OpenCode Go，Go 订阅内模型按 token $0、用量 ∞；但 Go $10/月、Go Plus $40/月，须付费订阅才可用，不是人人免费；OpenCode 侧页面只写 Limited time，未公布截止日。】"
     },
     {
       "id": 819,
@@ -3814,9 +3814,9 @@
       "author": "lovethelife2333",
       "category": "免费额度",
       "score": 80,
-      "expiry_date": "约2026-11-19（发布后一周内免费，以 OpenRouter 显示为准）",
+      "expiry_date": "约2026-12-10（推算：Perplexity CEO称再免费三周，非官方明示）",
       "value": "一周内免费调用 Perplexity 判定模型，输入输出均为 $0；权重 HF 开源",
-      "notes": "80分（来源20/可验证25/价值12/时效13/风险10；Perplexity 11月12日官方博客发布 Decider v1.3 与 Flash v1.3，OpenRouter 模型页核实：perplexity/pplx-decider-v1.3:free 与 flash 版输入输出均为 $0/M，262K 上下文，11月12日上架。注意：①只做判定、不生成文本：一次调用对同一份材料答是非/选择/打分题、返回概率与置信度；②新加 Locate 功能，可按描述定位原文片段并返回位置；③免费窗口约一周（11月12日起，约11月19日截止），过期后按量计费；④走 OpenRouter Decisions API，普通 chat completions SDK 不直接适用；⑤权重 Hugging Face 开源（Apache 2.0），可自部署）"
+      "notes": "80分（来源20/可验证25/价值12/时效13/风险10；Perplexity 11月12日官方博客发布 Decider v1.3 与 Flash v1.3，OpenRouter 模型页核实：perplexity/pplx-decider-v1.3:free 与 flash 版输入输出均为 $0/M，262K 上下文，11月12日上架。注意：①只做判定、不生成文本：一次调用对同一份材料答是非/选择/打分题、返回概率与置信度；②新加 Locate 功能，可按描述定位原文片段并返回位置；③免费窗口约一周（11月12日起，约11月19日截止），过期后按量计费；④走 OpenRouter Decisions API，普通 chat completions SDK 不直接适用；⑤权重 Hugging Face 开源（Apache 2.0），可自部署）【2026-11-24 20:40轮复核：Flash 版同免（perplexity/pplx-decider-flash-v1.3:free），输入输出均为 $0/M；Decision Index 70.4（v1.3）/64.1（Flash），P50 0.52s/0.22s；二手来源称 Perplexity CEO 11-19 宣布再免费三周，推算约至 12-10（非官方明示）；Decider V1.3 不在欧盟区域内路由；官方模型页未见明确每日调用限额。】"
     },
     {
       "id": 178,
@@ -6071,7 +6071,7 @@
       "score": 74,
       "expiry_date": "双11/黑五秒杀价（11月11-17日、25-30日秒杀窗口，名额有限，以结算页为准）",
       "value": "硅谷2核4G/50G NVMe/5Gbps/3TB年付$39.90（约$3.32/月），续费同价；大陆优化VIP线路",
-      "notes": "74分（来源20/可验证25/价值12/时效12/风险5；fwqgo原帖经live浏览器只读打开核实 + RAKsmart结算页逐项对上：硅谷圣何塞SV，2核/4GB/50GB NVMe（25000 IOPS、750MB/s）、5Gbps端口/3TB月流量、1个独立IPv4，大陆优化VIP线路（联通CU4837/电信CT/移动CMI直连，非CN2）；原价$129.10/年，双十一秒杀券自动立减$89.20，实付$39.90/年（约$3.32/月），结算页明确显示续费价格$39.90。注意：①链接带aff参数；②秒杀券名额有限，随时可能调价或售罄；③线路非CN2精品网，晚高峰体验一般，重度晚高峰用户建议选CN2系列；④50GB硬盘只够轻量应用；⑤fwqgo官网RAKsmart双11文章交叉证实同款年付$39.90配置）"
+      "notes": "74分（来源20/可验证25/价值12/时效12/风险5；fwqgo原帖经live浏览器只读打开核实 + RAKsmart结算页逐项对上：硅谷圣何塞SV，2核/4GB/50GB NVMe（25000 IOPS、750MB/s）、5Gbps端口/3TB月流量、1个独立IPv4，大陆优化VIP线路（联通CU4837/电信CT/移动CMI直连，非CN2）；原价$129.10/年，双十一秒杀券自动立减$89.20，实付$39.90/年（约$3.32/月），结算页明确显示续费价格$39.90。注意：①链接带aff参数；②秒杀券名额有限，随时可能调价或售罄；③线路非CN2精品网，晚高峰体验一般，重度晚高峰用户建议选CN2系列；④50GB硬盘只够轻量应用；⑤fwqgo官网RAKsmart双11文章交叉证实同款年付$39.90配置）【2026-11-24 20:40轮复核：官方活动页 Annual Plan Perks 专区证实原价 $129.1/年、配置属实；但活动页全文检索无“39.9”，当前活动页标价为 $49.90/年——$39.90 仍以结算页为准（本条已验证）；黑五周 11-25 至 11-30 每天 16:00 放货 100 台未证实（第三方转引常规规则为每天 20 台、美国时间 0 点即北京时间 16:00）。】"
     },
     {
       "id": 168,
@@ -9663,5 +9663,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-24T20:56:54+08:00"
+  "updated_at": "2026-11-24T21:06:14+08:00"
 }
