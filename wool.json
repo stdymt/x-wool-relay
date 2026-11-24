@@ -1,5 +1,5 @@
 {
-  "count": 826,
+  "count": 838,
   "items": [
     {
       "id": 802,
@@ -673,6 +673,17 @@
       "notes": "评分 90 分（来源25/可验证25/价值20/时效15/风险5）。原帖与 Devpost 官方规则均已核实：Kiroween 2026 黑客松参赛者可申请一次性 4000 Kiro credits（约 160 美元），用 Kiro 用户 ID 或 AWS 账户 ID 填表申请，48 个工作小时内审核。注意：需注册 Devpost + Kiro 账号、通过 Didit 身份验证（证件+自拍），且须提交参赛作品；申请截止 12 月 1 日 12:00 PT，兑换截止 12 月 4 日，额度 12 月 31 日到期。"
     },
     {
+      "author": "0xjackkk",
+      "category": "订阅优惠",
+      "expiry_date": "2026-12-31",
+      "id": 865,
+      "notes": "90分（来源24/可验证24/价值19/时效14/风险9）。官方页gemini.google/students证实：美国高校在读学生、年满18岁可免费1年Google AI Pro；须在线验证学生身份、每年复核，需绑定有效支付方式；到期不取消将按$19.99/月自动续费。官方自助活动，与私信代开/卖号无关。X原帖403未读到，以官方来源为准。",
+      "score": 90,
+      "title": "Google AI Pro 美区学生 1 年免费",
+      "url": "https://x.com/0xjackkk/status/2125069971873255802",
+      "value": "价值约$239.88/年（$19.99/月），含5TB存储、Gemini高级模型、Gemini Spark 1年、4倍使用限额"
+    },
+    {
       "id": 827,
       "title": "RakSmart 美西硅谷 NTT 双 ISP 住宅属性 IP 云服务器 $3.87/月（7折，续费同价，至11-30）",
       "url": "https://x.com/fwqgo_com/status/2124872807238734027",
@@ -979,6 +990,17 @@
       "expiry_date": null,
       "value": "每天1000页免费转 Markdown，PDF/Word/图片都能转，超量只降优先级",
       "notes": "88分；官网 mineru.net 核实：精准解析 API 每个账号每天 1000 页最高优先级解析额度，超量降优先级不停；单文件≤200MB/≤200页；需注册登录拿 Token，未提绑卡；Agent 轻量版免登录免 Token（单文件≤10MB/≤20页，仅出 Markdown）；开源本地版 AGPL-3.0、44.9k stars，自部署无页数限制；帖称可出 EPUB，官方文档只列 docx/html/latex，未见 EPUB。独立浏览器核实+搜索二审佐证一致。"
+    },
+    {
+      "author": "Lniosytest",
+      "category": "订阅优惠",
+      "expiry_date": null,
+      "id": 864,
+      "notes": "88分（来源24/可验证24/价值18/时效13/风险9）。官网opencode.ai/console/go定价表逐字证实：Go $10/月，GLM-5.3月度额度$200、约2640请求/5小时；Go Plus $40/月，额度$400、约5280请求/5小时；GLM-5.3行无“限时”标注；FAQ明确Go可用于OpenCode、Claude Code、Codex、Hermes与Pi；可随时取消。第三方文章称GLM额度$500限时促销，与官网当日页面不一致，以官网为准。X原帖403未读到，以官方来源为准。",
+      "score": 88,
+      "title": "OpenCode GLM-5.3：$10/月给 $200 额度",
+      "url": "https://x.com/Lniosytest/status/2125069590006837662",
+      "value": "Go $10/月得$200 GLM-5.3额度；Go Plus $40/月得$400额度"
     },
     {
       "id": 837,
@@ -1828,6 +1850,17 @@
       "notes": "85分（来源25/可验证25/价值10/时效15/风险10）。原帖与 clipseek.ai 官网均已核实：ClipSeek 可用自然语言搜无版权免费素材（视频、照片、插画），Free media 页明确写明 royalty-free；桌面应用 Free 版 $0、本地运行、不用登录不用绑卡，可导入最多 5 GiB。注意：桌面端超过 5 GiB 导入量需 Pro（一次性付费、早鸟价 $15，原价 $29，终身使用、14 天退款）。"
     },
     {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 872,
+      "notes": "85分（来源26/可验证22/价值17/时效13/风险7）。官网joysol.net产品页逐项核实：洛杉矶C-TCS 2Cores，2核AMD EPYC 7K62、内存1~2GB DDR4、系统盘30~200GB SSD、流量1TB/300Mbps端口、1个原生IPv4、10Gbps DDoS防护，剩余27件；原价月付¥25.99，实测输入优惠码Kiyzl2Pw后8折、合计¥20.79；切年付后¥207.92，折合每月约¥17.33，与帖子“年付折合¥17.32/月”基本一致；第三方套餐汇总（2026-11-15）证实洛杉矶优化C采用Kurun三网4837回国线路。注意：¥20.79为入门档（1GB内存/30GB硬盘/1TB流量）价格，超流量按¥10/500G计；内存与硬盘为范围值，按档位递增；续费同享折扣为帖子说法、官网未明确标注“循环”。85+二审由本次核实完成。X原帖403未读到，以官网为准。",
+      "score": 85,
+      "title": "JoySolData 美西三网4837 ¥20.79/月（码后8折）",
+      "url": "https://x.com/fwqgo_com/status/2125046748045361637",
+      "value": "优惠码Kiyzl2Pw 8折后¥20.79/月（原价¥25.99），2核/1TB流量/300Mbps/原生IPv4，剩余27件"
+    },
+    {
       "id": 855,
       "title": "德国免费建站 lxi.be：5GB空间+无限流量永久免费",
       "url": "https://t.me/baipiaofl/65952",
@@ -2178,6 +2211,39 @@
       "expiry_date": "2026-11-30",
       "value": "11月内Pro用户前$3000消费返4%积分（最高约$120积分）",
       "notes": "83分（来源25/可验证23/价值15/时效13/风险7）：Pulsar官方帮助中心“Pulsar Points Explained”（2026-11-12更新）原文核实：11月剩余时间Pro用户前$3000合规消费按4%返Pulsar Points（$0–$1000/$1000–$2000/$2000–$3000三档均为4%，$3000以上回落至0.5%），新老Pro用户同享，返现按月计算、次月10日前到账；另有Beyond Friday活动11月3–30日指定商户（Amazon/eBay/SHEIN/TEMU/Steam等）双倍返现。注意：①须Pro订阅$9.99/月（年付$99.99），返的是积分（100积分=$1，可抵扣消费），不是现金；②与在册id104（首开Pro返$10积分）是同一产品的不同活动：本条是11月限时返现档位提升；③“首月会员费返还”只见于10月活动（限前100名、已于2026-11-01截止），11月官方页未见此口径，不要按11月权益算；④积分Pro有效期6个月；⑤Pulsar为罗马尼亚公司、Wirex提供Visa发卡，属小牌照预付产品，别大额充值；⑥另有11月推荐返现（推荐人对被推荐人合计前$3000享3%、上限$90）与本人消费4%是两回事，别混淆。补充（2026-11-16 10:40轮，Javary324帖 + 官网帮助中心复核）：Free前$3000分档为$0–$1000 0.5%、$1000–$2000 1%、$2000–$3000 2%，Pro前$3000统一4%，超$3000后Free 0.25%、Pro 0.5%；但《Pulsar Pro》同页对照表写Free首$500为0.5%、之后一律0.25%，与前表Free 1%/2%分档互相矛盾，两篇均标“Updated this week”，以哪篇为准未定；Pro的4%是11月活动价、非标准费率；特定商户翻倍仅ChatGPT、Claude、X、Uber、Bolt五家，翻倍后Free 2%→4%（仅$2000–$3000档）、Pro 4%→8%；积分抵扣：25%/50%档100积分=$1、75%档112积分=$1、全额100%档125积分=$1（全额抵只值8折），单笔抵扣至少$0.5，退款以USDC到账。补充（2026-11-17 00:40轮，SecJack96帖 + Pulsar官网博客/活动条款复核）：Beyond Friday 11-16–22 为 Tech and gaming 周，参与品牌 PlayStation Store、Steam、MediaMarkt、Worten，Pro 会员在这些品牌消费享双倍返现（以 Pulsar Points 发放），每个商家最多 2 笔合规消费享双倍；“8%”为按 Pro 标准 4% 双倍推算，官方条款只写“双倍于适用标准返现率”，未直接写 8%。帖内首月返 10U、白色 Pro 卡、每月返现上限 100U 本次未在 Beyond Friday 公告/条款中逐条核查。"
+    },
+    {
+      "author": "lovethelife2333",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 866,
+      "notes": "83分（来源24/可验证23/价值16/时效11/风险9）。官网platform.baichuan-ai.com/prices“赠送金说明”逐字证实：2024年5月22日下午起新注册用户免费赠送金由8元提升至80元，相当于Baichuan2-Turbo 1000万Tokens，有效期3个月、注册后生效；Baichuan2-Turbo定价0.008元/千tokens，80÷0.008=1000万tokens算术一致；官网首页横幅当日仍在推。注意：规则落款为2024年，Baichuan2-Turbo为旧模型，赠金是否全模型通用定价页未明示，以官网最新说明为准。X原帖403未读到，以官方来源为准。",
+      "score": 83,
+      "title": "百川智能新用户 80 元 API 赠金",
+      "url": "https://x.com/lovethelife2333/status/2125047728199581797",
+      "value": "80元赠金≈Baichuan2-Turbo 1000万Tokens，有效期3个月"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 869,
+      "notes": "83分（来源25/可验证21/价值18/时效12/风险7）。官网yunyoo.cc配置页逐项吻合：产品名“二周年·香港将军澳限定·1C1G”，1核/1GB内存/10GB系统盘/500Mbps/流量2TB/IPv4+IPv6启用，月付¥9.90、季付¥26.99、半年付¥55.99、年付¥99.99（原价¥119.04，-16%），按周期续费同价，配置页正常加载、未显示售罄。不足：官网只写“流量2TB”，未标注“双向”；未标明活动截止日期，仅产品名注明“二周年限定”，帖子称库存有限。另帖子提示香港节点严禁直连OpenAI/Claude/Gemini等海外AI接口。X原帖403未读到，以官网为准。",
+      "score": 83,
+      "title": "云悠香港将军澳 ¥9.90/月（1核1GB/500Mbps/2TB）",
+      "url": "https://x.com/fwqgo_com/status/2125047001591214326",
+      "value": "月付¥9.90（季付¥26.99/半年付¥55.99/年付¥99.99），1核1GB/10GB盘/500Mbps/2TB流量/IPv4+IPv6"
+    },
+    {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": "2026-12-31",
+      "id": 870,
+      "notes": "83分（来源26/可验证20/价值15/时效13/风险9），仅限符合条件账户。LINUX DO帖3231724截图原文：Try Claude Duet with $500 credit each week，$3,000 limit，Unused weekly credit is lost，For eligible accounts, ends by Dec 31，奖励额度优先于套餐用量使用。搜索摘要补充：仅限11月23日前已有Duet的美国Pro/Max/Ultra/Team账户、无需领取、网页端Settings > Usage查看、未用额度每周作废、不覆盖Cowork/快速模式/Fable。官方claude.com/product/claude-duet证实Duet为美国Pro/Max/Ultra研究预览、需候补，FAQ称Team/Enterprise暂不包含——与X摘要的Team口径冲突；官方公开页未列出$500促销；发帖人本人称用量页未看到+500额度，领取路径未完全证实。2026-12-31结束，总额上限$3,000。",
+      "score": 83,
+      "title": "Claude Duet 每周 $500 Credit（总额上限 $3000，至 12-31）",
+      "url": "https://t.me/baipiaofl/65972",
+      "value": "每周$500 Credit，总额上限$3000，2026-12-31结束，仅限符合条件账户"
     },
     {
       "id": 836,
@@ -3588,6 +3654,28 @@
       "notes": "评分80分（来源25/可验证20/价值12/时效15/风险8）。讯飞Loomy官网确认是讯飞AI助手客户端；每日登录送5000积分（GLM-5.3-Flash等模型可用）经多方来源佐证，另有邀请码可再领10000积分。作者回复里的aidaxue活动页（注册5000+领取5000）与该帖为同一活动的不同入口，未单独成条。注意：登录需+86手机号验证码；每日积分当天有效、次日刷新。"
     },
     {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 862,
+      "notes": "80分：DMIT LAX.AN5.ProMINI 4核4G 80G SSD $79.90/月，官网亲自核实；$79.90 是现价非黑五折后价，IPv6 双栈未证实，联通 AS9929 非 4837。",
+      "score": 80,
+      "title": "DMIT $79.90/月（LAX.AN5.ProMINI 4核4G 80G SSD）",
+      "url": "https://x.com/fwqgo_com/status/2125024097000190105",
+      "value": "4核4G 80G SSD 5000GB流量，$79.90/月"
+    },
+    {
+      "author": "KOF97AI",
+      "category": "订阅优惠",
+      "expiry_date": "2026-12-06（年份为推算）",
+      "id": 863,
+      "notes": "80分：新加坡 Maxx S$12 电话卡，100GB 中国漫游+600GB 九国流量；官网证实价格与流量，100GB 为限时额外流量至 12-06（年份为推算），须新加坡身份/实名、非新加坡护照不能在线注册，300M 未证实。",
+      "score": 80,
+      "title": "Maxx新加坡电话卡 S$12（100GB中国+600GB九国流量）",
+      "url": "https://x.com/KOF97AI/status/2125038685980868905",
+      "value": "S$12含100GB中国+600GB九国流量，约62元、0.62元/GB"
+    },
+    {
       "id": 847,
       "title": "ImageFree免费文生图：免注册、无水印、最高1024px",
       "url": "https://x.com/tantanyuli/status/2125006983526781011",
@@ -3916,6 +4004,17 @@
       "expiry_date": "长期免费（每月 5 CPU 小时，随时可能调整）",
       "value": "每月免费 5 CPU 小时、最多 10 个并发 Box：2 vCPU/4GB/10GB，内置 Claude Code/Codex",
       "notes": "78分（来源20/可验证25/价值8/时效15/风险10；Upstash 官网 upstash.com/box 与定价页直接核实：免费档每月 5 CPU 小时、最多 10 个并发 Box，每个 Box 2 vCPU/4GB 内存/10GB 存储，内置 Claude Code、Codex、OpenCode、Cursor，文件系统持久、支持 Git 与无头浏览器，闲置 1 小时自动暂停不计费；注册免绑卡。注意：①免费的是沙箱算力、不是模型额度，模型调用须自带 Provider Key（Anthropic/OpenAI/OpenRouter 等）；②5 小时/月只够轻量任务，按量价 $0.10/活跃 CPU 小时（Small），超额自费；③目前仅 AWS us-east-1 区域；④存储 $0.10/GB/月，含快照）"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": "2026-12-07",
+      "id": 861,
+      "notes": "78分：Dotdotnetworks 黑五洛杉矶 CN2 GIA 永续 8 折，10核6G $23.9/月，码 3LTF2P88AH，截止 12-07；官网因 Cloudflare 未直达，价格/配置以主机镇引官方活动资料为准，三网线路细节未全证实。",
+      "score": 78,
+      "title": "Dotdotnetworks 黑五 $23.9/月（10核6G，码 3LTF2P88AH）",
+      "url": "https://x.com/fwqgo_com/status/2125039198134562962",
+      "value": "10核6G $23.9/月，永续8折，码3LTF2P88AH，截止12-07"
     },
     {
       "id": 857,
@@ -4985,6 +5084,17 @@
       "notes": "评分 77 分（来源25/可验证20/价值12/时效15/风险5）。原帖与多方来源均已核实：腾讯 LightVela（轻量云云端 Agent）新用户首单免费 1 个月启航 AI 套餐，每月含 4500 AI 积分，平时标价 10 美元/月；国内站需实名认证，国际站免 KYC。注意两点：①原帖“4500积分3个月”未证实，官方口径是首月免费、每月 4500 积分；②原帖教的“从云存储下载 .env 文件当 API key 外用”属非官方用法，有被封号风险，不建议照搬。"
     },
     {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 871,
+      "notes": "77分（来源24/可验证19/价值14/时效14/风险6）。官网rime.ai/pricing证实：Free档$0/月、No card required、$50 of usage every month, renews monthly，覆盖Prism、Mist v3、Coda v2和Rime STT，用完转Flex；免费额度按月续订、不结转。更正分钟数：官网Flex价Mist v3 $0.030/分钟（$50约1666分钟）、Coda v2 $0.050/分钟（$50=1000分钟）、Prism $0.080/分钟（$50约625分钟），与帖称不符。限制：Mist v3仅英/法/德/西语，Coda v2 10种语言均不含中文，中文TTS基本不可用；免费档仅限评估/开发、不可生产，用户数据授予Rime永久训练许可；Rime STT免费期至2026-11-19已过，现$0.002/分钟，仍计入$50额度内。",
+      "score": 77,
+      "title": "Rime 每月 $50 语音额度（免绑卡）",
+      "url": "https://t.me/baipiaofl/65973",
+      "value": "免费档每月$50额度，免绑卡，按月续订不结转；Mist v3约1666分钟/Coda v2 1000分钟/Prism约625分钟"
+    },
+    {
       "id": 705,
       "title": "LumeAny 免费万能视频解析平台",
       "url": "https://t.me/baipiaofl/65703",
@@ -5874,6 +5984,17 @@
       "expiry_date": "一次性 $5 额度 90 天有效（每日 1000 credits 免费测试已于 11-12 结束）",
       "value": "一次性 $5 额度（约 5000 credits，90 天有效），之后按量付费；每日免费已结束",
       "notes": "73分（来源25/可验证25/价值8/时效10/风险5）。【2026-11-18 07:40晨报复核改写】原每日 1000 credits 免费已结束：aipromonow 2026-11-13 更新核实，Simular 11 月 12 日发邮件称免费测试当天关闭、每日额度不再刷新；测试用户得一次性 $5 额度（约 5000 credits，90 天有效），之后按量付费或订订阅（simular.ai 官方比价页亦写“$5 of free credit once”）。仍有效的部分：约 4 核 8G/40GB Ubuntu 云电脑，给 AI Agent 用（MCP 接入），免绑卡，Google/GitHub 登录即可；$5 额度约合 2 核 4G 机型 50 小时。注意：无公网入口、闲置休眠，不能当 VPS/节点用；$5 额度用完须付费（约 $0.10/小时）。"
+    },
+    {
+      "author": "白嫖福利推送",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 868,
+      "notes": "73分（来源22/可验证15/价值16/时效13/风险7）。NodeSeek帖1075775搜索摘要证实商家发帖：启用全新官网域名与管理架构、同步上新新加坡AMD Ryzen 9 9950X、“限时5折循环优惠及双渠道共6台免费抽奖福利”；测评帖1076019佐证已购新加坡G口机月付10刀、G口带宽、1000G流量、内附黑五5折优惠码。未核实：5折优惠码本身、具体套餐价、抽奖参与方式与截止时间（NodeSeek正文被Cloudflare拦截未读到）。矛盾点须注明：汐云官网www.xiyun.io首页新加坡节点标注“正在筹备中”，套餐页当时仅有香港VPS且全部售罄，新闻中心最新公告为11-12 DDoS说明、无新加坡上新公告。入册写明以帖内链接/客服为准，不要写成“官网已在售”。",
+      "score": 73,
+      "title": "汐云新加坡 AMD Ryzen 9 9950X 上新：限时 5 折循环+抽 6 台免费鸡",
+      "url": "https://t.me/baipiaofl/65965",
+      "value": "新加坡AMD Ryzen 9 9950X上新，限时5折循环+双平台共抽6台免费鸡"
     },
     {
       "id": 831,
@@ -7216,6 +7337,17 @@
       "expiry_date": "长期有效",
       "value": "免费浏览器插件，解决 X 首页刷新丢帖的问题；不省钱，省时间",
       "notes": "70分（来源20/可验证20/价值5/时效15/风险10）。原帖与 Chrome 应用商店核实：同名同功能的 X Rewind: Post History Tracker 真实存在、免费，自动记录刷过的帖子、侧栏回看、可搜索、数据只存本地。注意：原帖称“开源”未证实，商店页未写开源；同类插件有多个（X 历史记录、Tweet Trail 等），以帖子截图的为准；这是免费小工具，不省钱、省时间。"
+    },
+    {
+      "author": "Lovislexus",
+      "category": "订阅优惠",
+      "expiry_date": null,
+      "id": 867,
+      "notes": "70分（来源22/可验证16/价值16/时效12/风险4），有条件进册：只收录官方学生验证路径。官网voxi.co.uk/acquisition/students证实学生优惠真实：首月免费+最高5倍流量，30天滚动套餐、随时取消、支持eSIM；资格为英国大学在读或刚被录取，凭GoCertify验证或经Unidays/Student Beans领券码；每6个月可再领一次学生SIM；免费月后自动续费扣款，不取消即收费，“0成本”以按时取消为前提。“无edu邮箱、走到付款页面可能收到免费券”说法未找到官方或第三方证据，不收录；非学生冒领违反资格条款。X原帖403未读到，以官方来源为准。",
+      "score": 70,
+      "title": "英国 VOXI 学生首月免费+最高 5 倍流量（仅官方学生路径）",
+      "url": "https://x.com/Lovislexus/status/2125046748049547671",
+      "value": "首月免费：£10/月20GB→80GB、£12/月25GB→125GB、£15/月35GB→200GB、£20/月100GB→500GB"
     },
     {
       "id": 801,
@@ -9091,5 +9223,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-24T09:55:00+08:00"
+  "updated_at": "2026-11-24T12:20:53+08:00"
 }
