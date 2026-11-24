@@ -7,7 +7,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 - 范围：以 AI 为主（AI 会员、免费额度、VPS/VPN、AI 赚钱新路子）
 - 更新时间：见 wool.json 里的 `updated_at`（北京时间）
 
-## 本次更新（2026-11-24 07:51，819 条，本轮新增 8 条）
+## 本次更新（2026-11-24 08:59，823 条，本轮新增 4 条）
 
 | 分 | 内容 |
 |---|--- |
@@ -177,6 +177,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 85 | 阿里云ESA+腾讯EdgeOne免费CDN：永久免费套餐，1个免费站点（长期有效） |
 | 85 | 开源 ccteam：把 Claude Code、Codex、Grok、Kimi 编成一队派活 |
 | 85 | ClipSeek：一句话搜无版权免费视频、照片、插画素材 |
+| 84 | 德国免费建站 lxi.be：5GB空间+无限流量永久免费 |
 | 84 | Antigravity全员重置额度：Pro可用Carbon，Argon/3.8 Flash 11-30下线（2026-11-30） |
 | 84 | 100milionseek：每天免费 1 亿 deepseek-4.1-flash tokens（注册分批放号） |
 | 84 | Owncast：免费开源自托管直播服务器（MIT） |
@@ -193,6 +194,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 84 | Cloudflare Workers AI 每天免费 1 万 Neurons |
 | 84 | Bolt.new 免费档：每天 30 万 token、每月 100 万 token，免绑卡（无固定截止日（免费档随时可能调整）） |
 | 84 | Hermes Agent：会越用越懂你的开源 AI Agent（NousResearch，MIT 免费）（无固定截止日（开源项目长期有效）） |
+| 83 | 哈萨克斯坦电子居民 $49：拿IIN税号+eSIM+Freedom Bank账户借记卡（2026-11-30（教程转述俄语客户频道称延至11-30，未获银行官方确认）） |
 | 83 | AWS Quick（原 QuickSight）Enterprise 30 天免费试用 |
 | 83 | Google AI Pro黑五5折：年付$99.99含5TB（早鸟至11月26日，仅现有订阅者）（2026-11-26） |
 | 83 | RackNerd 黑五入门款 $15.98/年 |
@@ -364,6 +366,8 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 78 | Nomad 免费 1GB eSIM 试用：新用户 3 天，76–80 个目的地，免绑卡 |
 | 78 | Kolet 免费1GB eSIM：新用户免费试用2天，大陆可用（多地区）（常驻免费试用（1GB/2天，以 Kolet 官方为准）） |
 | 78 | Upstash Box 免费层：每月 5 小时 AI Agent 云端电脑，内置 Claude Code（免绑卡）（长期免费（每月 5 CPU 小时，随时可能调整）） |
+| 77 | 免费Pro的Gemini模型全开（Antigravity）（2026-11-30（Argon、Gemini 3.8 Flash、GPT-OSS 120B、Claude 4.6于11-30下线）） |
+| 77 | 阴云yin-net美国双ISP VPS $6/月，黑五5折码YINNETBF26（2026-11-30） |
 | 77 | Muse装Grok搜索Skill：实时检索X热搜与讨论串 |
 | 77 | 建行亚洲TRAVO World卡：海外签账最高10%回赠，迎新HK$600/800（2026-12-31） |
 | 77 | MMIX 积分空投：做任务攒积分换空投与NFT资格（免费） |
