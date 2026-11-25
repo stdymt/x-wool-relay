@@ -1,5 +1,5 @@
 {
-  "count": 912,
+  "count": 920,
   "items": [
     {
       "author": "Lovislexus",
@@ -4083,6 +4083,28 @@
       "value": "每天免费5000积分用AI模型（GLM-5.3-Flash等），另可领10000邀请积分"
     },
     {
+      "author": "BlockInsight214",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 951,
+      "notes": "80分（来源25/可验证21/价值14/时效12/风险8）。智谱BigModel定价页FAQ明确“免费模型仅包含GLM-4.7-Flash、GLM-4.6V-Flash”，详细定价表两款的输入、输出、缓存存储、缓存命中均为“免费”；GLM-4.5-Flash无免费行（GLM-4.5-Air收费0.8/2元/百万tokens），原帖“三款全免费”不成立。GLM-5.4仅向GLM Coding Plan付费用户开放，标准API暂未开放，与原帖实质相符。免费模型的具体RPM/日限额、免费截止日官网未见；端点api.z.ai/api/paas/v4/chat/completions未单独验证。",
+      "score": 80,
+      "title": "智谱官方免费模型：GLM-4.7-Flash与GLM-4.6V-Flash输入输出全免费",
+      "url": "https://x.com/BlockInsight214/status/2125417689850192350",
+      "value": "GLM-4.7-Flash（200K上下文）与GLM-4.6V-Flash官方免费，输入/输出/缓存全$0"
+    },
+    {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 955,
+      "notes": "80分（来源24/可验证21/价值15/时效13/风险7）。官网定价页证实：Experiential Free套餐$0/月，每日1M免费tokens，核心模型GPT-6 Luna、DeepSeek V4.1 Flash、Clef（另含Jev/Decision endpoint）共用额度，限速10 RPM、250K TPM，每日00:00 UTC重置；Pro $20/月为10M/天。FAQ称临时$1卡验证扣费可解锁免费和限时免费模型、费用会退还（“2天后退回”“干净节点”官网未找到依据）。不实两点已纠正：无审查版deepseek-v4.1-flash-uncensored-fast并非免费（官网$0.45输入/$1.80输出，每1M）；“超出也能用”不符（超限返回429，Free套餐无通用余额）。",
+      "score": 80,
+      "title": "Experiential免费API：每日1M tokens，GPT-6 Luna/DeepSeek V4.1 Flash免费",
+      "url": "https://t.me/baipiaofl/66158",
+      "value": "Free $0/月，每日1M免费tokens，GPT-6 Luna/DeepSeek V4.1 Flash等共用额度；须$1卡验证（退还）"
+    },
+    {
       "author": "NodeSeek官方频道",
       "category": "云服务器",
       "expiry_date": null,
@@ -4532,6 +4554,28 @@
       "title": "Upstash Box 免费层：每月 5 小时 AI Agent 云端电脑，内置 Claude Code（免绑卡）",
       "url": "https://x.com/lovethelife2333/status/2121106000249827689",
       "value": "每月免费 5 CPU 小时、最多 10 个并发 Box：2 vCPU/4GB/10GB，内置 Claude Code/Codex"
+    },
+    {
+      "author": "Ylj158852",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 949,
+      "notes": "78分（来源24/可验证20/价值14/时效12/风险8）。原帖为三条免费容器清单：LiberClaw部分证实——官网liberclaw.ai/pricing：免费档€0、1个Agent、免绑卡（No credit card required）、无网页浏览，Starter €7/月起；免费档存储官网写20GB（原帖称500MB为低估，实际更宽松）；持久记忆、Aleph Cloud独立VM属实；“每天约30条消息”官网定价页无此数字，未核实。另两条不收：packet.ai三模型免费推理至12-16同题已收id587；TeleAgent（中国电信星辰超级智能体）注册送云电脑/3000积分/7天回收/4核8G等关键数字官方文档未找到，与“订购/按需选用”表述冲突，未证实。",
+      "score": 78,
+      "title": "LiberClaw免费AI智能体（Aleph Cloud独立VM，免绑卡）",
+      "url": "https://x.com/Ylj158852/status/2125421717502001205",
+      "value": "免费档€0、1个智能体、免绑卡，存储20GB；Starter €7/月"
+    },
+    {
+      "author": "Javary324",
+      "category": "金融卡券",
+      "expiry_date": null,
+      "id": 950,
+      "notes": "78分（来源24/可验证21/价值12/时效14/风险7）。Deel官网博客（2026-11-24更新）证实：新卡在26个市场上线（拉美、加勒比、非洲），用DLUSD稳定币消费、Visa接受处可用；Standard：No fees；Premium：一次性$99、金属卡；返现最高1.5%（原帖“普通版0.5%”官网未见）；支持Apple Pay/Google Pay、ATM取现；Lead Bank发行、Bridge Ventures项目管理；Stripe新闻稿确认系统运行在Stripe基础设施上。申请条件：面向通过Deel领稳定币薪资的承包商/工作者，须Deel账户及DLUSD钱包，非公开开卡；中国大陆不在首批26个市场名单中（博客无明文，仅名单推断）；无申请截止日。",
+      "score": 78,
+      "title": "Deel稳定币消费卡上线26个市场（须Deel领薪，Standard免开卡费）",
+      "url": "https://x.com/Javary324/status/2125398596245979168",
+      "value": "Standard免开卡费、返现最高1.5%；Premium $99金属卡；Visa/Lead Bank"
     },
     {
       "author": "白嫖福利推送",
@@ -5722,6 +5766,28 @@
       "value": "测试网做任务攒积分，$T0 11% 空投（Season 0 5% + 未来主网季 6%）；需 500 积分才有资格，单钱包上限 0.1%"
     },
     {
+      "author": "OnlyJettTian",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 952,
+      "notes": "76分（来源24/可验证20/价值14/时效12/风险6）。Google Voice帮助中心证实：免费提供电话、短信、语音留言号码，美国/加拿大境内几乎所有通话免费；约3个月不活跃可回收，回收后45天内可找回；保号动作包括打电话、发短信、听语音留言（原帖称只有打出去/发出去才算不准确）。开号限美国境内，关联电话须短信/电话验证码验证，最多关联6个号码；国内用户直接注册受限，原帖未提美国IP/美国验证号门槛，“零成本”忽略了获取验证号的成本。Google官方未承诺可收银行验证码，VoIP号码能否收各银行验证码须自行实测。",
+      "score": 76,
+      "title": "Google Voice免费美国号（限美国境内开号，须美国手机号验证）",
+      "url": "https://x.com/OnlyJettTian/status/2125422722910195845",
+      "value": "免费美国号码，打电话发短信免费；约3个月不活跃回收"
+    },
+    {
+      "author": "白嫖福利推送",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 954,
+      "notes": "76分（来源23/可验证19/价值14/时效13/风险7）。App Store核实：Roam Control，开发者Sean Howarth，免费、页面无“App内购买”栏目，7.6 MB，开发工具类，版本1.0.1，2026-11-24发布；台湾店1条5星评价。功能介绍列明固定位置、步行/骑行/驾车路线模拟、手动路线、摇杆移动、GPX导入/导出、收藏与历史、会话控制，“功能完整”在介绍层面属实，但未安装、未实测。限制：须iOS 27或以上版本，须另行完成设备配对/本地连接（含LocalDevVPN兼容），并非开箱即用；仅适用于iPhone、无Mac版；台湾、美国、中国大陆三店均可打开且均显示免费。NodeSeek原帖因IP封禁未读到，帖内细节未核实。",
+      "score": 76,
+      "title": "Roam Control免费虚拟定位App（App Store免费，须iOS 27+配对设置）",
+      "url": "https://t.me/baipiaofl/66173",
+      "value": "App Store免费、无内购，虚拟定位/路线模拟/摇杆/GPX；须iOS 27+、须配对设置"
+    },
+    {
       "author": "fwqgo_com",
       "category": "云服务器",
       "expiry_date": null,
@@ -6382,6 +6448,17 @@
       "value": "Kaggle、Colab免费GPU + GitHub Actions、Supabase、OpenRouter、Cloudflare Workers/R2等免费额度合集"
     },
     {
+      "author": "Lovislexus",
+      "category": "其他",
+      "expiry_date": null,
+      "id": 948,
+      "notes": "74分（来源24/可验证19/价值13/时效12/风险6）。Smart官网商城证实：Prepaid Digital eSIM with Magic Data 99，活动价₱88（划线价₱99），线上购买、eSIM二维码发邮箱，注册后享FREE 2GB open access、NO EXPIRY data，在simreg.smart.com.ph注册激活；Magic Data 99页写明Maintain at least P1 load to keep your SIM active。关键限制：Smart官方博客明确游客注册的SIM仅有效30天、到期自动停用，长期低成本保号不成立；国内收短信、漫游免费在商品页未写、未核实。",
+      "score": 74,
+      "title": "菲律宾Smart eSIM活动价₱88（游客号仅30天有效）",
+      "url": "https://x.com/Lovislexus/status/2125416684919951501",
+      "value": "₱88活动价（原价₱99），注册送2GB不过期流量、₱1保号；游客号仅30天有效"
+    },
+    {
       "author": "白嫖福利推送",
       "category": "云服务器",
       "expiry_date": null,
@@ -6578,6 +6655,17 @@
       "title": "Simular Box 免费云电脑：一次性 $5 额度（约 5000 credits，90 天有效），每日免费已结束",
       "url": "https://x.com/Lovislexus/status/2119725396023545953",
       "value": "一次性 $5 额度（约 5000 credits，90 天有效），之后按量付费；每日免费已结束"
+    },
+    {
+      "author": "NodeSeek官方频道",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 953,
+      "notes": "73分（来源22/可验证18/价值15/时效12/风险6）。官网my.cvm.sh/store/sg9950x证实：新加坡9950X VPS尝鲜版$3.00/月，1核AMD Ryzen 9 9950X（5.7GHz）、1GB DDR5、20GB NVMe、1Gbps端口、1TB流量、1个IPv4+/64 IPv6；月付$3.00，年付$36（该档无年付折扣）。“今天降价”无官网原价可比，降价幅度无法核实。优惠码M99KHMG6F7I在未登录结账页验证提示“优惠码不存在”，8折价$2.40/月未实现；产品页仅写“限时8折循环优惠码，加入官方Telegram群获取”，帖文称“内付”可能指仅限登录后账户内余额支付使用，未登录验证。续费价按官网现价$3.00/月。相关：汐云9950X上新公告已收id868（限时5折循环+抽奖），本条为具体在售价核实。",
+      "score": 73,
+      "title": "汐云新加坡9950X VPS $3/月（优惠码M99KHMG6F7I未验证有效）",
+      "url": "https://t.me/nodeseekc/1031043",
+      "value": "$3.00/月，1核9950X/1GB DDR5/20GB NVMe/1Gbps/1TB；优惠码8折未验证"
     },
     {
       "author": "Lniosytest",
@@ -10037,5 +10125,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-25T10:55:25+08:00"
+  "updated_at": "2026-11-25T12:09:13+08:00"
 }
