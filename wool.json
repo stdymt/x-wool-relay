@@ -1,5 +1,5 @@
 {
-  "count": 920,
+  "count": 921,
   "items": [
     {
       "author": "Lovislexus",
@@ -5788,6 +5788,17 @@
       "value": "App Store免费、无内购，虚拟定位/路线模拟/摇杆/GPX；须iOS 27+、须配对设置"
     },
     {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 956,
+      "notes": "76分（来源22/可验证20/价值14/时效13/风险7）。free.ai 官网 /edu/ 证实：教育版确有，称 Pro-tier API access for students；每月 50 万 Token 属实，但仅限 40+ 自托管开源模型，另含 Pro 级 API 每月 10 万次请求，免绑卡；须 .edu 邮箱注册、教育资格有效期 30 天、每月重新验证，14 天内未验证退回标准免费层；学校不用 .edu 可联系官方凭真实在读证明人工审核，国际大学可逐案申请。已纠正原帖不实说法：“可免费调用 73 种模型”不成立——官网教育版只写 40+ 自托管开源模型，73 这个数字官网未找到；GPT-5、Claude、Gemini 等外部高级模型明确不在教育赠额内（Premium external models are not part of the education grant），须另购 Token。付费 Pro $19/月、每月 125 万 Token，与教育版 50 万不同。NodeSeek 原帖因 Cloudflare 验证未读到，TG 所称“没教育邮箱也能申请教育邮箱”的具体渠道未核实；官网唯一合法替代路径是真实在读证明人工审核，若涉及伪造学生身份/买卖 .edu 邮箱属违规，不收。",
+      "score": 76,
+      "title": "Free.ai 教育版：.edu 免费领 Pro，每月 50 万 Token（仅 40+ 自托管开源模型）",
+      "url": "https://t.me/baipiaofl/66181",
+      "value": "每月 50 万 Token + Pro 级 API 每月 10 万次请求，限 40+ 自托管开源模型；须 .edu 邮箱、每月重验证；GPT-5/Claude/Gemini 等外部高级模型不在赠额内"
+    },
+    {
       "author": "fwqgo_com",
       "category": "云服务器",
       "expiry_date": null,
@@ -10125,5 +10136,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-25T12:09:13+08:00"
+  "updated_at": "2026-11-25T12:55:54+08:00"
 }
