@@ -1,5 +1,5 @@
 {
-  "count": 968,
+  "count": 971,
   "items": [
     {
       "author": "Lovislexus",
@@ -1556,6 +1556,17 @@
       "author": "fwqgo_com",
       "category": "云服务器",
       "expiry_date": null,
+      "id": 1002,
+      "notes": "86分（85+，夜里出，待07:40晨报前二审）。属实：官网计价器逐项核实，3款均在售、续费同价、无售罄提示。①2核4G/50G NVMe $49.90/年（原价$174.90）；②2核2G/50G HDD $3.99/月（原价$12.99/月）；③2核4G/50G HDD $4.99/月（原价$14.99/月）。均为精品CN2、1T流量、1个IP。注意：①为年付、②③为月付，原帖未区分周期易误读；页面未注明截止日/名额。",
+      "score": 86,
+      "title": "RakSmart黑五补货：精品CN2 $3.99/月起",
+      "url": "https://x.com/fwqgo_com/status/2125616949132722207",
+      "value": "$3.99/月起精品CN2，续费同价"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
       "id": 910,
       "notes": "86分（来源28/可验证22/价值18/时效10/风险8）。官网黑五页 https://www.racknerd.com/BlackFriday/ 逐项属实：$9.49/年，35GB SSD，每月5TB流量，LiteSpeed，免费迁移/每日备份/SSL，达拉斯机房；结算页显示年付$9.49、两年付$18.98。修正：实际为5个附加域名+1个主域名=共6个建站位。续费价未明文承诺（仅两年付恰为两倍推断大概率同价），下单前须在结算页确认。页面未写黑五整体截止日；顶部倒计时约21:00到点，存在当日窗口结束风险。85+二审由本次核实完成。",
       "score": 86,
@@ -1672,17 +1683,6 @@
       "title": "RackNerd 2026 黑五：VPS 最低 $15.98/年、终身续费同价（帖子说的 $7.99/年不属实）",
       "url": "https://t.me/nodeseekc/1019919",
       "value": "VPS 1GB $15.98/年起，黑五价终身续费同价；共享主机 $9.49/年起"
-    },
-    {
-      "author": "fwqgo_com",
-      "category": "云服务器",
-      "expiry_date": null,
-      "id": 1002,
-      "notes": "86分（85+，夜里出，待07:40晨报前二审）。属实：官网计价器逐项核实，3款均在售、续费同价、无售罄提示。①2核4G/50G NVMe $49.90/年（原价$174.90）；②2核2G/50G HDD $3.99/月（原价$12.99/月）；③2核4G/50G HDD $4.99/月（原价$14.99/月）。均为精品CN2、1T流量、1个IP。注意：①为年付、②③为月付，原帖未区分周期易误读；页面未注明截止日/名额。",
-      "score": 86,
-      "title": "RakSmart黑五补货：精品CN2 $3.99/月起",
-      "url": "https://x.com/fwqgo_com/status/2125616949132722207",
-      "value": "$3.99/月起精品CN2，续费同价"
     },
     {
       "author": "fwqgo_com",
@@ -2180,6 +2180,17 @@
       "value": "免费搜无版权素材；桌面端超 5 GiB 导入需付费 Pro"
     },
     {
+      "author": "OnlyJettTian",
+      "category": "订阅优惠",
+      "expiry_date": null,
+      "id": 1000,
+      "notes": "84分。属实：Anthropic官方帮助页（2026-11-06更新）确认$50付$45（9折）、$250付$200（8折）、$1000付$700（7折）；个人Pro/Max/Ultra每月上限$2000、Team $3000；额度跨Claude/Desktop/手机/Claude Code/Cowork通用。注意：须已开通付费套餐并启用usage credits，额度仅在超出套餐限额后才抵扣；帖称“2026-12-07后购买12个月过期”官方页未见，未证实。",
+      "score": 84,
+      "title": "Claude预付额度阶梯折扣：充$1000付$700",
+      "url": "https://x.com/OnlyJettTian/status/2125594354286793120",
+      "value": "$1000包省$300"
+    },
+    {
       "author": "fwqgo_com",
       "category": "云服务器",
       "expiry_date": null,
@@ -2431,17 +2442,6 @@
       "title": "Hermes Agent：会越用越懂你的开源 AI Agent（NousResearch，MIT 免费）",
       "url": "https://x.com/tantanyuli/status/2120234285034856479",
       "value": "免费开源 AI Agent（MIT），262k stars；可自学/自部署，带记忆与技能自改进"
-    },
-    {
-      "author": "OnlyJettTian",
-      "category": "订阅优惠",
-      "expiry_date": null,
-      "id": 1000,
-      "notes": "84分。属实：Anthropic官方帮助页（2026-11-06更新）确认$50付$45（9折）、$250付$200（8折）、$1000付$700（7折）；个人Pro/Max/Ultra每月上限$2000、Team $3000；额度跨Claude/Desktop/手机/Claude Code/Cowork通用。注意：须已开通付费套餐并启用usage credits，额度仅在超出套餐限额后才抵扣；帖称“2026-12-07后购买12个月过期”官方页未见，未证实。",
-      "score": 84,
-      "title": "Claude预付额度阶梯折扣：充$1000付$700",
-      "url": "https://x.com/OnlyJettTian/status/2125594354286793120",
-      "value": "$1000包省$300"
     },
     {
       "author": "NodeSeek官方频道",
@@ -3611,6 +3611,28 @@
     },
     {
       "author": "NodeSeek官方频道",
+      "category": "订阅优惠",
+      "expiry_date": "2026-12-31",
+      "id": 1001,
+      "notes": "81分。部分属实：Google日本官方博客（2026-08-20）确认学生可申请Pro最高75%折扣；¥720/月为Pro+YouTube Premium学生套餐展示价（Lite版；完整版¥1280/月），多方信源证实，官方页未直接列价；官方价¥2900/月。条件：18岁以上日本在读高等教育学生，SheerID核验，需日本支付资料，最长4年、每12个月重新核验。2026-12-31为学生免费Plus年领取截止日，Pro折扣本身单独截止日未证实。",
+      "score": 81,
+      "title": "Google AI Pro 日区学生优惠 ¥720/月（约30元）",
+      "url": "https://t.me/nodeseekc/1032881",
+      "value": "¥720/月约30元人民币，约为官方价¥2900/月的25%"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 999,
+      "notes": "81分。部分属实：官网黑五页确认$9.95/年对应LXC IPv6 Only（洛杉矶）：1核Xeon Gold 6138、1GB、15GB NVMe、750GB@10Gbps、/64 IPv6、无IPv4（IPv4另加$24/年）。原帖未说明IPv6-only与15GB存储、基础流量仅750GB。LowEndTalk商家帖称下单后回帖Invoice号可终身流量翻倍（750→1500GB），评论区已有用户执行，但官网黑五页未见该规则。带IPv4同档LXC One为$17.95/年（1500GB）。限量、未公布截止日。",
+      "score": 81,
+      "title": "SoftShellWeb黑五：$9.95/年美西节点",
+      "url": "https://x.com/fwqgo_com/status/2125595394562293896",
+      "value": "$9.95/年，IPv6-only；加IPv4共$17.95/年档1500GB"
+    },
+    {
+      "author": "NodeSeek官方频道",
       "category": "免费额度",
       "expiry_date": null,
       "id": 994,
@@ -3731,26 +3753,15 @@
       "value": "开源免费AI视频剪辑工具；用编程智能体做视频，可导出或带到PR/FCP/DaVinci"
     },
     {
-      "author": "NodeSeek官方频道",
-      "category": "订阅优惠",
-      "expiry_date": "2026-12-31",
-      "id": 1001,
-      "notes": "81分。部分属实：Google日本官方博客（2026-08-20）确认学生可申请Pro最高75%折扣；¥720/月为Pro+YouTube Premium学生套餐展示价（Lite版；完整版¥1280/月），多方信源证实，官方页未直接列价；官方价¥2900/月。条件：18岁以上日本在读高等教育学生，SheerID核验，需日本支付资料，最长4年、每12个月重新核验。2026-12-31为学生免费Plus年领取截止日，Pro折扣本身单独截止日未证实。",
-      "score": 81,
-      "title": "Google AI Pro 日区学生优惠 ¥720/月（约30元）",
-      "url": "https://t.me/nodeseekc/1032881",
-      "value": "¥720/月约30元人民币，约为官方价¥2900/月的25%"
-    },
-    {
-      "author": "fwqgo_com",
-      "category": "云服务器",
+      "author": "KOF97AI",
+      "category": "免费额度",
       "expiry_date": null,
-      "id": 999,
-      "notes": "81分。部分属实：官网黑五页确认$9.95/年对应LXC IPv6 Only（洛杉矶）：1核Xeon Gold 6138、1GB、15GB NVMe、750GB@10Gbps、/64 IPv6、无IPv4（IPv4另加$24/年）。原帖未说明IPv6-only与15GB存储、基础流量仅750GB。LowEndTalk商家帖称下单后回帖Invoice号可终身流量翻倍（750→1500GB），评论区已有用户执行，但官网黑五页未见该规则。带IPv4同档LXC One为$17.95/年（1500GB）。限量、未公布截止日。",
-      "score": 81,
-      "title": "SoftShellWeb黑五：$9.95/年美西节点",
-      "url": "https://x.com/fwqgo_com/status/2125595394562293896",
-      "value": "$9.95/年，IPv6-only；加IPv4共$17.95/年档1500GB"
+      "id": 1004,
+      "notes": "80分。属实：新用户注册送 $1.25，App 内填码 SIMPACKERS5 再得 $3.75，合计 $5（多国约 2GB）；额度不过期、免绑卡。多源证实 $1.25+$3.75=$5 机制（travel-dealz、esimtao），码与 SIMPACKERS 系推广码口径一致。注意：帖称“90天有效”，官方口径为额度不过期，未证实；“约 2GB”为帖主实测口径，各国单价不同。",
+      "score": 80,
+      "title": "Roamless eSIM 新用户 $5 免费额度（约 2GB，码 SIMPACKERS5）",
+      "url": "https://x.com/KOF97AI/status/2125623383576703168",
+      "value": "$5 免费额度，约 2GB 全球流量，免绑卡"
     },
     {
       "author": "Lovislexus",
@@ -4842,6 +4853,17 @@
       "value": "每月免费 5 CPU 小时、最多 10 个并发 Box：2 vCPU/4GB/10GB，内置 Claude Code/Codex"
     },
     {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 1003,
+      "notes": "77分。部分属实：官网确认LAXPre.DC2 Nano在售$6.99/月（1核1GB/10GB/500M/512GiB/IPv4），年付$69.90/年（折合$5.83/月，实际约16.67%非17%）；三网CN2 GIA/9929/CMIN2。未证实：优惠码usdc3290是否有效、是否9折循环、能否与年付叠加（输码后跳登录页未验证）；$5.24/月按帖内算式应为约$5.22、按年付折合应为约$5.25，数字对不上。DC1已售罄。",
+      "score": 77,
+      "title": "Panstar洛杉矶优化线路 $6.99/月起",
+      "url": "https://x.com/fwqgo_com/status/2125612034125640035",
+      "value": "年付折合$5.83/月"
+    },
+    {
       "author": "yedabinbinah",
       "category": "免费额度",
       "expiry_date": null,
@@ -5931,17 +5953,6 @@
       "value": "首月免费，约 10 美元；.env 外用法有风险"
     },
     {
-      "author": "fwqgo_com",
-      "category": "云服务器",
-      "expiry_date": null,
-      "id": 1003,
-      "notes": "77分。部分属实：官网确认LAXPre.DC2 Nano在售$6.99/月（1核1GB/10GB/500M/512GiB/IPv4），年付$69.90/年（折合$5.83/月，实际约16.67%非17%）；三网CN2 GIA/9929/CMIN2。未证实：优惠码usdc3290是否有效、是否9折循环、能否与年付叠加（输码后跳登录页未验证）；$5.24/月按帖内算式应为约$5.22、按年付折合应为约$5.25，数字对不上。DC1已售罄。",
-      "score": 77,
-      "title": "Panstar洛杉矶优化线路 $6.99/月起",
-      "url": "https://x.com/fwqgo_com/status/2125612034125640035",
-      "value": "年付折合$5.83/月"
-    },
-    {
       "author": "Lniosytest",
       "category": "订阅优惠",
       "expiry_date": null,
@@ -6644,6 +6655,17 @@
       "title": "Ondo Perps 每周 500 万积分 + USDC 池：交易量与持仓分奖励",
       "url": "https://x.com/AllForAirdrop/status/2080828560336679096",
       "value": "每周 500 万 Ondo 积分 + USDC 池（约 17.5–25 万美元），按交易量与持仓分配；需入金交易"
+    },
+    {
+      "author": "NodeSeek官方频道",
+      "category": "云服务器",
+      "expiry_date": "2026-11-30",
+      "id": 1005,
+      "notes": "74分。属实：官网黑五页确认 $7/年（11-25~27），11-28 起每天涨 $1，11-30 23:59 EST 截止；配置 1 核/1GB/KVM、1Gbps 共享不限流量、1 个 IPv4。注意：15GB SSD 为帖内口径，官网页未列磁盘；续费价未明示。风险：帖主自称“灵车”，CCS 下游大锅饭，评论称不如牛马云；ToS 规定发起信用卡 chargeback 加收 $50 罚金并移交催收。",
+      "score": 74,
+      "title": "ServerHost 黑五 VPS $7/年（1C/1G/KVM，不限流量）",
+      "url": "https://t.me/nodeseekc/1032936",
+      "value": "$7/年 VPS，11-28 起每天涨 $1"
     },
     {
       "author": "白嫖福利推送",
@@ -9352,6 +9374,17 @@
       "value": "帖称 1核1G/50G HDD/1TB 精品CN2 券后 $4.52/月，续费同价说法与官网不符"
     },
     {
+      "author": "Airdrop Finder",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 1006,
+      "notes": "65分。属实：trynoah.ai/quests 任务页真实，Season 0 积分计划进行中，做任务/用 Noah/提交作品赚积分冲榜，免费参与。注意：官方未宣布代币或空投，积分能否转代币未确认，价值待定；参与须连钱包/X 账号，认准 trynoah.ai，防钓鱼。",
+      "score": 65,
+      "title": "Noah AI 任务赚积分（Season 0，trynoah.ai/quests）",
+      "url": "https://t.me/airdropfind/129980",
+      "value": "免费任务积分，未来空投待定"
+    },
+    {
       "author": "白嫖福利推送",
       "category": "订阅优惠",
       "expiry_date": null,
@@ -10653,5 +10686,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-26T00:58:59+08:00"
+  "updated_at": "2026-11-26T02:50:51+08:00"
 }
