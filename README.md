@@ -7,10 +7,10 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 - 范围：以 AI 为主（AI 会员、免费额度、VPS/VPN、AI 赚钱新路子）
 - 更新时间：见 wool.json 里的 `updated_at`（北京时间）
 
-## 本次更新（2026-11-25 23:08，963 条，本轮新增 4 条）
+## 本次更新（2026-11-26 00:58，968 条，本轮新增 5 条）
 
 | 分 | 内容 |
-|---|---:|
+|---|---|
 | 96 | Google Cloud 免费试用：$300 额度，90 天有效 |
 | 96 | Thinking Machines Lab Inkling 2 Mini开源权重（Apache 2.0，笔记本可跑） |
 | 96 | NVIDIA Nemotron 3 Ultra免费版登顶OpenRouter免费榜（1M上下文、$0） |
@@ -163,6 +163,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 86 | LayerOne 黑五：闪购 $7/年，月付7折/年付65折至11-30（2026-11-30（Cyber Monday；闪购每天限量3台）） |
 | 86 | RakSmart 黑五预热：注册绑卡领 $300 代金券，VPS 4 折（11-30 截止）（2026-11-30） |
 | 86 | RackNerd 2026 黑五：VPS 最低 $15.98/年、终身续费同价（帖子说的 $7.99/年不属实） |
+| 86 | RakSmart黑五补货：精品CN2 $3.99/月起 |
 | 85 | NoSLA Cloud黑五洛杉矶特惠款¥27.4/月起 |
 | 85 | RakSmart 黑五秒杀 VPS $2.99/月（2核2G/50G HDD/5Gbps/3TB，大陆优化VIP）（2026-11-30） |
 | 85 | GoMami 香港三网精品 $49/月 |
@@ -231,6 +232,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 84 | Cloudflare Workers AI 每天免费 1 万 Neurons |
 | 84 | Bolt.new 免费档：每天 30 万 token、每月 100 万 token，免绑卡（无固定截止日（免费档随时可能调整）） |
 | 84 | Hermes Agent：会越用越懂你的开源 AI Agent（NousResearch，MIT 免费）（无固定截止日（开源项目长期有效）） |
+| 84 | Claude预付额度阶梯折扣：充$1000付$700 |
 | 83 | Wap香港VPS $2/月 EPYC Netflix解锁 |
 | 83 | Google Flow 生图免费不占积分（Nano Banana 2.1/2 Lite 每日合计 400 张） |
 | 83 | PanstarCloud 洛杉矶 LAX Premium DC2 黑五上线 |
@@ -348,6 +350,8 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 81 | figures4papers：给 Codex/Claude Code/Cursor 的论文绘图 Skill（12.3k Star，CC BY-NC 仅限非商业）（无固定截止日（开源项目进行中）） |
 | 81 | LunaRoute Pro免费试用7天：$99/月档，含GLM 5.3/DeepSeek 4.1 Flash（需绑卡，到期自动扣费）（无固定截止日（7天试用进行中）） |
 | 81 | OpenFilm开源AI视频剪辑：把编程智能体变成视频智能体（MIT，8.6k Stars）（无固定截止日（开源项目）） |
+| 81 | Google AI Pro 日区学生优惠 ¥720/月（约30元）（2026-12-31） |
+| 81 | SoftShellWeb黑五：$9.95/年美西节点 |
 | 80 | 阿里千问桌面端首激活送30天个人基础版会员（付费期内送500积分） |
 | 80 | Experiential免费API：每日1M tokens，GPT-6 Luna/DeepSeek V4.1 Flash免费 |
 | 80 | 智谱官方免费模型：GLM-4.7-Flash与GLM-4.6V-Flash输入输出全免费 |
@@ -546,6 +550,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 77 | 华为云小红书活动 200 元券有货了：6 个月国内/7 个月新加坡服务器 |
 | 77 | 开源 Toonflow：两小时做一部 AI 短剧的工具 |
 | 77 | 腾讯 LightVela 新用户首月免费：4500 AI 积分 |
+| 77 | Panstar洛杉矶优化线路 $6.99/月起 |
 | 76 | OpenCode Go Gimme Kimi：$10加购得$60 Kimi K3.1 Pro用量 |
 | 76 | 德国Telekom预付卡eSIM保号 |
 | 76 | BUGNET黑五：全站循环92折码BF2026（11/27-11/30），西雅图Lite可加购2Gbps（2026-11-30） |
