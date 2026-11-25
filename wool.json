@@ -1,5 +1,5 @@
 {
-  "count": 925,
+  "count": 928,
   "items": [
     {
       "author": "Lovislexus",
@@ -5843,6 +5843,17 @@
       "value": "每月 50 万 Token + Pro 级 API 每月 10 万次请求，限 40+ 自托管开源模型；须 .edu 邮箱、每月重验证；GPT-5/Claude/Gemini 等外部高级模型不在赠额内"
     },
     {
+      "author": "NodeSeek官方频道",
+      "category": "云服务器",
+      "expiry_date": "2026-11-30",
+      "id": 961,
+      "notes": "76分（来源24/可验证21/价值11/时效12/风险8）。独立浏览器核实：官网 bug.pw/black-friday 已发布黑五规则，活动 2026/11/27 00:00—11/30 00:00（UTC+8），核查时尚未开始；通用码 BF2026 全品类循环 92 折（可循环续费同价，活动期内不限次数）；不定时掉落 85 折循环码，先到先得，码位待 11/27 公布；西雅图 VPS Lite 专属：工单申请付费升级至 2Gbps 峰值带宽 £1.50/月（循环计费，新老用户均可，共享端口，禁长期占满/发包/挖矿）；实付满 £10 可工单参与 1 次抽奖，综合中奖率 50%。官网产品页核对属实：西雅图上游 Zayo/NTT/Cogent/Liberty，接入 GSL；Mars £29.99/年（1核/512MB/10GB/500GB@1Gbps）、Venus £3.99（1核/1GB/15GB/1000GB@1Gbps），核查时 Mars 与 Venus 均显示已售罄。注意：NodeSeek 原帖因 Cloudflare 验证未读到全文，复测部分的测试数据与结论无法核实，黑五部分以官网为准。",
+      "score": 76,
+      "title": "BUGNET黑五：全站循环92折码BF2026（11/27-11/30），西雅图Lite可加购2Gbps",
+      "url": "https://t.me/nodeseekc/1031365",
+      "value": "通用码BF2026全品类循环92折；西雅图Lite工单加购2Gbps峰值£1.50/月；实付满£10可抽奖；Mars/Venus已售罄"
+    },
+    {
       "author": "fwqgo_com",
       "category": "云服务器",
       "expiry_date": null,
@@ -6512,6 +6523,17 @@
       "title": "菲律宾Smart eSIM活动价₱88（游客号仅30天有效）",
       "url": "https://x.com/Lovislexus/status/2125416684919951501",
       "value": "₱88活动价（原价₱99），注册送2GB不过期流量、₱1保号；游客号仅30天有效"
+    },
+    {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": "2026-12-31",
+      "id": 963,
+      "notes": "74分（来源24/可验证18/价值10/时效13/风险9）。独立浏览器核实：OpenAI 高管 Tibo（@thsottiaux）2026-11-25 在 X 发帖（模真真文章转引截图）：“To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31.”其中 Fast 模式免费 facet 已收 id931，本条为另一项：赠送 1 次 Codex 额度存档重置（banked reset），新老工作空间都有份，无需抢名额；领取路径为 Codex 用量设置页 / Settings 的 Usage & billing，或 CLI 输入 /usage 选 Redeem reset；触发条件为主额度至少一项剩余低于 80% 才可使用，且只恢复 Codex 主额度。注意：仅限 ChatGPT Business（原 Team）团队，免费/Plus 用户无份；NodeSeek 原帖因 Cloudflare 验证未读到，以二手文章转引的 X 截图为准。",
+      "score": 74,
+      "title": "ChatGPT Business团队赠1次Codex额度存档重置（与Fast免费同批，至12-31）",
+      "url": "https://t.me/baipiaofl/66193",
+      "value": "Business团队1次Codex banked额度重置；主额度至少一项低于80%才可用；仅恢复Codex主额度"
     },
     {
       "author": "白嫖福利推送",
@@ -8913,6 +8935,17 @@
     },
     {
       "author": "白嫖福利推送",
+      "category": "其他",
+      "expiry_date": "2026-12-31",
+      "id": 962,
+      "notes": "67分（来源20/可验证15/价值12/时效13/风险7）。独立浏览器核实：mysmarttraveller.com 是 Plaza Premium Group 的 Smart Traveller 全球机场奖励计划；官网注册页首屏只要求邮箱，未见绑卡/付费字段；第三方 Travel-Dealz 证实注册即得免费 1GB 全球 eSIM；官网优惠页称入会送 150 积分。已纠正原帖说法：“名字和号码随便填”不成立——须点击邮箱验证链接激活后 150 积分才到账，邮箱必须真实可用；“7 天”有效期仅见于原帖标题，官网与第三方均未佐证；免费 eSIM 落地页另有与 Lounge Pass 购买相关的条件表述（页面被 Cloudflare 拦截未能打开全文核对），与“仅注册即领”存在冲突；贵宾室优惠券面额与使用条件未核实。帖内含发帖人 AFF 码 EG5SAB。入会优惠条款摘要称有效期至 2026-12-31（GMT+8）。",
+      "score": 67,
+      "title": "Smart Traveller注册免费领1GB eSIM+150积分（至12-31）",
+      "url": "https://t.me/baipiaofl/66189",
+      "value": "注册免费领1GB全球eSIM+150积分；须真实邮箱验证；eSIM本身为付费产品，免费的是迎新1GB"
+    },
+    {
+      "author": "白嫖福利推送",
       "category": "免费额度",
       "expiry_date": null,
       "id": 879,
@@ -10180,5 +10213,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-25T14:11:14+08:00"
+  "updated_at": "2026-11-25T14:56:24+08:00"
 }
