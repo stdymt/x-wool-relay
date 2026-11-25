@@ -7,10 +7,10 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 - 范围：以 AI 为主（AI 会员、免费额度、VPS/VPN、AI 赚钱新路子）
 - 更新时间：见 wool.json 里的 `updated_at`（北京时间）
 
-## 本次更新（2026-11-25 22:16，959 条，本轮新增 2 条）
+## 本次更新（2026-11-25 23:08，963 条，本轮新增 4 条）
 
 | 分 | 内容 |
-|---|---|
+|---|---:|
 | 96 | Google Cloud 免费试用：$300 额度，90 天有效 |
 | 96 | Thinking Machines Lab Inkling 2 Mini开源权重（Apache 2.0，笔记本可跑） |
 | 96 | NVIDIA Nemotron 3 Ultra免费版登顶OpenRouter免费榜（1M上下文、$0） |
@@ -118,6 +118,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 88 | Kiro Pro 首次升级免单：当月剩余时间免费 + 送 500 试用积分 |
 | 88 | Poke 免费送 Devin Bot：发短信说想法，最高领 1 万美元额度（1 万个名额） |
 | 88 | MinerU 文档转 Markdown：在线版每天 1000 页免费额度 |
+| 87 | 智谱Coding Plan：GLM-5.3-Flash消耗按50%结算（11-24至12-24，额度翻倍）（2026-12-24） |
 | 87 | RackNerd黑五2.5GB KVM VPS $27.98/年终身续费（2026-11-25） |
 | 87 | Google 官方开源 gemini-api-cli：终端免费调 Gemini API（需 API Key，免费层） |
 | 87 | ColoCrossing 黑五独服 E3-1240v2 32GB $20/月 |
@@ -252,6 +253,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 83 | Oumi 免费送 $50 训练额度 + Vercel 免费 30B/501B 推理模型 |
 | 83 | Coarena 每天 $5 免费调 22 个模型：含 Opus 5.5、GPT-6.1 Sol、Gemini 4 Carbon，免绑卡（无固定截止日（免费档持续有效，以官方文档为准）） |
 | 83 | Pulsar Money 11月返现提到4%：Pro用户前$3000消费全按4%返积分（到11月30日）（2026-11-30） |
+| 82 | Leaflow Fleet免费（主机监控/状态页/DNS全免费）+晒图最高领1亿Token |
 | 82 | Modal每月$30免费算力额度 |
 | 82 | 阿里千问办公桌面端免费送30天个人基础版会员 |
 | 82 | ChatGPT Business/Team 免费 1 个月（team-1-month-free，分账号定向资格）（2026-11-30） |
@@ -346,6 +348,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 81 | figures4papers：给 Codex/Claude Code/Cursor 的论文绘图 Skill（12.3k Star，CC BY-NC 仅限非商业）（无固定截止日（开源项目进行中）） |
 | 81 | LunaRoute Pro免费试用7天：$99/月档，含GLM 5.3/DeepSeek 4.1 Flash（需绑卡，到期自动扣费）（无固定截止日（7天试用进行中）） |
 | 81 | OpenFilm开源AI视频剪辑：把编程智能体变成视频智能体（MIT，8.6k Stars）（无固定截止日（开源项目）） |
+| 80 | 阿里千问桌面端首激活送30天个人基础版会员（付费期内送500积分） |
 | 80 | Experiential免费API：每日1M tokens，GPT-6 Luna/DeepSeek V4.1 Flash免费 |
 | 80 | 智谱官方免费模型：GLM-4.7-Flash与GLM-4.6V-Flash输入输出全免费 |
 | 80 | ROCX 测试网空投（Base Sepolia） |
@@ -543,6 +546,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 77 | 华为云小红书活动 200 元券有货了：6 个月国内/7 个月新加坡服务器 |
 | 77 | 开源 Toonflow：两小时做一部 AI 短剧的工具 |
 | 77 | 腾讯 LightVela 新用户首月免费：4500 AI 积分 |
+| 76 | OpenCode Go Gimme Kimi：$10加购得$60 Kimi K3.1 Pro用量 |
 | 76 | 德国Telekom预付卡eSIM保号 |
 | 76 | BUGNET黑五：全站循环92折码BF2026（11/27-11/30），西雅图Lite可加购2Gbps（2026-11-30） |
 | 76 | Free.ai 教育版：.edu 免费领 Pro，每月 50 万 Token（仅 40+ 自托管开源模型） |
