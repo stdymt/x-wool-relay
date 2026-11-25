@@ -9374,6 +9374,17 @@
       "value": "帖称 1核1G/50G HDD/1TB 精品CN2 券后 $4.52/月，续费同价说法与官网不符"
     },
     {
+      "author": "Lovislexus",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 1007,
+      "notes": "65分。官方文档证实：模型真实存在、512K上下文属实（max_tokens上限524,288）；免费体验属实但限时，恢复收费前提前告知，定价输入$0.14/1M、输出$0.28/1M；“免实名”不成立（须+86手机号登录或小红书扫码，协议保留实名认证条件）；“50 TPS”无法证实，官方限流为60 RPM/1.5M TPM；须注册登录、创建API Key；模型2026-08-13已开源，非新发布。原帖x.com 403无法直接打开，以收集器正文+Bing摘要+官方文档核实。",
+      "score": 65,
+      "title": "小红书 dots3-note-prev 512K 免费体验",
+      "url": "https://x.com/Lovislexus/status/2125673377733976517",
+      "value": "免费 512K 上下文多模态模型 API（dots3-note-prev），限时免费体验"
+    },
+    {
       "author": "Airdrop Finder",
       "category": "免费额度",
       "expiry_date": null,
@@ -9790,17 +9801,6 @@
       "title": "Kaggle免费GPU云端部署模型，本地电脑指挥AI",
       "url": "https://x.com/Lovislexus/status/2119603377524928961",
       "value": "免费GPU云端跑模型，本地Agent调用；与本轮Kaggle双T4帖同一玩法"
-    },
-    {
-      "author": "Lovislexus",
-      "category": "免费额度",
-      "expiry_date": null,
-      "id": 1007,
-      "notes": "65分。官方文档证实：模型真实存在、512K上下文属实（max_tokens上限524,288）；免费体验属实但限时，恢复收费前提前告知，定价输入$0.14/1M、输出$0.28/1M；“免实名”不成立（须+86手机号登录或小红书扫码，协议保留实名认证条件）；“50 TPS”无法证实，官方限流为60 RPM/1.5M TPM；须注册登录、创建API Key；模型2026-08-13已开源，非新发布。原帖x.com 403无法直接打开，以收集器正文+Bing摘要+官方文档核实。",
-      "score": 65,
-      "title": "小红书 dots3-note-prev 512K 免费体验",
-      "url": "https://x.com/Lovislexus/status/2125673377733976517",
-      "value": "免费 512K 上下文多模态模型 API（dots3-note-prev），限时免费体验"
     },
     {
       "author": "白嫖福利推送",
@@ -10697,5 +10697,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-26T04:49:01+08:00"
+  "updated_at": "2026-11-26T06:55:28+08:00"
 }
