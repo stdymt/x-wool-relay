@@ -1,5 +1,5 @@
 {
-  "count": 905,
+  "count": 911,
   "items": [
     {
       "author": "Lovislexus",
@@ -308,6 +308,17 @@
       "title": "ChatGPT Pro 用户 API 额度福利：每月最高 $500，别忘领",
       "url": "https://x.com/Lovislexus/status/2123181962143900124",
       "value": "Pro $100/$200/$500 三档每月对应 $100/$200/$500 API 额度，年省最高 $6000；需已是付费 Pro 订阅，额度按账单周期过期不结转"
+    },
+    {
+      "author": "yedabinbinah",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 941,
+      "notes": "91分。Google 官方定价页与文档双重证实：Antigravity 个人版 $0/月、已正式发布，免费版可用 Gemini 4 Hydrogen，思考档位 Low/Medium（默认）/High/Extra，每周刷新额度；Gemini 4 Neon/Carbon/Argon 与 Orchestrator 仅限付费 Pro/Ultra。免费档具体额度数值官方未公布、用量限制可调整；Gemini 3.8 Flash 仅至 2026-11-30。原帖称 Pro 及以上可用，实际免费版亦可用，官方口径更宽。85+二审由本次官方核实完成。",
+      "score": 91,
+      "title": "Antigravity 免费版可用 Gemini 4 Hydrogen（默认 Medium 档）",
+      "url": "https://x.com/yedabinbinah/status/2125390361002688611",
+      "value": "免费版 $0/月可用 Gemini 4 Hydrogen，基准额度每周刷新；无免费截止时间"
     },
     {
       "author": "Ylj158852",
@@ -869,6 +880,28 @@
       "title": "AID Studio：开源 AI 短剧工作台",
       "url": "https://x.com/tantanyuli/status/2124124921710489796",
       "value": "开源免费 MIT；模型调用费用另计"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 943,
+      "notes": "88分。BitsFlowCloud 官网黑五洛杉矶订购页逐项证实：US-LAX-Black Friday-M，1 年 ¥189，有货；2 vCPU（Intel 金牌 6252）、2GB DDR4、40GB NVMe、5Gbps 共享端口、8TB 双向流量（激活日重置，用尽限速 1Mbps）、1 个美国原生 IPv4 + IPv6/64；24 小时退款保证、IP Care+ 首年免费；同页 S 款 ¥109/年与 L 款 ¥299/年均已售罄。商家真实可查。唯一缺口：黑五截止日订购页未明示。85+二审由本次官方核实完成。",
+      "score": 88,
+      "title": "BitsFlowCloud 美西洛杉矶中配款 ¥189/年（黑五）",
+      "url": "https://x.com/fwqgo_com/status/2125371384679309661",
+      "value": "2核/2GB/40GB NVMe/5Gbps/8TB双向/原生双栈IP，¥189/年有货；24小时退款保证"
+    },
+    {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 942,
+      "notes": "88分。Thinking Machines 官方新闻（2026-11-20）与 Tinker 定价页证实：Inkling 2 Mini（26.4B 循环 Transformer，开权重）免费档推理与训练费率均为 $0/1M tokens，模型 ID thinkingmachines/Inkling-2-Mini:peft:65536:free；限 64K 上下文、受速率限制，达限节流；预付账户须有正余额才能用免费档。官方基准编码类领先 Qwen3.8-27B。免费档速率数值与截止时间官方未公布。85+二审由本次官方核实完成。",
+      "score": 88,
+      "title": "Thinking Machines Inkling 2 Mini 免费推理与训练",
+      "url": "https://t.me/baipiaofl/66136",
+      "value": "免费档推理与训练 $0，限 64K 上下文、受速率限制；预付账户须有正余额"
     },
     {
       "author": "0xjackkk",
@@ -2530,6 +2563,17 @@
       "title": "Pulsar Money 11月返现提到4%：Pro用户前$3000消费全按4%返积分（到11月30日）",
       "url": "https://x.com/SecJack96/status/2120889366524698761",
       "value": "11月内Pro用户前$3000消费返4%积分（最高约$120积分）"
+    },
+    {
+      "author": "BlockInsight214",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 945,
+      "notes": "82分。Google AI Studio 官方页证实：Pro 每月 $10、Ultra 5x 每月 $40、Ultra 20x 每月 $100，领取一次后每月自动发放，可用于 Gemini API 与 Google AI Studio，额度自发放起 12 个月内有效、抵扣时优先于预付余额。领取条件：须持有 Google AI Pro/Ultra 付费订阅（Pro $19.99/月、Ultra $249.99/月）、Gmail 账号、$5 预付充值+付费 API 密钥，并非白嫖。与 GCP $300 新客赠金不是同一回事。无领取截止日，属持续性订阅权益。",
+      "score": 82,
+      "title": "Google AI Studio 每月送 Gemini API 额度（Pro $10/Ultra $40/$100）",
+      "url": "https://x.com/BlockInsight214/status/2125367861267087621",
+      "value": "Pro每月$10、Ultra 5x每月$40、Ultra 20x每月$100，额度12个月有效；须付费订阅+$5预付充值"
     },
     {
       "author": "KOF97AI",
@@ -4224,6 +4268,17 @@
       "title": "Kaggle免费GPU双T4跑30B编程大模型",
       "url": "https://x.com/Lovislexus/status/2119595831036960924",
       "value": "每周约30小时免费GPU，双T4合计32GB显存，不用绑卡；可跑Qwen3-Coder 30B量化版"
+    },
+    {
+      "author": "Lovislexus",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 946,
+      "notes": "78分。官方证实：Google Play 官方页写明 Cue by Manus 目前凭邀请码免费体验，获得访问权限后 Plus 会员免费包含，每个 Cue 拥有自己的云端电脑、邮箱、电话号码和钱包；Manus 官网博客称 Cue 早期体验凭邀请码免费使用，官方邀请码 MEETCUE、名额有限。8 核 CPU+16GB 内存见于用户实测转述，未见官方配置页证实；“72GB”与“出口家宽 IP、企业信息 Comcast”均未在官方来源核实；Plus 免费期限官方表述不一（1 个月试用与免费包含并存），无明确截止日。",
+      "score": 78,
+      "title": "Manus Cue 免费体验：送云电脑+Plus 会员（邀请制）",
+      "url": "https://x.com/Lovislexus/status/2125363845078397388",
+      "value": "凭邀请码免费体验，Plus 会员免费包含；每 Cue 有自己的云端电脑；名额有限"
     },
     {
       "author": "白嫖福利推送",
@@ -6138,6 +6193,17 @@
       "title": "Ondo Perps 每周 500 万积分 + USDC 池：交易量与持仓分奖励",
       "url": "https://x.com/AllForAirdrop/status/2080828560336679096",
       "value": "每周 500 万 Ondo 积分 + USDC 池（约 17.5–25 万美元），按交易量与持仓分配；需入金交易"
+    },
+    {
+      "author": "白嫖福利推送",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 944,
+      "notes": "74分。B2Proxy 官网 Mega Savings 活动页证实：3GB $2.99（仅限新用户）、100GB 立减 $20、3000GB 立减 $350、次单最高 25% OFF（券有效期 7 天）、$0.7/GB、80M+ 住宅 IP、流量不过期。但原帖“免费试用”不准确：官网试用为 $10/1 小时付费试用，免费测试流量仅限在 NodeLoc 帖下评论申请，额度与时长未注明；促销页仅写 limited-time，无明确截止日。",
+      "score": 74,
+      "title": "B2Proxy 黑五大促：3GB $2.99起，最高立减$350",
+      "url": "https://t.me/baipiaofl/66131",
+      "value": "3GB $2.99仅限新用户；3000GB立减$350；流量不过期；免费试用实为$10/1小时付费试用"
     },
     {
       "author": "Ciciyingying",
@@ -9960,5 +10026,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-25T09:02:09+08:00"
+  "updated_at": "2026-11-25T10:05:19+08:00"
 }
