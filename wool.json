@@ -1,5 +1,5 @@
 {
-  "count": 972,
+  "count": 973,
   "items": [
     {
       "author": "Lovislexus",
@@ -440,6 +440,17 @@
       "title": "BitsFlowCloud 伦敦黑五 M 档：¥249/年，EPYC 7763/2核2G/40G NVMe/5Gbps/8TB（S/L 档已售罄）",
       "url": "https://x.com/fwqgo_com/status/2123619848936734736",
       "value": "伦敦 M 档 ¥249/年：2核2G/40G NVMe/5Gbps/8TB，英国原生 IP；S/L 档已售罄"
+    },
+    {
+      "author": "BlockInsight214",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 1008,
+      "notes": "90分（来源26/可验证24/价值18/时效13/风险9）。属实：Anthropic官方帮助页《Monthly API credits for Max, Ultra, and Team plans》证实Max每月$100、Ultra每月$200、Team Standard每席位$20、Team Premium每席位$100，全队汇总上限$500/月；须订阅有效且满7天，在claude.ai Settings > Billing（Max/Ultra）或Organization settings > Billing（Team）选Link organization绑定一个Claude Console组织；只能绑一个组织、每个组织只接受一个计划的额度。注意：额度随账单周期刷新、不结转、先于自购额度使用；可用于Claude API/Playground/Managed Agents/Agent SDK，不适用于交互式Claude Code及超额用量、Bedrock/Vertex/Foundry。X原帖以fxtwitter镜像读到全文。85+，夜里出，待07:40晨报前二审，进晨报头条。",
+      "score": 90,
+      "title": "Claude Max/Team 每月免费 API 额度（Max $100/月，需手动绑定）",
+      "url": "https://x.com/BlockInsight214/status/2125714074382283026",
+      "value": "Max每月$100、Ultra每月$200 API额度，Team每席位$20/$100"
     },
     {
       "author": "fwqgo_com",
@@ -10697,5 +10708,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-26T06:55:28+08:00"
+  "updated_at": "2026-11-26T06:55:52+08:00"
 }
