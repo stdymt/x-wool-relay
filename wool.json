@@ -1,5 +1,5 @@
 {
-  "count": 921,
+  "count": 925,
   "items": [
     {
       "author": "Lovislexus",
@@ -1520,6 +1520,17 @@
       "value": "免费 10 亿决策 tokens（约 42 美元），免绑卡，API 可用"
     },
     {
+      "author": "KOF97AI",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 959,
+      "notes": "87分（来源27/可验证23/价值15/时效14/风险8；85+二审：官方 GitHub 仓库已由独立浏览器复核，X 原帖因 403 未能重开）。GitHub google-gemini/gemini-api-cli 真实存在（2.6k stars，v0.5.0，2026-11-25 仍有提交，Apache 2.0，版权 Google LLC），README 自述为 Agent（Claude Code/Codex/Antigravity）暴露 Gemini API 的实验性 CLI；需在 Google AI Studio 创建 API Key 并设 GEMINI_API_KEY；免费层无需绑卡、按模型有 RPM/RPD 限额，超免费层按量计费。注意：不是帖子说的“单文件零依赖”（实为 Go 工程），也不同于 gemini-cli（后者免费个人访问已于 2026-06-18 迁至 Antigravity CLI）。",
+      "score": 87,
+      "title": "Google 官方开源 gemini-api-cli：终端免费调 Gemini API（需 API Key，免费层）",
+      "url": "https://x.com/KOF97AI/status/2125438201762652238",
+      "value": "Google 官方开源 CLI，终端免配置调 Gemini API（免费层），可接 Claude Code/Codex"
+    },
+    {
       "author": "fwqgo_com",
       "category": "云服务器",
       "expiry_date": null,
@@ -2112,6 +2123,17 @@
       "title": "ClipSeek：一句话搜无版权免费视频、照片、插画素材",
       "url": "https://x.com/tantanyuli/status/2119646663044157466",
       "value": "免费搜无版权素材；桌面端超 5 GiB 导入需付费 Pro"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": "2026-11-30",
+      "id": 960,
+      "notes": "85分（来源26/可验证22/价值16/时效14/风险7；85+二审：RakSmart 官方文章已由独立浏览器复核，X 原帖因 403 未能重开）。官方文章《RakSmart双十一×黑五年度大促》（2026-11-23）证实：活动 10 月 15 日-11 月 30 日，黑五感恩周 11 月 25-30 日；首选款 SV VPS 2核/2GB/50GB HDD/5Gbps/3TB 大陆优化 VIP 原价 $8.41/月、秒杀价 $2.99/月逐项吻合。注意：帖子把双十一限时 $1.99 说成黑五价不准确，黑五秒杀是 $2.99/月起；“全线续费同价”只对 7 折专区证实，秒杀价续费以结算页为准；“三网 AS4837 回程”官方文章未提及。",
+      "score": 85,
+      "title": "RakSmart 黑五秒杀 VPS $2.99/月（2核2G/50G HDD/5Gbps/3TB，大陆优化VIP）",
+      "url": "https://x.com/fwqgo_com/status/2125439336850317643",
+      "value": "黑五秒杀 $2.99/月（原价$8.41），2核2G/50G HDD/5Gbps/3TB 大陆优化 VIP"
     },
     {
       "author": "白嫖福利推送",
@@ -3443,6 +3465,17 @@
       "title": "Google Colab 免费版可用 16GB 显存 T4（另有 TPU）",
       "url": "https://x.com/Lovislexus/status/2119465791674540075",
       "value": "免费云端 GPU/TPU 算力，按需分配不保证"
+    },
+    {
+      "author": "Lovislexus",
+      "category": "订阅优惠",
+      "expiry_date": "2026-11-30",
+      "id": 958,
+      "notes": "82分（来源26/可验证20/价值16/时效13/风险7）。独立浏览器核实：帖中 promo 参数 team-1-month-free 证实确有 Team/Business 免费 1 个月活动；OpenAI 帮助中心证实 11 月 23-30 日新建工作区享每周已含用量翻倍 + Fast 模式免费至 12 月 31 日（双倍用量 facet 已收 id913，本条为免费试用 facet）；“最多 5 个标准席位”仅见二手摘要、官方公开页未写明；资格按账号定向、不是人人可领，一般仅限免费计划用户、可能需要提供付款方式。注意：所谓“免费一个月 Plus”不成立，Team 已于 2025-08-29 更名为 Business。截止 11-30 为推算（与新建工作区优惠窗口一致，公开页未写明）。",
+      "score": 82,
+      "title": "ChatGPT Business/Team 免费 1 个月（team-1-month-free，分账号定向资格）",
+      "url": "https://x.com/Lovislexus/status/2125435006361456985",
+      "value": "新建 Business 工作区首月免费（最多 5 个标准席位为二手说法），另享用量翻倍至 12-31"
     },
     {
       "author": "fwqgo_com",
@@ -5654,6 +5687,17 @@
       "title": "腾讯 LightVela 新用户首月免费：4500 AI 积分",
       "url": "https://x.com/yedabinbinah/status/2119462302240121289",
       "value": "首月免费，约 10 美元；.env 外用法有风险"
+    },
+    {
+      "author": "yedabinbinah",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 957,
+      "notes": "77分（来源26/可验证16/价值15/时效13/风险7）。独立浏览器+短链解析核实：模型 dots3-note-prev 真实存在（小红书 Dots Studio 官方博客，Apache 2.0 开源，280B总参数/16B激活，512K上下文）；帖中链接指向官方 Dots API 开放平台登录页 dots.ai/platform/login，登录创建 API Key 即可调用，多家第三方介绍称预览期免费；帖称 50TPS 与官方 60 次/分钟限速说法不符、免实名免验卡未证实。截止日期官方未公布。",
+      "score": 77,
+      "title": "小红书 Dots API：dots3-note-prev 免费调用（512K上下文，预览期免费）",
+      "url": "https://x.com/yedabinbinah/status/2125436344445079870",
+      "value": "免费调用 dots3-note-prev 多模态模型（512K上下文）；官方 API 平台预览期免费，登录创建 API Key 即可"
     },
     {
       "author": "fwqgo_com",
@@ -10136,5 +10180,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-25T12:55:54+08:00"
+  "updated_at": "2026-11-25T14:11:14+08:00"
 }
