@@ -1,5 +1,5 @@
 {
-  "count": 928,
+  "count": 938,
   "items": [
     {
       "author": "Lovislexus",
@@ -2367,6 +2367,28 @@
       "value": "免费开源 AI Agent（MIT），262k stars；可自学/自部署，带记忆与技能自改进"
     },
     {
+      "author": "0xjackkk",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 964,
+      "notes": "84分（来源26/可验证22/价值15/时效13/风险8）。独立浏览器核实：官方 SKILL.md Path F（Keyless free tier）确认免 API Key 的 MCP 接入（mcp.firecrawl.dev/v2/mcp），可用 search/scrape/interact/parse 及 Alexandria 研究索引；与已收 id283 每月 1000 credits 免费档不是同一回事——免 Key 是无账号备用接入（限速、无明确额度），免费档是注册后每月 1000 credits 套餐；“34 个进阶工具”“2.5 秒出结果”未证实；默认推荐路径是 OAuth 登录需 Firecrawl 账号；Keyless 路径限速、VPN/代理会被拒绝。",
+      "score": 84,
+      "title": "Firecrawl 免 API Key 接 MCP（Keyless 备用接入，限速）",
+      "url": "https://x.com/0xjackkk/status/2125474899406049446",
+      "value": "免 API Key 接 MCP，无需注册；限速、VPN/代理会被拒；与每月 1000 credits 免费档是两回事"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 968,
+      "notes": "84分（来源26/可验证23/价值15/时效12/风险8）。独立浏览器核实：官网订购页逐项证实 SV VPS 2核/4G、HDD 50G（5000 IOPS/200MB/s）、精品 CN2、流量 Enterprise CN2 G 1T、独立 IPv4，每月 $14.99、立减 $10、实付 $4.99/月，页面明确写“续费价格($4.99)”；日均约 $0.17；线路说明写中国电信 CN2 4809、中国移动 CMIN2 58807、中国联通 CU19174，官网未出现“GIA”字样；黑五截止日未公布（仅 Limited Time），无具体库存数，核查时可正常下单。与已收 id960 RakSmart 黑五秒杀 $2.99（2核2G/5Gbps/3TB）不同款。",
+      "score": 84,
+      "title": "RakSmart 硅谷 VPS $4.99/月（2核4G/50G HDD/精品CN2/1T，续费同价）",
+      "url": "https://x.com/fwqgo_com/status/2125489466089627749",
+      "value": "$4.99/月（原价 $14.99），2核4G/50G HDD/精品CN2/1T/独立 IPv4，续费同价"
+    },
+    {
       "author": "fwqgo_com",
       "category": "云服务器",
       "expiry_date": null,
@@ -2585,6 +2607,17 @@
       "title": "Pulsar Money 11月返现提到4%：Pro用户前$3000消费全按4%返积分（到11月30日）",
       "url": "https://x.com/SecJack96/status/2120889366524698761",
       "value": "11月内Pro用户前$3000消费返4%积分（最高约$120积分）"
+    },
+    {
+      "author": "KOF97AI",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 965,
+      "notes": "83分（来源25/可验证22/价值15/时效13/风险8）。独立浏览器核实：Google Flow 官方帮助页明确生图与超分目前不占用月度积分；但“免费无上限、各档一样”不成立——官方每日限额：Nano Banana 2.1 与 2 Lite 共用池，无订阅每日合计最高 400 张，Plus/Pro 与 Ultra 每日 1000 张；Nano Banana Pro 无订阅每日最高 20 张；2K 超分每日 200 张各档都有，4K 超分仅 Ultra 每日 200 张（免费/Plus/Pro 不可用）；视频才用积分（无订阅每月 100）；模型名官方为 Nano Banana Pro、Nano Banana 2 Lite、Nano Banana 2.1，没有单独的“Nano Banana 2”。",
+      "score": 83,
+      "title": "Google Flow 生图免费不占积分（Nano Banana 2.1/2 Lite 每日合计 400 张）",
+      "url": "https://x.com/KOF97AI/status/2125488773966520759",
+      "value": "生图与超分目前不占月度积分；无订阅每日 2.1+2 Lite 合计 400 张、Pro 20 张；4K 超分仅 Ultra"
     },
     {
       "author": "BlockInsight214",
@@ -4325,6 +4358,17 @@
       "value": "每周约30小时免费GPU，双T4合计32GB显存，不用绑卡；可跑Qwen3-Coder 30B量化版"
     },
     {
+      "author": "OnlyJettTian",
+      "category": "其他",
+      "expiry_date": null,
+      "id": 966,
+      "notes": "79分（来源25/可验证21/价值14/时效12/风险7）。独立浏览器核实：官网 paygo 页证实 $3/月，含 100 分钟通话、100 条短信、100MB 流量；超量通话 $0.03/分钟、短信 $0.01/条、流量 $0.03/MB；年费 $36，另有政府费用/税费（Provider Monthly Fees 最高 $2.45），实际账单可能高于 $3；T-Mobile 网络属实；60 天不续费号码将被回收；中国漫游语音 $3.59/分钟、发短信 $0.50/条、收短信 $0.10/条，漫游无数据；常规定价。未证实：官网未承诺银行验证码（Chase、BOA）都能收；国内 Wi-Fi Calling 零成本保号与是否须美国激活未证实；卡只在美国门店/eBay 售卖。",
+      "score": 79,
+      "title": "Ultra Mobile PayGo $3/月美国号保号（T-Mobile 实体号，60 天不续费回收）",
+      "url": "https://x.com/OnlyJettTian/status/2125479094376607986",
+      "value": "$3/月（年 $36+税费），100 分钟/100 短信/100MB；60 天不续费回收；须境外购卡/激活；银行验证码无官方承诺"
+    },
+    {
       "author": "Lovislexus",
       "category": "免费额度",
       "expiry_date": null,
@@ -4609,6 +4653,17 @@
       "title": "Deel稳定币消费卡上线26个市场（须Deel领薪，Standard免开卡费）",
       "url": "https://x.com/Javary324/status/2125398596245979168",
       "value": "Standard免开卡费、返现最高1.5%；Premium $99金属卡；Visa/Lead Bank"
+    },
+    {
+      "author": "Ciciyingying",
+      "category": "免费额度",
+      "expiry_date": "2026-12-13",
+      "id": 972,
+      "notes": "78分（来源24/可验证20/价值14/时效13/风险7）。独立浏览器核实：官网 florin.so 证实 Testnet V2 已上线（Robinhood Chain，Liquity V2 合约官方友好分叉）；Superboard 活动页 LIVE，6 项任务（关注 X、互动、领测试币、Borrow FUSD、存入 Stability Pool、Multiply）各 10 SUPR，完成任务可参与分享 $500 USDC 奖池，时间 2026-11-13 至 2026-12-13 17:30 CST；水龙头每 2 小时可领 100 测试 SPY，测试币免费。纠正：原帖“很多 USDC 奖池”不实——只有一个 $500 奖池且是抽奖分享，完成任务只获得抽奖机会；SUPR 数额页内不一致（页头 50、任务合计 60、进度 0/140）；无跨链任务；“完全 0 撸”仅指测试币免费，仍需连接钱包、做 X 社交任务，Borrow/Multiply 仅美股交易时段可用。",
+      "score": 78,
+      "title": "Florin Protocol 测试网 V2：免费领测试币做任务，分 $500 USDC 抽奖（至 12-13）",
+      "url": "https://x.com/Ciciyingying/status/2125474614134575388",
+      "value": "测试网免费参与，6 项任务各 10 SUPR，分 $500 USDC 抽奖；水龙头每 2 小时 100 测试 SPY"
     },
     {
       "author": "白嫖福利推送",
@@ -6336,6 +6391,28 @@
       "title": "RakSmart黑五精品CN2 $4.99/月（同价续费，约至12-30）",
       "url": "https://t.me/nodeseekc/1030813",
       "value": "2核4G/50G/Enterprise CN2 G/1T流量，$4.99/月（原价$14.99），同价续费；年付同款$49.90/年"
+    },
+    {
+      "author": "mjjwiki",
+      "category": "金融卡券",
+      "expiry_date": null,
+      "id": 967,
+      "notes": "75分（来源24/可验证20/价值12/时效13/风险6）。独立浏览器核实：ether.fi 官方博客 2026-11-24 发布《Family Cards》，专页确认对象为伴侣、父母、成年子女，持卡人得一张以自己名字开的虚拟或实体卡，花分享人的余额（分享人设限额），返现归分享人；$10 是 App 内向分享人收取的卡费（截图显示“卡片费用：US$10.00 从你的帐户余额扣款”），不是付给中间人的费用，但公开官网未写明固定 $10；纠正：“间接开通”误导——持卡人须自己开免费 ether.fi 账户并验证身份，不能绕过身份验证与居住地/资格限制；陌生人之间风险高。",
+      "score": 75,
+      "title": "ether.fi 家庭卡：$10 卡费开共享卡（花分享人余额，须实名验证）",
+      "url": "https://x.com/mjjwiki/status/2125462337817809187",
+      "value": "官方 Family Cards，分享人余额扣 $10 卡费；持卡人须实名验证，花分享人余额；非独立开卡"
+    },
+    {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 971,
+      "notes": "75分（来源20/可验证22/价值14/时效12/风险7）。独立浏览器核实：NodeLoc 原帖全文“每月 1,000 次请求、零成本”，Cliproxy 官网定价页写明 Free Trial 档“1000 Reqs / Month”“Free trial for 1,000 responses”“Zero-cost trial”；失败请求不计费、支持 Google/Bing/Yandex 等主流引擎、JSON 结构化输出、地域节点调度均与帖子相符；免费额度是每月 1,000 次（非一次性），官网未写截止日，属常驻免费档；免费试用入口指向注册（须注册账号），官网定价页未写明是否绑卡，“免绑卡”无法证实；官网页脚注明其代理服务因政策原因不支持中国大陆使用；发帖人 Lolaliy 为 NodeLoc 认证商家（Cliproxy 商家），属商家推广。",
+      "score": 75,
+      "title": "Cliproxy SERP-API：每月免费 1000 次搜索请求（失败不计费）",
+      "url": "https://t.me/baipiaofl/66206",
+      "value": "每月 1000 次免费 SERP 请求，失败不计费；须注册，免绑卡未证实；代理服务不支持中国大陆"
     },
     {
       "author": "白嫖福利推送",
@@ -9495,6 +9572,17 @@
       "value": "美国 CN2 GIA 年付 $29.90（约 ¥200/年），2核1G/20G NVMe，适合轻量建站与 API 中转。"
     },
     {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": "2026-12-05",
+      "id": 973,
+      "notes": "64分（来源18/可验证15/价值12/时效13/风险6）。独立浏览器核实：LINUX DO 原帖（发帖人自称遥星 AI 运营者，11-25 发布）内容真实可读；Bing 摘要显示挑战赛站已被收录（Vibe Coding 与 AI 游戏创作两赛道、初赛/复赛/决赛分阶段），佐证活动页真实存在；但浏览器直访官网为空白页、:8443 端口拒绝连接，活动页细节未能在官网逐项复核。关键事实：0 元报名，个人、团队均可参加，两赛道可同时报；$10 不是一次性到账——参赛账号默认含 $3 起步额度，创作进度经管理员审核通过后默认再补 $7，合计 $10；领取须先在活动页报名并保存报名编号，再加入赛事 QQ 群 487977765 或通过活动页底部进微信群，凭报名编号找管理员核验；现金奖池标题“¥6,000”与正文不符——正文奖金表合计现金仅 ¥3,000，另有 $3,000 调用额度；赛程主表：初赛投稿截止 12-05 20:00，复赛投稿截止 12-15，决赛投稿截止 12-26，最终结果公布 2027-01-02；但帖内另一份“完整赛程”文字版说法不一致，报名/复赛节点应以活动页核对为准；LINUX DO 帖子顶部注明内容由发帖商家独立提供、本站不担保。",
+      "score": 64,
+      "title": "遥星 AI 创作挑战赛：免费参赛送 $10 额度（分批发，初赛投稿截止 12-05）",
+      "url": "https://t.me/baipiaofl/66213",
+      "value": "参赛送 $10 调用额度（$3 起步+审核后 $7）；现金奖合计 ¥3000 + $3000 额度；须加群找管理员核验"
+    },
+    {
       "author": "0xjackkk",
       "category": "软件工具",
       "expiry_date": null,
@@ -9592,6 +9680,17 @@
       "title": "Red Bull eSIM 免费 1.1G 流量：下 App 填邀请码 TRAVELDEALZ（奥地利 A1 旗下）",
       "url": "https://t.me/baipiaofl/64316",
       "value": "免费 1.1GB 境外漫游 eSIM 流量（App 注册 + 填码 TRAVELDEALZ），适合出境备用。"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 969,
+      "notes": "63分（来源20/可验证13/价值14/时效11/风险5）。独立浏览器核实：官网 /console 需登录、公开首页 Cloudflare 未通过，价格、库存、续费、截止日均无法在官网证实；NodeSeek 两篇实测帖佐证 368 元款真实存在（AMD EPYC 7663），但帖中名称为 Black5A 而非 BF-A；648 元高配（2核2G/1288G）无第三方佐证；长文内部不一致：称 BF-B 648 元“比 BF-A（736 元）还便宜 88 元”，但 BF-A 标价 368 元、736 元无出处；93 节点零丢包、129ms 等为发帖方自测数据。原帖未给截止日与续费价。",
+      "score": 63,
+      "title": "DataWave 洛杉矶 LAX Premium 368元/年（1核1G/20G/666G，三网精品，官网未读到）",
+      "url": "https://x.com/fwqgo_com/status/2125475820814917767",
+      "value": "368元/年（1核1G/20G/666G/双栈），高配 648元/年（2核2G/1288G）；官网需登录未读到，仅 NodeSeek 实测佐证 368 款"
     },
     {
       "author": "NodeSeek官方频道",
@@ -9957,6 +10056,17 @@
       "value": "作者自制免费小工具：输入 X 账号体检最近帖子（原创占比、最能打的帖子、收藏率/转帖率、上涨趋势及诊断），另有 500K 变现达标计算器；免登录、不存数据"
     },
     {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": "2026-12-07",
+      "id": 970,
+      "notes": "61分（来源20/可验证12/价值13/时效11/风险5）。独立浏览器核实：官网订购页 Cloudflare Turnstile 循环拦截未通过，官网价、库存、续费、优惠码均未能在官网核实；仅发帖方自营站 fwqgo.com 汇总页佐证同款 6C4G2TCN2 配置（6核/4GB/40G NVMe、2T 流量）与原价 $15.90/月一致，$15.90×0.8=$12.72 算术成立；但该表写端口 150Mbps，与原帖“100Mbps 独享端口”不一致；优惠码 3LTF2P88AH、月付永续 8 折、续费同价、仅剩 5 台、截止 2026-12-07、非原生 IP 可换美国原生 IP 均只有原帖自述、未证实。",
+      "score": 61,
+      "title": "DotDot 洛杉矶 VPS $12.72/月（6核4G/40G NVMe/2T，官网未读到）",
+      "url": "https://x.com/fwqgo_com/status/2125484633433186500",
+      "value": "$12.72/月（原价 $15.90 月付 8 折），6核4G/40G NVMe/2T；官网未读到，优惠码与截止日未证实"
+    },
+    {
       "author": "NodeSeek官方频道",
       "category": "云服务器",
       "expiry_date": "2026-12-01",
@@ -10213,5 +10323,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-25T14:56:24+08:00"
+  "updated_at": "2026-11-25T16:11:57+08:00"
 }
