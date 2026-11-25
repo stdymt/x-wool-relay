@@ -1,5 +1,5 @@
 {
-  "count": 963,
+  "count": 968,
   "items": [
     {
       "author": "Lovislexus",
@@ -1677,6 +1677,17 @@
       "author": "fwqgo_com",
       "category": "云服务器",
       "expiry_date": null,
+      "id": 1002,
+      "notes": "86分（85+，夜里出，待07:40晨报前二审）。属实：官网计价器逐项核实，3款均在售、续费同价、无售罄提示。①2核4G/50G NVMe $49.90/年（原价$174.90）；②2核2G/50G HDD $3.99/月（原价$12.99/月）；③2核4G/50G HDD $4.99/月（原价$14.99/月）。均为精品CN2、1T流量、1个IP。注意：①为年付、②③为月付，原帖未区分周期易误读；页面未注明截止日/名额。",
+      "score": 86,
+      "title": "RakSmart黑五补货：精品CN2 $3.99/月起",
+      "url": "https://x.com/fwqgo_com/status/2125616949132722207",
+      "value": "$3.99/月起精品CN2，续费同价"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
       "id": 980,
       "notes": "85分。官网订购页逐项证实：洛杉矶标准优化-特惠款，S款¥329/年（1核Intel Gold 6252/1GB DDR4/10GB NVMe/200Mbps共享/500GB月双向）、M款¥619/年（2核/2GB/20GB/300Mbps/1000GB）、L款¥1199/年（4核/4GB/40GB/500Mbps/2000GB），均为KVM洛杉矶、美国原生IPv4+IPv6/64；¥27.4=329÷12；线路：电信去程常规CN2、回程9929/CMI2随机，联通去程9929、回程9929，移动去程CMIN2、回程CMIN2；2分钟内入向流量平均超150~200Mbps去程切163/4837/CMI、40分钟后恢复、回程不变；24小时内流量小于10GB且IP/端口未被墙可退款；赠IP Care+首年免费；三档均在售。注意：原帖与官网均未给黑五截止日，官网未写“黑五”二字，库存未公开。85+二审由本次官方核实完成。",
       "score": 85,
@@ -2420,6 +2431,17 @@
       "title": "Hermes Agent：会越用越懂你的开源 AI Agent（NousResearch，MIT 免费）",
       "url": "https://x.com/tantanyuli/status/2120234285034856479",
       "value": "免费开源 AI Agent（MIT），262k stars；可自学/自部署，带记忆与技能自改进"
+    },
+    {
+      "author": "OnlyJettTian",
+      "category": "订阅优惠",
+      "expiry_date": null,
+      "id": 1000,
+      "notes": "84分。属实：Anthropic官方帮助页（2026-11-06更新）确认$50付$45（9折）、$250付$200（8折）、$1000付$700（7折）；个人Pro/Max/Ultra每月上限$2000、Team $3000；额度跨Claude/Desktop/手机/Claude Code/Cowork通用。注意：须已开通付费套餐并启用usage credits，额度仅在超出套餐限额后才抵扣；帖称“2026-12-07后购买12个月过期”官方页未见，未证实。",
+      "score": 84,
+      "title": "Claude预付额度阶梯折扣：充$1000付$700",
+      "url": "https://x.com/OnlyJettTian/status/2125594354286793120",
+      "value": "$1000包省$300"
     },
     {
       "author": "NodeSeek官方频道",
@@ -3707,6 +3729,28 @@
       "title": "OpenFilm开源AI视频剪辑：把编程智能体变成视频智能体（MIT，8.6k Stars）",
       "url": "https://x.com/KOF97AI/status/2123581474775658977",
       "value": "开源免费AI视频剪辑工具；用编程智能体做视频，可导出或带到PR/FCP/DaVinci"
+    },
+    {
+      "author": "NodeSeek官方频道",
+      "category": "订阅优惠",
+      "expiry_date": "2026-12-31",
+      "id": 1001,
+      "notes": "81分。部分属实：Google日本官方博客（2026-08-20）确认学生可申请Pro最高75%折扣；¥720/月为Pro+YouTube Premium学生套餐展示价（Lite版；完整版¥1280/月），多方信源证实，官方页未直接列价；官方价¥2900/月。条件：18岁以上日本在读高等教育学生，SheerID核验，需日本支付资料，最长4年、每12个月重新核验。2026-12-31为学生免费Plus年领取截止日，Pro折扣本身单独截止日未证实。",
+      "score": 81,
+      "title": "Google AI Pro 日区学生优惠 ¥720/月（约30元）",
+      "url": "https://t.me/nodeseekc/1032881",
+      "value": "¥720/月约30元人民币，约为官方价¥2900/月的25%"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 999,
+      "notes": "81分。部分属实：官网黑五页确认$9.95/年对应LXC IPv6 Only（洛杉矶）：1核Xeon Gold 6138、1GB、15GB NVMe、750GB@10Gbps、/64 IPv6、无IPv4（IPv4另加$24/年）。原帖未说明IPv6-only与15GB存储、基础流量仅750GB。LowEndTalk商家帖称下单后回帖Invoice号可终身流量翻倍（750→1500GB），评论区已有用户执行，但官网黑五页未见该规则。带IPv4同档LXC One为$17.95/年（1500GB）。限量、未公布截止日。",
+      "score": 81,
+      "title": "SoftShellWeb黑五：$9.95/年美西节点",
+      "url": "https://x.com/fwqgo_com/status/2125595394562293896",
+      "value": "$9.95/年，IPv6-only；加IPv4共$17.95/年档1500GB"
     },
     {
       "author": "Lovislexus",
@@ -5885,6 +5929,17 @@
       "title": "腾讯 LightVela 新用户首月免费：4500 AI 积分",
       "url": "https://x.com/yedabinbinah/status/2119462302240121289",
       "value": "首月免费，约 10 美元；.env 外用法有风险"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 1003,
+      "notes": "77分。部分属实：官网确认LAXPre.DC2 Nano在售$6.99/月（1核1GB/10GB/500M/512GiB/IPv4），年付$69.90/年（折合$5.83/月，实际约16.67%非17%）；三网CN2 GIA/9929/CMIN2。未证实：优惠码usdc3290是否有效、是否9折循环、能否与年付叠加（输码后跳登录页未验证）；$5.24/月按帖内算式应为约$5.22、按年付折合应为约$5.25，数字对不上。DC1已售罄。",
+      "score": 77,
+      "title": "Panstar洛杉矶优化线路 $6.99/月起",
+      "url": "https://x.com/fwqgo_com/status/2125612034125640035",
+      "value": "年付折合$5.83/月"
     },
     {
       "author": "Lniosytest",
@@ -10598,5 +10653,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-25T23:08:37+08:00"
+  "updated_at": "2026-11-26T00:58:59+08:00"
 }
