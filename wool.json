@@ -1,5 +1,5 @@
 {
-  "count": 1007,
+  "count": 1013,
   "items": [
     {
       "id": 651,
@@ -1210,6 +1210,17 @@
       "expiry_date": null,
       "value": "2核/2GB/40GB NVMe/5Gbps/8TB双向/原生双栈IP，¥189/年有货；24小时退款保证",
       "notes": "88分。BitsFlowCloud 官网黑五洛杉矶订购页逐项证实：US-LAX-Black Friday-M，1 年 ¥189，有货；2 vCPU（Intel 金牌 6252）、2GB DDR4、40GB NVMe、5Gbps 共享端口、8TB 双向流量（激活日重置，用尽限速 1Mbps）、1 个美国原生 IPv4 + IPv6/64；24 小时退款保证、IP Care+ 首年免费；同页 S 款 ¥109/年与 L 款 ¥299/年均已售罄。商家真实可查。唯一缺口：黑五截止日订购页未明示。85+二审由本次官方核实完成。"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 1051,
+      "notes": "88分（来源27/可验证25/价值17/时效11/风险8）。属实：RackNerd 官网黑五页确认 2.5GB KVM VPS $27.98/年，2 vCPU、30GB SSD、6000GB/月流量、1Gbps 端口、独立 IPv4；FAQ 明确终身同价续费不涨价，先到先得售完即止；活动截止日官网未标明。与已收 id1010（1GB $15.98/年）、id1017（4GB $47.98/年）为同一黑五页的不同档位。85+二审由本次官方核实完成。",
+      "score": 88,
+      "title": "RackNerd 黑五 2.5GB KVM VPS $27.98/年终身续费",
+      "url": "https://x.com/fwqgo_com/status/2125903287987970093",
+      "value": "$27.98/年，终身续费同价"
     },
     {
       "id": 36,
@@ -2554,6 +2565,17 @@
       "value": "开户免费；美元月费1 USDT（VIP5免），提现25 USDT/笔；欧元月费亦为1 USDT"
     },
     {
+      "author": "Ciciyingying",
+      "category": "免费额度",
+      "expiry_date": "2026-12-03",
+      "id": 1050,
+      "notes": "84分（来源26/可验证24/价值14/时效14/风险6）。属实：SafePal 官方博客 11-26 发布，SafePal x SoDEX Giftbox，活动期 11-26 至 12-03 09:00 UTC，SafePal App 内 QuestHub；奖池 $4,500 ANTB.ssi，共 2,500 盲盒 NFT 先到先得，每盒 $1–200，每设备/钱包限 1 个；3 任务为测验+社交任务+白名单条件（持硬件钱包/质押 100 SFP/兑换 200 SFP）。纠正：官方未称“感恩节”，白名单门槛对无硬件钱包、无质押用户意味着须兑换 200 SFP。",
+      "score": 84,
+      "title": "SafePal x SoDEX 盲盒 NFT：2,500 盒，先到先得",
+      "url": "https://x.com/Ciciyingying/status/2125886367578325058",
+      "value": "每盒 $1–200，奖池 $4,500，共 2,500 盒"
+    },
+    {
       "id": 191,
       "title": "Pulsar Money 11月返现提到4%：Pro用户前$3000消费全按4%返积分（到11月30日）",
       "url": "https://x.com/SecJack96/status/2120889366524698761",
@@ -3775,6 +3797,17 @@
       "value": "Essential $6.75/月续费锁定；新客价$2.9/月续费按$7.5；每档限购1台"
     },
     {
+      "author": "BlockInsight214",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 1047,
+      "notes": "82分（来源26/可验证23/价值12/时效13/风险8）。属实：Hugging Face 官方模型页确认，基于 Qwen3.8-27B 三值量化，262K 上下文，Apache 2.0，GGUF 5.93GB 免费下载；工具调用 77.2、SWE-bench Verified 75.6。本地运行须 llama.cpp。",
+      "score": 82,
+      "title": "Ternary Bonsai 2.5 27B 本地模型免费下载（GGUF 5.93GB）",
+      "url": "https://x.com/BlockInsight214/status/2125899425545609230",
+      "value": "免费下载，Apache 2.0，本地运行"
+    },
+    {
       "id": 527,
       "title": "OpenFilm开源AI视频剪辑：把编程智能体变成视频智能体（MIT，8.6k Stars）",
       "url": "https://x.com/KOF97AI/status/2123581474775658977",
@@ -3938,6 +3971,28 @@
       "expiry_date": "2026-12-16",
       "value": "新用户最多6个月半价，22GB £4.95/月",
       "notes": "81分（来源24/可验证22/价值15/时效13/风险7）。部分属实：中国电信 CTExcel 英国新用户优惠，官网首页核实黑五横幅 11-25 至 12-16，码 CTEXCEL50，新用户最多 6 个月半价（£4.9 档除外）；原价 22GB £9.9、50GB £11.9、120GB £14.9、300GB £19.9、无限流量 £29.9/30 天，半价后 £4.95/£5.95/£7.45/£9.95/£14.95，与帖文完全一致；支持 eSIM/实体卡、无合约（官网“自动续订、消费无合约无捆绑”）、中英共享流量 + 欧洲漫游、一卡多号、支付宝/微信充值。唯一未证实：帖文“无限流量 £11.95 起（原 £23.9/£29.9）”中的 £23.9 原价档未在官网首页找到，首页无限档只有 £29.9（半价 £14.95）。注意：无限流量受公平使用政策约束，须在英国/欧洲激活使用，90 天无充值号码可能被回收。X 原帖以 fxtwitter 镜像读到全文。"
+    },
+    {
+      "author": "BlockInsight214",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 1046,
+      "notes": "81分（来源26/可验证19/价值15/时效14/风险7）。部分属实：OpenCode 官方数据页确有 Seaglass Alpha，1M 上下文、11-26 当天用量 42B tokens、总花费 $0.00，当天免费属实；但“限时”无官方公告与截止时间，模型列表搜索不到该模型，调用前须核对实时目录；推理与工具调用支持未证实。",
+      "score": 81,
+      "title": "OpenCode Zen 免费模型 Seaglass Alpha（1M 上下文）",
+      "url": "https://x.com/BlockInsight214/status/2125902635022897395",
+      "value": "免费调用，1M 上下文"
+    },
+    {
+      "author": "BlockInsight214",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 1048,
+      "notes": "81分（来源26/可验证22/价值12/时效13/风险8）。属实：OpenCode 官方 Go 页横幅确认 HUNGERG 已上线 Go，标注 Free/New/Limited time，输入/输出/缓存价格均为 Free，Go 与 Go Plus 额度无限；Go $10/月、Go Plus $40/月，仅订阅用户可免费调用；截止时间官方只写“本周”、未给具体日期。",
+      "score": 81,
+      "title": "HungerG 模型在 OpenCode Go 限时免费",
+      "url": "https://x.com/BlockInsight214/status/2125887032212038134",
+      "value": "Go/Go Plus 订阅用户免费调用，额度不限"
     },
     {
       "id": 30,
@@ -4752,6 +4807,17 @@
       "expiry_date": null,
       "value": "$3/月（年 $36+税费），100 分钟/100 短信/100MB；60 天不续费回收；须境外购卡/激活；银行验证码无官方承诺",
       "notes": "79分（来源25/可验证21/价值14/时效12/风险7）。独立浏览器核实：官网 paygo 页证实 $3/月，含 100 分钟通话、100 条短信、100MB 流量；超量通话 $0.03/分钟、短信 $0.01/条、流量 $0.03/MB；年费 $36，另有政府费用/税费（Provider Monthly Fees 最高 $2.45），实际账单可能高于 $3；T-Mobile 网络属实；60 天不续费号码将被回收；中国漫游语音 $3.59/分钟、发短信 $0.50/条、收短信 $0.10/条，漫游无数据；常规定价。未证实：官网未承诺银行验证码（Chase、BOA）都能收；国内 Wi-Fi Calling 零成本保号与是否须美国激活未证实；卡只在美国门店/eBay 售卖。"
+    },
+    {
+      "author": "Lniosytest",
+      "category": "订阅优惠",
+      "expiry_date": null,
+      "id": 1049,
+      "notes": "79分（来源25/可验证20/价值15/时效13/风险6）。部分属实：X 帮助中心官方定价表土区 Premium 网页年付 1,569.99 TRY（月付 150 TRY），比美区年付 $84 便宜；原帖 1,799.99 TRY 续费价未在官方页证实，1,979.99 TRY 为苹果 App Store 内购价口径。实际价格以账号地区与结账页为准。",
+      "score": 79,
+      "title": "土区 X Premium 年付 1,569.99 里拉（官网价）",
+      "url": "https://x.com/Lniosytest/status/2125887982502899713",
+      "value": "土区年付 1,569.99 TRY，比美区 $84 便宜"
     },
     {
       "id": 215,
@@ -11082,5 +11148,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-26T18:44:17+08:00"
+  "updated_at": "2026-11-26T20:00:15+08:00"
 }
