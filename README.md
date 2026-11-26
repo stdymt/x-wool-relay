@@ -7,7 +7,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 - 范围：以 AI 为主（AI 会员、免费额度、VPS/VPN、AI 赚钱新路子）
 - 更新时间：见 wool.json 里的 `updated_at`（北京时间）
 
-## 本次更新（2026-11-26 17:03，999 条，本轮新增 5 条）
+## 本次更新（2026-11-26 18:02，1007 条，本轮新增 8 条）
 
 | 分 | 内容 |
 |---|---|
@@ -155,6 +155,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 87 | Google 官方开源 gemini-api-cli：终端免费调 Gemini API（需 API Key，免费层） |
 | 87 | RackNerd黑五2.5GB KVM VPS $27.98/年终身续费 |
 | 87 | 智谱Coding Plan：GLM-5.3-Flash消耗按50%结算（11-24至12-24，额度翻倍）（2026-12-24） |
+| 87 | SafePal黑五：满$200减$20/满$400减$50，码BFCM2026再享85折（至12-03）（2026-12-03） |
 | 86 | RackNerd 2026 黑五：VPS 最低 $15.98/年、终身续费同价（帖子说的 $7.99/年不属实） |
 | 86 | RakSmart 黑五预热：注册绑卡领 $300 代金券，VPS 4 折（11-30 截止）（2026-11-30） |
 | 86 | LayerOne 黑五：闪购 $7/年，月付7折/年付65折至11-30（2026-11-30（Cyber Monday；闪购每天限量3台）） |
@@ -215,6 +216,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 85 | RakSmart 黑五秒杀 VPS $2.99/月（2核2G/50G HDD/5Gbps/3TB，大陆优化VIP）（2026-11-30） |
 | 85 | NoSLA Cloud黑五洛杉矶特惠款¥27.4/月起 |
 | 85 | CloudCone黑五洛杉矶Storage VPS $12.24/年终身循环 |
+| 85 | DataAnnotation中文专家给AI内容打分：最高$40/小时，每周发薪（须身份验证+PayPal收款） |
 | 84 | Hermes Agent：会越用越懂你的开源 AI Agent（NousResearch，MIT 免费）（无固定截止日（开源项目长期有效）） |
 | 84 | Bolt.new 免费档：每天 30 万 token、每月 100 万 token，免绑卡（无固定截止日（免费档随时可能调整）） |
 | 84 | Cloudflare Workers AI 每天免费 1 万 Neurons |
@@ -240,6 +242,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 84 | RakSmart 硅谷 VPS $4.99/月（2核4G/50G HDD/精品CN2/1T，续费同价） |
 | 84 | Claude预付额度阶梯折扣：充$1000付$700 |
 | 84 | 移动云 MobileClaw 最高1亿Token免费领（中国移动，须实名）（2026-12-31） |
+| 84 | Gate Money法币通道：开本人同名美元/欧元账户，美元月费1 USDT、提现25 USDT/笔（须KYC） |
 | 83 | Pulsar Money 11月返现提到4%：Pro用户前$3000消费全按4%返积分（到11月30日）（2026-11-30） |
 | 83 | Coarena 每天 $5 免费调 22 个模型：含 Opus 5.5、GPT-6.1 Sol、Gemini 4 Carbon，免绑卡（无固定截止日（免费档持续有效，以官方文档为准）） |
 | 83 | Oumi 免费送 $50 训练额度 + Vercel 免费 30B/501B 推理模型 |
@@ -263,6 +266,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 83 | Google Flow 生图免费不占积分（Nano Banana 2.1/2 Lite 每日合计 400 张） |
 | 83 | Wap香港VPS $2/月 EPYC Netflix解锁 |
 | 83 | BitsFlowCloud 黑五香港 VPS ¥139/年（1核1G/2.5Gbps/1TB，香港原生 IP） |
+| 83 | MetaMask Card进日本/泰国/越南：虚拟卡免费，单笔限额$10,000（须KYC+居住证明，中国不在名单） |
 | 82 | Google Colab 免费版可用 16GB 显存 T4（另有 TPU） |
 | 82 | Kaggle 免费 2 张 T4 GPU（每张 16GB），每周约 30 小时 |
 | 82 | UnoRouter 新增 8 个免费端点（含 GPT 5.6 Luna），免绑卡 |
@@ -348,6 +352,8 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 82 | Modal每月$30免费算力额度 |
 | 82 | Leaflow Fleet免费（主机监控/状态页/DNS全免费）+晒图最高领1亿Token |
 | 82 | WorkBuddy 黑五：Pro 年付 $8/月（原价$20/月），首月加赠 1,000 积分（2026-12-04） |
+| 82 | DeepSeek V4.1 Flash 免费 API 端点（TokenRouter，$0，1M上下文） |
+| 82 | SurferCloud轻量机续费同价$6.75/月起（Essential 1核2G/1TB流量，17机房） |
 | 81 | OpenFilm开源AI视频剪辑：把编程智能体变成视频智能体（MIT，8.6k Stars）（无固定截止日（开源项目）） |
 | 81 | LunaRoute Pro免费试用7天：$99/月档，含GLM 5.3/DeepSeek 4.1 Flash（需绑卡，到期自动扣费）（无固定截止日（7天试用进行中）） |
 | 81 | figures4papers：给 Codex/Claude Code/Cursor 的论文绘图 Skill（12.3k Star，CC BY-NC 仅限非商业）（无固定截止日（开源项目进行中）） |
@@ -676,6 +682,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 73 | DotdotNetworks 美西三网精品 VPS $12.72/月（6核4G，码 3LTF2P88AH 永续 8 折）（2026-12-07） |
 | 73 | Google One AI Plus 土耳其区约 $36/年（原帖称 Pro $72 有误，实为 Plus 2TB）（2026-12-01） |
 | 73 | Oracle Cloud免费ARM小主机2核12G离线下载机（Always Free） |
+| 73 | Google AI Pro/Ultra 附赠远程开发环境：Antigravity Remote Agents 2核7.8G沙箱（非通用VPS） |
 | 72 | AI 免费资源清单：Simular Box、Kaggle、Codespaces 等 6 项 |
 | 72 | Cloady 免费小服务器跑 24 小时青龙面板（不绑卡） |
 | 72 | OpenRouter 免费隐秘模型 stealth/crouton-alpha，1M 上下文写代码 |
@@ -941,6 +948,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 64 | 遥星 AI 创作挑战赛：免费参赛送 $10 额度（分批发，初赛投稿截止 12-05）（2026-12-05） |
 | 64 | 白熊智算免费模型 Hy4-Flash-Free |
 | 64 | Nodaroo免费VPS补货：2核6G 50G免绑卡（限量） |
+| 64 | esim.gg 爱沙尼亚+372号码eSIM：免费号码档，预存约20%优惠（未见官方背书） |
 | 63 | Red Bull eSIM 免费 1.1G 流量：下 App 填邀请码 TRAVELDEALZ（奥地利 A1 旗下）（兑换后有效期约 1 年（论坛口径，以 App 内为准）） |
 | 63 | 白嫖雷达 PerkRadar：自托管优惠聚合器，64 个源、MIT 开源（常驻免费开源工具（无固定截止日）） |
 | 63 | AEREDIUM 测试网积分换 $AERX：10 积分=1 枚，池子 2000 万枚（另附 Supermassive 候补） |
