@@ -1,5 +1,5 @@
 {
-  "count": 973,
+  "count": 970,
   "items": [
     {
       "author": "Lovislexus",
@@ -446,7 +446,7 @@
       "category": "免费额度",
       "expiry_date": null,
       "id": 1008,
-      "notes": "90分（来源26/可验证24/价值18/时效13/风险9）。属实：Anthropic官方帮助页《Monthly API credits for Max, Ultra, and Team plans》证实Max每月$100、Ultra每月$200、Team Standard每席位$20、Team Premium每席位$100，全队汇总上限$500/月；须订阅有效且满7天，在claude.ai Settings > Billing（Max/Ultra）或Organization settings > Billing（Team）选Link organization绑定一个Claude Console组织；只能绑一个组织、每个组织只接受一个计划的额度。注意：额度随账单周期刷新、不结转、先于自购额度使用；可用于Claude API/Playground/Managed Agents/Agent SDK，不适用于交互式Claude Code及超额用量、Bedrock/Vertex/Foundry。X原帖以fxtwitter镜像读到全文。85+，夜里出，待07:40晨报前二审，进晨报头条。",
+      "notes": "90分（来源26/可验证24/价值18/时效13/风险9）。属实：Anthropic官方帮助页《Monthly API credits for Max, Ultra, and Team plans》证实Max每月$100、Ultra每月$200、Team Standard每席位$20、Team Premium每席位$100，全队汇总上限$500/月；须订阅有效且满7天，在claude.ai Settings > Billing（Max/Ultra）或Organization settings > Billing（Team）选Link organization绑定一个Claude Console组织；只能绑一个组织、每个组织只接受一个计划的额度。注意：额度随账单周期刷新、不结转、先于自购额度使用；可用于Claude API/Playground/Managed Agents/Agent SDK，不适用于交互式Claude Code及超额用量、Bedrock/Vertex/Foundry。X原帖以fxtwitter镜像读到全文。85+二审通过，进晨报头条。\n【85+二审 2026-11-26 07:40】重查确认：官方帮助页金额与绑定规则不变，分数不变。",
       "score": 90,
       "title": "Claude Max/Team 每月免费 API 额度（Max $100/月，需手动绑定）",
       "url": "https://x.com/BlockInsight214/status/2125714074382283026",
@@ -495,17 +495,6 @@
       "title": "Claude Max/Ultra/Team 每月附带 API 额度（Max $100/月）",
       "url": "https://x.com/OnlyJettTian/status/2125091037425103313",
       "value": "Max 每月 $100 API 额度，须手动领取、满 7 天可领，周期结束过期不结转"
-    },
-    {
-      "author": "0xjackkk",
-      "category": "订阅优惠",
-      "expiry_date": "2026-12-31",
-      "id": 865,
-      "notes": "90分（来源24/可验证24/价值19/时效14/风险9）。官方页gemini.google/students证实：美国高校在读学生、年满18岁可免费1年Google AI Pro；须在线验证学生身份、每年复核，需绑定有效支付方式；到期不取消将按$19.99/月自动续费。官方自助活动，与私信代开/卖号无关。X原帖403未读到，以官方来源为准。\n【风险更新 2026-11-25】11月25日部分已领美区学生免费Pro账号被批量降为Plus（LINUX DO多用户证实，Google One邮件称试用期已结束）；SheerID学生认证本身未注销、未领者仍有资格；疑与经论坛代办/非正规美区认证有关。官方学生优惠入口当晚仍开放，须2026-12-31前兑换。分数暂不动，明日07:40复核再定。",
-      "score": 90,
-      "title": "Google AI Pro 美区学生 1 年免费",
-      "url": "https://x.com/0xjackkk/status/2125069971873255802",
-      "value": "价值约$239.88/年（$19.99/月），含5TB存储、Gemini高级模型、Gemini Spark 1年、4倍使用限额"
     },
     {
       "author": "KOF97AI",
@@ -1568,7 +1557,7 @@
       "category": "云服务器",
       "expiry_date": null,
       "id": 1002,
-      "notes": "86分（85+，夜里出，待07:40晨报前二审）。属实：官网计价器逐项核实，3款均在售、续费同价、无售罄提示。①2核4G/50G NVMe $49.90/年（原价$174.90）；②2核2G/50G HDD $3.99/月（原价$12.99/月）；③2核4G/50G HDD $4.99/月（原价$14.99/月）。均为精品CN2、1T流量、1个IP。注意：①为年付、②③为月付，原帖未区分周期易误读；页面未注明截止日/名额。",
+      "notes": "86分（85+二审通过）。属实：官网计价器逐项核实，3款均在售、续费同价、无售罄提示。①2核4G/50G NVMe $49.90/年（原价$174.90）；②2核2G/50G HDD $3.99/月（原价$12.99/月）；③2核4G/50G HDD $4.99/月（原价$14.99/月）。均为精品CN2、1T流量、1个IP。注意：①为年付、②③为月付，原帖未区分周期易误读；页面未注明截止日/名额。\n【85+二审 2026-11-26 07:40】重查确认：黑五闪购期11-25至11-30，3款价格与配置不变，分数不变。",
       "score": 86,
       "title": "RakSmart黑五补货：精品CN2 $3.99/月起",
       "url": "https://x.com/fwqgo_com/status/2125616949132722207",
@@ -3852,6 +3841,17 @@
       "value": "11-29 12:00开奖，至少65人参与才开奖；奖项4名：香港15区3个月、DeepSeek 1亿token、芬兰2区1个月、美国免费区名额"
     },
     {
+      "author": "0xjackkk",
+      "category": "订阅优惠",
+      "expiry_date": "2026-12-31",
+      "id": 865,
+      "notes": "80分（来源24/可验证22/价值17/时效13/风险4）。官方页gemini.google/students证实：美国高校在读学生、年满18岁可免费1年Google AI Pro；须在线验证学生身份、每年复核，需绑定有效支付方式；到期不取消将按$19.99/月自动续费。官方自助活动，与私信代开/卖号无关。X原帖403未读到，以官方来源为准。\n【风险更新 2026-11-25】11月25日部分已领美区学生免费Pro账号被批量降为Plus（LINUX DO多用户证实，Google One邮件称试用期已结束）；SheerID学生认证本身未注销、未领者仍有资格；疑与经论坛代办/非正规美区认证有关。官方学生优惠入口当晚仍开放，须2026-12-31前兑换。\n【复核 2026-11-26 07:40】清退仍在继续（11-25晚又有用户收到取消邮件，Jio兑换Pro也被取消），已领账号存在被降级风险，降分至80。官方入口仍开放、12-31前可兑，正规美区在读学生自行认证仍可领；被砍后可改领12个月免费AI Plus。",
+      "score": 80,
+      "title": "Google AI Pro 美区学生 1 年免费",
+      "url": "https://x.com/0xjackkk/status/2125069971873255802",
+      "value": "价值约$239.88/年（$19.99/月），含5TB存储、Gemini高级模型、Gemini Spark 1年、4倍使用限额"
+    },
+    {
       "author": "KOF97AI",
       "category": "其他",
       "expiry_date": "2026-12-06",
@@ -4653,17 +4653,6 @@
       "title": "BNESIM黑五7折 50GB eSIM永久不过期",
       "url": "https://x.com/Lovislexus/status/2125109659891589365",
       "value": "香港50GB不过期套餐7折后约¥163，数据终身有效"
-    },
-    {
-      "author": "0xjackkk",
-      "category": "订阅优惠",
-      "expiry_date": "2026-12-31",
-      "id": 890,
-      "notes": "78分（来源27/可验证17/价值14/时效13/风险7）。没有独立的“Antigravity学生版”；Antigravity个人版$0/月免费，Pro/Ultra档随Google AI Pro/Ultra订阅解锁。学生优惠实为Google AI Pro学生计划：美国高校18岁以上学生免费1年，含Gemini 4倍用量、5TB存储、Gemini Spark、Gemini Omni 1年，须2026-12-31前领取，每年重新验证，注册须绑付款方式。帖子“日区Pro约30元”有误：日区AI Pro官价¥2,900/月，约30元的是AI Plus ¥725/月；学生免费版仅限美国，中国/日区学生不在内。\n【风险更新 2026-11-25】11月25日部分已领美区学生免费Pro账号被批量降为Plus（LINUX DO多用户证实，Google One邮件称试用期已结束）；SheerID学生认证本身未注销、未领者仍有资格；疑与经论坛代办/非正规美区认证有关。官方学生优惠入口当晚仍开放，须2026-12-31前兑换。分数暂不动，明日07:40复核再定。",
-      "score": 78,
-      "title": "Google AI Pro学生版免费1年（Antigravity随Pro解锁）",
-      "url": "https://x.com/0xjackkk/status/2125127152043704490",
-      "value": "美区高校学生免费1年AI Pro，含5TB存储与Gemini高级模型"
     },
     {
       "author": "yedabinbinah",
@@ -8120,6 +8109,17 @@
       "value": "香港机房独立IPv4云服务器，$30 CAD/年"
     },
     {
+      "author": "0xjackkk",
+      "category": "订阅优惠",
+      "expiry_date": "2026-12-31",
+      "id": 890,
+      "notes": "70分（来源27/可验证17/价值13/时效11/风险2）。没有独立的“Antigravity学生版”；Antigravity个人版$0/月免费，Pro/Ultra档随Google AI Pro/Ultra订阅解锁。学生优惠实为Google AI Pro学生计划：美国高校18岁以上学生免费1年，含Gemini 4倍用量、5TB存储、Gemini Spark、Gemini Omni 1年，须2026-12-31前领取，每年重新验证，注册须绑付款方式。帖子“日区Pro约30元”有误：日区AI Pro官价¥2,900/月，约30元的是AI Plus ¥725/月；学生免费版仅限美国，中国/日区学生不在内。\n【风险更新 2026-11-25】11月25日部分已领美区学生免费Pro账号被批量降为Plus（LINUX DO多用户证实，Google One邮件称试用期已结束）；SheerID学生认证本身未注销、未领者仍有资格；疑与经论坛代办/非正规美区认证有关。官方学生优惠入口当晚仍开放，须2026-12-31前兑换。\n【复核 2026-11-26 07:40】同id865，已领账号清退仍在继续，降分至70；官方入口仍开放，正规美区在读学生自行认证仍可领，被砍后可改领12个月免费AI Plus。",
+      "score": 70,
+      "title": "Google AI Pro学生版免费1年（Antigravity随Pro解锁）",
+      "url": "https://x.com/0xjackkk/status/2125127152043704490",
+      "value": "美区高校学生免费1年AI Pro，含5TB存储与Gemini高级模型"
+    },
+    {
       "author": "Lovislexus",
       "category": "订阅优惠",
       "expiry_date": null,
@@ -8888,28 +8888,6 @@
       "title": "Awesome Cloudflare Self-Hosted：用免费 Workers/D1/R2 替代付费 SaaS 的开源整理",
       "url": "https://x.com/tantanyuli/status/2123237574579749228",
       "value": "Cloudflare 免费层 + 开源自托管项目整理，可替代密码库/博客/短链/监控等付费 SaaS"
-    },
-    {
-      "author": "Ylj158852",
-      "category": "免费额度",
-      "expiry_date": "2026-11-25",
-      "id": 253,
-      "notes": "68分（来源20/可验证20/价值10/时效8/风险10）。Qwen Chat 模型列表确有 Qwen4-Max-Preview；QwenCloud 官方文档：上下文 100万、最大输出 393,216 tokens（思考与答案共用额度）、仅 Token Plan、按量付费不支持；预览期 11月11日 10:00 至 11月25日 10:00（北京时间，复核修正：原称 24:00 有误），之后退役。免费仅限 Qwen Chat 网页/App，免费次数/额度上限官方未公布；帖子“15天后就没了”实为14天。【2026-11-25 07:40复核】阿里云帮助中心（2026-11-24 18:41 更新）与 QwenCloud 文档均写预览期至 11-25 10:00，正式版 Qwen4-Max 已上线；核实时（08:56）距截止约 1 小时，今日 10:00 后下线，分数由 77 降至 68。",
-      "score": 68,
-      "title": "Qwen4-Max Preview 免费试用（Qwen Chat）",
-      "url": "https://x.com/Ylj158852/status/2121426641583026455",
-      "value": "旗舰模型预览版免费体验，11月25日下线"
-    },
-    {
-      "author": "Ylj158852",
-      "category": "订阅优惠",
-      "expiry_date": "2026-11-25",
-      "id": 197,
-      "notes": "68分（来源25/可验证20/价值10/时效8/风险5）：阿里云官方 11 月 11 日发布 + 阿里云开发者社区与多家交叉证实：Qwen4-Max 预览版上线百炼 Token Plan，模型标识 qwen4-max-preview，百万上下文、最大输出 39 万 token；调用限时 2 折，新用户再享 5 折，最低 1 折；新用户可先领超 7000 万免费 Tokens 验证，Token Plan 个人版 Lite 新客 5 折 19.5 元/月起。注意：①预览期 11 月 11 日 10:00 至 11 月 25 日 10:00（复核修正：原称 24:00 有误），到期标识下线，正式版时间未定；②仅订阅制、无按量计费 API，个人版只在华北 2（北京）地域提供；③官方约定仅限编程工具与智能体工具内交互式使用，不能跑自动化脚本/应用后端/批量调用；④参数规模、跑分、正式单价、开源计划均未公布。【2026-11-25 07:40复核】“调用限时2折，新客5折叠加最低1折”未在官方模型文档中找到对应折扣结构，折扣表述未完全核实；核实时距 10:00 截止约 1 小时，分数由 77 降至 68。",
-      "score": 68,
-      "title": "Qwen4-Max 预览版上线 Token Plan：调用限时 2 折，新客叠加 5 折最低 1 折（11月25日下线）",
-      "url": "https://x.com/Ylj158852/status/2121023927812252065",
-      "value": "新旗舰模型预览版，Token Plan 新客 19.5 元/月起，叠加最低 1 折；另有 7000 万免费 Tokens 可领"
     },
     {
       "author": "Javary324",
@@ -10199,17 +10177,6 @@
       "value": "注册送 4000 积分（30 天有效）+ 每日签到 100 积分，至 12 月 31 日；可接 Magpie 在 Claude Code 等工具里用"
     },
     {
-      "author": "yedabinbinah",
-      "category": "金融卡券",
-      "expiry_date": "2026-11-25",
-      "id": 368,
-      "notes": "62分（来源20/可验证15/价值12/时效10/风险5）。原帖经独立浏览器只读核实全文 + APP 截图细节自洽：每日收盘股票总资产达 HKD 5000（约 641 美元）得 1 次抽奖机会，最高抽 HKD 1888 指定美股兑换券，11-17 至 11-25 共 9 天与“可抽 9 次”吻合；若 Anthropic 于 2026-11-30 或之前上市，兑换券于上市后 7 个美股交易日内发放，否则发等值港元现金补偿。注意：①活动为 ZA BANK APP 内推广，无公开落地页，众安官网搜不到活动页，官方网页未独立核实；②须已有众安账户且持有股票资产达门槛，抽奖非必得；③“指定美股”为 2026-01-01 至 11-11 期间按预计筹资金额最大的前三只美股 IPO，Anthropic 是否在列以 APP 内规则为准。",
-      "score": 62,
-      "title": "众安 ZA Bank 抽 Anthropic 股票兑换券：股票资产满 HKD 5000 每天 1 次机会，最高 HKD 1888，11 月 25 日截止",
-      "url": "https://x.com/yedabinbinah/status/2122498959851872416",
-      "value": "抽最高 HKD 1888 Anthropic 股票兑换券（须股票资产满 HKD 5000，每天 1 次机会）"
-    },
-    {
       "author": "白嫖福利推送",
       "category": "金融卡券",
       "expiry_date": null,
@@ -10706,7 +10673,7 @@
     }
   ],
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
-  "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
+  "source": "X 羊毛收集册（st3 扫描 12 个 X 羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-26T06:55:52+08:00"
+  "updated_at": "2026-11-26T08:46:08+08:00"
 }
