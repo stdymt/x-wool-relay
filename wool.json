@@ -1,5 +1,5 @@
 {
-  "count": 976,
+  "count": 977,
   "items": [
     {
       "author": "Lovislexus",
@@ -8109,6 +8109,17 @@
       "value": "$49.99/月常规价；大阪Equinix机房，CN2 GIA回国优化"
     },
     {
+      "author": "白嫖福利推送",
+      "category": "订阅优惠",
+      "expiry_date": null,
+      "id": 1015,
+      "notes": "70分（来源20/可验证22/价值12/时效10/风险6）。属实：AlipayHK内搜“賞你Apple HKD 20優惠”可领，须港区Apple ID并在App Store付款方式绑定AlipayHK；多论坛多人实测领到（LINUX DO 11-07、NodeLoc 11-02、奶昔论坛11-09），22港币小火箭实付2港币。注意：仅限App Store消费、不能提现；部分用户反映活动页加载失败、领取后须等72小时才能付款、个别账号被风控；截止日未公布，领到尽快用。",
+      "score": 70,
+      "title": "AlipayHK绑港区Apple ID领20港币App Store抵扣券（可2港币买小火箭）",
+      "url": "https://t.me/baipiaofl/66343",
+      "value": "20港币App Store抵扣券（满21-20），22港币Shadowrocket实付2港币"
+    },
+    {
       "author": "fwqgo_com",
       "category": "云服务器",
       "expiry_date": null,
@@ -10741,5 +10752,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-26T09:09:56+08:00"
+  "updated_at": "2026-11-26T09:45:23+08:00"
 }
