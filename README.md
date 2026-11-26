@@ -7,10 +7,10 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 - 范围：以 AI 为主（AI 会员、免费额度、VPS/VPN、AI 赚钱新路子）
 - 更新时间：见 wool.json 里的 `updated_at`（北京时间）
 
-## 本次更新（2026-11-26 12:50，989 条，本轮新增 2 条）
+## 本次更新（2026-11-26 14:05，989 条，本轮新增 0 条）
 
 | 分 | 内容 |
-|---|---|
+|---|---
 | 96 | Google Cloud 免费试用：$300 额度，90 天有效 |
 | 96 | Thinking Machines Lab Inkling 2 Mini开源权重（Apache 2.0，笔记本可跑） |
 | 96 | NVIDIA Nemotron 3 Ultra免费版登顶OpenRouter免费榜（1M上下文、$0） |
@@ -214,6 +214,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 85 | 阿里云ESA+腾讯EdgeOne免费CDN：永久免费套餐，1个免费站点（长期有效） |
 | 85 | 开源 ccteam：把 Claude Code、Codex、Grok、Kimi 编成一队派活 |
 | 85 | ClipSeek：一句话搜无版权免费视频、照片、插画素材 |
+| 84 | 移动云 MobileClaw 最高1亿Token免费领（中国移动，须实名）（2026-12-31） |
 | 84 | Claude预付额度阶梯折扣：充$1000付$700 |
 | 84 | RakSmart 硅谷 VPS $4.99/月（2核4G/50G HDD/精品CN2/1T，续费同价） |
 | 84 | Firecrawl 免 API Key 接 MCP（Keyless 备用接入，限速） |
@@ -238,7 +239,6 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 84 | Cloudflare Workers AI 每天免费 1 万 Neurons |
 | 84 | Bolt.new 免费档：每天 30 万 token、每月 100 万 token，免绑卡（无固定截止日（免费档随时可能调整）） |
 | 84 | Hermes Agent：会越用越懂你的开源 AI Agent（NousResearch，MIT 免费）（无固定截止日（开源项目长期有效）） |
-| 84 | 移动云 MobileClaw 最高1亿Token免费领（中国移动，须实名）（2026-12-31） |
 | 83 | BitsFlowCloud 黑五香港 VPS ¥139/年（1核1G/2.5Gbps/1TB，香港原生 IP） |
 | 83 | Wap香港VPS $2/月 EPYC Netflix解锁 |
 | 83 | Google Flow 生图免费不占积分（Nano Banana 2.1/2 Lite 每日合计 400 张） |
@@ -759,6 +759,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 71 | 黑五：Google AI Pro土耳其区年付五折₺3,599.99/年（原价₺7,199.99/年，仅首年）（2026-11-26） |
 | 71 | buzzchain测试网：质押领验证者NFT分$BUZZ（发帖无奖励，BGE待定）（未核实（BGE日期待公布）） |
 | 71 | 搬瓦工大阪 Equinix Ultra：$49.99/月，2核2G/40G SSD/500G流量（延迟与流媒体说法未证实）（无固定截止日（常规价进行中）） |
+| 70 | Spotify 日区 Premium 新用户3个月免费（须绑卡，12-31截止）（2026-12-31） |
 | 70 | AlipayHK绑港区Apple ID领20港币App Store抵扣券（可2港币买小火箭） |
 | 70 | DediRock洛杉矶Promo 2GB KVM VPS $12.88/年 |
 | 70 | PythonForge Pro内购$0：一次性买断永久解锁（限时约30天） |
@@ -803,7 +804,6 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 70 | 学生认证福利汇总：Azure $100、GlaDOS 每月100G、GitHub学生包3域名、JetBrains全家桶免费（无固定到期日） |
 | 70 | 开源 PerkRadar：本地运行的羊毛线索聚合器，每 2 小时自动整理免费领取与限时优惠 |
 | 70 | Rewind for X：自动记录刷过的 X 帖子，侧栏回看可搜索（免费浏览器插件）（长期有效） |
-| 70 | Spotify 日区 Premium 新用户3个月免费（须绑卡，12-31截止）（2026-12-31） |
 | 69 | B2Proxy 大促：3GB $2.99 起（新用户） |
 | 69 | Noxc 免费二级域名已恢复申请（365天有效期，积分制） |
 | 69 | RAKsmart 硅谷双 ISP VPS $3.87/月（黑五）（2026-11-30） |
