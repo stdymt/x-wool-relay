@@ -1,5 +1,5 @@
 {
-  "count": 1023,
+  "count": 1024,
   "items": [
     {
       "id": 802,
@@ -2574,6 +2574,17 @@
       "expiry_date": "无固定截止日（开源项目长期有效）",
       "value": "免费开源 AI Agent（MIT），262k stars；可自学/自部署，带记忆与技能自改进",
       "notes": "84分（来源22/可验证25/价值12/时效15/风险10）：X 原帖 + GitHub 官方仓库 NousResearch/hermes-agent 浏览器只读核实：公开仓库、MIT 协议、262.4k stars、58.6k forks，最新版 v0.23.1（约 19 小时前发布）；自带学习循环的 AI Agent，可从经验中创建并改进技能，支持多步任务执行、工具调用与记忆。注意：README 另提到可选的 Nous Portal 订阅（一份订阅覆盖多项服务），属可选服务，仓库本身免费；跑起来须自备模型 API 或本地模型。"
+    },
+    {
+      "id": 1062,
+      "title": "Crawl4AI Cloud 免费档每月 1,000 credits 不用绑卡",
+      "url": "https://x.com/BlockInsight214/status/2126077034321617344",
+      "author": "BlockInsight214",
+      "category": "免费额度",
+      "score": 83,
+      "expiry_date": null,
+      "value": "每月 1,000 credits，约可抓 10,000 普通页，免绑卡",
+      "notes": "83分。官网 pricing 页核实：免费档 $0、无需绑卡、每月 1,000 credits（普通页 0.1、真实浏览器页 0.5、复杂站 2 点，失败不扣点），与原帖完全一致；无截止时间与名额限制说法。来源：https://crawl4ai.com/pricing/"
     },
     {
       "id": 1054,
@@ -11258,5 +11269,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-27T04:43:15+08:00"
+  "updated_at": "2026-11-27T06:49:57+08:00"
 }
