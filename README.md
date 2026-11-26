@@ -7,10 +7,10 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 - 范围：以 AI 为主（AI 会员、免费额度、VPS/VPN、AI 赚钱新路子）
 - 更新时间：见 wool.json 里的 `updated_at`（北京时间）
 
-## 本次更新（2026-11-27 04:43，1023 条，本轮新增 0 条）
+## 本次更新（2026-11-27 06:49，1024 条，本轮新增 1 条）
 
 | 分 | 内容 |
-|---|---|---
+|---|---|
 | 96 | Google Cloud 免费试用：$300 额度，90 天有效 |
 | 96 | Thinking Machines Lab Inkling 2 Mini开源权重（Apache 2.0，笔记本可跑） |
 | 96 | NVIDIA Nemotron 3 Ultra免费版登顶OpenRouter免费榜（1M上下文、$0） |
@@ -245,6 +245,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 84 | Cloudflare Workers AI 每天免费 1 万 Neurons |
 | 84 | Bolt.new 免费档：每天 30 万 token、每月 100 万 token，免绑卡（无固定截止日（免费档随时可能调整）） |
 | 84 | Hermes Agent：会越用越懂你的开源 AI Agent（NousResearch，MIT 免费）（无固定截止日（开源项目长期有效）） |
+| 83 | Crawl4AI Cloud 免费档每月 1,000 credits 不用绑卡 |
 | 83 | DoCode 新用户注册送 $100 API 额度（邀请码注册；无码 50） |
 | 83 | MetaMask Card进日本/泰国/越南：虚拟卡免费，单笔限额$10,000（须KYC+居住证明，中国不在名单） |
 | 83 | BitsFlowCloud 黑五香港 VPS ¥139/年（1核1G/2.5Gbps/1TB，香港原生 IP） |
