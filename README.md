@@ -7,10 +7,10 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 - 范围：以 AI 为主（AI 会员、免费额度、VPS/VPN、AI 赚钱新路子）
 - 更新时间：见 wool.json 里的 `updated_at`（北京时间）
 
-## 本次更新（2026-11-26 14:44，990 条，本轮新增 1 条）
+## 本次更新（2026-11-26 16:04，994 条，本轮新增 4 条）
 
 | 分 | 内容 |
-|---|---
+|---|---|
 | 96 | Google Cloud 免费试用：$300 额度，90 天有效 |
 | 96 | Thinking Machines Lab Inkling 2 Mini开源权重（Apache 2.0，笔记本可跑） |
 | 96 | NVIDIA Nemotron 3 Ultra免费版登顶OpenRouter免费榜（1M上下文、$0） |
@@ -362,6 +362,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 81 | figures4papers：给 Codex/Claude Code/Cursor 的论文绘图 Skill（12.3k Star，CC BY-NC 仅限非商业）（无固定截止日（开源项目进行中）） |
 | 81 | LunaRoute Pro免费试用7天：$99/月档，含GLM 5.3/DeepSeek 4.1 Flash（需绑卡，到期自动扣费）（无固定截止日（7天试用进行中）） |
 | 81 | OpenFilm开源AI视频剪辑：把编程智能体变成视频智能体（MIT，8.6k Stars）（无固定截止日（开源项目）） |
+| 80 | DeepSeek V3.2 免费 API 端点（UnoRouter，$0） |
 | 80 | Roamless eSIM 新用户 $5 免费额度（约 2GB，码 SIMPACKERS5） |
 | 80 | 阿里千问桌面端首激活送30天个人基础版会员（付费期内送500积分） |
 | 80 | Experiential免费API：每日1M tokens，GPT-6 Luna/DeepSeek V4.1 Flash免费 |
@@ -579,6 +580,8 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 76 | 免费开源可视化提示词库：AI绘画服饰/姿态/机位（Deeyu/ai-costume-gallery-zh）（无固定截止日（开源项目进行中）） |
 | 76 | AlexHost黑五：VPS 30%循环折扣码30BF，仅英/罗/保三地，限量60台（未核实（官网首页未见截止日期）） |
 | 76 | TZERO 测试网空投：$T0 的 11% 用于空投（Season 0 占 5%，需 500 积分）（无固定截止日（测试网进行中）） |
+| 75 | Gemma 4 31B 免费 API 端点（OpenRouter/UnoRouter，$0） |
+| 75 | 中银香港新户手机开户享1个月港币4.8%定存（最高10万港币）（2026-12-31） |
 | 75 | 免费二级域名汇总帖（gv.uy / ipv64.net 等，长期更新） |
 | 75 | Kaisar Beta Season 0 空投 |
 | 75 | 腾讯云感恩节轻量续费秒杀 3.5折（2026-11-26） |
@@ -628,6 +631,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 75 | 微软 AI Agents 免费开源课程：18 节课从零学做 AI 智能体（中文翻译全）（无固定截止日（开源课程长期有效）） |
 | 75 | 腾讯 EdgeOne Makers 免费版：每月白拿 50 万 Token 模型额度（免绑卡）（无固定截止日（免费版为限时扶持，商业化后配额可能调整）） |
 | 75 | Ondo Perps 每周 500 万积分 + USDC 池：交易量与持仓分奖励（进行中（每周结算，无公布结束日；11月3–9日那周25万USDC池已结束）） |
+| 74 | CometVPS 黑五 KVM $12.99/年起（1GB/2TB）（2026-12-06） |
 | 74 | PrivJet 免费 eSIM：每账号 1GB/7 天、免绑卡（须 WhatsApp 验号） |
 | 74 | ServerHost 黑五 VPS $7/年（1C/1G/KVM，不限流量）（2026-11-30） |
 | 74 | ChatGPT Business团队赠1次Codex额度存档重置（与Fast免费同批，至12-31）（2026-12-31） |
