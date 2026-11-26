@@ -1,5 +1,5 @@
 {
-  "count": 986,
+  "count": 987,
   "items": [
     {
       "author": "Lovislexus",
@@ -1572,7 +1572,7 @@
       "score": 87,
       "title": "Free-Hosting.org 免费虚拟主机：长期免费，3 个账户/5GB 空间/不限流量（免绑卡）",
       "url": "https://t.me/baipiaofl/64261",
-      "value": ""
+      "value": null
     },
     {
       "author": "yedabinbinah",
@@ -1584,6 +1584,28 @@
       "title": "Articul8 Bivia 免费领 10 亿 Token：前 10000 名，免绑卡",
       "url": "https://x.com/yedabinbinah/status/2119047941101109491",
       "value": "免费 10 亿决策 tokens（约 42 美元），免绑卡，API 可用"
+    },
+    {
+      "author": "BlockInsight214",
+      "category": "其他",
+      "expiry_date": "2026-12-04",
+      "id": 1021,
+      "notes": "86分（来源25/可验证25/价值15/时效13/风险8）。属实：官网黑五页（namecheap.com/domain-web-hosting-ssl-deals/black-friday/，“The Black Friday Games”）逐项一致。活动 2026-11-20 00:00 至 12-04 23:59（美东时间），注册码 THEGAMESTLD26，限 5 个域名，首年价：.com $8.98/年（续费 $15.98）、.xyz $1.28/年（续费 $21.48）、.shop $0.48/年、.online/.site $0.68/年、.co $3.48/年、.org $6.48/年、.net $10.98/年、.ai $77.98/年、.io $27.98/年；转入 .com $10.98/年。注意：首年便宜但续费大幅回升（如 .xyz 续费 $21.48），只适合确实要用、且接受续费价的域名，不适合为囤而囤。X 原帖正文仅一句话，价格在两张配图里，以 fxtwitter 镜像读到全文及配图。85+二审由本次官方核实完成。",
+      "score": 86,
+      "title": "Namecheap 黑五域名：.com 首年 $8.98、.xyz $1.28（码 THEGAMESTLD26，限 5 个）",
+      "url": "https://x.com/BlockInsight214/status/2125754503156908441",
+      "value": ".com首年$8.98、.xyz首年$1.28、.shop首年$0.48"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 1017,
+      "notes": "86分（来源26/可验证24/价值17/时效11/风险8）。部分属实：价格与配置在官网黑五页及下单配置页核实，4GB KVM VPS $47.98/年（月均约 $3.99，标注 MOST POPULAR），4 vCPU/60GB PURE SSD RAID-10/4GB RAM/每月 10,000GB 流量/1Gbps 端口/独立 IPv4/完整 Root/KVM + ctrl 面板，FAQ 明确终身续费同价，含免费 Clientexec 授权，ctrl 一键应用可装 AdminBolt（30 天免费试用，最低 2 vCPU/2GB）。两处纠正：该产品实际是 KVM VPS，不是帖文所称的“独立建站主机”/独立服务器；与 1GB KVM VPS $15.98/年（id1010）为同一黑五页上的不同档位。黑五页未标明明确截止日（顶部仅 00 天 03 分倒计时，疑似会话级催促计时），帖文“常规国际线路、无大陆回国优化，国内访客建议套 CDN”在官网页未见对应表述。X 原帖以 fxtwitter 镜像读到全文。85+二审由本次官方核实完成。",
+      "score": 86,
+      "title": "RackNerd 黑五 4GB KVM VPS $47.98/年终身续费（4核/60GB/10TB）",
+      "url": "https://x.com/fwqgo_com/status/2125748873998331951",
+      "value": "$47.98/年，终身续费同价，4核4G"
     },
     {
       "author": "fwqgo_com",
@@ -1716,28 +1738,6 @@
       "title": "RackNerd 2026 黑五：VPS 最低 $15.98/年、终身续费同价（帖子说的 $7.99/年不属实）",
       "url": "https://t.me/nodeseekc/1019919",
       "value": "VPS 1GB $15.98/年起，黑五价终身续费同价；共享主机 $9.49/年起"
-    },
-    {
-      "author": "fwqgo_com",
-      "category": "云服务器",
-      "expiry_date": null,
-      "id": 1017,
-      "notes": "86分（来源26/可验证24/价值17/时效11/风险8）。部分属实：价格与配置在官网黑五页及下单配置页核实，4GB KVM VPS $47.98/年（月均约 $3.99，标注 MOST POPULAR），4 vCPU/60GB PURE SSD RAID-10/4GB RAM/每月 10,000GB 流量/1Gbps 端口/独立 IPv4/完整 Root/KVM + ctrl 面板，FAQ 明确终身续费同价，含免费 Clientexec 授权，ctrl 一键应用可装 AdminBolt（30 天免费试用，最低 2 vCPU/2GB）。两处纠正：该产品实际是 KVM VPS，不是帖文所称的“独立建站主机”/独立服务器；与 1GB KVM VPS $15.98/年（id1010）为同一黑五页上的不同档位。黑五页未标明明确截止日（顶部仅 00 天 03 分倒计时，疑似会话级催促计时），帖文“常规国际线路、无大陆回国优化，国内访客建议套 CDN”在官网页未见对应表述。X 原帖以 fxtwitter 镜像读到全文。85+二审由本次官方核实完成。",
-      "score": 86,
-      "title": "RackNerd 黑五 4GB KVM VPS $47.98/年终身续费（4核/60GB/10TB）",
-      "url": "https://x.com/fwqgo_com/status/2125748873998331951",
-      "value": "$47.98/年，终身续费同价，4核4G"
-    },
-    {
-      "author": "BlockInsight214",
-      "category": "其他",
-      "expiry_date": "2026-12-04",
-      "id": 1021,
-      "notes": "86分（来源25/可验证25/价值15/时效13/风险8）。属实：官网黑五页（namecheap.com/domain-web-hosting-ssl-deals/black-friday/，“The Black Friday Games”）逐项一致。活动 2026-11-20 00:00 至 12-04 23:59（美东时间），注册码 THEGAMESTLD26，限 5 个域名，首年价：.com $8.98/年（续费 $15.98）、.xyz $1.28/年（续费 $21.48）、.shop $0.48/年、.online/.site $0.68/年、.co $3.48/年、.org $6.48/年、.net $10.98/年、.ai $77.98/年、.io $27.98/年；转入 .com $10.98/年。注意：首年便宜但续费大幅回升（如 .xyz 续费 $21.48），只适合确实要用、且接受续费价的域名，不适合为囤而囤。X 原帖正文仅一句话，价格在两张配图里，以 fxtwitter 镜像读到全文及配图。85+二审由本次官方核实完成。",
-      "score": 86,
-      "title": "Namecheap 黑五域名：.com 首年 $8.98、.xyz $1.28（码 THEGAMESTLD26，限 5 个）",
-      "url": "https://x.com/BlockInsight214/status/2125754503156908441",
-      "value": ".com首年$8.98、.xyz首年$1.28、.shop首年$0.48"
     },
     {
       "author": "fwqgo_com",
@@ -2499,6 +2499,17 @@
       "value": "免费开源 AI Agent（MIT），262k stars；可自学/自部署，带记忆与技能自改进"
     },
     {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 1019,
+      "notes": "83分（来源25/可验证24/价值16/时效11/风险7）。属实：官网黑五页逐项核实，S 款 ¥139/年（1 核 1G/20GB SSD/2.5Gbps/1TB 双向流量）、M 款 ¥259/年（2 核 2G/40GB/5Gbps/2TB）、L 款 ¥429/年（4 核 4G/80GB/10Gbps/4TB），均为 Intel 铂金 8269CY + DDR4 + SSD、香港原生 IPv4 + IPv6/64、用尽后限速 1Mbps、24 小时退款、IP Care+ 首年免费 + 大转盘 3/6/9 次。注意：官网写明端口为“共享端口”（帖文未说明），且线路为标准国际路由、无任何中国优化，不适合追求国内直连的场景；该页未标明活动截止日。X 原帖以 fxtwitter 镜像读到全文。",
+      "score": 83,
+      "title": "BitsFlowCloud 黑五香港 VPS ¥139/年（1核1G/2.5Gbps/1TB，香港原生 IP）",
+      "url": "https://x.com/fwqgo_com/status/2125779072274104458",
+      "value": "香港VPS ¥139/年起，S/M/L三档"
+    },
+    {
       "author": "NodeSeek官方频道",
       "category": "云服务器",
       "expiry_date": null,
@@ -2741,15 +2752,15 @@
       "value": "11月内Pro用户前$3000消费返4%积分（最高约$120积分）"
     },
     {
-      "author": "fwqgo_com",
-      "category": "云服务器",
-      "expiry_date": null,
-      "id": 1019,
-      "notes": "83分（来源25/可验证24/价值16/时效11/风险7）。属实：官网黑五页逐项核实，S 款 ¥139/年（1 核 1G/20GB SSD/2.5Gbps/1TB 双向流量）、M 款 ¥259/年（2 核 2G/40GB/5Gbps/2TB）、L 款 ¥429/年（4 核 4G/80GB/10Gbps/4TB），均为 Intel 铂金 8269CY + DDR4 + SSD、香港原生 IPv4 + IPv6/64、用尽后限速 1Mbps、24 小时退款、IP Care+ 首年免费 + 大转盘 3/6/9 次。注意：官网写明端口为“共享端口”（帖文未说明），且线路为标准国际路由、无任何中国优化，不适合追求国内直连的场景；该页未标明活动截止日。X 原帖以 fxtwitter 镜像读到全文。",
-      "score": 83,
-      "title": "BitsFlowCloud 黑五香港 VPS ¥139/年（1核1G/2.5Gbps/1TB，香港原生 IP）",
-      "url": "https://x.com/fwqgo_com/status/2125779072274104458",
-      "value": "香港VPS ¥139/年起，S/M/L三档"
+      "author": "Mileson07",
+      "category": "软件工具",
+      "expiry_date": "2026-12-04",
+      "id": 1022,
+      "notes": "82分（来源24/可验证24/价值13/时效13/风险8）。属实：WorkBuddy 是腾讯的日常办公 AI Agent（workbuddy.ai）。官网定价页核实 Pro 年付 $8/月（即 $96/年，原价 $20/月）；按月为首月 $7、之后 $10/月。黑五加赠为首月额外 1,000 积分（每月另有 1,000 基础积分 + 1,000 赠送积分）。活动规则页：2026-11-25 至 12-04 23:59:59（北京时间），仅限新购 Pro 年付，已有月付/年付用户不参与，每账号限 1 次，赠送积分有效期 1 个月。X 原帖正文仅一句话，关键信息在配图，以 fxtwitter 镜像读到全文及配图。",
+      "score": 82,
+      "title": "WorkBuddy 黑五：Pro 年付 $8/月（原价$20/月），首月加赠 1,000 积分",
+      "url": "https://x.com/Mileson07/status/2125770259802251668",
+      "value": "Pro 年付$96/年（原价$240/年），首月加赠1,000积分"
     },
     {
       "author": "白嫖福利推送",
@@ -3676,15 +3687,26 @@
       "value": "免费云端 GPU/TPU 算力，按需分配不保证"
     },
     {
-      "author": "Mileson07",
-      "category": "软件工具",
-      "expiry_date": "2026-12-04",
-      "id": 1022,
-      "notes": "82分（来源24/可验证24/价值13/时效13/风险8）。属实：WorkBuddy 是腾讯的日常办公 AI Agent（workbuddy.ai）。官网定价页核实 Pro 年付 $8/月（即 $96/年，原价 $20/月）；按月为首月 $7、之后 $10/月。黑五加赠为首月额外 1,000 积分（每月另有 1,000 基础积分 + 1,000 赠送积分）。活动规则页：2026-11-25 至 12-04 23:59:59（北京时间），仅限新购 Pro 年付，已有月付/年付用户不参与，每账号限 1 次，赠送积分有效期 1 个月。X 原帖正文仅一句话，关键信息在配图，以 fxtwitter 镜像读到全文及配图。",
-      "score": 82,
-      "title": "WorkBuddy 黑五：Pro 年付 $8/月（原价$20/月），首月加赠 1,000 积分",
-      "url": "https://x.com/Mileson07/status/2125770259802251668",
-      "value": "Pro 年付$96/年（原价$240/年），首月加赠1,000积分"
+      "author": "hejushang8",
+      "category": "其他",
+      "expiry_date": "2026-12-16",
+      "id": 1024,
+      "notes": "81分（来源24/可验证22/价值15/时效13/风险7）。部分属实：中国电信 CTExcel 英国新用户优惠，官网首页核实黑五横幅 11-25 至 12-16，码 CTEXCEL50，新用户最多 6 个月半价（£4.9 档除外）；原价 22GB £9.9、50GB £11.9、120GB £14.9、300GB £19.9、无限流量 £29.9/30 天，半价后 £4.95/£5.95/£7.45/£9.95/£14.95，与帖文完全一致；支持 eSIM/实体卡、无合约（官网“自动续订、消费无合约无捆绑”）、中英共享流量 + 欧洲漫游、一卡多号、支付宝/微信充值。唯一未证实：帖文“无限流量 £11.95 起（原 £23.9/£29.9）”中的 £23.9 原价档未在官网首页找到，首页无限档只有 £29.9（半价 £14.95）。注意：无限流量受公平使用政策约束，须在英国/欧洲激活使用，90 天无充值号码可能被回收。X 原帖以 fxtwitter 镜像读到全文。",
+      "score": 81,
+      "title": "中国电信 CTExcel 英国新用户：码 CTEXCEL50 最多 6 个月半价（22GB £4.95/月起）",
+      "url": "https://x.com/hejushang8/status/2125759825095328205",
+      "value": "新用户最多6个月半价，22GB £4.95/月"
+    },
+    {
+      "author": "BlockInsight214",
+      "category": "免费额度",
+      "expiry_date": "2026-12-02",
+      "id": 1020,
+      "notes": "81分（来源25/可验证21/价值15/时效13/风险7）。部分属实：黑五合集共 15 项，仅核实前 2 项。第 1 项 Swarms Cloud 官网黑五页核实：码 SWARMSFLASH 领的是 $15 起始额度（Settings 内兑换，每账号限 1 次，截至 2026-12-02 太平洋时间），不是帖文第一句说的 $20；“15 美元 + 新号送 5 美元 = 20 美元”的另外 $5 未在官方黑五页出现，无法证实。11 月 27 日（黑五）与 11 月 30 日（网一）Pro/Premium 用户 token 全免属实，活动截至 12 月 2 日属实；另有首 3 个月 5 折（Pro $10/月、Premium $50/月）、年付再 9 折、充值送 20%。第 2 项 Proton VPN 官网核实：永久免费档属实，无限流量、无数据与时间限制、无广告、不记录日志，限 1 台设备，需注册免费账号、无需绑卡。合集其余 13 项未逐项核实。X 原帖以 fxtwitter 镜像读到全文。",
+      "score": 81,
+      "title": "黑五合集：Swarms 码 SWARMSFLASH 领 $15 额度、11-27/30 token 全免，Proton VPN 永久免费档",
+      "url": "https://x.com/BlockInsight214/status/2125766163082977315",
+      "value": "Swarms $15免费额度+两日token全免；Proton VPN永久免费"
     },
     {
       "author": "NodeSeek官方频道",
@@ -3828,28 +3850,6 @@
       "title": "OpenFilm开源AI视频剪辑：把编程智能体变成视频智能体（MIT，8.6k Stars）",
       "url": "https://x.com/KOF97AI/status/2123581474775658977",
       "value": "开源免费AI视频剪辑工具；用编程智能体做视频，可导出或带到PR/FCP/DaVinci"
-    },
-    {
-      "author": "BlockInsight214",
-      "category": "免费额度",
-      "expiry_date": "2026-12-02",
-      "id": 1020,
-      "notes": "81分（来源25/可验证21/价值15/时效13/风险7）。部分属实：黑五合集共 15 项，仅核实前 2 项。第 1 项 Swarms Cloud 官网黑五页核实：码 SWARMSFLASH 领的是 $15 起始额度（Settings 内兑换，每账号限 1 次，截至 2026-12-02 太平洋时间），不是帖文第一句说的 $20；“15 美元 + 新号送 5 美元 = 20 美元”的另外 $5 未在官方黑五页出现，无法证实。11 月 27 日（黑五）与 11 月 30 日（网一）Pro/Premium 用户 token 全免属实，活动截至 12 月 2 日属实；另有首 3 个月 5 折（Pro $10/月、Premium $50/月）、年付再 9 折、充值送 20%。第 2 项 Proton VPN 官网核实：永久免费档属实，无限流量、无数据与时间限制、无广告、不记录日志，限 1 台设备，需注册免费账号、无需绑卡。合集其余 13 项未逐项核实。X 原帖以 fxtwitter 镜像读到全文。",
-      "score": 81,
-      "title": "黑五合集：Swarms 码 SWARMSFLASH 领 $15 额度、11-27/30 token 全免，Proton VPN 永久免费档",
-      "url": "https://x.com/BlockInsight214/status/2125766163082977315",
-      "value": "Swarms $15免费额度+两日token全免；Proton VPN永久免费"
-    },
-    {
-      "author": "hejushang8",
-      "category": "其他",
-      "expiry_date": "2026-12-16",
-      "id": 1024,
-      "notes": "81分（来源24/可验证22/价值15/时效13/风险7）。部分属实：中国电信 CTExcel 英国新用户优惠，官网首页核实黑五横幅 11-25 至 12-16，码 CTEXCEL50，新用户最多 6 个月半价（£4.9 档除外）；原价 22GB £9.9、50GB £11.9、120GB £14.9、300GB £19.9、无限流量 £29.9/30 天，半价后 £4.95/£5.95/£7.45/£9.95/£14.95，与帖文完全一致；支持 eSIM/实体卡、无合约（官网“自动续订、消费无合约无捆绑”）、中英共享流量 + 欧洲漫游、一卡多号、支付宝/微信充值。唯一未证实：帖文“无限流量 £11.95 起（原 £23.9/£29.9）”中的 £23.9 原价档未在官网首页找到，首页无限档只有 £29.9（半价 £14.95）。注意：无限流量受公平使用政策约束，须在英国/欧洲激活使用，90 天无充值号码可能被回收。X 原帖以 fxtwitter 镜像读到全文。",
-      "score": 81,
-      "title": "中国电信 CTExcel 英国新用户：码 CTEXCEL50 最多 6 个月半价（22GB £4.95/月起）",
-      "url": "https://x.com/hejushang8/status/2125759825095328205",
-      "value": "新用户最多6个月半价，22GB £4.95/月"
     },
     {
       "author": "KOF97AI",
@@ -4655,6 +4655,17 @@
       "value": "每周约30小时免费GPU，双T4合计32GB显存，不用绑卡；可跑Qwen3-Coder 30B量化版"
     },
     {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 1016,
+      "notes": "78分（来源24/可验证23/价值13/时效12/风险6）。部分属实：OpenAI 官方 Help Center《API credits benefit for eligible ChatGPT subscriptions》证实每月 API 额度真实存在，但仅限 Pro 100/200/500 与有付费席位的 Business 工作空间；Plus、免费试用、Enterprise、Edu、旧版 Codex 席位均不符合，标题“每个月还有免费 API 额度”以偏概全。金额：Pro 100 每月$100、Pro 200 每月$200、Pro 500 每月$500；Business 标准席每席$20、高级席每席$100，汇总共享每月上限$500，年付 Business 全年一次性发放上限$6,000。门槛：付费订阅须已生效至少 7 天；ChatGPT 账户与 API 账户须同一邮箱；Pro 领取人须同时是订阅所有者和接收额度的 API 组织所有者；一个订阅/工作空间只能关联一个 API 组织。额度随账单周期到期、未使用不结转；首次发放按剩余周期折算。注意：领取后该 API 组织将无法用 API 密钥方式使用 Codex（含已购额度用量），恢复须由组织所有者在账单页取消权益；订阅登录方式的 Codex 与常规 API 不受影响；主动解除关联会立即收回未用促销额度，且当前周期内无法重新关联。另有用户反馈美区 Apple 订阅的 100 Pro 收到邮件但余额一直为 0，并非人人领取即到账。",
+      "score": 78,
+      "title": "ChatGPT Pro/Business 每月免费 API 额度（Pro 100 每月$100起，领后 API 密钥不能用 Codex）",
+      "url": "https://t.me/baipiaofl/66355",
+      "value": "Pro 100每月$100、Pro 200每月$200、Pro 500每月$500 API额度；Business每席$20/$100"
+    },
+    {
       "author": "NodeSeek官方频道",
       "category": "订阅优惠",
       "expiry_date": "2026-11-26",
@@ -4950,17 +4961,6 @@
       "title": "Upstash Box 免费层：每月 5 小时 AI Agent 云端电脑，内置 Claude Code（免绑卡）",
       "url": "https://x.com/lovethelife2333/status/2121106000249827689",
       "value": "每月免费 5 CPU 小时、最多 10 个并发 Box：2 vCPU/4GB/10GB，内置 Claude Code/Codex"
-    },
-    {
-      "author": "白嫖福利推送",
-      "category": "免费额度",
-      "expiry_date": null,
-      "id": 1016,
-      "notes": "78分（来源24/可验证23/价值13/时效12/风险6）。部分属实：OpenAI 官方 Help Center《API credits benefit for eligible ChatGPT subscriptions》证实每月 API 额度真实存在，但仅限 Pro 100/200/500 与有付费席位的 Business 工作空间；Plus、免费试用、Enterprise、Edu、旧版 Codex 席位均不符合，标题“每个月还有免费 API 额度”以偏概全。金额：Pro 100 每月$100、Pro 200 每月$200、Pro 500 每月$500；Business 标准席每席$20、高级席每席$100，汇总共享每月上限$500，年付 Business 全年一次性发放上限$6,000。门槛：付费订阅须已生效至少 7 天；ChatGPT 账户与 API 账户须同一邮箱；Pro 领取人须同时是订阅所有者和接收额度的 API 组织所有者；一个订阅/工作空间只能关联一个 API 组织。额度随账单周期到期、未使用不结转；首次发放按剩余周期折算。注意：领取后该 API 组织将无法用 API 密钥方式使用 Codex（含已购额度用量），恢复须由组织所有者在账单页取消权益；订阅登录方式的 Codex 与常规 API 不受影响；主动解除关联会立即收回未用促销额度，且当前周期内无法重新关联。另有用户反馈美区 Apple 订阅的 100 Pro 收到邮件但余额一直为 0，并非人人领取即到账。",
-      "score": 78,
-      "title": "ChatGPT Pro/Business 每月免费 API 额度（Pro 100 每月$100起，领后 API 密钥不能用 Codex）",
-      "url": "https://t.me/baipiaofl/66355",
-      "value": "Pro 100每月$100、Pro 200每月$200、Pro 500每月$500 API额度；Business每席$20/$100"
     },
     {
       "author": "fwqgo_com",
@@ -6239,6 +6239,17 @@
       "value": "测试网做任务攒积分，$T0 11% 空投（Season 0 5% + 未来主网季 6%）；需 500 积分才有资格，单钱包上限 0.1%"
     },
     {
+      "author": "白嫖福利推送",
+      "category": "软件工具",
+      "expiry_date": null,
+      "id": 1025,
+      "notes": "75分。核实：NodeLoc汇总帖（作者donitown，8个月前发布、持续编辑，Featured），第一梯队为支持托管Cloudflare的免费二级域名。gv.uy（nic.i8.al，I8 CLOUD）官方FAQ证实免费、注册需优惠码、续期免费、可无限期使用，hsk.sk、zz.cd后缀存在；ipv64.net官方证实免费版3个DynDNS域名、19个后缀、注册免费；“三个支持CF”“永久免费不用续期”为作者说法、官方页未证实；“近20个新后缀”未列清单、无法逐一核实；其余条目（eu.org、hidns等）未逐一核实。与已收loc.cc（id901/id348）不是同一服务：loc.cc为NodeLoc自有域名、经Yunamo发放，目前仍在第二梯队、CF托管未定。",
+      "score": 75,
+      "title": "免费二级域名汇总帖（gv.uy / ipv64.net 等，长期更新）",
+      "url": "https://t.me/baipiaofl/66360",
+      "value": "免费二级域名清单（gv.uy、ipv64.net等），长期更新"
+    },
+    {
       "author": "Airdrop Blogs",
       "category": "其他",
       "expiry_date": null,
@@ -6976,6 +6987,28 @@
       "value": "Kaggle、Colab免费GPU + GitHub Actions、Supabase、OpenRouter、Cloudflare Workers/R2等免费额度合集"
     },
     {
+      "author": "yedabinbinah",
+      "category": "订阅优惠",
+      "expiry_date": "2026-12-01",
+      "id": 1023,
+      "notes": "73分（来源22/可验证20/价值14/时效12/风险5）。部分属实，标题价有误：原帖称“Google AI Pro 年订阅 $72，土耳其区最划算”，但配图实际是 AI Plus（2TB）TRY 1,819.99/年（原价 TRY 3,649.99，五折），按 2026-11-25 汇率约 $35.9/年，并非 AI Pro；土耳其用户实测 Pro 年付 4,350 里拉（五折后约 $85.8），与 $72 冲突（$72 约合 3,650 里拉，恰为 Plus 的原价年价）。原帖方法为先订 Lite 37.99 里拉/月再在福利里升级，截止北京时间 2026-12-01。注意：土区 Apple ID 内购路径未登录无法验证，存在账号地区与支付方式须一致、掉订阅的风险；另 $99.99 是 AI Plus 美国区年付价（Pro 为 $199.99/年），所谓 Pro 黑五 $99.99 是 2025 年旧优惠。X 原帖以 fxtwitter 镜像读到全文及配图。",
+      "score": 73,
+      "title": "Google One AI Plus 土耳其区约 $36/年（原帖称 Pro $72 有误，实为 Plus 2TB）",
+      "url": "https://x.com/yedabinbinah/status/2125769047732314284",
+      "value": "AI Plus 2TB 土耳其区约$36/年（五折）；Pro 土区实测约$85.8/年"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": "2026-12-07",
+      "id": 1018,
+      "notes": "73分（来源22/可验证17/价值16/时效12/风险6）。部分属实：商家为 DotdotNetworks，码 3LTF2P88AH（黑五永续 8 折、仅月付），原价 $15.90/月 → $12.72/月，AMD EPYC 6 核/4GB DDR4/40GB NVMe/100Mbps 独享端口/2TB 流量，电信双程 CN2 GIA、移动双程 CMIN2、联通去程 4837 回程 CN2 GIA，洛杉矶，截止 2026-12-07。注意：官网两次被 Cloudflare 验证拦截（4 次点击均验证后重置），价格与配置未能在官网直接打开核实；交叉印证为 Google 搜索到的独立账号 gwvpsceping 多条帖文同样写明码、永续 8 折、截止 12 月 7 日与折后 $12.7/月起，且 $15.90×0.8=$12.72 算术吻合；但“仅剩 2 台现货”及非原生 IP 可换原生 IP、商家 ASN 在新西兰等说法均无法核实，购买前须自行在本人浏览器打开官网确认。X 原帖以 fxtwitter 镜像读到全文。",
+      "score": 73,
+      "title": "DotdotNetworks 美西三网精品 VPS $12.72/月（6核4G，码 3LTF2P88AH 永续 8 折）",
+      "url": "https://x.com/fwqgo_com/status/2125762512163647803",
+      "value": "$12.72/月，6核4G CN2 GIA，永续8折"
+    },
+    {
       "author": "NodeSeek官方频道",
       "category": "云服务器",
       "expiry_date": null,
@@ -7183,28 +7216,6 @@
       "title": "Simular Box 免费云电脑：一次性 $5 额度（约 5000 credits，90 天有效），每日免费已结束",
       "url": "https://x.com/Lovislexus/status/2119725396023545953",
       "value": "一次性 $5 额度（约 5000 credits，90 天有效），之后按量付费；每日免费已结束"
-    },
-    {
-      "author": "fwqgo_com",
-      "category": "云服务器",
-      "expiry_date": "2026-12-07",
-      "id": 1018,
-      "notes": "73分（来源22/可验证17/价值16/时效12/风险6）。部分属实：商家为 DotdotNetworks，码 3LTF2P88AH（黑五永续 8 折、仅月付），原价 $15.90/月 → $12.72/月，AMD EPYC 6 核/4GB DDR4/40GB NVMe/100Mbps 独享端口/2TB 流量，电信双程 CN2 GIA、移动双程 CMIN2、联通去程 4837 回程 CN2 GIA，洛杉矶，截止 2026-12-07。注意：官网两次被 Cloudflare 验证拦截（4 次点击均验证后重置），价格与配置未能在官网直接打开核实；交叉印证为 Google 搜索到的独立账号 gwvpsceping 多条帖文同样写明码、永续 8 折、截止 12 月 7 日与折后 $12.7/月起，且 $15.90×0.8=$12.72 算术吻合；但“仅剩 2 台现货”及非原生 IP 可换原生 IP、商家 ASN 在新西兰等说法均无法核实，购买前须自行在本人浏览器打开官网确认。X 原帖以 fxtwitter 镜像读到全文。",
-      "score": 73,
-      "title": "DotdotNetworks 美西三网精品 VPS $12.72/月（6核4G，码 3LTF2P88AH 永续 8 折）",
-      "url": "https://x.com/fwqgo_com/status/2125762512163647803",
-      "value": "$12.72/月，6核4G CN2 GIA，永续8折"
-    },
-    {
-      "author": "yedabinbinah",
-      "category": "订阅优惠",
-      "expiry_date": "2026-12-01",
-      "id": 1023,
-      "notes": "73分（来源22/可验证20/价值14/时效12/风险5）。部分属实，标题价有误：原帖称“Google AI Pro 年订阅 $72，土耳其区最划算”，但配图实际是 AI Plus（2TB）TRY 1,819.99/年（原价 TRY 3,649.99，五折），按 2026-11-25 汇率约 $35.9/年，并非 AI Pro；土耳其用户实测 Pro 年付 4,350 里拉（五折后约 $85.8），与 $72 冲突（$72 约合 3,650 里拉，恰为 Plus 的原价年价）。原帖方法为先订 Lite 37.99 里拉/月再在福利里升级，截止北京时间 2026-12-01。注意：土区 Apple ID 内购路径未登录无法验证，存在账号地区与支付方式须一致、掉订阅的风险；另 $99.99 是 AI Plus 美国区年付价（Pro 为 $199.99/年），所谓 Pro 黑五 $99.99 是 2025 年旧优惠。X 原帖以 fxtwitter 镜像读到全文及配图。",
-      "score": 73,
-      "title": "Google One AI Plus 土耳其区约 $36/年（原帖称 Pro $72 有误，实为 Plus 2TB）",
-      "url": "https://x.com/yedabinbinah/status/2125769047732314284",
-      "value": "AI Plus 2TB 土耳其区约$36/年（五折）；Pro 土区实测约$85.8/年"
     },
     {
       "author": "Lniosytest",
@@ -10851,5 +10862,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-26T11:06:15+08:00"
+  "updated_at": "2026-11-26T11:51:37+08:00"
 }
