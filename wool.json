@@ -1,5 +1,5 @@
 {
-  "count": 990,
+  "count": 994,
   "items": [
     {
       "author": "Lovislexus",
@@ -3863,6 +3863,17 @@
       "value": "开源免费AI视频剪辑工具；用编程智能体做视频，可导出或带到PR/FCP/DaVinci"
     },
     {
+      "author": "BlockInsight214",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 1032,
+      "notes": "80分。DeepSeek官网2025-12-01发布V3.2（671B，128K上下文）；UnoRouter已核实有deepseek-v3.2:free端点，输入/输出$0，上下文128K（定价区另标163.8K，两处数字不一致），弃用2027-11。注意：核查当时页面显示免费层上游繁忙/已触达限速（All providers busy），实际可用性受限；免费模型需排队，订阅可减少等待；未在公开页明确“免绑卡”。",
+      "score": 80,
+      "title": "DeepSeek V3.2 免费 API 端点（UnoRouter，$0）",
+      "url": "https://x.com/BlockInsight214/status/2125837455609970886",
+      "value": "671B开源推理模型免费调用，128K上下文"
+    },
+    {
       "author": "KOF97AI",
       "category": "免费额度",
       "expiry_date": null,
@@ -6250,6 +6261,28 @@
       "value": "测试网做任务攒积分，$T0 11% 空投（Season 0 5% + 未来主网季 6%）；需 500 积分才有资格，单钱包上限 0.1%"
     },
     {
+      "author": "BlockInsight214",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 1031,
+      "notes": "75分。OpenRouter与UnoRouter已核实有google/gemma-4-31b-it:free端点，输入/输出$0，上下文262K（OpenRouter描述正文另称256K窗口）；Together AI不免费（输入$0.20/百万token、输出$0.50/百万token，仅专用端点），原帖“三家同时免费”不成立。免费层有限速（OpenRouter按累计购买credit分档、分钟/日限请求），需API key；UnoRouter免费模型运行在共享上游层，高峰需排队、可能缓慢或失败，订阅（$20/月起）可减少等待；两家均未见“免绑卡”明示。",
+      "score": 75,
+      "title": "Gemma 4 31B 免费 API 端点（OpenRouter/UnoRouter，$0）",
+      "url": "https://x.com/BlockInsight214/status/2125841230642786439",
+      "value": "31B开源模型免费调用，262K上下文，需API key"
+    },
+    {
+      "author": "SecJack96",
+      "category": "金融卡券",
+      "expiry_date": "2026-12-31",
+      "id": 1030,
+      "notes": "75分。官网核实：中银香港手机开户享高达4.8%定期存款年利率，推广期2026-10-01至2026-12-31；港币1个月4.8%、最高10万港币，另有人民币3个月1.8%/6个月2.0%最高50万元；须2026-10-01前未持有中银香港账户的新客户、经手机银行开户、存入合资格新资金1万港币/人民币以上；每人港币及人民币各限享一次，名额有限先到先得。注意：官方推广码为港币BBANEWHKD/人民币BBANEWCNY，原帖邀请码M02901872085在官网全文未出现、精确搜索无结果，非官方码（疑似个人推荐码），领用请用官方码。",
+      "score": 75,
+      "title": "中银香港新户手机开户享1个月港币4.8%定存（最高10万港币）",
+      "url": "https://x.com/SecJack96/status/2125824117761011949",
+      "value": "1万港币存1个月利息约40港币；最高存10万港币"
+    },
+    {
       "author": "白嫖福利推送",
       "category": "软件工具",
       "expiry_date": null,
@@ -6787,6 +6820,17 @@
       "title": "Ondo Perps 每周 500 万积分 + USDC 池：交易量与持仓分奖励",
       "url": "https://x.com/AllForAirdrop/status/2080828560336679096",
       "value": "每周 500 万 Ondo 积分 + USDC 池（约 17.5–25 万美元），按交易量与持仓分配；需入金交易"
+    },
+    {
+      "author": "NodeSeek官方频道",
+      "category": "云服务器",
+      "expiry_date": "2026-12-06",
+      "id": 1029,
+      "notes": "74分。官网黑五页核实：cometvps.com/black-friday，黑五2026-11-22 00:00 CT至2026-12-06 23:59 CT；Standard VPS：1GB $12.99/年（1核/1GB/20GB NVMe/2TB流量）、2GB $22.99/年、4GB $38.99/年、8GB $69.99/年、16GB $129.99/年（KVM、Intel Xeon E5、NVMe、1Gbps，芝加哥/达拉斯/丹佛/西雅图）。注意：“2TB可翻倍4TB”并非下单即得，官网规则为每笔黑五VPS订单凭10位订单号转一次奖盘（2×带宽、+1个月、+1GB内存、+1周、+2周、+1 vCPU六选一），升级须商家批准、无现金价值。NodeSeek原帖因站方冷却未读到全文。口碑：有限搜索未见明显负面记录（WebHostingTalk一条称用6个月无宕机）。",
+      "score": 74,
+      "title": "CometVPS 黑五 KVM $12.99/年起（1GB/2TB）",
+      "url": "https://t.me/nodeseekc/1034065",
+      "value": "1GB KVM $12.99/年（1核/20GB NVMe/2TB流量）"
     },
     {
       "author": "白嫖福利推送",
@@ -10895,5 +10939,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个 X 羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-26T14:44:11+08:00"
+  "updated_at": "2026-11-26T16:04:34+08:00"
 }
