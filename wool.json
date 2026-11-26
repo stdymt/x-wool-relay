@@ -1,8 +1,5 @@
 {
-  "count": 999,
-  "updated_at": "2026-11-26 17:03:18 +08:00",
-  "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
-  "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
+  "count": 1007,
   "items": [
     {
       "id": 651,
@@ -1589,6 +1586,17 @@
       "notes": "87分（来源28/可验证24/价值13/时效13/风险9）。智谱AI开放文档套餐概览证实：限时活动11月24日至12月24日，调用GLM-5.3-Flash所产生的消耗全部按原抵扣系数的50%结算，即可用额度为原来的2倍；系数表显示Flash（含视觉理解MCP）输入2.3→1.15、缓存输入0.56→0.28、输出8→4；“所有套餐均支持GLM-5.4、GLM-5.3、GLM-5.3-Flash”，Lite/Pro/Max全覆盖、无需另领。注意：非高峰时段本身也按50%抵扣（高峰为周一至周五14:00—18:00），活动与非高峰是否叠加页面未说明。X原帖403未读到全文，以官方文档核实。85+二审由本次官方核实完成。"
     },
     {
+      "author": "Ciciyingying",
+      "category": "订阅优惠",
+      "expiry_date": "2026-12-03",
+      "id": 1044,
+      "notes": "87分（来源27/可验证22/价值16/时效14/风险8）。属实：SafePal官方黑五博客（2026-11-20发布）确认Black Friday & Cyber Monday Mega Sale，2026-11-20 8:00 UTC至12-03 23:59 UTC。折扣三重叠加：满$200自动减$20、满$400自动减$50；折扣码BFCM2026结账时全单再享额外15% OFF（官网示例：满$200先减$20至$180，再用码减15%）。另有每日抽奖（活动14天每天1名LUCKYSTAR得50% OFF专属码，参与方式为关注@SafePal并转发/点赞/评论其置顶黑五帖）与下单抽奖（2份GTA 6）。适用范围为所有SafePal硬件钱包及配件，博客未列具体单品折后价。是否全球包邮/中国可买：官网运费政策未列中国大陆（列出美国$15、加拿大$13、英国/法国/意大利/德国$11、西班牙$10，买2件以上免标准运费；未列出国家须在结账时确认），中国大陆能否直邮未证实。85+二审由本次官方核实完成。来源：https://www.safepal.com/en/blog/bf-cm-deals",
+      "score": 87,
+      "title": "SafePal黑五：满$200减$20/满$400减$50，码BFCM2026再享85折（至12-03）",
+      "url": "https://x.com/Ciciyingying/status/2125879501200781555",
+      "value": "满减+85折三重叠加；适用全部硬件钱包及配件；中国能否直邮未证实"
+    },
+    {
       "id": 505,
       "title": "RackNerd 2026 黑五：VPS 最低 $15.98/年、终身续费同价（帖子说的 $7.99/年不属实）",
       "url": "https://t.me/nodeseekc/1019919",
@@ -2249,6 +2257,17 @@
       "notes": "85分。属实：官网当天公告+特卖页证实，$12.24/年为BF-26-STOR-VPS-1 Storage VPS（1 vCPU、1GB专用内存、50GB SSD-Cached磁盘RAID-10、3TB/月带宽@1Gbps、1个IPv4+3个IPv6、洛杉矶），特卖页FAQ明确终身循环不涨价；同档纯SSD VPS $13.89/年；常规VPS最低$28/年，$12.24为黑五专属价。官网未写明确截止日（“before it's gone”，以页面实时库存为准）。NodeSeek原帖正文因站方屏蔽未读到，以官网为准。85+二审由本次官方核实完成。"
     },
     {
+      "author": "0xjackkk",
+      "category": "其他",
+      "expiry_date": null,
+      "id": 1040,
+      "notes": "85分（来源27/可验证21/价值17/时效13/风险7）。基本属实：网站是DataAnnotation，岗位Chinese Specialist – AI Training（Remote），官网写明Up to $40/hr；但$40是上限而非保证时薪，FAQ明确多语言项目起薪$25–$40/小时。要求：中文母语或接近母语、英文书面表达清晰、无需学位；流程Apply→Qualify→Work & get paid，每周发薪。入门测试为Starter Assessment，只能考一次，提交后几天内邮件通知是否通过，通过即获平台权限；测试内容、时长、通过率官网未公开，原帖“大约1…”后半截断无法核实。须注册+身份验证（IDV，须提供身份证件，VPN会导致重验），收款走PayPal，申请时提供PayPal邮箱；官网未列国籍/地区排除名单、未明确说明中国大陆居民是否在支持名单内，中国大陆PayPal收款本身另有合规限制，须以注册时验证结果为准。无截止时间、无名额说明。85+二审由本次官方核实完成。来源：https://www.dataannotation.tech/job-board/chinese-expert",
+      "score": 85,
+      "title": "DataAnnotation中文专家给AI内容打分：最高$40/小时，每周发薪（须身份验证+PayPal收款）",
+      "url": "https://x.com/0xjackkk/status/2125862877743780007",
+      "value": "中文母语+英文书面表达，最高$40/小时（起薪$25）；入门测试仅一次机会；中国大陆资格以注册验证为准"
+    },
+    {
       "id": 113,
       "title": "Hermes Agent：会越用越懂你的开源 AI Agent（NousResearch，MIT 免费）",
       "url": "https://x.com/tantanyuli/status/2120234285034856479",
@@ -2524,6 +2543,17 @@
       "notes": "84分（来源25/可验证23/价值18/时效13/风险5）。核心属实，数字有出入：官方活动页（ecloud.10086.cn，移动云双11）标题为“最高1亿Token免费领”，构成：新用户注册礼包2500万＋月度登录福利1000万/月（11、12月共2次）＋每日登录福利100万/天（最多55天），合计1亿；帖文“3600万”恰为2500+1000+100即首日三项各领一次的合计，官方页从未出现“3600万”总额。模型：免费体验升级至DeepSeek-V4.1-Flash、GLM-5.3-Flash等主流模型。Token自领取日起30天有效，过期清零。活动2026-11-06至12-31；须下载MobileClaw客户端、注册移动云账号并完成实名认证，每账号限领1次；月度福利每月限领1次、每日福利须每日登录后限领1次。未证实：“可反代”“可自动签到”官方页无此表述。注意：Token用完后续用需订购套餐（同页Coding Plan轻享版¥7.9/月、专业版¥49.9/月）。"
     },
     {
+      "author": "Ylj158852",
+      "category": "金融卡券",
+      "expiry_date": null,
+      "id": 1042,
+      "notes": "84分（来源27/可验证21/价值16/时效14/风险6）。基本属实，欧元月费说法有误：Gate Money真实存在，Gate帮助中心证实支持开设本人同名USD、GBP、EUR、AED银行账户，支持SWIFT收付款；美元账户支持SWIFT、Fedwire、ACH，欧元账户支持SEPA、SEPA Instant、SWIFT，可从外部银行账户/Gate账户（USDT、USD、EUR）注资。开户免费属实。费用（Gate博客，2026-10-29生效）：美元同名账户固定管理费已由2 USDT/月降至1 USDT/月，VIP5及以上免收；美元提现费已由50 USDT/笔降至25 USDT/笔；美元账户开户0 USDT、注资0 USDT。欧元月费0.5 USDT未证实：Gate 11-18博客称目前所有Gate Money账户（美元或欧元）固定管理费均为1 USDT/月，VIP5+免收，原帖说法与官网最新费率不符。VIP5门槛：总资产≥40,000 USDT，或14日日均GT持仓≥2,000（约20,000 USDT），或30日交易量≥1,000,000 USDT。须完成Gate KYC才有入口，且“不是人人都有”，适用地区以账户实际入口为准。来源：https://www.gate.com/help/money/basics-money",
+      "score": 84,
+      "title": "Gate Money法币通道：开本人同名美元/欧元账户，美元月费1 USDT、提现25 USDT/笔（须KYC）",
+      "url": "https://x.com/Ylj158852/status/2125870163325325350",
+      "value": "开户免费；美元月费1 USDT（VIP5免），提现25 USDT/笔；欧元月费亦为1 USDT"
+    },
+    {
       "id": 191,
       "title": "Pulsar Money 11月返现提到4%：Pro用户前$3000消费全按4%返积分（到11月30日）",
       "url": "https://x.com/SecJack96/status/2120889366524698761",
@@ -2775,6 +2805,17 @@
       "expiry_date": null,
       "value": "香港VPS ¥139/年起，S/M/L三档",
       "notes": "83分（来源25/可验证24/价值16/时效11/风险7）。属实：官网黑五页逐项核实，S 款 ¥139/年（1 核 1G/20GB SSD/2.5Gbps/1TB 双向流量）、M 款 ¥259/年（2 核 2G/40GB/5Gbps/2TB）、L 款 ¥429/年（4 核 4G/80GB/10Gbps/4TB），均为 Intel 铂金 8269CY + DDR4 + SSD、香港原生 IPv4 + IPv6/64、用尽后限速 1Mbps、24 小时退款、IP Care+ 首年免费 + 大转盘 3/6/9 次。注意：官网写明端口为“共享端口”（帖文未说明），且线路为标准国际路由、无任何中国优化，不适合追求国内直连的场景；该页未标明活动截止日。X 原帖以 fxtwitter 镜像读到全文。"
+    },
+    {
+      "author": "Ylj158852",
+      "category": "金融卡券",
+      "expiry_date": null,
+      "id": 1043,
+      "notes": "83分（来源26/可验证21/价值15/时效14/风险7）。官宣属实，金属卡部分已过时：MetaMask官方X于11-25约11:00 UTC宣布MetaMask Card进入日本、泰国、越南；MetaMask帮助中心适用国家名单包含Japan、Thailand、Vietnam，新增支持mUSD（并支持wETH、EURe、GBPe、USDC、USDT等）。虚拟卡免费属实（官网卡页“FREE virtual card, no annual fees”）。单笔1万美元、日限1.5万美元属实（官方Limits and fees页：单笔$10,000、日$15,000；ATM $1,000/笔、$1,000/日；跨境交易费1%）。日本版花mUSD、结账自动换日元为行业报道说法，官方帮助页未找到逐字表述，未完全证实。金属卡199美元/年已过时：帮助中心现明确金属卡不再接受新订购，虚拟卡仍可在支持地区办理。须完整KYC（Crypto Life合作方）并提供居住证明；按居住地而非国籍判定，中国不在适用国家名单内（美国用户暂不可注册，仅可加入等候名单）。来源：https://metamask.com/card",
+      "score": 83,
+      "title": "MetaMask Card进日本/泰国/越南：虚拟卡免费，单笔限额$10,000（须KYC+居住证明，中国不在名单）",
+      "url": "https://x.com/Ylj158852/status/2125854568567459942",
+      "value": "虚拟卡免费无年费；金属卡已停售；按居住地判定，中国不在适用名单"
     },
     {
       "id": 5,
@@ -3710,6 +3751,28 @@
       "expiry_date": "2026-12-04",
       "value": "Pro 年付$96/年（原价$240/年），首月加赠1,000积分",
       "notes": "82分（来源24/可验证24/价值13/时效13/风险8）。属实：WorkBuddy 是腾讯的日常办公 AI Agent（workbuddy.ai）。官网定价页核实 Pro 年付 $8/月（即 $96/年，原价 $20/月）；按月为首月 $7、之后 $10/月。黑五加赠为首月额外 1,000 积分（每月另有 1,000 基础积分 + 1,000 赠送积分）。活动规则页：2026-11-25 至 12-04 23:59:59（北京时间），仅限新购 Pro 年付，已有月付/年付用户不参与，每账号限 1 次，赠送积分有效期 1 个月。X 原帖正文仅一句话，关键信息在配图，以 fxtwitter 镜像读到全文及配图。"
+    },
+    {
+      "author": "BlockInsight214",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 1041,
+      "notes": "82分（来源26/可验证20/价值16/时效13/风险7）。免费端点属实，但“智力指数39.5”标注错误：TokenRouter模型页确有deepseek/deepseek-v4.1-flash-1017-free，输入/输出价均为$0.00，标注Free，OpenAI兼容（/v1/chat/completions、/v1/responses），并注明免费算力有限、稳定性与并发不保证。模型ID与原帖一致。1M上下文属实（OpenRouter模型页：Context 1.0M，2026-10-17发布）。但“智力指数39.5”有误：39.5是Artificial Analysis的Finance & Accounting Index（High版），Intelligence Index为28.7（High）/32.4（Max）。须注册并创建API Key才能调用（第三方11-23实测：无需绑卡；RU/IR/BY/SY/CU/KP不提供；免费额度具体数值未公开）。TokenRouter模型页未写结束日期，原帖“免费与推广接入可能限时”未获官方证实，免费随时可能调整。来源：https://www.tokenrouter.com/models/deepseek/deepseek-v4.1-flash-1017-free/",
+      "score": 82,
+      "title": "DeepSeek V4.1 Flash 免费 API 端点（TokenRouter，$0，1M上下文）",
+      "url": "https://x.com/BlockInsight214/status/2125856330120298516",
+      "value": "开源推理模型免费调用，1M上下文；免费算力有限不保证稳定性；须注册API Key"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 1045,
+      "notes": "82分（来源26/可验证21/价值16/时效12/风险7）。基本属实，$2.9表述有误：官网ULightHost促销页核实，Essential档1vCPU/2GB/40GB NVMe/30M带宽/1TB出站流量/入站不限，$6.75/月（原价$7.5/月，省10%），明确标注“Renews at $6.75/mo”，属“All Users Save, Renewal Price Locked”档位，续费同价属实。$2.9的真相：同为Essential档的“New User Deal”新客价$2.9/月（原价$7.5，省62%），但明确标注“Renews at $7.5/mo”，即$2.9只是新客优惠价、续费按$7.5原价，原帖“新客首月只要$2.9”表述不准确。其他档位：Starter 2vCPU/2GB $7.6/月（续费同价）、Standard 2vCPU/4GB $10.4/月、Plus 4vCPU/4GB $19.5/月、Ultimate 4vCPU/8GB $24/月；Lite 1vCPU/1GB为$9.9/年、续费$48/年，且明确排除在续费锁定之外。流量与机房：1TB起出站、入站不限属实（Lite档为200GB出站）；16+机房属实（官网列出17处，含香港、台北、东京、新加坡、首尔、法兰克福、伦敦、洛杉矶等）。限制：每档每客户限购1台、数据中心IP不可更换、25端口默认封禁。促销页未见明确截止时间；支付方式（是否须绑卡）官网促销页未列出，须注册后在结账页确认，未注册核实。来源：https://www.surfercloud.com/promos/ulighthost",
+      "score": 82,
+      "title": "SurferCloud轻量机续费同价$6.75/月起（Essential 1核2G/1TB流量，17机房）",
+      "url": "https://x.com/fwqgo_com/status/2125867151601131691",
+      "value": "Essential $6.75/月续费锁定；新客价$2.9/月续费按$7.5；每档限购1台"
     },
     {
       "id": 527,
@@ -7320,6 +7383,17 @@
       "notes": "73分。部分属实：Oracle官方文档逐字证实Always Free Arm实例VM.Standard.A1.Flex每月免费1500 OCPU小时/9000 GB小时（相当于2 OCPU+12GB内存）、终身免费、含Ubuntu镜像，另有每月10TB出站流量、200GB块存储。但注册须提供信用卡/借记卡作身份验证；容量有限常出现“out of host capacity”；7天内CPU/网络/内存利用率均低于20%可能被回收；闲置30天以上账号可能被视为放弃而暂停/终止；无SLA仅社区支持；US$300试用金仅30天有效，与Always Free是两回事。帖子第③步后全文未读到（X在浏览器端整体403），后续步骤无法核对。Always Free本身不限时。"
     },
     {
+      "author": "白嫖福利推送",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 1038,
+      "notes": "73分（来源26/可验证17/价值12/时效12/风险6）。部分属实，表述夸大：Linux.do原帖（Lee_William，2026-11-26，https://linux.do/t/topic/3249925）与Google官方Remote Agents文档（https://antigravity.google/docs/remote-agents/）证实，网页版Antigravity每个对话可开一个单独环境，关页面后长任务继续执行；楼主截图显示KVM完整Linux沙箱：Ubuntu 24.04.5 LTS、2 vCPU、内存7.8 GiB、Swap 8.0 GiB，内置Python与Docker。但它不是通用VPS：官方定位是跑Agent任务的远程执行环境，未承诺公网IP、固定IP、SSH、长期保活或建站/挂机用途；跟帖指出会休眠、不能外部唤醒。门槛：仅限Google AI Pro与Ultra订阅者（个人账号），免费版/Plus/企业账号不可用，且正在逐步推出；不是“免费附赠”，是付费订阅权益。官方未公布截止时间或名额。注意勿与本地终端沙箱混淆（后者不是虚拟机或容器）。",
+      "score": 73,
+      "title": "Google AI Pro/Ultra 附赠远程开发环境：Antigravity Remote Agents 2核7.8G沙箱（非通用VPS）",
+      "url": "https://t.me/baipiaofl/66426",
+      "value": "Pro/Ultra订阅者可用：2 vCPU/7.8GB内存Ubuntu沙箱，关页面后长任务继续；无公网IP/SSH承诺、会休眠回收"
+    },
+    {
       "id": 12,
       "title": "AI 免费资源清单：Simular Box、Kaggle、Codespaces 等 6 项",
       "url": "https://x.com/Lovislexus/status/2119565631079219294",
@@ -10235,6 +10309,17 @@
       "notes": "64分。部分属实（间接推断）：X原帖全文未读到（浏览器端x.com整体403），t.co目标未直接证实；同期多源高度指向Nodaroo Free（free.nodaroo.com）：配置2核/6G/50G、免绑卡、Discord登录、限量补货四点多源一致。但“永久”未证实（有帖称“今天最后一天”后又补货，属限量限时反复补货）；“可跑Docker、挂TG机器人、搭博客”存疑（有信息称系游戏面板Pterodactyl容器、无SSH/root、不能跑Docker，官方页因Cloudflare验证未读到）；1台/人未证实。建议先由用户在本人浏览器打开原帖t.co链接确认是否确为free.nodaroo.com，并确认当时库存与活动页条款；不要当作可长期托管生产博客或跑Docker的通用服务器。"
     },
     {
+      "author": "NodeSeek官方频道",
+      "category": "其他",
+      "expiry_date": null,
+      "id": 1039,
+      "notes": "64分（来源20/可验证15/价值13/时效11/风险5）。产品与价格属实，核心“情报”仅部分可验证：NodeSeek原帖（goodluck，2026-11-26，https://www.nodeseek.com/post-1082610-1）两次打开均被站方拦截（冷却至11-27 02:57 UTC），全文未读到；据Bing搜索摘要，帖中情报为开收费号码时初始预存可享约20%号码费优惠（预存€1优惠€0.2、€5优惠€1、€10优惠€2、€20优惠€4；€50档未证实）。该分层优惠在esim.gg官网首页、费率页、FAQ及钱包条款中均未找到，无法以官方来源确认有效期与适用条件。产品：esim.gg为爱沙尼亚+372预付费号码eSIM（另有纯数据副牌eSIM.TF），零月租收验证码、全球漫游数据；号码分Standard $0.00免费档与Premium $2.99两档；流量€0.88/GB起，覆盖154+国家/地区；中国数据€4.7/GB，拨打/接听不可用，发短信€0.24/条。限制：余额本身不过期，但365天无合格活动号码可能被回收；官网不保证Telegram/Google/WhatsApp/X等第三方验证码送达，单凭验证码失败不构成退款或换号理由；号码抽奖式分配，部分号码可能收不到某些应用验证码。开户：须邮箱注册+有效支付方式+支持eSIM的设备，官网条款未列国籍限制、未找到KYC/身份证实名要求（第三方称无需KYC，非官方承诺）；是否支持国内银行卡/支付宝/微信未说明。预存优惠以下单时结账页实际显示为准。",
+      "score": 64,
+      "title": "esim.gg 爱沙尼亚+372号码eSIM：免费号码档，预存约20%优惠（未见官方背书）",
+      "url": "https://t.me/nodeseekc/1034422",
+      "value": "免费号码档+Premium $2.99；流量€0.88/GB起；365天无活动号码可被回收；不保证第三方验证码送达"
+    },
+    {
       "id": 122,
       "title": "Red Bull eSIM 免费 1.1G 流量：下 App 填邀请码 TRAVELDEALZ（奥地利 A1 旗下）",
       "url": "https://t.me/baipiaofl/64316",
@@ -10993,5 +11078,9 @@
       "value": "信息记录：11 月 16 日起新注册/升级的 $300 赠金不再抵扣 Vertex AI；$300 本身仍可抵其他 GCP 服务 90 天（以官方免费条款页为准）",
       "notes": "50分（来源20/可验证20/价值5/时效0/风险5；2026-11-16 晨报复核降分）。多家来源（dev.to、agentstacklist、hashnode、medium）引述 Google Cloud 官方文档原文证实：自 2026 年 11 月 16 日起，新注册免费试用或升级为付费账号的 $300 迎新赠金将不再抵扣 Gemini platform（Vertex AI）服务；关键在“注册+升级”都要在 11 月 16 日前完成——11 月 16 日前注册、但之后才点升级付费的，同样失去抵扣资格；升级不扣掉赠金，$300 仍保留 90 天有效期、优先抵扣。注意：①AI Studio 里的 Gemini API 本来就不在 $300 覆盖内（2026 年 3 月起排除），只走 Vertex AI 这条路；②仅限从未付费的新用户；③试用期不能加 GPU、用 Marketplace、提配额；④本轮未直接打开 Google Cloud 官方免费条款页原文，以上引述以官方页为准。原帖：x.com/KOF97AI/status/2121627082858106965。复核更新 2026-11-16：截止日已到，Vertex AI 抵扣已停止，$300 本身仍可抵其他 GCP 服务 90 天，本条改为信息记录。"
     }
-  ]
+  ],
+  "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
+  "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
+  "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
+  "updated_at": "2026-11-26T18:02:01+08:00"
 }
