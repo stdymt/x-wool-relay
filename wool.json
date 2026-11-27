@@ -1,5 +1,5 @@
 {
-  "count": 1029,
+  "count": 1035,
   "items": [
     {
       "author": "Lovislexus",
@@ -445,6 +445,17 @@
       "author": "fwqgo_com",
       "category": "云服务器",
       "expiry_date": null,
+      "id": 1077,
+      "notes": "90分。属实：官网黑五页racknerd.com/BlackFriday 4GB KVM VPS $47.98/年逐项一致（4 vCPU/60GB SSD/4GB RAM/10TB/1Gbps/Full Root/1 IPv4），月均约$3.99属实；官网FAQ终身同价续费；页面仅分钟级倒计时、无固定日历截止日。X原帖403未读到，以官网核实。85+二审：本轮刚核实的官网页面，按10:40轮PH24先例计为已复核。",
+      "score": 90,
+      "title": "RackNerd 黑五 4GB KVM VPS $47.98/年（终身同价续费）",
+      "url": "https://x.com/fwqgo_com/status/2126141459845804339",
+      "value": "4核4G/60G SSD/10TB流量，$47.98/年，终身同价续费"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
       "id": 1010,
       "notes": "90分（来源27/可验证25/价值18/时效12/风险8）。属实：官网黑五页与购物车配置页逐项确认，1 GB KVM VPS (Black Friday 2026)，$15.98/年，1 vCPU、20GB Pure SSD RAID-10、1GB内存、3000GB/月流量、1Gbps端口、独立IPv4、完整Root权限，KVM/ctrl面板，多地区可选（默认洛杉矶DC03）；两年付$31.96，年价不变；官网FAQ确认“签约价即续费价”，买后发工单可免费领Clientexec授权。注意：黑五具体截止日未核实（官网倒计时显示异常，勿采信）。X原帖以fxtwitter镜像读到全文。85+二审由本次官方核实完成。",
       "score": 90,
@@ -792,6 +803,17 @@
       "title": "Kiroween 黑客松：申请领 4000 个 Kiro credits（约 160 美元）",
       "url": "https://x.com/Aisiverto/status/2119322778641834402",
       "value": "4000 credits，约 160 美元，需参赛"
+    },
+    {
+      "author": "KOF97AI",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 1076,
+      "notes": "89分。属实：官网定价页lightning.ai/pricing全部对上——免费档$0、1个Studio、每4小时重启、50GB持久存储、最多2并发GPU、50小时免费GPU；50小时与30 credits并存不矛盾（注册得5 credits，绑卡再得25，12个月过期；免费Studio本身免绑卡）；无截止日期。X原帖403未读到，以官网核实。85+二审：本轮刚核实的官网页面，按10:40轮PH24先例计为已复核。",
+      "score": 89,
+      "title": "Lightning AI 免费档：1 个 Studio 免绑卡、50 小时免费 GPU",
+      "url": "https://x.com/KOF97AI/status/2126143241951289344",
+      "value": "免费跑1个Studio免绑卡，每4小时重启，50小时免费GPU"
     },
     {
       "author": "白嫖福利推送",
@@ -6305,6 +6327,17 @@
       "value": "首月免费，约 10 美元；.env 外用法有风险"
     },
     {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 1078,
+      "notes": "76分。部分属实：官网账单页证实Promo 2GB KVM VPS LA $12.88/年有货（2GB/1核/30GB SSD/2TB/1Gbps/1 IPv4）；但帖称4000GB与IPv4+IPv6双栈不是默认配置，须下单后发工单申请（流量翻倍至4TB、免费加IPv6）；无截止/续费价，价格已从$9.88连涨3次至$12.88；测评提醒移动网络体验弱。X原帖403未读到。",
+      "score": 76,
+      "title": "DediRock 洛杉矶 Promo VPS $12.88/年（可工单申请 4TB+IPv6）",
+      "url": "https://x.com/fwqgo_com/status/2126126107657433195",
+      "value": "$12.88/年，洛杉矶2G/1核/30G SSD，工单可申请流量翻倍至4TB+免费IPv6"
+    },
+    {
       "author": "白嫖福利推送",
       "category": "金融卡券",
       "expiry_date": null,
@@ -7315,6 +7348,17 @@
       "title": "10个免费工具凑一套AI工作室",
       "url": "https://x.com/Lovislexus/status/2119610928572350576",
       "value": "Kaggle、Colab免费GPU + GitHub Actions、Supabase、OpenRouter、Cloudflare Workers/R2等免费额度合集"
+    },
+    {
+      "author": "OnlyJettTian",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 1074,
+      "notes": "73分。部分属实：Cue真实存在，Manus官方博客2026-09-28确认内测免费、需邀请码、公开码MEETCUE、名额有限先到先得；但帖称配置8核/约24GB/72GB/Ubuntu 24.04官网找不到，第三方实测仅2 vCPU/1GB/35GB，相差很大；无截止时间。X原帖403未读到，以官网核实。",
+      "score": 73,
+      "title": "Manus Cue 内测免费云电脑（邀请码 MEETCUE）",
+      "url": "https://x.com/OnlyJettTian/status/2126138690556817505",
+      "value": "内测免费云电脑，需邀请码；配置以官方为准，帖称8核/24GB未证实"
     },
     {
       "author": "NodeSeek官方频道",
@@ -8547,6 +8591,17 @@
       "title": "AI 免费资源清单：Simular Box、Kaggle、Codespaces 等 6 项",
       "url": "https://x.com/Lovislexus/status/2119565631079219294",
       "value": "6 项免费资源一次收齐，Kaggle GPU 与 Codespaces 最实在。"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": "2026-11-30",
+      "id": 1075,
+      "notes": "71分。部分属实：fwqgo文章表格逐项对上（硅谷/2核/2G/50G HDD/10T/5G国际BGP，优惠$2.99/月、秒杀$1.99/月）；但RAKsmart官网活动页Cloudflare验证5次失败未直接核对；$1.99仅秒杀窗口11-25–30（今天在窗口内），12-01恢复原价；续费同价未证实（站内两文冲突）；月付非年付均摊；秒杀限量、不可用券。X原帖403未读到。",
+      "score": 71,
+      "title": "RAKsmart 硅谷 VPS 秒杀 $1.99/月（11-25–30）",
+      "url": "https://x.com/fwqgo_com/status/2126133919397347735",
+      "value": "$1.99/月秒杀价，硅谷2核2G/10TB，月付，11-30结束"
     },
     {
       "author": "fwqgo_com",
@@ -10694,6 +10749,17 @@
       "value": "免费 1.1GB 境外漫游 eSIM 流量（App 注册 + 填码 TRAVELDEALZ），适合出境备用。"
     },
     {
+      "author": "白嫖福利推送",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 1079,
+      "notes": "62分。部分属实：linux.do帖3254531已读正文与回复，楼主bale（g-merchant2商家标识）11-27发帖，注册+评论留ID送3、进官方QQ群报同一ID再领3，共6（平台试用额度，非现金）；多名用户已确认加额度；疑点：正文写3刀、标题写6元、回复写3元，单位不一致；官网cdn.coderelay.cn两次协议错误未打开；未写截止、未提绑卡/邀请码；帖中声明本站不担保。",
+      "score": 62,
+      "title": "CodeRelay 注册+进群送 6 元试用额度",
+      "url": "https://t.me/baipiaofl/66520",
+      "value": "注册+评论送3，进群再领3，共6试用额度（非现金）"
+    },
+    {
       "author": "NodeSeek官方频道",
       "category": "云服务器",
       "expiry_date": null,
@@ -11324,5 +11390,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-27T11:02:58+08:00"
+  "updated_at": "2026-11-27T12:10:00+08:00"
 }
