@@ -8,7 +8,7 @@ st12 twikit 每 2 小时扫描 28 个 X 羊毛号的时间线、TG 26 个频道�
 - 更新时间：见 wool.json 里的 `updated_at`（北京时间）
 
 
-## 本次更新（2026-11-27 19:55，1077 条，本轮新增 12 条）
+## 本次更新（2026-11-27 20:53，1080 条，本轮新增 3 条）
 
 | 分 | 内容 |
 |---|---|
@@ -261,6 +261,8 @@ st12 twikit 每 2 小时扫描 28 个 X 羊毛号的时间线、TG 26 个频道�
 | 84 | Cloudflare Email Sending 登陆 Workers Free（仅发已验证地址） |
 | 84 | 智谱 AutoClaw 第四周：登录领 1 亿 Tokens（11/23–11/29）（2026-11-29） |
 | 84 | OpenCode 限时免费：腾讯混元 Hy4 flash 输入输出全 $0（2026-11-30） |
+| 84 | neoheberg.fr 免费 VPS：512MB/5GB/250G 流量，IPv6 only、免绑卡 |
+| 84 | Mailtrap 黑五：年付套餐 15% off（码 BFCM26，截止约 12-01）（2026-12-01） |
 | 83 | Pulsar Money 11月返现提到4%：Pro用户前$3000消费全按4%返积分（到11月30日）（2026-11-30） |
 | 83 | Coarena 每天 $5 免费调 22 个模型：含 Opus 5.5、GPT-6.1 Sol、Gemini 4 Carbon，免绑卡（无固定截止日（免费档持续有效，以官方文档为准）） |
 | 83 | Oumi 免费送 $50 训练额度 + Vercel 免费 30B/501B 推理模型 |
@@ -483,6 +485,7 @@ st12 twikit 每 2 小时扫描 28 个 X 羊毛号的时间线、TG 26 个频道�
 | 79 | AWS Quick新账号送30天Plus试用（$25/月档） |
 | 79 | OpenCode Go 用户 $10 换 $60 Kimi K3.1 Pro 用量 |
 | 79 | dewlance 免费虚拟主机（1GB/50GB流量，须自备域名） |
+| 79 | ServerHost 黑五 2GB Ryzen/i9 VPS $19.99/年（码 BF2GBRYZ，$19.99 价今晚截止）（2026-11-28） |
 | 78 | Upstash Box 免费层：每月 5 小时 AI Agent 云端电脑，内置 Claude Code（免绑卡）（长期免费（每月 5 CPU 小时，随时可能调整）） |
 | 78 | Kolet 免费1GB eSIM：新用户免费试用2天，大陆可用（多地区）（常驻免费试用（1GB/2天，以 Kolet 官方为准）） |
 | 78 | Nomad 免费 1GB eSIM 试用：新用户 3 天，76–80 个目的地，免绑卡 |
