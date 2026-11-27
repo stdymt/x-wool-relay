@@ -8,7 +8,7 @@ st12 twikit 每 2 小时扫描 28 个 X 羊毛号的时间线、TG 26 个频道�
 - 更新时间：见 wool.json 里的 `updated_at`（北京时间）
 
 
-## 本次更新（2026-11-27 22:49，1089 条，本轮新增 1 条）
+## 本次更新（2026-11-28 01:21，1099 条，本轮新增 10 条）
 
 | 分 | 内容 |
 | 分 | 内容 |
@@ -53,6 +53,7 @@ st12 twikit 每 2 小时扫描 28 个 X 羊毛号的时间线、TG 26 个频道�
 | 91 | HeyGen Voice Turbo免费至11月30日（语音榜第一）（2026-11-30） |
 | 91 | Infini四张卡对比（首张免费，返现1.5%起） |
 | 91 | BitsFlowCloud 伦敦黑五 M 档：¥249/年，EPYC 7763/2核2G/40G NVMe/5Gbps/8TB（S/L 档已售罄）（黑五活动进行中（页面未标明截止时间）） |
+| 90 | Zapier MCP 工具调用免费窗口（0任务数，至2027-01-05）（2027-01-05） |
 | 90 | RackNerd 黑五 4GB KVM VPS $47.98/年（终身同价续费） |
 | 90 | RackNerd黑五1GB KVM VPS $15.98/年终身续费 |
 | 90 | BenchLM免费额度码BENCHLM：20,000奖励积分（约值$50）（2027-01-31） |
@@ -182,6 +183,7 @@ st12 twikit 每 2 小时扫描 28 个 X 羊毛号的时间线、TG 26 个频道�
 | 86 | LayerOne 黑五：闪购 $7/年，月付7折/年付65折至11-30（2026-11-30（Cyber Monday；闪购每天限量3台）） |
 | 86 | RakSmart 黑五预热：注册绑卡领 $300 代金券，VPS 4 折（11-30 截止）（2026-11-30） |
 | 86 | RackNerd 2026 黑五：VPS 最低 $15.98/年、终身续费同价（帖子说的 $7.99/年不属实） |
+| 85 | 中国电信 Xing4.1-Preview TokenPlus 限时免费调用（1M上下文） |
 | 85 | Spaceship 黑五 .com 首年 $3.60（码 COM67）（2026-12-04） |
 | 85 | DatabaseMart黑五 VPS 三年付$0.99/月（终身锁价）（2026-11-28） |
 | 85 | Google Antigravity 科研计划：1万名科学家免费6个月最高用量档 |
@@ -232,6 +234,8 @@ st12 twikit 每 2 小时扫描 28 个 X 羊毛号的时间线、TG 26 个频道�
 | 85 | 阿里云ESA+腾讯EdgeOne免费CDN：永久免费套餐，1个免费站点（长期有效） |
 | 85 | 开源 ccteam：把 Claude Code、Codex、Grok、Kimi 编成一队派活 |
 | 85 | ClipSeek：一句话搜无版权免费视频、照片、插画素材 |
+| 84 | RackNerd 黑五 6GB VPS $74.98/年（终身同价续费） |
+| 84 | Vyce 免费 VPS-Mini（1核2GB，免绑卡，需续期） |
 | 84 | Sandscale 免费沙盒每月100小时（常驻免费档） |
 | 84 | Mailtrap 黑五：年付套餐 15% off（码 BFCM26，截止约 12-01）（2026-12-01） |
 | 84 | neoheberg.fr 免费 VPS：512MB/5GB/250G 流量，IPv6 only、免绑卡 |
@@ -266,6 +270,7 @@ st12 twikit 每 2 小时扫描 28 个 X 羊毛号的时间线、TG 26 个频道�
 | 84 | Cloudflare Workers AI 每天免费 1 万 Neurons |
 | 84 | Bolt.new 免费档：每天 30 万 token、每月 100 万 token，免绑卡（无固定截止日（免费档随时可能调整）） |
 | 84 | Hermes Agent：会越用越懂你的开源 AI Agent（NousResearch，MIT 免费）（无固定截止日（开源项目长期有效）） |
+| 83 | 微软美区 Microsoft 365 首年7折（Personal $69.99/年，Premium $139.99/年） |
 | 83 | Adobe Firefly Pro 首年精选模型无限生成（首 6 个月 5 折）（2026-12-06） |
 | 83 | ChatGPT Business 经 F6S 黑五 4 折（最多 5 席，持续 4 年） |
 | 83 | Qoder 开源贡献免费领 1 个月 Ultra（价值 $200） |
@@ -295,6 +300,7 @@ st12 twikit 每 2 小时扫描 28 个 X 羊毛号的时间线、TG 26 个频道�
 | 83 | Oumi 免费送 $50 训练额度 + Vercel 免费 30B/501B 推理模型 |
 | 83 | Coarena 每天 $5 免费调 22 个模型：含 Opus 5.5、GPT-6.1 Sol、Gemini 4 Carbon，免绑卡（无固定截止日（免费档持续有效，以官方文档为准）） |
 | 83 | Pulsar Money 11月返现提到4%：Pro用户前$3000消费全按4%返积分（到11月30日）（2026-11-30） |
+| 82 | Spaceship 黑五 .com 首年 $3.60（码 COM67，截止12-04）（2026-12-04） |
 | 82 | OpenCode Seaglass Alpha Free 限时免费隐蔽模型 |
 | 82 | DediOne 洛杉矶 CMIN2+CUII VPS $29.99/年 |
 | 82 | xAI Grok for Startups 创业额度计划（须公司域名邮箱+已融资） |
@@ -409,6 +415,7 @@ st12 twikit 每 2 小时扫描 28 个 X 羊毛号的时间线、TG 26 个频道�
 | 81 | figures4papers：给 Codex/Claude Code/Cursor 的论文绘图 Skill（12.3k Star，CC BY-NC 仅限非商业）（无固定截止日（开源项目进行中）） |
 | 81 | LunaRoute Pro免费试用7天：$99/月档，含GLM 5.3/DeepSeek 4.1 Flash（需绑卡，到期自动扣费）（无固定截止日（7天试用进行中）） |
 | 81 | OpenFilm开源AI视频剪辑：把编程智能体变成视频智能体（MIT，8.6k Stars）（无固定截止日（开源项目）） |
+| 80 | DatabaseMart 黑五 VPS $0.99/月起（3年付，终身价，11-28截止）（2026-11-28） |
 | 80 | CapCut PC 黑五月付首月90% off（仅桌面端） |
 | 80 | Kling 4.0 按积分 75 折至 11 月 30 日（见于 Runway 定价页）（2026-11-30） |
 | 80 | 智谱 GLM-4.7-Flash / GLM-4.6V-Flash 免费 |
@@ -492,6 +499,7 @@ st12 twikit 每 2 小时扫描 28 个 X 羊毛号的时间线、TG 26 个频道�
 | 79 | HeyGen Voice Turbo 语音 API 免费到 11 月 30 日：$0/百万字符，免绑卡（2026-11-30） |
 | 79 | 美团LongCat 2.5在OpenCode限时免费：每天100次，零数据保留（限时免费（官方未公布截止日）） |
 | 79 | Kaggle免费GPU双T4跑30B编程大模型 |
+| 78 | DartNode 黑五闪购 VPS-3 $19/年（2核4GB，仅剩4台）（2026-11-28） |
 | 78 | LiveTerminal 免费VPS 12个月（4核8G，口令LET Cyber Monday，截止11-30）（2026-11-30） |
 | 78 | Packet Token Factory 开源模型免费试用（上线首月，免绑卡） |
 | 78 | PolyAI Dialog-RSN-1 注册送 $100 API 额度（12月1日前，需加 waitlist）（2026-12-01） |
@@ -914,6 +922,8 @@ st12 twikit 每 2 小时扫描 28 个 X 羊毛号的时间线、TG 26 个频道�
 | 69 | DotDot Networks 6 核 EPYC VPS：6C/4G/40G NVMe 月付 $15.90，三网 CN2 GIA 回国（无固定截止日（商家常规售价）） |
 | 69 | RakSmart 硅谷裸金属云：E5/32G/1TB 月付 $69.90（续费同价），精品 CN2 10T 流量（2026-11-30（双 11+黑五活动页口径，秒杀库存有限）） |
 | 69 | Termini iOS 终端软件永久 Pro 限免：美区与国区 App Store 均为 0 元 |
+| 68 | GreenWebPage 黑五 VPS €14.99/年（码BF2026，截止12-01）（2026-12-01） |
+| 68 | 飞幕tv 免费领30天黄金会员（码FEIMU30，截止12-27）（2026-12-27（页面未注明年份，按倒计时推算）） |
 | 68 | 云悠香港九龙 4核4G不限流量 ¥29.99/月 |
 | 68 | 云悠美西洛杉矶 ¥19.99/月 |
 | 68 | PO0 腾讯云黑五特惠 ¥1,127/年（华东/广州，2核2G/20G/300G） |
@@ -931,7 +941,6 @@ st12 twikit 每 2 小时扫描 28 个 X 羊毛号的时间线、TG 26 个频道�
 | 68 | muse.ai 邮箱免费用户已能开：灰度进行中，三字母手柄仍有（无固定截止日（免费灰度进行中，先到先得抢手柄）） |
 | 68 | Awesome Cloudflare Self-Hosted：用免费 Workers/D1/R2 替代付费 SaaS 的开源整理 |
 | 68 | Pionex Card（派网卡）：虚拟卡免开卡费/年费，Visa 返现 1% 抵手续费、卡内 USDT 享 5% 年化（大陆办不了）（无明确截止日（以 Pionex 官方页为准）） |
-| 68 | 飞幕tv 免费领30天黄金会员（码FEIMU30，截止12-27）（2026-12-27（页面未注明年份，按倒计时推算）） |
 | 67 | Laserbeam AI 交易平台候补名单（邮箱加入） |
 | 67 | Smart Traveller注册免费领1GB eSIM+150积分（至12-31）（2026-12-31） |
 | 67 | 美国ShopBack新用户推荐奖励$30（须$10已确认返现，至11-30）（2026-11-30） |
@@ -970,6 +979,7 @@ st12 twikit 每 2 小时扫描 28 个 X 羊毛号的时间线、TG 26 个频道�
 | 67 | Plasma One 会员调整 11 月 11 日生效：免费 Core 11 月 16 日到期降级（返现口径待官方确认）（会员调整 2026-11-11 生效；免费 Core 2026-11-16 到期后降为 Lite/Standard；双 11 返现 11 月 12 日 23:59 UTC 截止） |
 | 67 | 京东PLUS 1积分+0.1元兑智谱AI会员周卡（5000积分，约2000万+tokens）（券自兑换成功之日起10日内有效；帖内截图显示“兑换达上限”，名额可能已满） |
 | 67 | Muse 注册门槛放宽？邮箱注册，部分用户免绑卡 |
+| 66 | Supertake 等候名单开放（$20M seed，空投未确认） |
 | 66 | 免费 gpt-6-luna（esapi.top，单模型免费 API） |
 | 66 | 电信 TeleAgent 免费云电脑：限时免费体验 4核8G（闲置自动回收） |
 | 66 | Elios limUSD 持仓加成返现（12 月刷卡）（2026-12-31） |
