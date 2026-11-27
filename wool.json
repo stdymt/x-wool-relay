@@ -1,5 +1,5 @@
 {
-  "count": 1060,
+  "count": 1065,
   "items": [
     {
       "id": 802,
@@ -1630,6 +1630,17 @@
       "notes": "评分87分（来源25/可验证25/价值12/时效15/风险10）。原帖与官网 articul8.ai/bivia 均已核实：Bivia 决策模型首发优惠，前 10000 名免费领 10 亿 tokens（10亿=1B），免订阅；定价 $0.042/百万输入 tokens、输出 $0；Articul8 为 Intel 背景 AI 公司，Bivia 2026-10-28 发布。注意：①“90天有效”是作者后续帖说法，官网未写截止日与有效期；②链接指向 app.articul8.ai 登录页，需注册领 API Key；③这是决策模型（只做判断、不生成文本），不是通用大模型，适合接 Agent/工作流。"
     },
     {
+      "id": 1105,
+      "title": "RackNerd 黑五 6GB KVM VPS $74.98/年（终身续费同价）",
+      "url": "https://x.com/fwqgo_com/status/2126209407788929117",
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "score": 86,
+      "expiry_date": null,
+      "value": "$74.98/年，6核6GB，15TB/月流量，终身续费同价",
+      "notes": "86分（来源26/可验证24/价值16/时效12/风险8）。官方黑五页证实：6GB KVM VPS $74.98/年，6核/85GB SSD/6GB内存、每月15TB流量、1Gbps端口、1个IPv4、完整root权限；FAQ明确终身续费同价（lifetime recurring，续费不涨价）。截止日未证实（页内仅约16分钟“完成下单”倒计时，疑似会话计时）。85+二审：18:00刚核实的官方页，计为已复核。"
+    },
+    {
       "id": 1091,
       "title": "orangevps黑五9折 VPS BUDGET $19.69/年起",
       "url": "https://t.me/nodeseekc/1036703",
@@ -2023,7 +2034,7 @@
       "score": 85,
       "expiry_date": null,
       "value": "首12个月$99.99/年（原$199.99/年），之后恢复$199.99/年；含5TB存储、Gemini 4倍用量、YouTube Premium Lite等，最多与5人共享存储",
-      "notes": "85分。Google One方案页（包年视图）确认“会员专享：Google AI方案最高可省50%”，Google AI Pro 5TB通常每月US$199.99，现在前12个月只需US$99.99，之后US$199.99/年，包年方案省50%，可随时取消；含5TB存储、Gemini应用4倍用量、Gemini 4 Neon、Deep Research、Flow、Gmail/文档/Vids中的Gemini、NotebookLM、YouTube Premium Lite个人版、Google Home Premium等，最多与另外5人共享存储。85+二审由本次核实重开Google One官方方案页完成。特价条款页（2026-11-17更新）写明“限时提供”、需Google Payments账号及符合条件的付款方式、优惠仅限首次订阅Google One的用户、订阅自动续订；Pro卡未单独标注截止日，兑换后以Google Play订阅页确认的优惠期结束日为准；旧帖提示$99优惠常为账号定向、已有/曾订阅用户可能看不到，以本人One页面实际显示为准。官方：one.google.com/about/plans，one.google.com/offer/specialoffer"
+      "notes": "85分。Google One方案页（包年视图）确认“会员专享：Google AI方案最高可省50%”，Google AI Pro 5TB通常每月US$199.99，现在前12个月只需US$99.99，之后US$199.99/年，包年方案省50%，可随时取消；含5TB存储、Gemini应用4倍用量、Gemini 4 Neon、Deep Research、Flow、Gmail/文档/Vids中的Gemini。2026-11-27 18:00复核：活动分两批，老用户11/20–11/26、新用户11/27起；第三方报道引官方结算页截图证实新用户批次首年$99.99、日区¥14,500/年（次年恢复¥29,000）；但未登录公开页仍显示原价（台湾地区实测NT$6,500/年），土区₺3,599.99未获佐证；新用户批次结束日官方未公布。常为账号定向，以登录后结算页为准。"
     },
     {
       "id": 672,
@@ -2343,6 +2354,17 @@
       "expiry_date": null,
       "value": "免费搜无版权素材；桌面端超 5 GiB 导入需付费 Pro",
       "notes": "85分（来源25/可验证25/价值10/时效15/风险10）。原帖与 clipseek.ai 官网均已核实：ClipSeek 可用自然语言搜无版权免费素材（视频、照片、插画），Free media 页明确写明 royalty-free；桌面应用 Free 版 $0、本地运行、不用登录不用绑卡，可导入最多 5 GiB。注意：桌面端超过 5 GiB 导入量需 Pro（一次性付费、早鸟价 $15，原价 $29，终身使用、14 天退款）。"
+    },
+    {
+      "id": 1106,
+      "title": "智谱 AutoClaw 第四周：登录领 1 亿 Tokens（11/23–11/29）",
+      "url": "https://x.com/KOF97AI/status/2126224883374039175",
+      "author": "KOF97AI",
+      "category": "免费额度",
+      "score": 84,
+      "expiry_date": "2026-11-29",
+      "value": "登录领100M Tokens，11/29 23:59清零",
+      "notes": "84分（来源26/可验证24/价值15/时效12/风险7）。官方博客（autoclaw.z.ai/cn/blog/news/M11W4/，2026-11-20公告）证实：2026-11-23 00:00至11-29 23:59（北京时间）登录即领100M Tokens（10,000积分），每账号限领一次，奖励11/29 23:59清零失效。这是新一周活动，与上周11/16–11/22不同。"
     },
     {
       "id": 1102,
@@ -7537,6 +7559,17 @@
       "notes": "74分（来源22/可验证12/价值15/时效15/风险10）。清单里的Kaggle、Colab免费GPU已按官方口径核实；Simular Box、Cloady、Sakupa等其余免费额度未逐项核实，以各家官网为准。"
     },
     {
+      "id": 1109,
+      "title": "RakSmart 美国双 ISP VPS $3.87/月（1核2GB/1TB流量，非帖称整机）",
+      "url": "https://x.com/fwqgo_com/status/2126217087756771428",
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "score": 73,
+      "expiry_date": null,
+      "value": "$3.87/月，1核2GB，1TB/5Gbps，双ISP住宅IP",
+      "notes": "73分（来源22/可验证18/价值15/时效12/风险6）。部分属实：“整机”说法错误，实为VPS：第三方测评（gwvpsceping 11/4、ittellyou 11/5）确认$3.87/月、KVM 1核/2GB内存/50GB HDD、1TB流量/5Gbps端口、双ISP住宅属性IP，属双11/黑五促销；同系列独服起价$37.17/月。官方活动页因Cloudflare检查未能打开，机房（圣何塞/硅谷）与截止时间未获官方确认。"
+    },
+    {
       "id": 1074,
       "title": "Manus Cue 内测免费云电脑（邀请码 MEETCUE）",
       "url": "https://x.com/OnlyJettTian/status/2126138690556817505",
@@ -8888,6 +8921,17 @@
       "expiry_date": "无固定截止日（常规价进行中）",
       "value": "$49.99/月常规价；大阪Equinix机房，CN2 GIA回国优化",
       "notes": "71分（来源20/可验证20/价值8/时效15/风险8）。官网Ultra大阪页（bandwagonhost.com/order/ultra/Osaka）核实：机房JPOS_6 Equinix OS1，入门款$49.99/月、年付$499.99/年，2核CPU/2GB内存/40GB RAID-10 SSD/500GB月流量/1.5Gbps；CN2 GIA专页确认香港、日本提供CN2 GIA/CTGNet。$49.99为常规价、无促销截止。未证实：帖子说的“上海电信36ms、联通38ms”、“三网回程100%走CTGNet”、“日本广播IP可用日区TikTok/Netflix/Disney+/ChatGPT”，官网未给具体延迟数字与流媒体说明，需实测。注意：$49.99对应Ultra系列，大阪E-Commerce系列月付最低$56.99，不要混淆。原帖X 403未读到。"
+    },
+    {
+      "id": 1108,
+      "title": "Higgsfield MCP：Claude 直连视频生成 3 天免费试用（须绑卡，到期自动转付费）",
+      "url": "https://x.com/KOF97AI/status/2126212749382537605",
+      "author": "KOF97AI",
+      "category": "免费额度",
+      "score": 70,
+      "expiry_date": null,
+      "value": "3天免费试用，须绑卡，到期自动转Ultra 3K $75/月",
+      "notes": "70分（来源22/可验证19/价值12/时效12/风险5）。部分属实：3天$0试用、须先绑卡、到期自动转Ultra 3K（首月$75、之后$129/月）、仅限Claude网页版使用（不支持桌面端/CLI），得11/24第三方实测（附官方结算页截图）与Higgsfield官方X 11/9帖文佐证；官方7月博客亦确认试用机制（须绑卡、到期自动转付费，当时为24小时）。但官方公开页（/mcp、/pricing，未登录）未直接展示当前3天试用条款，试用入口在登录后套餐页；未找到活动截止日。注意：绑卡后到期自动扣费，试用完须及时取消。"
     },
     {
       "id": 1090,
@@ -10738,6 +10782,17 @@
       "notes": "65分（来源22/可验证10/价值10/时效15/风险8）。与本轮另一条Kaggle帖同源，属于同一玩法的概念版，无具体步骤；核心事实（T4 x2、每周约30小时）已按Kaggle官方文档核实。"
     },
     {
+      "id": 1107,
+      "title": "Cashi USD 账户免费升级 Unlimited（须地址证明，1–3 工作日审核）",
+      "url": "https://x.com/Javary324/status/2126208848113651811",
+      "author": "Javary324",
+      "category": "其他",
+      "score": 64,
+      "expiry_date": null,
+      "value": "USD账户$3,000限额免费升Unlimited，须地址证明",
+      "notes": "64分（来源20/可验证18/价值12/时效8/风险6）。部分属实：官方帮助中心（2026-10-22更新）证实USD账户可随时从3,000美元限额免费升级至Unlimited，条件是在App内上传近3个月内的地址证明（水电燃气账单或银行对账单，需显示全名与相同住址），审核1–3个美国工作日，升级后取消7天限额。但这是常驻功能而非限时活动，X帖本身无细节，无法确认帖子所指就是此项或确有“今天新开通”的变化；无截止日。"
+    },
+    {
       "id": 1039,
       "title": "esim.gg 爱沙尼亚+372号码eSIM：免费号码档，预存约20%优惠（未见官方背书）",
       "url": "https://t.me/nodeseekc/1034422",
@@ -11665,5 +11720,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st12 twikit 扫描 28 个 X 羊毛号 + TG 26 个频道，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-27T16:44:52+08:00"
+  "updated_at": "2026-11-27T18:18:26+08:00"
 }
