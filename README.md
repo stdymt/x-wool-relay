@@ -7,7 +7,8 @@ st12 twikit 每 2 小时扫描 28 个 X 羊毛号的时间线、TG 26 个频道�
 - 范围：以 AI 为主（AI 会员、免费额度、VPS/VPN、AI 赚钱新路子），另含币圈空投、U 卡、海外银行开户（只收官方来源）
 - 更新时间：见 wool.json 里的 `updated_at`（北京时间）
 
-## 本次更新（2026-11-27 16:44，1060 条，本轮新增 0 条）
+
+## 本次更新（2026-11-27 18:18，1065 条，本轮新增 5 条）
 
 | 分 | 内容 |
 |---|---|
@@ -159,6 +160,7 @@ st12 twikit 每 2 小时扫描 28 个 X 羊毛号的时间线、TG 26 个频道�
 | 87 | AssemblyAI 新账号送 $50 免费额度：语音转写约 185 小时，不过期、免绑卡（无明确截止日（官方未公布到期日，以官网为准）） |
 | 87 | Free-Hosting.org 免费虚拟主机：长期免费，3 个账户/5GB 空间/不限流量（免绑卡） |
 | 87 | Articul8 Bivia 免费领 10 亿 Token：前 10000 名，免绑卡（前10000名先到先得（官网未写截止日；作者称90天有效，未证实）） |
+| 86 | RackNerd 黑五 6GB KVM VPS $74.98/年（终身续费同价） |
 | 86 | orangevps黑五9折 VPS BUDGET $19.69/年起 |
 | 86 | Kimi For Science：科研工作者免费API额度（最高15万元，须评审入选）（2026-12-08） |
 | 86 | Namecheap 黑五域名：.com 首年 $8.98、.xyz $1.28（码 THEGAMESTLD26，限 5 个）（2026-12-04） |
@@ -224,6 +226,7 @@ st12 twikit 每 2 小时扫描 28 个 X 羊毛号的时间线、TG 26 个频道�
 | 85 | 阿里云ESA+腾讯EdgeOne免费CDN：永久免费套餐，1个免费站点（长期有效） |
 | 85 | 开源 ccteam：把 Claude Code、Codex、Grok、Kimi 编成一队派活 |
 | 85 | ClipSeek：一句话搜无版权免费视频、照片、插画素材 |
+| 84 | 智谱 AutoClaw 第四周：登录领 1 亿 Tokens（11/23–11/29）（2026-11-29） |
 | 84 | Cloudflare Email Sending 登陆 Workers Free（仅发已验证地址） |
 | 84 | Tavily 学生计划：免费 4 个月 Project 档（每月 4,000 credits） |
 | 84 | Loaf Markets测试网Phase 2上线（$50K奖池） |
@@ -696,6 +699,7 @@ st12 twikit 每 2 小时扫描 28 个 X 羊毛号的时间线、TG 26 个频道�
 | 74 | VPS.Taxi 新加坡 ISP VPS：1核1G/4TB 年付$40（续费同价） |
 | 74 | RackNerd 年付 $21.99：1核1G/20G SSD/每月3TB 流量 KVM（续费同价）（无明确截止日（常驻特价，以官网 Specials 页为准；RAKsmart 闪购 11 月 11–17 日另见 id79）） |
 | 74 | 10个免费工具凑一套AI工作室 |
+| 73 | RakSmart 美国双 ISP VPS $3.87/月（1核2GB/1TB流量，非帖称整机） |
 | 73 | Manus Cue 内测免费云电脑（邀请码 MEETCUE） |
 | 73 | nodaroo 免费应用托管（200% CPU/6GB 内存/50GB 硬盘，Discord 登录免绑卡） |
 | 73 | VEARL 激励测试网：五期共 3,924,480 $VRL（本期 392,448），需 GPU 挖矿 |
@@ -819,6 +823,7 @@ st12 twikit 每 2 小时扫描 28 个 X 羊毛号的时间线、TG 26 个频道�
 | 71 | 黑五：Google AI Pro土耳其区年付五折₺3,599.99/年（原价₺7,199.99/年，仅首年）（2026-11-26） |
 | 71 | buzzchain测试网：质押领验证者NFT分$BUZZ（发帖无奖励，BGE待定）（未核实（BGE日期待公布）） |
 | 71 | 搬瓦工大阪 Equinix Ultra：$49.99/月，2核2G/40G SSD/500G流量（延迟与流媒体说法未证实）（无固定截止日（常规价进行中）） |
+| 70 | Higgsfield MCP：Claude 直连视频生成 3 天免费试用（须绑卡，到期自动转付费） |
 | 70 | Swarms Cloud黑五码SWARMSFLASH领15美元积分（2026-12-02） |
 | 70 | Visa免费领eSIM年套餐（TravelGoogoo）（2027-12-31） |
 | 70 | CAUSEVEST激励测试网（5.5M XCV+$5,000+NFT）（2027-02-15） |
@@ -987,6 +992,7 @@ st12 twikit 每 2 小时扫描 28 个 X 羊毛号的时间线、TG 26 个频道�
 | 65 | BiyaPay 虚拟卡解 AI 订阅：身份证可开，平台自动匹配美国地址（无固定截止日） |
 | 65 | VPN Super Premium 送免费第二手机号 + 每周通话积分（美加限定）（无固定截止日（2026-08-25 起常驻福利）） |
 | 65 | Kaggle免费GPU云端部署模型，本地电脑指挥AI |
+| 64 | Cashi USD 账户免费升级 Unlimited（须地址证明，1–3 工作日审核） |
 | 64 | esim.gg 爱沙尼亚+372号码eSIM：免费号码档，预存约20%优惠（未见官方背书） |
 | 64 | Nodaroo免费VPS补货：2核6G 50G免绑卡（限量） |
 | 64 | 白熊智算免费模型 Hy4-Flash-Free |
