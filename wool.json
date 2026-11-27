@@ -1,5 +1,5 @@
 {
-  "count": 1018,
+  "count": 1021,
   "items": [
     {
       "author": "Lovislexus",
@@ -2543,6 +2543,17 @@
       "value": "免费开源 AI Agent（MIT），262k stars；可自学/自部署，带记忆与技能自改进"
     },
     {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 1063,
+      "notes": "83分（来源25/可验证21/价值17/时效12/风险8）：商家官网订单页直接核实，Black Friday 2026-CN-HKG，S款1年¥139：1 vCPU Intel铂金8269CY、1G DDR4、20GB SSD、2.5Gbps共享端口、1TB双向流量（激活日重置，用尽后限速1Mbps）、1个IPv4（香港原生）+IPv6 /64、标准国际线路（无中国优化）、KVM、24小时退款保证，3次幸运大转盘+IP Care+首年免费；M款¥259/年（2核/2G/40GB/5Gbps/2TB），L款¥429/年（4核/4G/80GB/10Gbps/4TB）。截止时间未证实（商家页与帖子全文均只写Black Friday 2026，未见结束日期）。",
+      "score": 83,
+      "title": "BitsFlow 香港原生IP VPS ¥139/年（2.5Gbps/1TB）",
+      "url": "https://x.com/fwqgo_com/status/2126096412408426518",
+      "value": "¥139/年香港原生IP：1核铂金/1G/20GB SSD/2.5Gbps/1TB双向流量"
+    },
+    {
       "author": "BlockInsight214",
       "category": "免费额度",
       "expiry_date": null,
@@ -4589,6 +4600,17 @@
       "value": "每天免费5000积分用AI模型（GLM-5.3-Flash等），另可领10000邀请积分"
     },
     {
+      "author": "BlockInsight214",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 1064,
+      "notes": "79分（来源24/可验证20/价值15/时效12/风险8）：OpenCode官方X证实“Gimme Kimi Phase 1 $60 of Kimi K3.1 Pro usage for $10 available to all OpenCode Go subscribers”；需已有Go订阅（$10/月）再付$10、合计$20起；$60额度只能在Go订阅内用、不是API额度；Phase 1，官方未公布截止日、每户上限与地区限制；Go官网页面本身未刊登该活动。",
+      "score": 79,
+      "title": "OpenCode Go 用户 $10 换 $60 Kimi K3.1 Pro 用量",
+      "url": "https://x.com/BlockInsight214/status/2126092637304172916",
+      "value": "$10换$60 Kimi K3.1 Pro用量（需已有Go订阅$10/月，合计$20起；额度仅限Go内用，非API额度）"
+    },
+    {
       "author": "0xjackkk",
       "category": "免费额度",
       "expiry_date": null,
@@ -5104,6 +5126,17 @@
       "title": "Upstash Box 免费层：每月 5 小时 AI Agent 云端电脑，内置 Claude Code（免绑卡）",
       "url": "https://x.com/lovethelife2333/status/2121106000249827689",
       "value": "每月免费 5 CPU 小时、最多 10 个并发 Box：2 vCPU/4GB/10GB，内置 Claude Code/Codex"
+    },
+    {
+      "author": "fwqgo_com",
+      "category": "云服务器",
+      "expiry_date": "2026-11-30",
+      "id": 1065,
+      "notes": "77分（来源22/可验证18/价值17/时效14/风险6）：商家vpshostingservice.co（品牌ServerHost）官网被Cloudflare Turnstile挡住（5次验证均静默重置）未能直核；第三方交叉印证一致：NodeSeek“ServerHost黑五$7/年1GB KVM少量补货，美东11月28日起每天涨$1”；vpslu“1核1G KVM年付$7、不限流量、11月30日截止，码BF1GBLX后应付$7.00”。配置：1核Xeon、1GB内存、15GB NVMe、1Gbps不限流量、1个IPv4，地点水牛城/洛杉矶/多伦多/达拉斯/芝加哥；原价$60/年，续费同价。注意：$7价仅限11月25-27日，11月27日是$7的最后一天，28日起每天涨$1，12月1日涨至$11/年，买完锁定当前年付价。",
+      "score": 77,
+      "title": "ServerHost 黑五 1核1G KVM $7/年（11-27是$7最后一天，之后每天涨$1）",
+      "url": "https://x.com/fwqgo_com/status/2126111261524152616",
+      "value": "$7/年 1核1G KVM不限流量（原价$60/年，续费同价；折扣码BF1GBLX）"
     },
     {
       "author": "MaransCrypto",
@@ -11201,7 +11234,7 @@
     }
   ],
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
-  "source": "X 羊毛收集册（st3 扫描 12 个 X 羊毛号时间线，本侧审计打分）",
+  "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-27T07:55:20+08:00"
+  "updated_at": "2026-11-27T09:01:22+08:00"
 }
