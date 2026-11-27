@@ -1,5 +1,5 @@
 {
-  "count": 1077,
+  "count": 1080,
   "items": [
     {
       "id": 651,
@@ -2741,6 +2741,28 @@
       "notes": "84分（来源27/可验证22/价值16/时效11/风险8）。官网核实属实：免费变体hy4-flash-free，仅限OpenCode客户端（Zen）内使用，输入输出全$0，1M上下文；2026-11-16宣布免费两周，推算约11-30结束（官方页未印具体截止日，截止为推算）。"
     },
     {
+      "id": 1123,
+      "title": "neoheberg.fr 免费 VPS：512MB/5GB/250G 流量，IPv6 only、免绑卡",
+      "url": "https://t.me/baipiaofl/66590",
+      "author": "白嫖福利推送",
+      "category": "云服务器",
+      "score": 84,
+      "expiry_date": null,
+      "value": "免费 VPS，512MB/5GB/250G流量/月，IPv6 only，免绑卡",
+      "notes": "84分（来源26/可验证24/价值16/时效11/风险7）。官网核实属实：VPS FREE 0.00 €/月，明确无需银行卡；512MB RAM/5GB SSD/25% vCPU/250GB带宽/月、1次自动备份、root权限、自选OS、公网IPv6；注册只需邮箱+密码，点邮件激活链接即可。限制：全系 IPv6 only，无IPv4、无NAT出口，专用IPv4另付+1.50 €/月；GitHub等仅支持IPv4的服务无法直连，建议走 Cloudflare 代理；帖称“网站自带 webssh”不准确，实为面板内浏览器 noVNC 控制台（无本地IPv6也能在浏览器里操作的效果成立）。定价页未见免费套餐到期说明。"
+    },
+    {
+      "id": 1124,
+      "title": "Mailtrap 黑五：年付套餐 15% off（码 BFCM26，截止约 12-01）",
+      "url": "https://t.me/nodeseekc/1037694",
+      "author": "NodeSeek官方频道",
+      "category": "软件工具",
+      "score": 84,
+      "expiry_date": "2026-12-01",
+      "value": "年付 15% off，码 BFCM26；Basic $10.20/月起",
+      "notes": "84分（来源27/可验证24/价值14/时效12/风险7）。官网核实属实：全站横幅 Get 15% off annual plans，码 BFCM26，三条产品线年付付费套餐均标 -15% Black Friday，仅限年付（月付无折扣）。年付黑五价（按月折算）：Email Sending Basic $10.20/月（年付$122.40，原$144）、Business $57.80/月；Sandbox Basic $11.90/月、Team $28.90/月、Business $84.15/月；Marketing Essential $10.20/月、Pro $40.09/月。截止：官网只显示倒计时，按20:50 CST观测剩余4天3小时9分推算约2026-12-01 23:59 CST结束（推算值，非官网明文）；定价页未区分新老用户。"
+    },
+    {
       "id": 191,
       "title": "Pulsar Money 11月返现提到4%：Pro用户前$3000消费全按4%返积分（到11月30日）",
       "url": "https://x.com/SecJack96/status/2120889366524698761",
@@ -3049,7 +3071,7 @@
       "notes": "83分（来源26/可验证22/价值18/时效10/风险7）。F6S黑五专页核实属实：ChatGPT Business Standard席位4折、无最低购买量、最多5个席位、折扣持续4年（48个月）；仅限新Business账户（个人账户可升级），须为F6S会员并建有公司资料；页面称仅5,000个码、已有6,149人领取（领取数与码量说法不一致，存疑）；页面未写明明确截止日期。"
     },
     {
-      "id": 1116,
+      "id": 1120,
       "title": "Adobe Firefly Pro 首年精选模型无限生成（首 6 个月 5 折）",
       "url": "https://x.com/KOF97AI/status/2126272459037139447",
       "author": "KOF97AI",
@@ -4072,7 +4094,7 @@
       "notes": "82分（来源26/可验证24/价值12/时效12/风险8）。官方申请页证实：同一笔余额可用于Grok、Grok Build、Grok Bot与Grok API；额度按6—12个月规模定制，先给20%、达标后再给80%；申请资格要求公司至少成立一个月且已获得合法投资机构融资；申请须用公司域名邮箱（不接受个人邮箱），并提供工作邮箱、LinkedIn、公司网站、融资与收入、当前AI支出、团队规模与投资人信息。仅面向已融资初创公司，个人领不了。"
     },
     {
-      "id": 1117,
+      "id": 1118,
       "title": "DediOne 洛杉矶 CMIN2+CUII VPS $29.99/年",
       "url": "https://x.com/fwqgo_com/status/2126247160794501577",
       "author": "fwqgo_com",
@@ -4919,7 +4941,7 @@
       "notes": "80分（来源24/可验证21/价值15/时效13/风险7）。官方黑五帖证实：AMD KVM 1G为€14.99/年（原价€29.99/年，码BF2026终身5折），非帖称€12/年；1核EPYC 3.5GHz、1GB内存、20GB NVMe、1TB流量、1个IPv4、1Gbps端口，凤凰城/法兰克福/伦敦/海牙/香港/东京六机房；“不限流量”不实，官方写明1TB流量。优惠2026-11-27至12-01 23:59 UTC，或售完即止。"
     },
     {
-      "id": 1118,
+      "id": 1116,
       "title": "智谱 GLM-4.7-Flash / GLM-4.6V-Flash 免费",
       "url": "https://x.com/BlockInsight214/status/2126265736381583464",
       "author": "BlockInsight214",
@@ -4930,7 +4952,7 @@
       "notes": "80分（来源26/可验证22/价值15/时效10/风险7）。官网核实部分属实：GLM-4.7-Flash与GLM-4.6V-Flash输入/输出/缓存写入官方定价表均为免费，但“永久”未证实（缓存存储标“限时免费”）；2000万Tokens并非注册即送，是邀请奖励（经邀请链接注册+实名，邀请人与被邀请人各得2000万GLM-4.5-Air Tokens）。"
     },
     {
-      "id": 1119,
+      "id": 1117,
       "title": "Kling 4.0 按积分 75 折至 11 月 30 日（见于 Runway 定价页）",
       "url": "https://x.com/KOF97AI/status/2126269466921312431",
       "author": "KOF97AI",
@@ -5181,6 +5203,17 @@
       "expiry_date": null,
       "value": "免费虚拟主机$0，1GB磁盘/每月50GB流量",
       "notes": "79分（来源22/可验证23/价值14/时效12/风险8）。官方页证实：Free Basic档$0，1GB磁盘空间、每月50GB流量、免费SSL、Softaculous、DirectAdmin、无广告、即时开通、美国机房、工单+社区支持；FAQ明确“Free hosting is really free”；限制：不含邮箱、不含WordPress Manager、需自备域名（不提供免费子域名）、仅美国机房。"
+    },
+    {
+      "id": 1122,
+      "title": "ServerHost 黑五 2GB Ryzen/i9 VPS $19.99/年（码 BF2GBRYZ，$19.99 价今晚截止）",
+      "url": "https://t.me/nodeseekc/1037634",
+      "author": "NodeSeek官方频道",
+      "category": "云服务器",
+      "score": 79,
+      "expiry_date": "2026-11-28",
+      "value": "$19.99/年，2核Ryzen/i9/2GB/50GB NVMe/不限流量，码BF2GBRYZ",
+      "notes": "79分（来源24/可验证20/价值16/时效13/风险6）。部分属实：商家 LowEndTalk 官方帖（tpoll，2026-11-25）确认 2核 AMD Ryzen/Intel Core i9 vCPU（3.0GHz+）/2GB内存/50GB NVMe/不计量带宽/1Gbps共享端口/Root SSH（Linux），码 BF2GBRYZ，$19.99/年；另有 LowEndBox 与 vncoupon 摘要交叉印证。$19.99价截至2026-11-27 23:59 EST（北京时间11-28 12:59），名额有限，之后每天涨$1：11-28 $20.99、11-29 $21.99、11-30 $22.99。官网 vpshostingservice.co 被 Cloudflare Turnstile 挡住（3次验证均重置），机房地点、IPv4数量、续费价未证实。与已收 $7/年 1C/1G（id1005/id1065）不同档位。"
     },
     {
       "id": 215,
@@ -6646,7 +6679,7 @@
       "notes": "77分。Inception官方文档证实：每个新账号包含100M免费tokens，无需填写付款信息；Mercury API正在逐步关闭，可用至2026年12月28日，之后无法访问。免费tokens须在停服前用完。"
     },
     {
-      "id": 1120,
+      "id": 1119,
       "title": "Evoxt 吉隆坡 VPS $3.49/月（Premium Plus 网络）",
       "url": "https://x.com/fwqgo_com/status/2126263890313199797",
       "author": "fwqgo_com",
@@ -11852,5 +11885,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st12 twikit 扫描 28 个 X 羊毛号 + TG 26 个频道，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-27T19:55:19+08:00"
+  "updated_at": "2026-11-27T20:53:00+08:00"
 }
