@@ -7,11 +7,10 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 - 范围：以 AI 为主（AI 会员、免费额度、VPS/VPN、AI 赚钱新路子）
 - 更新时间：见 wool.json 里的 `updated_at`（北京时间）
 
-## 本次更新（2026-11-28 07:58，1097 条，本轮新增 0 条）
+## 本次更新（2026-11-28 09:04，1100 条，本轮新增 3 条）
 
 | 分 | 内容 |
 |---|---|
-
 | 96 | Google Cloud 免费试用：$300 额度，90 天有效 |
 | 96 | Thinking Machines Lab Inkling 2 Mini开源权重（Apache 2.0，笔记本可跑） |
 | 96 | NVIDIA Nemotron 3 Ultra免费版登顶OpenRouter免费榜（1M上下文、$0） |
@@ -235,6 +234,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 85 | 阿里云ESA+腾讯EdgeOne免费CDN：永久免费套餐，1个免费站点（长期有效） |
 | 85 | 开源 ccteam：把 Claude Code、Codex、Grok、Kimi 编成一队派活 |
 | 85 | ClipSeek：一句话搜无版权免费视频、照片、插画素材 |
+| 84 | RackNerd 黑五 8GB KVM VPS $94.98/年（终身续费同价） |
 | 84 | RackNerd 黑五 6GB VPS $74.98/年（终身同价续费） |
 | 84 | Vyce 免费 VPS-Mini（1核2GB，免绑卡，需续期） |
 | 84 | Sandscale 免费沙盒每月100小时（常驻免费档） |
@@ -301,6 +301,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 83 | Oumi 免费送 $50 训练额度 + Vercel 免费 30B/501B 推理模型 |
 | 83 | Coarena 每天 $5 免费调 22 个模型：含 Opus 5.5、GPT-6.1 Sol、Gemini 4 Carbon，免绑卡（无固定截止日（免费档持续有效，以官方文档为准）） |
 | 83 | Pulsar Money 11月返现提到4%：Pro用户前$3000消费全按4%返积分（到11月30日）（2026-11-30） |
+| 82 | Linkup 初创计划：一次性最高 $20,000 搜索 API 积分（须申请过审） |
 | 82 | Spaceship 黑五 .com 首年 $3.60（码 COM67，截止12-04）（2026-12-04） |
 | 82 | OpenCode Seaglass Alpha Free 限时免费隐蔽模型 |
 | 82 | DediOne 洛杉矶 CMIN2+CUII VPS $29.99/年 |
@@ -416,6 +417,7 @@ st3 每 20 分钟扫描 12 个 X 羊毛号的时间线，本侧每 2 小时拉�
 | 81 | figures4papers：给 Codex/Claude Code/Cursor 的论文绘图 Skill（12.3k Star，CC BY-NC 仅限非商业）（无固定截止日（开源项目进行中）） |
 | 81 | LunaRoute Pro免费试用7天：$99/月档，含GLM 5.3/DeepSeek 4.1 Flash（需绑卡，到期自动扣费）（无固定截止日（7天试用进行中）） |
 | 81 | OpenFilm开源AI视频剪辑：把编程智能体变成视频智能体（MIT，8.6k Stars）（无固定截止日（开源项目）） |
+| 80 | Exa 初创计划：标准获批 $2,500 积分（合作渠道最高 $15,000，须1:1配比充值） |
 | 80 | $DGAI 空投申领截止 11-30（23:59 UTC，未领资格作废）（2026-12-01） |
 | 80 | DatabaseMart 黑五 VPS $0.99/月起（3年付，终身价，11-28截止）（2026-11-28） |
 | 80 | CapCut PC 黑五月付首月90% off（仅桌面端） |
