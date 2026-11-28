@@ -7,10 +7,10 @@ st12 twikit 每 2 小时扫描 28 个 X 羊毛号的时间线、TG 26 个频道�
 - 范围：以 AI 为主（AI 会员、免费额度、VPS/VPN、AI 赚钱新路子）
 - 更新时间：见 wool.json 里的 `updated_at`（北京时间）
 
-## 本次更新（2026-11-28 17:59，1144 条，本轮新增 3 条）
+## 本次更新（2026-11-28 18:54，1145 条，本轮新增 1 条）
 
 | 分 | 内容 |
-|---|---
+|---|---|
 | 96 | NVIDIA Nemotron 3 Ultra免费版登顶OpenRouter免费榜（1M上下文、$0） |
 | 96 | Thinking Machines Lab Inkling 2 Mini开源权重（Apache 2.0，笔记本可跑） |
 | 96 | Google Cloud 免费试用：$300 额度，90 天有效 |
@@ -277,6 +277,7 @@ st12 twikit 每 2 小时扫描 28 个 X 羊毛号的时间线、TG 26 个频道�
 | 84 | RackNerd 黑五 6GB VPS $74.98/年（终身同价续费） |
 | 84 | RackNerd 黑五 8GB KVM VPS $94.98/年（终身续费同价） |
 | 84 | ASCS Cloud 加拿大云主机 $0 免费档：2核2G/16G SSD/纯IPv6，每30天点一下续期 |
+| 84 | GitHub Copilot Fusion 模型费 7 折到年底（付费用户，截止12-31）（2026-12-31） |
 | 83 | Pulsar Money 11月返现提到4%：Pro用户前$3000消费全按4%返积分（到11月30日）（2026-11-30） |
 | 83 | Coarena 每天 $5 免费调 22 个模型：含 Opus 5.5、GPT-6.1 Sol、Gemini 4 Carbon，免绑卡（无固定截止日（免费档持续有效，以官方文档为准）） |
 | 83 | Oumi 免费送 $50 训练额度 + Vercel 免费 30B/501B 推理模型 |
