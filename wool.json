@@ -1,5 +1,5 @@
 {
-  "count": 1109,
+  "count": 1121,
   "items": [
     {
       "author": "Lovislexus",
@@ -3214,6 +3214,17 @@
       "value": "11月内Pro用户前$3000消费返4%积分（最高约$120积分）"
     },
     {
+      "author": "BlockInsight214",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 1165,
+      "notes": "82分（来源20/可验证25/价值12/时效15/风险10）。Lebrel 定价页证实：横幅“Open beta · 4 free hours a day on the uncensored edition (16:00–20:00 Madrid)”即北京时间 23:00–次日 03:00；DeepSeek V4.1 Flash Lebrel Uncensored 1M 上下文，限时价输入 $0.13/百万、缓存 $0.004、输出 $0.53（原价 $0.33/$1.32），时段外按量收费；同一密钥/余额可用于网页聊天与 API。X 原帖 403 未读到，以官网核实。注意：在册 id1071 是 Lebrel 另一优惠（7 天试用+$100 额度），本条为不同活动。",
+      "score": 82,
+      "title": "Lebrel DeepSeek V4.1 Flash 无审查版每天 23:00-03:00 免费 4 小时",
+      "url": "https://x.com/BlockInsight214/status/2126517986471407900",
+      "value": "每天免费 4 小时（北京时间 23:00–03:00），1M 上下文，网页+API 通用"
+    },
+    {
       "author": "KOF97AI",
       "category": "免费额度",
       "expiry_date": null,
@@ -5766,6 +5777,28 @@
       "value": "每月免费 5 CPU 小时、最多 10 个并发 Box：2 vCPU/4GB/10GB，内置 Claude Code/Codex"
     },
     {
+      "author": "KOF97AI",
+      "category": "订阅优惠",
+      "expiry_date": "2026-11-30",
+      "id": 1170,
+      "notes": "77分（来源20/可验证25/价值12/时效10/风险10）。TypingMind 官网证实：黑五 60% off，Premium $79.20（原价 $198），码 BLACKFRIDAY2026，Ends Nov 30，Lifetime 一次性买断、no renewal，价格不含各模型 API 费。X 原帖 403 未读到，以官网核实。",
+      "score": 77,
+      "title": "TypingMind 黑五 6 折买断：$79.20 终身 Premium（原 $198）",
+      "url": "https://x.com/KOF97AI/status/2126513272354705435",
+      "value": "Premium 终身 $79.20（省 $118.80），码 BLACKFRIDAY2026；API 费自理"
+    },
+    {
+      "author": "KOF97AI",
+      "category": "订阅优惠",
+      "expiry_date": "2026-11-30",
+      "id": 1169,
+      "notes": "77分（来源20/可验证25/价值12/时效10/风险10）。Suno 官网证实：Black Friday Sale、年付额外 30% off，2026-11-28 12:49 查看时倒计时约 2 天 21 小时（折合美国时间约 11 月 30 日结束）；年付 Pro $5.60/月、首年 $67.20、之后 $96/年，Premier $16.80/月、首年 $201.60、之后 $288/年，Platinum $70/月、首年 $840、之后 $1200/年；月付 Pro $10、Premier $30、Platinum $120 原价无折扣，月付与单买积分包不参加。X 原帖 403 未读到，以官网核实。",
+      "score": 77,
+      "title": "Suno 黑五：年付首年 7 折到 11 月 30 日（Pro 首年 $67.20）",
+      "url": "https://x.com/KOF97AI/status/2126507739086201049",
+      "value": "年付首年 7 折：Pro 首年 $67.20、Premier $201.60、Platinum $840；月付/积分包不参加"
+    },
+    {
       "author": "Javary324",
       "category": "金融卡券",
       "expiry_date": "2026-12-31",
@@ -8263,6 +8296,50 @@
       "value": "一次性 $5 额度（约 5000 credits，90 天有效），之后按量付费；每日免费已结束"
     },
     {
+      "author": "KOF97AI",
+      "category": "订阅优惠",
+      "expiry_date": null,
+      "id": 1172,
+      "notes": "72分（来源20/可验证20/价值12/时效10/风险10）。Grammarly 黑五页证实：同一页面标题“Save 50%”、主横幅“55% off Pro, today only”、正文“Get 50% off”、页脚“save 50%”，50% 与 55% 两个数字并存（原帖说法属实）；折扣仅首期、续费按原价；页面未写截止日期与具体折后价；定价页 Pro 标价 $12/月（按 50% 计约 $6/月、按 55% 计约 $5.40/月为换算，非官网明示）。下单前看结账页实价。X 原帖 403 未读到，以官网核实。",
+      "score": 72,
+      "title": "Grammarly 黑五 Pro 5 折起（官网同页 50%/55% 数字并存）",
+      "url": "https://x.com/KOF97AI/status/2126499170509017385",
+      "value": "Pro 标价 $12/月，黑五页 50%/55% 并存，折扣仅首期、续费原价"
+    },
+    {
+      "author": "KOF97AI",
+      "category": "订阅优惠",
+      "expiry_date": "2026-12-01",
+      "id": 1168,
+      "notes": "72分（来源20/可验证20/价值12/时效10/风险10）。Magnific 官网证实：黑五最高 62% off，截止 2026-12-01 08:00 CET；Premium 首年 €6/月年付 = €72 首年、之后 €144/年（原价 €16/月），Plus €27/月（原价 €36，75 折）、Pro €66/月（原价 €88，75 折）；62% off 仅 Premium 一档。原帖“Premium 首年 87 美元”在所见页面上是 €72 欧元标价，未见 $87，按汇率换算约 $87 属推测，不作证实。X 原帖 403 未读到，以官网核实。",
+      "score": 72,
+      "title": "Magnific 黑五年付：Premium 首年 €72，Plus/Pro 75 折，截止 12-01",
+      "url": "https://x.com/KOF97AI/status/2126510436355113170",
+      "value": "Premium 首年 €72（原 €144/年），Plus €27/月、Pro €66/月（75 折）"
+    },
+    {
+      "author": "yedabinbinah",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 1166,
+      "notes": "72分（来源20/可验证20/价值12/时效15/风险5）。硅基流动模型页证实：Xing4.1-Preview 输入/输出/缓存均免费、上下文 1,048,576（1M）、支持工具调用、2026-11-27 发布、厂商天翼 AI、285B MoE（激活 17B）。未写免费时长、未见原帖说的 80TPS、模型页未提实名认证。X 原帖 403 未读到，以官网核实。注意：同模型 TokenPlus 渠道已在册 id1142（85分），本条是硅基流动新渠道。",
+      "score": 72,
+      "title": "硅基流动上线电信 Xing4.1-Preview 免费 API（1M上下文/工具调用）",
+      "url": "https://x.com/yedabinbinah/status/2126518948514382271",
+      "value": "输入/输出/缓存均免费，1M 上下文，工具调用；免费时长未公布"
+    },
+    {
+      "author": "BlockInsight214",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 1164,
+      "notes": "72分（来源20/可验证15/价值12/时效15/风险10）。X 原帖 403 未读到，全文无法逐条核对；llmperks.com/new 部分佐证：11 月 27 日新上 OFL-26B-Uncensored（Openference）、Phonellm Mini Alpha 2、Solar Mini 4（UnoRouter），11 月 26 日新上 GPT 6.1 Sol、Claude Haiku 4.5、Claude Sonnet 5.5、Gemini 3 Pro、GPT 5.4、GPT 5.4 Mini、GPT 6、Grok 4.1 等，与原帖所列一致；站内共 233 个免费模型、309 个免费端点；免费档限制因提供商而异（如 OpenRouter :free 50 次/天，UnoRouter :free 免绑卡、共享容量按模型限流）。",
+      "score": 72,
+      "title": "LLMPerks 免费模型聚合本周新上模型汇总",
+      "url": "https://x.com/BlockInsight214/status/2126510720351408272",
+      "value": "本周新上免费端点：OFL-26B、无审查版、Phonellm Mini Alpha 2、GPT 6.1 Sol 等；站内 233 个免费模型"
+    },
+    {
       "author": "Ylj158852",
       "category": "金融卡券",
       "expiry_date": null,
@@ -8947,9 +9024,9 @@
     {
       "author": "yedabinbinah",
       "category": "免费额度",
-      "expiry_date": "无固定截止日",
+      "expiry_date": "2026-12-31",
       "id": 175,
-      "notes": "72分（来源20/可验证15/价值12/时效15/风险10）：yedabinbinah 原帖浏览器只读核实全文 + 官方定价口径交叉核实：JetBrains 账号免费可用 AI，两个渠道——IDE 2026.3 版内置 AI 功能、Junie CLI（背后模型 Qwen3.6-27B-FP8，截图显示一次任务扣 0.0032 credits）。注意：①帖称“额度无上限”与官方口径不符：AI Free 档为每 30 天 3 credits（无上限的是 Mellum 代码补全与本地模型）；Junie Lite 免费档官方未公布用量上限，不要按“无限”规划用量；②中国区 JetBrains 云端 AI 不提供，AI Assistant 须自带 API Key 或本地模型；③免绑卡、免实名，注册账号即可；④Junie CLI 支持自带 Key（BYOK），走提供商计费。",
+      "notes": "72分（来源20/可验证15/价值12/时效15/风险10）：yedabinbinah 原帖浏览器只读核实全文 + 官方定价口径交叉核实：JetBrains 账号免费可用 AI，两个渠道——IDE 2026.3 版内置 AI 功能、Junie CLI（背后模型 Qwen3.6-27B-FP8，截图显示一次任务扣 0.0032 credits）。注意：①帖称“额度无上限”与官方口径不符：AI Free 档为每 30 天 3 credits（无上限的是 Mellum 代码补全与本地模型）；Junie Lite 免费档官方未公布用量上限，不要按“无限”规划用量；②中国区 JetBrains 云端 AI 不提供，AI Assistant 须自带 API Key 或本地模型；③免绑卡、免实名，注册账号即可；④Junie CLI 支持自带 Key（BYOK），走提供商计费。2026-11-28 12:40轮更新（BlockInsight214 新帖）：Junie 官网证实免费、无绑卡，Lite 条款提示“Terms and available models may change. Offer is valid until 31 Dec 2026.”——免费档至 2026-12-31，模型随时可换；新帖称底层为 OpenAI GPT-6 Luna，官网未点名，未证实。",
       "score": 72,
       "title": "JetBrains 免费 AI：Junie Lite 免费档（Qwen3.6-27B），IDE 2026.3 / Junie CLI 免绑卡可用",
       "url": "https://x.com/yedabinbinah/status/2120748361187996049",
@@ -9339,6 +9416,28 @@
       "title": "搬瓦工大阪 Equinix Ultra：$49.99/月，2核2G/40G SSD/500G流量（延迟与流媒体说法未证实）",
       "url": "https://x.com/fwqgo_com/status/2123634943838564863",
       "value": "$49.99/月常规价；大阪Equinix机房，CN2 GIA回国优化"
+    },
+    {
+      "author": "lovethelife2333",
+      "category": "免费额度",
+      "expiry_date": "2026-11-30",
+      "id": 1173,
+      "notes": "70分（来源20/可验证20/价值15/时效10/风险5）。ZenMux 官网证实：黑五 20% EXTRA、最高加赠 $1000、充 $100 到账 $120、可叠指定模型最高 70% OFF、截止 Nov 30 23:59 UTC；但 PAYG 页把 20% 表述为“First Top-Up +20% Bonus”（首充），促销页未列该黑五加赠且写“Cannot be combined with other top-up discounts”；“余额长期有效”在所见页面未写明，未证实。X 原帖 403 未读到，以官网核实。",
+      "score": 70,
+      "title": "ZenMux 黑五：PAYG 首充加赠 20%（充 $100 到账 $120，最高加赠 $1000）",
+      "url": "https://x.com/lovethelife2333/status/2126517099673870357",
+      "value": "首充加赠 20%，充 $100 到账 $120，最高加赠 $1000；可叠指定模型最高 70% OFF"
+    },
+    {
+      "author": "OnlyJettTian",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 1167,
+      "notes": "70分（来源20/可验证15/价值12/时效15/风险10）。核实：产品是亚马逊办公 AI Agent AWS Quick（原 Amazon Quick），官网证实页首“Start your 30-day Quick trial”、Plus $25/人/月（年付 $20）、个人档“Sign up with email or social—no AWS account needed”、FAQ 写“No credit card required to begin”。但官网未点名底层模型是 Claude Opus 5.5（只写 Fast/Balanced/Smart 模式、按 agent hour 计费），Opus 5.5 是社区实测推断、非官方保证；且 FAQ 的 30 天试用明确写的是企业版（Enterprise）新客户、最多 25 用户，个人 Plus 试用是否同一试用、到期是否自动降级免费版，定价页未写明，无法证实。X 原帖 403 未读到，全文无法读出。",
+      "score": 70,
+      "title": "AWS Quick（亚马逊办公 AI Agent）30 天试用：Plus $25/人/月，邮箱注册、无需 AWS 账号",
+      "url": "https://x.com/OnlyJettTian/status/2126498813586055357",
+      "value": "30 天试用，Plus $25/人/月；邮箱/社交注册，无需 AWS 账号、无需绑卡；Opus 5.5 底层未获官方证实"
     },
     {
       "author": "Ylj158852",
@@ -10307,6 +10406,28 @@
       "title": "Pionex Card（派网卡）：虚拟卡免开卡费/年费，Visa 返现 1% 抵手续费、卡内 USDT 享 5% 年化（大陆办不了）",
       "url": "https://x.com/Javary324/status/2120387965293617361",
       "value": "免开卡费/年费的 U 卡，Visa 返现 1%、卡内 USDT 5% 年化；大陆 +86 无法注册/KYC，仅限海外身份参考。"
+    },
+    {
+      "author": "NodeSeek官方频道",
+      "category": "云服务器",
+      "expiry_date": "2026-11-30",
+      "id": 1174,
+      "notes": "67分（来源20/可验证10/价值12/时效15/风险10）。LowEndCloud 2026 黑五预告：限时闪购、免费带宽翻倍、抽 3 台 4G VPS；预计开启 2026-11-28 15:00（北京时间），活动截止 2026-11-30。NodeSeek 详情页常被 bot 墙拦截，本轮未单独核实，TG 消息本身为准。白嫖福利推送同题转发（t.me/baipiaofl/66656）已去重，只进这一条。",
+      "score": 67,
+      "title": "LowEndCloud 2026 黑五预告：限时闪购/免费带宽翻倍/抽 3 台 4G VPS",
+      "url": "https://t.me/nodeseekc/1039202",
+      "value": "黑五预告：闪购+免费带宽翻倍+抽 3 台 4G VPS；11-28 15:00 开启"
+    },
+    {
+      "author": "NodeSeek官方频道",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 1171,
+      "notes": "67分（来源20/可验证10/价值12/时效15/风险10）。LowEndTalk 黑五活动 VPS 第二天（11 月 28 日）预热商家整理，已换算北京时间、附简评。NodeSeek 详情页常被 bot 墙拦截，本轮未单独核实，TG 消息本身为准；具体商家价格以下单页为准。",
+      "score": 67,
+      "title": "LowEndTalk 黑五活动 VPS 第二天预热商家整理（北京时间/附简评）",
+      "url": "https://t.me/nodeseekc/1039205",
+      "value": "LET 黑五 VPS 第二天预热商家汇总整理"
     },
     {
       "author": "Ylj158852",
@@ -11937,6 +12058,17 @@
       "value": "作者自制免费小工具：输入 X 账号体检最近帖子（原创占比、最能打的帖子、收藏率/转帖率、上涨趋势及诊断），另有 500K 变现达标计算器；免登录、不存数据"
     },
     {
+      "author": "BlockInsight214",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 1163,
+      "notes": "60分（来源20/可验证20/价值5/时效10/风险5）。GAP Cloud 官方页证实：1 vCPU、1 GiB 真实 Linux 虚拟机、无账号无绑卡可开始、SSH 密钥登录、控制台、可选机房。重大限定：免费构建窗口仅 60 分钟，1 小时后 VM 停止，24 小时内未认领则磁盘删除，认领需账号+验证邮箱——不是长期免费 VM，只能当 1 小时试用。X 原帖 403 未读到，以官网核实。",
+      "score": 60,
+      "title": "GAP Cloud 免费 MicroVM（1核1G真机，限免60分钟试用）",
+      "url": "https://x.com/BlockInsight214/status/2126519953029247130",
+      "value": "1 vCPU/1 GiB 真实 Linux VM，免账号绑卡开局；仅 60 分钟免费窗口，超时停机、24 小时未认领删盘"
+    },
+    {
       "author": "KOF97AI",
       "category": "订阅优惠",
       "expiry_date": null,
@@ -12204,5 +12336,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-28T12:02:51+08:00"
+  "updated_at": "2026-11-28T13:05:46+08:00"
 }
