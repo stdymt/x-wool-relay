@@ -1,5 +1,5 @@
 {
-  "count": 1145,
+  "count": 1149,
   "items": [
     {
       "author": "Lovislexus",
@@ -3270,6 +3270,17 @@
     },
     {
       "author": "KOF97AI",
+      "category": "软件工具",
+      "expiry_date": "2026-11-29",
+      "id": 1199,
+      "notes": "82分（来源25/可验证25/价值12/时效13/风险7）。属实：官方特设页与2026-11-19新闻稿一致，2026-11-20 0时至11-29 23:59（日本时间），自营网站举办，100款以上产品、最大90% OFF为全场上限、不可套给每款商品；两款AI软件均为下载版、含税价：AI本格翻訳19,800日元→4,900日元（75% OFF）、いきなりAI マイノート LM 14,300日元→8,980日元（37% OFF）。原帖因x.com 403未直接读到，以官方页面为准。来源：https://www.sourcenext.com/pt/sale/2026/11/black-friday/、https://www.sourcenext.co.jp/~/media/Files/cojp/pr/sozai/2026/2026111901.pdf",
+      "score": 82,
+      "title": "SOURCENEXT黑五：AI翻译软件75% OFF（4900日元，截止11-29）",
+      "url": "https://x.com/KOF97AI/status/2126654110342779380",
+      "value": "AI本格翻訳19,800→4,900日元（75% OFF）；いきなりAI マイノート LM 14,300→8,980日元（37% OFF）；100款以上、最大90% OFF为全场上限"
+    },
+    {
+      "author": "KOF97AI",
       "category": "免费额度",
       "expiry_date": null,
       "id": 1189,
@@ -5852,6 +5863,28 @@
       "title": "Upstash Box 免费层：每月 5 小时 AI Agent 云端电脑，内置 Claude Code（免绑卡）",
       "url": "https://x.com/lovethelife2333/status/2121106000249827689",
       "value": "每月免费 5 CPU 小时、最多 10 个并发 Box：2 vCPU/4GB/10GB，内置 Claude Code/Codex"
+    },
+    {
+      "author": "BlockInsight214",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 1202,
+      "notes": "77分（来源22/可验证22/价值14/时效13/风险6）。属实（有保留）：官方定价页确认新账号送$10.00 sign-up credit、可用于任意模型按标价计费、免绑卡（Sign in with Google、一键注册、无须绑卡）；47个免费模型$0/token，47个模型共用每账号每天100次请求、3,000,000 tokens；$10无固定日历到期日（首页“No end date”），免费额度可因滥用被收回。注意：第三方聚合网关，自称与OpenAI/Anthropic/xAI/智谱无隶属关系，在线充值未开放、须邮件人工充值。原帖因x.com 403未直接读到，以官方页面为准。来源：https://oneaiapikey.com/、https://oneaiapikey.com/pricing",
+      "score": 77,
+      "title": "One AI API Key：新号送$10额度、47款模型免费调（免绑卡）",
+      "url": "https://x.com/BlockInsight214/status/2126649808404320375",
+      "value": "新号送$10额度；47款免费模型每天共100次请求/300万tokens；免绑卡"
+    },
+    {
+      "author": "yedabinbinah",
+      "category": "免费额度",
+      "expiry_date": "2026-12-21",
+      "id": 1200,
+      "notes": "77分（来源22/可验证25/价值10/时效12/风险8）。属实：官方活动页确认北京时间2026-11-20 12:00至12-21 23:59内首次注册Qoder CN账号的个人版新用户，在Qoder CN桌面端完成对应功能体验任务后领取；'10元天猫超市卡'与'18元咖啡免单卡'两项奖励数量有限、先到先得，互不冲突、可叠加领取，每项每人限领1张；猫超卡任务为在Word/Excel中使用Qoder完成工作，咖啡卡任务为3天活跃并使用PPT与自动化功能完成工作；无接码等违规要求，页面反而明确禁止使用真实设备以外的虚拟化环境、多账号视为同一用户、活动可能需实名认证；礼品卡须在获得后、北京时间2026-12-25 23:59前兑换，咖啡免单卡须于兑换当日23:59前使用，天猫超市卡有效期至2030年5月；完成两项全部任务还可获得iPhone 18 Pro抽奖资格，12月22日19:00直播抽取5位。原帖因x.com 403未直接读到，以官方页面为准。来源：https://docs.qoder.cn/events/task-rewards",
+      "score": 77,
+      "title": "Qoder新用户领10元猫超卡+18元咖啡免单卡（截止12-21）",
+      "url": "https://x.com/yedabinbinah/status/2126655126584922345",
+      "value": "新用户完成任务领10元天猫超市卡+18元咖啡免单卡，可叠加；礼品卡须12-25前兑换"
     },
     {
       "author": "KOF97AI",
@@ -9616,6 +9649,17 @@
       "value": "$49.99/月常规价；大阪Equinix机房，CN2 GIA回国优化"
     },
     {
+      "author": "KOF97AI",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 1201,
+      "notes": "70分（来源22/可验证20/价值10/时效12/风险6）。部分属实：官方中文页标题即'日常调用最高领$20 Gift Credits'，但不是注册即送——需日常API调用、次日T+1自动结算，点亮第一阶全部7座方碑、开启终章封顶宝箱，4档阶梯宝箱累计最高$20，约20%阶梯奖励、非逐笔返现；仅工作区所有者可一键领取入账，仅抵扣后续API调用费，不可提现、不可转让；无需报名、无需拉人头，所有工作区默认开启；公开页未注明Gift Credits到期日、未提及须绑卡，实时进度、适用模型与宝箱状态以pirouter控制台为准。原帖因x.com 403未直接读到，以官方页面为准。来源：https://pirouter.ai/zh/achievements",
+      "score": 70,
+      "title": "pirouter成就领地：日常调用最高领$20 Gift Credits（抵扣API费）",
+      "url": "https://x.com/KOF97AI/status/2126657407921336624",
+      "value": "日常API调用、次日T+1结算，4档阶梯宝箱累计最高$20；仅抵扣后续API费、不可提现"
+    },
+    {
       "author": "白嫖福利推送",
       "category": "云服务器",
       "expiry_date": null,
@@ -12600,5 +12644,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st12 twikit 扫描 28 个 X 羊毛号、TG 26 个频道，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-28T19:43:45+08:00"
+  "updated_at": "2026-11-28T21:01:45+08:00"
 }
