@@ -1,5 +1,5 @@
 {
-  "count": 1144,
+  "count": 1145,
   "items": [
     {
       "id": 651,
@@ -2926,6 +2926,17 @@
       "expiry_date": null,
       "value": "$0/月免费 VPS，2核2G/16G SSD/纯IPv6，每30天续期一次",
       "notes": "84分。部分属实：官方博客 2026-08-18《Learn IPv6 on Real Hardware for $0》确认 $0 免费档、不用填支付信息、每 30 天在面板点续期、可一键延长；机房 Onoway, Alberta 属实。纠正：实际配置 2 vCPU（Xeon L5630）/2GB DDR3/16GB SSD/纯公网 IPv6/LXC 容器，不是原帖说的 1 核/512MB；官网域名 cloud.ascsonoway.com（ascscloud.com 无法解析）；官方警告因用户涌入开通可能延迟、不建议用于生产或存放重要数据。X 原帖 403 未读到，以官网核实。11-28复核：官网博客确认免费档$0、无需信用卡、30天一键续期、续费仍$0、无自动转付费。"
+    },
+    {
+      "author": "KOF97AI",
+      "category": "订阅优惠",
+      "expiry_date": "2026-12-31",
+      "id": 1198,
+      "notes": "84分（来源24/可验证25/价值14/时效13/风险8）。属实：GitHub 两份官方文档同一条 Note 确认，2026-12-31 前付费 Copilot 计划用户用 Copilot Fusion 时模型费用 7 折；折扣针对模型费用（model costs），不是 Copilot 订阅费本身；Fusion 本身不单独收费，按调用的每个模型以标准费率计费。注意：Fusion High/Max 可能为同一任务调用多个模型、消耗更多 AI 积分；可用模型受计划和管理策略限制。不要与计费文档中另一条独立的 10% 折扣（自动模型选择）混淆。来源：https://docs.github.com/en/copilot/concepts/models/copilot-fusion、https://docs.github.com/en/copilot/concepts/billing-and-usage/individuals/billing",
+      "score": 84,
+      "title": "GitHub Copilot Fusion 模型费 7 折到年底（付费用户，截止12-31）",
+      "url": "https://x.com/KOF97AI/status/2126596354088878432",
+      "value": "付费 Copilot 用户用 Fusion 时模型费 7 折；非订阅费折扣，至2026-12-31"
     },
     {
       "id": 191,
@@ -12587,7 +12598,7 @@
     }
   ],
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
-  "source": "st12 twikit 每 2 小时扫描 28 个 X 羊毛号、TG 26 个频道每小时收集，本侧每小时拉取审计打分",
-  "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-28T17:59:29+08:00"
+  "source": "X 羊毛收集册（st12 twikit 扫描 28 个 X 羊毛号、TG 26 个频道，本侧审计打分）",
+  "sync": "单向同步：本侧推送，另一侧只读；每小时审计一轮后更新，85 分以上立即推送",
+  "updated_at": "2026-11-28T18:54:07+08:00"
 }
