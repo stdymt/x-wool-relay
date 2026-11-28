@@ -1,5 +1,5 @@
 {
-  "count": 1108,
+  "count": 1109,
   "items": [
     {
       "author": "Lovislexus",
@@ -814,6 +814,17 @@
       "title": "Kiroween 黑客松：申请领 4000 个 Kiro credits（约 160 美元）",
       "url": "https://x.com/Aisiverto/status/2119322778641834402",
       "value": "4000 credits，约 160 美元，需参赛"
+    },
+    {
+      "author": "NodeSeek官方频道",
+      "category": "云服务器",
+      "expiry_date": "2026-11-30",
+      "id": 1162,
+      "notes": "89分（来源24/可验证25/价值18/时效14/风险8）。官网dartnode.com亲自核实：Stage 3解锁（300单黑五订单解锁），VPS-5：4 vCPU/8GB RAM/200GB SSD、IPv4+IPv6、1Gbps，$29.99/年预付（原价$35.95/月），续费同价；黑五11-27 00:00至11-30 23:59 CT（北京时间12-01 13:59）；核实时（11:55）页面显示仅剩1台（1/100）。与已结束的VPS-3 $19/年闪购价无关。",
+      "score": 89,
+      "title": "DartNode黑五VPS-5：4核8G/200GB $29.99/年（限量100台，仅剩1台）",
+      "url": "https://t.me/nodeseekc/1039070",
+      "value": "4核/8GB/200GB SSD，$29.99/年（约$2.50/月，-93%），续费同价；限量100台，核实时仅剩1台"
     },
     {
       "author": "KOF97AI",
@@ -2455,6 +2466,17 @@
       "value": "免费搜无版权素材；桌面端超 5 GiB 导入需付费 Pro"
     },
     {
+      "author": "Lovislexus",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 1156,
+      "notes": "84分。部分属实：官方博客 2026-08-18《Learn IPv6 on Real Hardware for $0》确认 $0 免费档、不用填支付信息、每 30 天在面板点续期、可一键延长；机房 Onoway, Alberta 属实。纠正：实际配置 2 vCPU（Xeon L5630）/2GB DDR3/16GB SSD/纯公网 IPv6/LXC 容器，不是原帖说的 1 核/512MB；官网域名 cloud.ascsonoway.com（ascscloud.com 无法解析）；官方警告因用户涌入开通可能延迟、不建议用于生产或存放重要数据。X 原帖 403 未读到，以官网核实。",
+      "score": 84,
+      "title": "ASCS Cloud 加拿大云主机 $0 免费档：2核2G/16G SSD/纯IPv6，每30天点一下续期",
+      "url": "https://x.com/Lovislexus/status/2126466103865987195",
+      "value": "$0/月免费 VPS，2核2G/16G SSD/纯IPv6，每30天续期一次"
+    },
+    {
       "author": "fwqgo_com",
       "category": "云服务器",
       "expiry_date": null,
@@ -2860,17 +2882,6 @@
       "title": "Hermes Agent：会越用越懂你的开源 AI Agent（NousResearch，MIT 免费）",
       "url": "https://x.com/tantanyuli/status/2120234285034856479",
       "value": "免费开源 AI Agent（MIT），262k stars；可自学/自部署，带记忆与技能自改进"
-    },
-    {
-      "author": "Lovislexus",
-      "category": "云服务器",
-      "expiry_date": null,
-      "id": 1156,
-      "notes": "84分。部分属实：官方博客 2026-08-18《Learn IPv6 on Real Hardware for $0》确认 $0 免费档、不用填支付信息、每 30 天在面板点续期、可一键延长；机房 Onoway, Alberta 属实。纠正：实际配置 2 vCPU（Xeon L5630）/2GB DDR3/16GB SSD/纯公网 IPv6/LXC 容器，不是原帖说的 1 核/512MB；官网域名 cloud.ascsonoway.com（ascscloud.com 无法解析）；官方警告因用户涌入开通可能延迟、不建议用于生产或存放重要数据。X 原帖 403 未读到，以官网核实。",
-      "score": 84,
-      "title": "ASCS Cloud 加拿大云主机 $0 免费档：2核2G/16G SSD/纯IPv6，每30天点一下续期",
-      "url": "https://x.com/Lovislexus/status/2126466103865987195",
-      "value": "$0/月免费 VPS，2核2G/16G SSD/纯IPv6，每30天续期一次"
     },
     {
       "author": "KOF97AI",
@@ -4479,6 +4490,17 @@
       "value": "开源免费AI视频剪辑工具；用编程智能体做视频，可导出或带到PR/FCP/DaVinci"
     },
     {
+      "author": "BlockInsight214",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 1160,
+      "notes": "80分。属实：面壁开放平台官方文档 platform.modelbest.cn/console/docs/models（更新于 2026-11-12）价格表显示 MiniCPM-V-4.7-1B 与 MiniCPM-V-4.7-35B-A3B 输入、输出单价均为“限时免费”，文本/图像/视频输入、256K 上下文，图像问答/图表理解/视频内容理解；页脚注明“限时免费”属动态活动信息、模型与价格变动平台会提前一周发布公告，与原帖“没写截止日、调价提前一周公告”一致。X 原帖 403 未读到，以官网核实。",
+      "score": 80,
+      "title": "面壁 MiniCPM-V 4.7 两款视觉模型限时免费：1B 与 35B-A3B 输入输出全免费",
+      "url": "https://x.com/BlockInsight214/status/2126488748439593044",
+      "value": "MiniCPM-V-4.7 1B/35B-A3B 输入输出限时免费，256K 上下文"
+    },
+    {
       "author": "KOF97AI",
       "category": "免费额度",
       "expiry_date": null,
@@ -5172,17 +5194,6 @@
       "value": "每天免费5000积分用AI模型（GLM-5.3-Flash等），另可领10000邀请积分"
     },
     {
-      "author": "BlockInsight214",
-      "category": "免费额度",
-      "expiry_date": null,
-      "id": 1160,
-      "notes": "80分。属实：面壁开放平台官方文档 platform.modelbest.cn/console/docs/models（更新于 2026-11-12）价格表显示 MiniCPM-V-4.7-1B 与 MiniCPM-V-4.7-35B-A3B 输入、输出单价均为“限时免费”，文本/图像/视频输入、256K 上下文，图像问答/图表理解/视频内容理解；页脚注明“限时免费”属动态活动信息、模型与价格变动平台会提前一周发布公告，与原帖“没写截止日、调价提前一周公告”一致。X 原帖 403 未读到，以官网核实。",
-      "score": 80,
-      "title": "面壁 MiniCPM-V 4.7 两款视觉模型限时免费：1B 与 35B-A3B 输入输出全免费",
-      "url": "https://x.com/BlockInsight214/status/2126488748439593044",
-      "value": "MiniCPM-V-4.7 1B/35B-A3B 输入输出限时免费，256K 上下文"
-    },
-    {
       "author": "NodeSeek官方频道",
       "category": "云服务器",
       "expiry_date": "2026-11-28",
@@ -5825,7 +5836,7 @@
       "category": "其他",
       "expiry_date": null,
       "id": 1058,
-      "notes": "77分。官网app.dowprotocol.com/points核实：积分活动真实（BNB Quest、每日签到、AI任务答题赚XP，每UTC日限2个项目、每题5问答对3题得分，首次答对且名额内有Bonus XP）；融资$10.5M种子轮有公开报道佐证（MH Ventures、Animoca Brands等）。但“空投”未证实：官网只说XP未来可兑换生态奖励，无代币分配与截止时间；社交任务入口未登录未见；原帖邀请链接被截断。",
+      "notes": "77分。官网app.dowprotocol.com/points核实：积分活动真实（BNB Quest、每日签到、AI任务答题赚XP，每UTC日限2个项目、每题5问答对3题得分，首次答对且名额内有Bonus XP）；融资$10.5M种子轮有公开报道佐证（MH Ventures、Animoca Brands等）。但“空投”未证实：官网只说XP未来可兑换生态奖励，无代币分配与截止时间；社交任务入口未登录未见；原帖邀请链接被截断。【11-28复核】AI Quests已上线属实（官网亲自核实）：BNB Quest Live，每日签到7天循环10-70 XP（需连钱包签名领取）；AI Quiz每项目50 XP、另有+50 Bonus（先到先得），每日限2个项目（UTC日重置），每Quiz 5题答对3题得分，失败触发24小时冷却；已列StableStock、Lista DAO、Ethena、PancakeSwap等11个项目。XP用途官网仅写未来可兑换生态奖励，代币/空投仍未承诺；官方X称已达10,000用户；无截止时间。",
       "score": 77,
       "title": "DOW Protocol测试网积分（AI任务赚XP）",
       "url": "https://t.me/maranscrypto/9997",
@@ -8252,6 +8263,17 @@
       "value": "一次性 $5 额度（约 5000 credits，90 天有效），之后按量付费；每日免费已结束"
     },
     {
+      "author": "Ylj158852",
+      "category": "金融卡券",
+      "expiry_date": null,
+      "id": 1159,
+      "notes": "72分。部分属实：官网 simple.app 帮助中心确认 USDC Simplecard 是非托管卡、钱包本身不用验证、办卡才需 KYC（手机号+身份证/护照照片+地址证明）；支持国家名单无中国大陆和新加坡（亚太仅澳大利亚、香港、印尼、日本、澳门、马来西亚、菲律宾、韩国、台湾、泰国、越南），与“70 多国”大致相符；限额页确认每日交易上限 30,000 USDC、最多 15 笔；“闲置超 1 个月自动关”官方原文即“A card that is not used for more than a month is closed automatically”。未证实：Apple Pay/Google Pay 绑定、多链充值的具体链、费用与“没返现”在已读官方帮助文章中未见明确表述。官网域名 simple.app（simplecard.com 打不开）。X 原帖 403 未读到。",
+      "score": 72,
+      "title": "USDC Simplecard 非托管 U 卡：自托管钱包直连发卡，日限 3 万 USDC",
+      "url": "https://x.com/Ylj158852/status/2126485225106808858",
+      "value": "非托管 U 卡，USDC/USDT 多链充值；大陆和新加坡不在支持名单，办卡需 KYC"
+    },
+    {
       "author": "AirdropAlert-com",
       "category": "其他",
       "expiry_date": null,
@@ -9231,17 +9253,6 @@
       "value": "6 项免费资源一次收齐，Kaggle GPU 与 Codespaces 最实在。"
     },
     {
-      "author": "Ylj158852",
-      "category": "金融卡券",
-      "expiry_date": null,
-      "id": 1159,
-      "notes": "72分。部分属实：官网 simple.app 帮助中心确认 USDC Simplecard 是非托管卡、钱包本身不用验证、办卡才需 KYC（手机号+身份证/护照照片+地址证明）；支持国家名单无中国大陆和新加坡（亚太仅澳大利亚、香港、印尼、日本、澳门、马来西亚、菲律宾、韩国、台湾、泰国、越南），与“70 多国”大致相符；限额页确认每日交易上限 30,000 USDC、最多 15 笔；“闲置超 1 个月自动关”官方原文即“A card that is not used for more than a month is closed automatically”。未证实：Apple Pay/Google Pay 绑定、多链充值的具体链、费用与“没返现”在已读官方帮助文章中未见明确表述。官网域名 simple.app（simplecard.com 打不开）。X 原帖 403 未读到。",
-      "score": 72,
-      "title": "USDC Simplecard 非托管 U 卡：自托管钱包直连发卡，日限 3 万 USDC",
-      "url": "https://x.com/Ylj158852/status/2126485225106808858",
-      "value": "非托管 U 卡，USDC/USDT 多链充值；大陆和新加坡不在支持名单，办卡需 KYC"
-    },
-    {
       "author": "NodeSeek官方频道",
       "category": "云服务器",
       "expiry_date": "2026-11-29",
@@ -9328,6 +9339,28 @@
       "title": "搬瓦工大阪 Equinix Ultra：$49.99/月，2核2G/40G SSD/500G流量（延迟与流媒体说法未证实）",
       "url": "https://x.com/fwqgo_com/status/2123634943838564863",
       "value": "$49.99/月常规价；大阪Equinix机房，CN2 GIA回国优化"
+    },
+    {
+      "author": "Ylj158852",
+      "category": "云服务器",
+      "expiry_date": "2026-12-04",
+      "id": 1158,
+      "notes": "70分。部分属实：官网首页确认黑五“Pay for 12 Months. Get 24”，博客摘要“Nov 27 to Dec 4：VPS Start 及以上 24 个月按 12 个月价格”，首页倒计时约 6 天 20 小时（对应 12 月 4 日截止）；Start-Windows NVMe 款 $122.30/1 年、2GB RAM、30GB NVMe 在售。纠正：“2 核”在官网首页未证实（只写 Xeon 2.90GHz）；“省 57%”官网未见，按“付 12 得 24”折算为两年总价五折；“老号最高领 $250”对应博客原文“Existing clients also get a Birthday bonus of up to $250”（老客户生日奖励，非直领）。X 原帖 403 未读到。",
+      "score": 70,
+      "title": "is*hosting 黑五：VPS 付 12 个月得 24 个月，Start 款 $122.30/2 年",
+      "url": "https://x.com/Ylj158852/status/2126491264077975619",
+      "value": "VPS 付 12 个月得 24 个月，Start 款 $122.30/2 年（2GB/30GB NVMe）"
+    },
+    {
+      "author": "KOF97AI",
+      "category": "免费额度",
+      "expiry_date": null,
+      "id": 1155,
+      "notes": "70分。部分属实：腾讯云 TokenHub 官方模型页 cloud.tencent.com/tokenhub/hy4-flash 显示“限时 5 折”，输入 0.5→0.25 元、输出 2→1 元、缓存命中 0.02→0.01 元/百万 Tokens；官方文章（2026-11-18）确认 Token Plan 首发接入限时 5 折、按量调用同享优惠。纠正：11 月 30 日不是 API 五折的截止日——官方文章写的是“WorkBuddy 限时免费：11 月 30 日前可在 WorkBuddy 免费使用 Hy4 flash”（另见 id416），五折截止只写“具体剩余天数以落地页显示为准”、未给日期。X 原帖 403 未读到。",
+      "score": 70,
+      "title": "腾讯混元 Hy4 flash：腾讯云 TokenHub API 限时 5 折（按量）",
+      "url": "https://x.com/KOF97AI/status/2126485142369911277",
+      "value": "TokenHub API 调用 5 折：输入 0.25 元、输出 1 元/百万 Tokens"
     },
     {
       "author": "KOF97AI",
@@ -9869,28 +9902,6 @@
       "value": "免费浏览器插件，解决 X 首页刷新丢帖的问题；不省钱，省时间"
     },
     {
-      "author": "KOF97AI",
-      "category": "免费额度",
-      "expiry_date": null,
-      "id": 1155,
-      "notes": "70分。部分属实：腾讯云 TokenHub 官方模型页 cloud.tencent.com/tokenhub/hy4-flash 显示“限时 5 折”，输入 0.5→0.25 元、输出 2→1 元、缓存命中 0.02→0.01 元/百万 Tokens；官方文章（2026-11-18）确认 Token Plan 首发接入限时 5 折、按量调用同享优惠。纠正：11 月 30 日不是 API 五折的截止日——官方文章写的是“WorkBuddy 限时免费：11 月 30 日前可在 WorkBuddy 免费使用 Hy4 flash”（另见 id416），五折截止只写“具体剩余天数以落地页显示为准”、未给日期。X 原帖 403 未读到。",
-      "score": 70,
-      "title": "腾讯混元 Hy4 flash：腾讯云 TokenHub API 限时 5 折（按量）",
-      "url": "https://x.com/KOF97AI/status/2126485142369911277",
-      "value": "TokenHub API 调用 5 折：输入 0.25 元、输出 1 元/百万 Tokens"
-    },
-    {
-      "author": "Ylj158852",
-      "category": "云服务器",
-      "expiry_date": "2026-12-04",
-      "id": 1158,
-      "notes": "70分。部分属实：官网首页确认黑五“Pay for 12 Months. Get 24”，博客摘要“Nov 27 to Dec 4：VPS Start 及以上 24 个月按 12 个月价格”，首页倒计时约 6 天 20 小时（对应 12 月 4 日截止）；Start-Windows NVMe 款 $122.30/1 年、2GB RAM、30GB NVMe 在售。纠正：“2 核”在官网首页未证实（只写 Xeon 2.90GHz）；“省 57%”官网未见，按“付 12 得 24”折算为两年总价五折；“老号最高领 $250”对应博客原文“Existing clients also get a Birthday bonus of up to $250”（老客户生日奖励，非直领）。X 原帖 403 未读到。",
-      "score": 70,
-      "title": "is*hosting 黑五：VPS 付 12 个月得 24 个月，Start 款 $122.30/2 年",
-      "url": "https://x.com/Ylj158852/status/2126491264077975619",
-      "value": "VPS 付 12 个月得 24 个月，Start 款 $122.30/2 年（2GB/30GB NVMe）"
-    },
-    {
       "author": "白嫖福利推送",
       "category": "订阅优惠",
       "expiry_date": null,
@@ -10296,6 +10307,17 @@
       "title": "Pionex Card（派网卡）：虚拟卡免开卡费/年费，Visa 返现 1% 抵手续费、卡内 USDT 享 5% 年化（大陆办不了）",
       "url": "https://x.com/Javary324/status/2120387965293617361",
       "value": "免开卡费/年费的 U 卡，Visa 返现 1%、卡内 USDT 5% 年化；大陆 +86 无法注册/KYC，仅限海外身份参考。"
+    },
+    {
+      "author": "Ylj158852",
+      "category": "云服务器",
+      "expiry_date": "2026-11-30",
+      "id": 1161,
+      "notes": "67分。部分属实：官方黑五页 clouvider.com/black-friday 确认 VPS 首周期 5 折、码 VPS50BF26、VPS.2 首年 £36.96→£18.48、活动 2026 年 11 月 24–30 日、11 月 30 日 23:59 GMT 截止、仅限新购、后续周期恢复原价。未证实：“1 核 2G”配置在黑五页未显示（仅 VPS.2 名称），VPS 产品页也未列出套餐配置表。X 原帖 403 未读到。",
+      "score": 67,
+      "title": "Clouvider 黑五：VPS 首周期 5 折，VPS.2 首年 £18.48（码 VPS50BF26）",
+      "url": "https://x.com/Ylj158852/status/2126491264077975619",
+      "value": "VPS.2 首年 £18.48（原 £36.96），码 VPS50BF26"
     },
     {
       "author": "Airdrop Blogs",
@@ -10714,17 +10736,6 @@
       "title": "Muse 注册门槛放宽？邮箱注册，部分用户免绑卡",
       "url": "https://x.com/Lovislexus/status/2119475670468415544",
       "value": "48 小时内填邀请码，双方各得 10 亿 token"
-    },
-    {
-      "author": "Ylj158852",
-      "category": "云服务器",
-      "expiry_date": "2026-11-30",
-      "id": 1161,
-      "notes": "67分。部分属实：官方黑五页 clouvider.com/black-friday 确认 VPS 首周期 5 折、码 VPS50BF26、VPS.2 首年 £36.96→£18.48、活动 2026 年 11 月 24–30 日、11 月 30 日 23:59 GMT 截止、仅限新购、后续周期恢复原价。未证实：“1 核 2G”配置在黑五页未显示（仅 VPS.2 名称），VPS 产品页也未列出套餐配置表。X 原帖 403 未读到。",
-      "score": 67,
-      "title": "Clouvider 黑五：VPS 首周期 5 折，VPS.2 首年 £18.48（码 VPS50BF26）",
-      "url": "https://x.com/Ylj158852/status/2126491264077975619",
-      "value": "VPS.2 首年 £18.48（原 £36.96），码 VPS50BF26"
     },
     {
       "author": "AIRDROPS.IO 🚀",
@@ -11259,7 +11270,7 @@
       "category": "云服务器",
       "expiry_date": null,
       "id": 1034,
-      "notes": "64分。部分属实（间接推断）：X原帖全文未读到（浏览器端x.com整体403），t.co目标未直接证实；同期多源高度指向Nodaroo Free（free.nodaroo.com）：配置2核/6G/50G、免绑卡、Discord登录、限量补货四点多源一致。但“永久”未证实（有帖称“今天最后一天”后又补货，属限量限时反复补货）；“可跑Docker、挂TG机器人、搭博客”存疑（有信息称系游戏面板Pterodactyl容器、无SSH/root、不能跑Docker，官方页因Cloudflare验证未读到）；1台/人未证实。建议先由用户在本人浏览器打开原帖t.co链接确认是否确为free.nodaroo.com，并确认当时库存与活动页条款；不要当作可长期托管生产博客或跑Docker的通用服务器。",
+      "notes": "64分。部分属实（间接推断）：X原帖全文未读到（浏览器端x.com整体403），t.co目标未直接证实；同期多源高度指向Nodaroo Free（free.nodaroo.com）：配置2核/6G/50G、免绑卡、Discord登录、限量补货四点多源一致。但“永久”未证实（有帖称“今天最后一天”后又补货，属限量限时反复补货）；“可跑Docker、挂TG机器人、搭博客”存疑（有信息称系游戏面板Pterodactyl容器、无SSH/root、不能跑Docker，官方页因Cloudflare验证未读到）；1台/人未证实。建议先由用户在本人浏览器打开原帖t.co链接确认是否确为free.nodaroo.com，并确认当时库存与活动页条款；不要当作可长期托管生产博客或跑Docker的通用服务器。【11-28复核】白嫖福利推送称免费节点复活、被删机子补偿1000积分：部分属实。LINUX DO帖（topic/3261524）楼主截图显示2台免费机子状态Ready，但同帖多人称无机器可投注/需1500积分/创建后无法启动/国内IP连不上，“普遍恢复”未证实；“补偿1000积分”全文检索无结果，与多方所述新号送100积分不符，无法证实；官网因Cloudflare验证未读到。",
       "score": 64,
       "title": "Nodaroo免费VPS补货：2核6G 50G免绑卡（限量）",
       "url": "https://x.com/OnlyJettTian/status/2125843747162497354",
@@ -11517,6 +11528,17 @@
       "title": "Red Bull eSIM 免费 1.1G 流量：下 App 填邀请码 TRAVELDEALZ（奥地利 A1 旗下）",
       "url": "https://t.me/baipiaofl/64316",
       "value": "免费 1.1GB 境外漫游 eSIM 流量（App 注册 + 填码 TRAVELDEALZ），适合出境备用。"
+    },
+    {
+      "author": "Lovislexus",
+      "category": "订阅优惠",
+      "expiry_date": "2026-12-04",
+      "id": 1157,
+      "notes": "62分。部分属实：官方活动页 porkbun.com/event/blackfriday 确认黑五进行中，大量域名 $1 起（.asia $1.03、.xyz $1.29），活动至 12 月 4 日 11:59 PM UTC。未证实：官方活动页全文未出现优惠码，也未见“买域名送一年邮箱托管和网站托管”捆绑；“立减 $1”的码 PIGGYBFCM26 只见于 RetailMeNot/Coupert 等第三方优惠码站；$1.17 未在官方活动页找到对应价。X 原帖 403 未读到。",
+      "score": 62,
+      "title": "Porkbun 黑五：域名 $1 起，优惠码再减 $1",
+      "url": "https://x.com/Lovislexus/status/2126473648299192654",
+      "value": "域名 $1 起；码 PIGGYBFCM26（第三方站，仅供参考）"
     },
     {
       "author": "KOF97AI",
@@ -11849,17 +11871,6 @@
       "value": "免费调 deepseek-v4-flash 与 glm-5.3-flash，条款未核实，先小量试用。"
     },
     {
-      "author": "Lovislexus",
-      "category": "订阅优惠",
-      "expiry_date": "2026-12-04",
-      "id": 1157,
-      "notes": "62分。部分属实：官方活动页 porkbun.com/event/blackfriday 确认黑五进行中，大量域名 $1 起（.asia $1.03、.xyz $1.29），活动至 12 月 4 日 11:59 PM UTC。未证实：官方活动页全文未出现优惠码，也未见“买域名送一年邮箱托管和网站托管”捆绑；“立减 $1”的码 PIGGYBFCM26 只见于 RetailMeNot/Coupert 等第三方优惠码站；$1.17 未在官方活动页找到对应价。X 原帖 403 未读到。",
-      "score": 62,
-      "title": "Porkbun 黑五：域名 $1 起，优惠码再减 $1",
-      "url": "https://x.com/Lovislexus/status/2126473648299192654",
-      "value": "域名 $1 起；码 PIGGYBFCM26（第三方站，仅供参考）"
-    },
-    {
       "author": "白嫖福利推送",
       "category": "其他",
       "expiry_date": null,
@@ -11924,6 +11935,17 @@
       "title": "免费 X 账号体检小工具：查原创占比/最能打的帖子/500K 变现达标测算（免登录）",
       "url": "https://x.com/OnlyJettTian/status/2122977708162375817",
       "value": "作者自制免费小工具：输入 X 账号体检最近帖子（原创占比、最能打的帖子、收藏率/转帖率、上涨趋势及诊断），另有 500K 变现达标计算器；免登录、不存数据"
+    },
+    {
+      "author": "KOF97AI",
+      "category": "订阅优惠",
+      "expiry_date": null,
+      "id": 1154,
+      "notes": "60分。部分属实：官方定价页 mapify.so/pricing 显示 Yearly 40% OFF，Basic $5.99（原 $9.99）、Pro $11.99（原 $19.99）、Unlimited $17.99（原 $29.99），页上无截止日。未证实：原帖称官方推文/新闻稿写年付 50% off，检索到的 PR 通稿是 2025 年 11 月 25 日（去年），未找到 2026 年 50% 官方公告；按当前官方定价页以 40% off 计，下单前看结账页。X 原帖 403 未读到。",
+      "score": 60,
+      "title": "Mapify 年付 40% off：Pro $11.99/月（原 $19.99）",
+      "url": "https://x.com/KOF97AI/status/2126482315715219483",
+      "value": "年付 40% off，Pro $11.99/月（省 $96/年）"
     },
     {
       "author": "NodeSeek官方频道",
@@ -12124,17 +12146,6 @@
       "value": "免费 eSIM 流量，邀请得 500MB（官网另处写 250MB，存疑），不用绑卡"
     },
     {
-      "author": "KOF97AI",
-      "category": "订阅优惠",
-      "expiry_date": null,
-      "id": 1154,
-      "notes": "60分。部分属实：官方定价页 mapify.so/pricing 显示 Yearly 40% OFF，Basic $5.99（原 $9.99）、Pro $11.99（原 $19.99）、Unlimited $17.99（原 $29.99），页上无截止日。未证实：原帖称官方推文/新闻稿写年付 50% off，检索到的 PR 通稿是 2025 年 11 月 25 日（去年），未找到 2026 年 50% 官方公告；按当前官方定价页以 40% off 计，下单前看结账页。X 原帖 403 未读到。",
-      "score": 60,
-      "title": "Mapify 年付 40% off：Pro $11.99/月（原 $19.99）",
-      "url": "https://x.com/KOF97AI/status/2126482315715219483",
-      "value": "年付 40% off，Pro $11.99/月（省 $96/年）"
-    },
-    {
       "author": "Airdrop Finder",
       "category": "免费额度",
       "expiry_date": "2026-11-23",
@@ -12193,5 +12204,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "X 羊毛收集册（st3 扫描 12 个羊毛号时间线，本侧审计打分）",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-28T11:14:31+08:00"
+  "updated_at": "2026-11-28T12:02:51+08:00"
 }
