@@ -1,5 +1,5 @@
 {
-  "count": 1141,
+  "count": 1144,
   "items": [
     {
       "id": 651,
@@ -7237,7 +7237,7 @@
       "score": 76,
       "expiry_date": null,
       "value": "免费eSIM：Infinite 2G全球+2G亚太，Signature/Platinum 1G起",
-      "notes": "76分。travelgoogoo官网核实：Visa卡免费领eSIM属实（Complimentary Travelgoogoo365 Annual Plan），三档流量与原帖一致：Infinite 2G全球+2G亚太、Signature 1G全球+1G亚太、Platinum 1G全球（日本白金卡例外为1G+1G），均含20%流量包折扣，全球120+国、亚太23国。未证实：验卡1美元是否退回（官网未提及）、流量包一年有效期未明确写出；无名额/截止时间。"
+      "notes": "76分。travelgoogoo官网核实：Visa卡免费领eSIM属实（Complimentary Travelgoogoo365 Annual Plan），三档流量与原帖一致：Infinite 2G全球+2G亚太、Signature 1G全球+1G亚太、Platinum 1G全球（日本白金卡例外为1G+1G），均含20%流量包折扣，全球120+国、亚太23国。未证实：验卡1美元是否退回（官网未提及）、流量包一年有效期未明确写出；无名额/截止时间。补充（2026-11-28 17:40轮，LINUX DO实测帖 https://linux.do/t/topic/3263345）：扣$1验证随后退回；回帖称虚拟卡绑不上、疑似须实体卡。"
     },
     {
       "id": 1078,
@@ -7810,6 +7810,17 @@
       "title": "Dedirock黑五VPS $17.68/年（2GB/20GB/2TB，洛杉矶纽约有货）",
       "url": "https://x.com/SecJack96/status/2126583878580326492",
       "value": "2GB VPS黑五价$17.68/年（原帖$12.88有误）；洛杉矶/纽约有货"
+    },
+    {
+      "author": "NodeSeek官方频道",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 1195,
+      "notes": "75分（来源22/可验证20/价值15/时效12/风险6）。属实，按年计费：LowEndTalk黑五闪购（11月27日09:40）$7/年，1 vCPU、1GB内存、25GB SSD、7TB流量，美/欧/亚均可，官网机房列表含东京、大阪等24+地点，下单时选机房；官网同配置Cloud Starter常规价$2.50/月（合$30/年）。$7款当前库存未在官网直接确认，官网首页黑五横幅现为另一款$100/年4核8G。来源：https://vpsnerds.com/cloud-servers/cloud-packages/",
+      "score": 75,
+      "title": "VPSNerds黑五$7/年：1核1G/25GB/7TB（东京大阪可选，库存未证实）",
+      "url": "https://t.me/nodeseekc/1039934",
+      "value": "1核1G/25GB/7TB，$7/年（常规$30/年）；东京/大阪可选"
     },
     {
       "id": 15,
@@ -10177,6 +10188,17 @@
       "notes": "70分（来源20/可验证20/价值15/时效10/风险5）。ZenMux 官网证实：黑五 20% EXTRA、最高加赠 $1000、充 $100 到账 $120、可叠指定模型最高 70% OFF、截止 Nov 30 23:59 UTC；但 PAYG 页把 20% 表述为“First Top-Up +20% Bonus”（首充），促销页未列该黑五加赠且写“Cannot be combined with other top-up discounts”；“余额长期有效”在所见页面未写明，未证实。X 原帖 403 未读到，以官网核实。"
     },
     {
+      "author": "白嫖福利推送",
+      "category": "云服务器",
+      "expiry_date": null,
+      "id": 1197,
+      "notes": "70分（来源22/可验证15/价值16/时效11/风险6）。部分属实：多方第三方来源一致，新用户送$300试用额度、有效期30天、注册须绑卡验证；但NodeSeek原帖被bot墙拦截未读、Vultr官网两次Cloudflare验证失败，优惠码FLY300VULTR为第三方说法、未经官方证实。“免费一个月”实为$300额度用30天，并非免费套餐。来源：https://www.nodeseek.com/post-1088464-1、https://www.vultr.com/、https://www.vultr.com/promo/",
+      "score": 70,
+      "title": "Vultr新用户$300试用额度30天（须绑卡，官方未证实）",
+      "url": "https://t.me/baipiaofl/66691",
+      "value": "$300试用额度30天；须绑卡验证，不自动扣费说法见第三方"
+    },
+    {
       "id": 148,
       "title": "Termini iOS 终端软件永久 Pro 限免：美区与国区 App Store 均为 0 元",
       "url": "https://t.me/baipiaofl/64394",
@@ -10384,6 +10406,17 @@
       "expiry_date": null,
       "value": "季付$19.90，CN2 GIA，2核/50Mbps独享/1000GB；库存未证实",
       "notes": "69分（来源22/可验证15/价值15/时效12/风险5）。部分属实：同款Dotdotnetworks 2C1G500GCN2季付$19.90（月均$6.63）见于主机贴士文章，配置AMD EPYC、纯NVMe、50Mbps独享、1000GB流量、电信双程CN2 GIA/移动CMIN2/联通4837；但官网同样被Cloudflare拦截未直接打开，当前是否在售/库存未证实，Bing缓存曾显示缺货提示。来源：https://zhujitown.com/dotdotnetworks-2c1g500gcn2-19-90-quarter/"
+    },
+    {
+      "author": "NodeSeek官方频道",
+      "category": "云服务器",
+      "expiry_date": "2026-11-30",
+      "id": 1196,
+      "notes": "69分（来源22/可验证15/价值13/时效13/风险6）。部分属实：官方搜索结果确认VPS-2套餐存在（1 vCPU、2GB内存、25GB SSD、IPv4+IPv6、1Gbps、AS399646、任选机房），与已收id1092（$10/年纯IPv6/$12/年含IPv4）、id1162（VPS-5 $29.99/年）不同档；黑五闪购每3小时轮换，11月27-30日至网络星期一。但官网Warehouse Deals页三次Cloudflare验证失败，当前是否在售/库存未直接确认。来源：https://dartnode.com/warehouse-deals、https://dartnode.com/black-friday",
+      "score": 69,
+      "title": "DartNode黑五VPS-2 $14/年（1核2GB/25GB，库存未证实）",
+      "url": "https://t.me/nodeseekc/1039927",
+      "value": "1核2GB/25GB SSD/IPv4+IPv6/1Gbps，任选机房；黑五闪购轮换"
     },
     {
       "id": 135,
@@ -12556,5 +12589,5 @@
   "scoring": "满分 100：来源 30 / 可验证 25 / 价值 20 / 时效 15 / 风险 10；60 分以上入册",
   "source": "st12 twikit 每 2 小时扫描 28 个 X 羊毛号、TG 26 个频道每小时收集，本侧每小时拉取审计打分",
   "sync": "单向同步：本侧推送，另一侧只读；每 2 小时审计一轮后更新，85 分以上立即推送",
-  "updated_at": "2026-11-28T17:07:51+08:00"
+  "updated_at": "2026-11-28T17:59:29+08:00"
 }
